@@ -5,6 +5,7 @@ import { Header } from '@/components/layout/Header'
 import { Dashboard } from '@/pages/Dashboard'
 import { Practice } from '@/pages/Practice'
 import { Library } from '@/pages/Library'
+import { SuttaDetail } from '@/pages/SuttaDetail'
 import { Program } from '@/pages/Program'
 import { Community } from '@/pages/Community'
 import Auth from '@/pages/Auth'
@@ -26,6 +27,7 @@ function App() {
                       <Route path="/" element={<Dashboard />} />
                       <Route path="/thien-dinh" element={<Practice />} />
                       <Route path="/kinh-tang" element={<Library />} />
+                      <Route path="/kinh-tang/:suttaId" element={<SuttaDetail />} />
                       <Route path="/chuong-trinh" element={<Program />} />
                       <Route path="/cong-dong" element={<Community />} />
                     </Routes>

@@ -1,12 +1,11 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useAppState } from '@/hooks/useAppState'
 import { suttas } from '@/data/suttas/index'
 import { BookOpen, Bookmark, Search, ChevronRight } from 'lucide-react'
-import type { Sutta } from '@/types'
 
 export function Library() {
-  const { state, toggleBookmark } = useAppState()
-  const [selectedSutta, setSelectedSutta] = useState<Sutta | null>(null)
+  const { state } = useAppState()
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedCollection, setSelectedCollection] = useState<string>('all')
   const [selectedDifficulty, setSelectedDifficulty] = useState<string>('all')
@@ -111,71 +110,8 @@ export function Library() {
           </div>
         </div>
 
-        {/* Suttas List or Detail */}
+        {/* Suttas List */}
         <div className="md:col-span-2">
-          {selectedSutta ? (
-            // Sutta Detail
-            <div className="bg-card rounded-lg border border-border p-6">
-              <button
-                onClick={() => setSelectedSutta(null)}
-                className="text-primary hover:underline mb-4 text-sm"
-              >
-                ← Quay lại danh sách
-              </button>
-
-              <div className="flex items-start justify-between mb-4">
-                <div>
-                  <div className="text-sm text-primary font-medium mb-1">
-                    {selectedSutta.code}
-                  </div>
-                  <h2 className="text-3xl font-bold text-foreground mb-2">
-                    {selectedSutta.title}
-                  </h2>
-                  {selectedSutta.titlePali && (
-                    <p className="text-lg text-muted-foreground italic font-serif">
-                      {selectedSutta.titlePali}
-                    </p>
-                  )}
-                </div>
-                <button
-                  onClick={() => toggleBookmark(selectedSutta.id)}
-                  className="p-2 hover:bg-muted rounded-md"
-                >
-                  <Bookmark
-                    className={`h-5 w-5 ${
-                      state.bookmarkedSuttas.includes(selectedSutta.id)
-                        ? 'fill-primary text-primary'
-                        : 'text-muted-foreground'
-                    }`}
-                  />
-                </button>
-              </div>
-
-              <div className="flex flex-wrap gap-2 mb-6">
-                {selectedSutta.themes.map((theme) => (
-                  <span
-                    key={theme}
-                    className="px-3 py-1 bg-muted text-muted-foreground text-xs rounded-full"
-                  >
-                    {theme}
-                  </span>
-                ))}
-              </div>
-
-              <div className="prose prose-slate max-w-none">
-                <div className="bg-muted p-4 rounded-md mb-6">
-                  <p className="text-foreground">{selectedSutta.summary}</p>
-                </div>
-
-                {selectedSutta.content && (
-                  <div className="text-foreground whitespace-pre-wrap">
-                    {selectedSutta.content}
-                  </div>
-                )}
-              </div>
-            </div>
-          ) : (
-            // Suttas List
             <div className="space-y-3">
               {filteredSuttas.length === 0 ? (
                 <div className="bg-card rounded-lg border border-border p-8 text-center">
@@ -184,10 +120,10 @@ export function Library() {
                 </div>
               ) : (
                 filteredSuttas.map((sutta) => (
-                  <div
+                  <Link
                     key={sutta.id}
-                    className="bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow cursor-pointer"
-                    onClick={() => setSelectedSutta(sutta)}
+                    to={`/kinh-tang/${sutta.id}`}
+                    className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow"
                   >
                     <div className="flex items-start justify-between">
                       <div className="flex-1">
@@ -226,11 +162,10 @@ export function Library() {
                       </div>
                       <ChevronRight className="h-5 w-5 text-muted-foreground ml-4 flex-shrink-0" />
                     </div>
-                  </div>
+                  </Link>
                 ))
               )}
             </div>
-          )}
         </div>
       </div>
     </div>
