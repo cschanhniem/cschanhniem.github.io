@@ -37,6 +37,12 @@ Ngược lại, khi tự mình biết rõ một điều gì đó là thiện, kh
 - **Bất thiện**: Bắt nguồn từ tham, sân, si.
 - **Thiện**: Bắt nguồn từ không tham, không sân, không si.
 
+## Bốn Sự An Ổn (Assāsāni)
+i) Nếu có đời sau và nghiệp có quả, người sống không tham–sân–si sẽ sanh về cõi lành.  
+ii) Nếu không có đời sau, ngay hiện tại người ấy vẫn sống an lạc, không hận thù, không phiền não.  
+iii) Nếu có việc ác đã làm, nhưng không có tâm ác và không làm điều ác, thì không thể chịu khổ do ác hạnh không có.  
+iv) Nếu không có việc ác đã làm, cả hai mặt (vô ý hay cố ý) đều thanh tịnh, người ấy thấy mình trong sạch.
+
 Hãy tự mình quán chiếu và thực hành để đạt được sự an ổn và hạnh phúc ngay trong hiện tại.
     `
 }

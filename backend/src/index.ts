@@ -120,8 +120,9 @@ app.get('/api/meditations', async (c) => {
     ).bind(userId).all()
 
     return c.json({ sessions: sessions.results })
-  } catch (error) {
-    return c.json({ error: 'Failed to fetch sessions' }, 500)
+  } catch (error: any) {
+    console.error('Failed to fetch sessions:', error)
+    return c.json({ error: 'Failed to fetch sessions', message: error.message }, 500)
   }
 })
 
@@ -147,8 +148,9 @@ app.post('/api/meditations', async (c) => {
     ).run()
 
     return c.json({ success: true, id })
-  } catch (error) {
-    return c.json({ error: 'Failed to save session' }, 500)
+  } catch (error: any) {
+    console.error('Failed to save session:', error)
+    return c.json({ error: 'Failed to save session', message: error.message }, 500)
   }
 })
 

@@ -10,7 +10,7 @@ const sutta: Sutta = {
   themes: ['Thiền định', 'Niệm hơi thở', 'Bốn niệm xứ', 'Bảy giác chi'],
   difficulty: 'beginner',
   content: `
-# Kinh Nhập tức, Xuất tức niệm (Anàpànasati sutta)
+# Kinh Nhập Tức Xuất Tức Niệm (Ānāpānasati Sutta)
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo đi đến khu rừng, đi đến gốc cây, hay đi đến ngôi nhà trống, và ngồi kiết-già, lưng thẳng và trú niệm trước mặt. Chánh niệm, vị ấy thở vô; chánh niệm, vị ấy thở ra.
 
@@ -36,11 +36,16 @@ const sutta: Sutta = {
 
 ### Quán Pháp
 13. "Quán vô thường, tôi sẽ thở vô", vị ấy tập. "Quán vô thường, tôi sẽ thở ra", vị ấy tập.
-14. "Quán ly tham, tôi sẽ thở vô", vị ấy tập "Quán ly tham, tôi sẽ thở ra", vị ấy tập.
-15. "Quán đoạn diệt, tôi sẽ thở vô", vị ấy tập. "Quán đoạn diệt, tôi sẽ thở ra, vị ấy tập.
+14. "Quán ly tham, tôi sẽ thở vô", vị ấy tập. "Quán ly tham, tôi sẽ thở ra", vị ấy tập.
+15. "Quán đoạn diệt, tôi sẽ thở vô", vị ấy tập. "Quán đoạn diệt, tôi sẽ thở ra", vị ấy tập.
 16. "Quán từ bỏ, tôi sẽ thở vô", vị ấy tập. "Quán từ bỏ, tôi sẽ thở ra", vị ấy tập.
 
 > Nhập tức xuất tức niệm, này các Tỷ-kheo, tu tập như vậy, làm cho sung mãn như vậy, được quả lớn, được công đức lớn.
+
+## Liên Hệ: 16 Bước → 4 Niệm Xứ → 7 Giác Chi → Giải Thoát
+- 4 bước đầu thuộc Quán Thân; 4 bước tiếp theo thuộc Quán Thọ; 4 bước kế thuộc Quán Tâm; 4 bước cuối thuộc Quán Pháp.
+- Khi tu tập đầy đủ, các **Giác chi** phát triển: niệm, trạch pháp, tinh tấn, hỷ, khinh an, định, xả.
+- Thành tựu tuần tự đưa đến ly tham, đoạn tận, từ bỏ; hướng đến giải thoát.
     `
 }
 
