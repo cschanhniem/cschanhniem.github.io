@@ -1,28 +1,29 @@
-import { Users, MessageCircle, Calendar, BookOpen, Heart } from 'lucide-react'
+import { Users, MessageCircle, Calendar, BookOpen, Heart, ExternalLink } from 'lucide-react'
 
 export function Community() {
   const resources = [
     {
+      title: 'Discord - Cộng Đồng Nhập Lưu',
+      description: 'Tham gia Discord để thảo luận, chia sẻ kinh nghiệm tu tập và nhận hỗ trợ từ cộng đồng',
+      icon: MessageCircle,
+      link: 'https://discord.gg/FWgScmadrg',
+      isExternal: true
+    },
+    {
       title: 'Nhóm Thiền Online',
-      description: 'Tham gia các buổi ngồi thiền chung trực tuyến qua Zoom',
+      description: 'Các buổi ngồi thiền chung trực tuyến cùng cộng đồng (sắp ra mắt)',
       icon: Users,
       link: '#'
     },
     {
-      title: 'Diễn Đàn Thảo Luận',
-      description: 'Chia sẻ kinh nghiệm tu tập và hỏi đáp về Pháp',
-      icon: MessageCircle,
-      link: '#'
-    },
-    {
       title: 'Lịch Sự Kiện',
-      description: 'Các khóa tu, pháp thoại và hoạt động Phật giáo',
+      description: 'Các khóa tu, pháp thoại và hoạt động Phật giáo (sắp ra mắt)',
       icon: Calendar,
       link: '#'
     },
     {
       title: 'Thư Viện Pháp Âm',
-      description: 'Nghe pháp thoại từ các thiền sư uy tín',
+      description: 'Nghe pháp thoại từ các thiền sư uy tín (sắp ra mắt)',
       icon: BookOpen,
       link: '#'
     }
@@ -95,28 +96,80 @@ export function Community() {
         </p>
       </div>
 
+      {/* Join Discord CTA */}
+      <div className="bg-gradient-to-r from-primary/10 to-primary/5 rounded-lg border border-primary/20 p-6 mb-8">
+        <div className="flex items-center justify-between flex-wrap gap-4">
+          <div className="flex-1">
+            <h2 className="text-2xl font-bold text-foreground mb-2">
+              Tham Gia Cộng Đồng Discord
+            </h2>
+            <p className="text-muted-foreground mb-4">
+              Kết nối với đạo hữu, chia sẻ kinh nghiệm tu tập, hỏi đáp về Pháp và nhận hỗ trợ từ cộng đồng Nhập Lưu
+            </p>
+            <ul className="text-sm text-muted-foreground space-y-1 mb-4">
+              <li>✓ Thảo luận kinh điển và pháp tu</li>
+              <li>✓ Chia sẻ kinh nghiệm thiền định</li>
+              <li>✓ Nhóm học Pāli cơ bản</li>
+              <li>✓ Hỗ trợ kỹ thuật và góp ý phát triển</li>
+            </ul>
+            <a
+              href="https://discord.gg/FWgScmadrg"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-medium"
+            >
+              <MessageCircle className="h-5 w-5" />
+              Tham Gia Discord
+              <ExternalLink className="h-4 w-4" />
+            </a>
+          </div>
+          <div className="text-6xl">🧘</div>
+        </div>
+      </div>
+
       {/* Resources Grid */}
       <div className="grid md:grid-cols-2 gap-4 mb-8">
         {resources.map((resource) => {
           const Icon = resource.icon
-          return (
-            <div
-              key={resource.title}
-              className="bg-card rounded-lg border border-border p-6 hover:shadow-md transition-shadow cursor-pointer"
-            >
-              <div className="flex items-start gap-4">
-                <div className="p-3 bg-primary/10 rounded-lg">
-                  <Icon className="h-6 w-6 text-primary" />
-                </div>
-                <div className="flex-1">
+          const content = (
+            <div className="flex items-start gap-4">
+              <div className="p-3 bg-primary/10 rounded-lg">
+                <Icon className="h-6 w-6 text-primary" />
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center gap-2">
                   <h3 className="text-lg font-semibold text-foreground mb-2">
                     {resource.title}
                   </h3>
-                  <p className="text-sm text-muted-foreground">
-                    {resource.description}
-                  </p>
+                  {resource.isExternal && <ExternalLink className="h-4 w-4 text-primary" />}
                 </div>
+                <p className="text-sm text-muted-foreground">
+                  {resource.description}
+                </p>
               </div>
+            </div>
+          )
+
+          if (resource.isExternal) {
+            return (
+              <a
+                key={resource.title}
+                href={resource.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-card rounded-lg border border-border p-6 hover:shadow-md transition-shadow block"
+              >
+                {content}
+              </a>
+            )
+          }
+
+          return (
+            <div
+              key={resource.title}
+              className="bg-card rounded-lg border border-border p-6 hover:shadow-md transition-shadow cursor-not-allowed opacity-60"
+            >
+              {content}
             </div>
           )
         })}
