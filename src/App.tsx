@@ -8,7 +8,7 @@ import { Community } from '@/pages/Community'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/nhapluu">
       <div className="min-h-screen bg-background">
         <Header />
         <main>
