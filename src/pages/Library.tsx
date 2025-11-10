@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useAppState } from '@/hooks/useAppState'
-import { suttas } from '@/data/suttas'
+import { suttas } from '@/data/suttas/index'
 import { BookOpen, Bookmark, Search, ChevronRight } from 'lucide-react'
 import type { Sutta } from '@/types'
 
