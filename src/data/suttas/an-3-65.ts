@@ -10,41 +10,34 @@ const sutta: Sutta = {
   themes: ['Tự kiểm nghiệm', 'Trí tuệ', 'Phản biện'],
   difficulty: 'beginner',
   content: `
-# Kinh Kālāma (Tự Do Tư Tưởng)
+# Kinh Kālāma (Lời Dạy Về Tự Do Tư Tưởng)
 
-## Đừng Chấp Nhận Vì
+Khi đến thăm thị trấn Kesaputta, Đức Phật đã khuyên người dân Kālāma không nên vội tin vào bất cứ điều gì.
 
-1. Truyền thống lâu đời
-2. Tin đồn, truyền khẩu
-3. Kinh điển ghi chép
-4. Suy luận logic
-5. Suy đoán
-6. Suy tư theo lối mòn
-7. Vì thấy phù hợp với quan điểm
-8. Vì người nói có uy tín
-9. Vì người ấy là thầy của mình
+## 10 Nguồn Thông Tin Không Nên Vội Tin
+Đừng vội tin chỉ vì:
+1.  **Nghe báo cáo, truyền miệng** (anussava)
+2.  **Theo truyền thống** (paramparā)
+3.  **Nghe tin đồn** (itikirā)
+4.  **Được ghi trong kinh điển** (piṭakasampadāna)
+5.  **Do suy luận logic** (takkihetu)
+6.  **Do diễn giải tương tự** (nayahetu)
+7.  **Do đánh giá hời hợt** (ākāraparivitakka)
+8.  **Phù hợp với định kiến** (diṭṭhinijjhānakkhanti)
+9.  **Người nói có vẻ uy tín** (bhabbarūpatā)
+10. **Vị đó là thầy của mình** (samaṇo no garū)
 
-## Hãy Tự Kiểm Nghiệm
+## Hãy Tự Mình Kiểm Chứng
+Đức Phật khuyên rằng:
+> "Này các Kālāma, khi nào tự mình biết rõ: 'Các pháp này là bất thiện, đáng chê, bị người trí chỉ trích; nếu thực hành sẽ đưa đến bất hạnh, khổ đau', thì hãy từ bỏ chúng."
 
-"Này các Kālāma, khi nào các ngươi tự mình biết rõ:
-- Những pháp này là bất thiện
-- Những pháp này đáng khiển trách
-- Những pháp này bị người trí quở trách
-- Những pháp này nếu thực hành sẽ đưa đến không lợi ích và khổ đau
+Ngược lại, khi tự mình biết rõ một điều gì đó là thiện, không đáng chê, được người trí tán thán và thực hành sẽ mang lại hạnh phúc, an lạc, thì hãy thực hành và an trú vào đó.
 
-Thì các ngươi hãy từ bỏ chúng."
+## Nền Tảng Của Thiện & Bất Thiện
+- **Bất thiện**: Bắt nguồn từ tham, sân, si.
+- **Thiện**: Bắt nguồn từ không tham, không sân, không si.
 
-## Ba Căn Bất Thiện
-
-1. **Tham** (lobha) - Dẫn đến khổ
-2. **Sân** (dosa) - Dẫn đến khổ
-3. **Si** (moha) - Dẫn đến khổ
-
-## Ba Căn Thiện
-
-1. **Không tham** (alobha) - Dẫn đến an lạc
-2. **Không sân** (adosa) - Dẫn đến an lạc
-3. **Không si** (amoha) - Dẫn đến an lạc
+Hãy tự mình quán chiếu và thực hành để đạt được sự an ổn và hạnh phúc ngay trong hiện tại.
     `
 }
 

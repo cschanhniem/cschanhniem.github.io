@@ -3,28 +3,30 @@ import type { Sutta } from '@/types'
 const sutta: Sutta = {
   id: 'an-4-62',
   code: 'AN 4.62',
-  title: 'Tại Kosambi - Bốn Yếu Tố Thành Tựu',
-  titlePali: 'Kosambī Sutta',
+  title: 'Bốn An Lạc Của Người Tại Gia',
+  titlePali: 'Ānaṇyasutta',
   collection: 'AN',
-  summary: 'Bốn yếu tố dẫn đến chứng quả Dự Lưu ngay trong đời này.',
-  themes: ['Dự Lưu', 'Kalyāṇamitta', 'Pháp hành'],
+  summary: 'Bốn loại hạnh phúc của người tại gia: sở hữu, thọ dụng, không mắc nợ, và không phạm tội.',
+  themes: ['Hạnh phúc tại gia', 'Đạo đức', 'Tài chính'],
   difficulty: 'beginner',
   content: `
-# Bốn Yếu Tố Thành Tựu Dự Lưu
+# Bốn An Lạc Của Người Tại Gia (Ānaṇyasutta)
 
-## 1. Thân Cận Thiện Tri Thức (Sappurisasaṃseva)
-Kết giao, thân cận với bậc Thiện Tri Thức (Kalyāṇamitta)
+Đức Phật dạy có bốn loại hạnh phúc mà người cư sĩ có thể cảm nhận đúng thời, đúng lúc:
 
-## 2. Nghe Chánh Pháp (Saddhammassavana)
-Lắng nghe giáo pháp chân chánh
+1) Sở hữu lạc (Atthi‑sukha)  
+Hạnh phúc khi có tài sản do chính công sức, mồ hôi, và việc làm chân chánh mà có.
 
-## 3. Như Lý Tác Ý (Yoniso-manasikāra)
-Suy tư một cách có hệ thống, đúng đắn
+2) Thọ dụng lạc (Bhoga‑sukha)  
+Hạnh phúc khi biết sử dụng tài sản đúng pháp và làm các việc phước thiện.
 
-## 4. Pháp Tùy Pháp Hành (Dhammānudhamma-paṭipatti)
-Thực hành đúng theo giáo pháp
+3) Không mắc nợ lạc (Anaṇya‑sukha)  
+Hạnh phúc khi không nợ nần ai, dù ít hay nhiều.
 
-> "Này các Tỷ-kheo, có bốn yếu tố này. Với bốn yếu tố này, vị Thánh đệ tử sẽ chứng quả Dự Lưu, không còn bị đọa vào ác đạo, quyết định hướng đến Chánh Giác."
+4) Không phạm tội lạc (Anavajja‑sukha)  
+Hạnh phúc do thân, khẩu, ý trong sạch; sống không phạm tội, không bị hối hận.
+
+> Trong bốn loại, “không phạm tội lạc” là thù thắng hơn hết, vì đưa đến an ổn lâu dài và thanh tịnh nội tâm.
     `
 }
 
