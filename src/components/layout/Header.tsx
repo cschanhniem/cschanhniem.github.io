@@ -1,8 +1,11 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Home, BookOpen, Timer, Users, Trophy } from 'lucide-react'
+import { Home, BookOpen, Timer, Users, Trophy, LogOut } from 'lucide-react'
+import { useAuth } from '@/contexts/AuthContext'
+import { Button } from '@/components/ui/button'
 
 export function Header() {
   const location = useLocation()
+  const { user, logout } = useAuth()
 
   const navigation = [
     { name: 'Trang Chủ', href: '/', icon: Home },
@@ -29,27 +32,45 @@ export function Header() {
           </Link>
 
           {/* Navigation */}
-          <nav className="flex items-center space-x-1">
-            {navigation.map((item) => {
-              const Icon = item.icon
-              return (
-                <Link
-                  key={item.name}
-                  to={item.href}
-                  className={`
-                    flex items-center space-x-1 px-3 py-2 rounded-md text-sm font-medium transition-colors
-                    ${isActive(item.href)
-                      ? 'bg-primary text-primary-foreground'
-                      : 'text-muted-foreground hover:bg-muted hover:text-foreground'
-                    }
-                  `}
-                >
-                  <Icon className="h-4 w-4" />
-                  <span className="hidden md:inline">{item.name}</span>
-                </Link>
-              )
-            })}
-          </nav>
+          <div className="flex items-center space-x-4">
+            <nav className="flex items-center space-x-1">
+              {navigation.map((item) => {
+                const Icon = item.icon
+                return (
+                  <Link
+                    key={item.name}
+                    to={item.href}
+                    className={`
+                      flex items-center space-x-1 px-3 py-2 rounded-md text-sm font-medium transition-colors
+                      ${isActive(item.href)
+                        ? 'bg-primary text-primary-foreground'
+                        : 'text-muted-foreground hover:bg-muted hover:text-foreground'
+                      }
+                    `}
+                  >
+                    <Icon className="h-4 w-4" />
+                    <span className="hidden md:inline">{item.name}</span>
+                  </Link>
+                )
+              })}
+            </nav>
+
+            {/* User Menu */}
+            <div className="flex items-center space-x-2 border-l border-border pl-4">
+              <div className="hidden sm:block text-sm text-muted-foreground">
+                {user?.email}
+              </div>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={logout}
+                className="text-muted-foreground hover:text-foreground"
+              >
+                <LogOut className="h-4 w-4" />
+                <span className="hidden sm:inline ml-2">Đăng xuất</span>
+              </Button>
+            </div>
+          </div>
         </div>
       </div>
     </header>

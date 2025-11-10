@@ -1,5 +1,7 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import type { AppState, MeditationSession, PreceptsRecord, ProgramProgress, InsightEntry } from '@/types'
+import { useAuth } from '@/contexts/AuthContext'
+import { syncData } from '@/lib/api'
 
 const STORAGE_KEY = 'nhapluu-app-state'
 
@@ -16,15 +18,64 @@ const defaultState: AppState = {
 }
 
 export function useAppState() {
+  const { token } = useAuth()
   const [state, setState] = useState<AppState>(() => {
     const stored = localStorage.getItem(STORAGE_KEY)
     return stored ? JSON.parse(stored) : defaultState
   })
+  const [isSyncing, setIsSyncing] = useState(false)
+  const [lastSyncTime, setLastSyncTime] = useState<number>(0)
+  const syncTimerRef = useRef<number | undefined>(undefined)
 
   // Save to localStorage whenever state changes
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   }, [state])
+
+  // Auto-sync to cloud after 5 seconds of inactivity
+  useEffect(() => {
+    if (!token) return
+
+    // Clear previous timer
+    if (syncTimerRef.current) {
+      clearTimeout(syncTimerRef.current)
+    }
+
+    // Set new timer
+    syncTimerRef.current = window.setTimeout(() => {
+      syncToCloud()
+    }, 5000)
+
+    return () => {
+      if (syncTimerRef.current) {
+        clearTimeout(syncTimerRef.current)
+      }
+    }
+  }, [state, token])
+
+  // Sync to cloud
+  const syncToCloud = useCallback(async () => {
+    if (!token || isSyncing) return
+
+    setIsSyncing(true)
+    try {
+      await syncData(
+        token,
+        {
+          meditationSessions: state.meditationSessions,
+          preceptsRecords: state.preceptsRecords,
+          programProgress: state.programProgress || undefined
+        },
+        lastSyncTime
+      )
+      setLastSyncTime(Date.now())
+      console.log('✅ Synced to cloud')
+    } catch (error) {
+      console.error('❌ Sync failed:', error)
+    } finally {
+      setIsSyncing(false)
+    }
+  }, [token, state, lastSyncTime, isSyncing])
 
   // Meditation Sessions
   const addMeditationSession = (session: Omit<MeditationSession, 'id'>) => {
@@ -202,6 +253,8 @@ export function useAppState() {
     addInsightEntry,
     deleteInsightEntry,
     toggleBookmark,
-    getStats
+    getStats,
+    syncToCloud,
+    isSyncing
   }
 }
