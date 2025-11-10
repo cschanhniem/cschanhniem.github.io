@@ -120,6 +120,57 @@ export function Dashboard() {
         </div>
       </div>
 
+      {/* Stream-entry Summary (Nhập Dòng Giải Thoát) */}
+      <div className="mt-12 bg-card rounded-lg border border-border p-6">
+        <h2 className="text-xl font-semibold text-foreground mb-3">
+          Nhập Dòng Giải Thoát (Sotāpatti)
+        </h2>
+        <p className="text-sm text-muted-foreground mb-4 leading-relaxed">
+          Cửa vào Thánh đạo bắt đầu khi ba kiết sử (thân kiến, nghi, giới cấm thủ) được đoạn trừ nhờ
+          chánh kiến trực chứng duyên khởi và Tứ Thánh Đế. Dòng chảy: Thiện hữu + Nghe Pháp →
+          Như lý tác ý → Giới thanh tịnh → Hộ trì căn → Chánh niệm tỉnh giác → Đoạn triền cái →
+          Định → Tuệ quán vô thường-khổ-vô ngã → Pháp nhãn khai mở.
+        </p>
+        <div className="grid md:grid-cols-2 gap-4 mb-4">
+          <div className="space-y-2">
+            <h3 className="text-sm font-medium text-foreground">Bốn yếu tố chuẩn bị</h3>
+            <ul className="text-xs text-muted-foreground list-disc pl-5 space-y-1">
+              <li>Thiện hữu (SN 55.1)</li>
+              <li>Nghe Diệu Pháp (MN 95, MN 47)</li>
+              <li>Như lý tác ý (MN 2)</li>
+              <li>Hành pháp & tùy pháp (MN 27, DN 2)</li>
+            </ul>
+          </div>
+          <div className="space-y-2">
+            <h3 className="text-sm font-medium text-foreground">Các trụ cột tu tập</h3>
+            <ul className="text-xs text-muted-foreground list-disc pl-5 space-y-1">
+              <li>Năm căn → năm lực (SN 48.10)</li>
+              <li>Bảy giác chi quân bình (SN 46.14, MN 118)</li>
+              <li>Quán duyên khởi & vô thường (SN 12.2, SN 12.15, SN 12.23)</li>
+              <li>Giới & đời sống phạm hạnh thực chứng (DN 2, DN 31)</li>
+            </ul>
+          </div>
+        </div>
+        <div className="space-y-2 mb-4">
+          <h3 className="text-sm font-medium text-foreground">Dấu hiệu thành tựu (AN 10.92)</h3>
+          <p className="text-xs text-muted-foreground">
+            Niềm tin bất động nơi Phật–Pháp–Tăng, giới không đứt đoạn, không còn rơi ác thú, hướng chắc chắn đến giải thoát trong tối đa bảy đời.
+          </p>
+        </div>
+        <p className="text-xs text-muted-foreground">
+          Tham khảo tổng hợp khái luận bên ngoài:{" "}
+          <a
+            href="https://budsas.net/dlpp/bai203/index.htm"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary underline"
+          >
+            budsas.net • Bài 203
+          </a>{" "}
+          (liên kết ngoài – không lưu trữ nguyên văn để tôn trọng bản quyền dịch giả).
+        </p>
+      </div>
+
       {/* Daily Quote */}
       <div className="mt-8 bg-muted rounded-lg p-6 text-center">
         <blockquote className="text-lg italic text-foreground font-serif mb-2">
