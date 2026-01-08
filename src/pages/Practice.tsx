@@ -2,11 +2,13 @@ import { useState } from 'react'
 import { useAppState } from '@/hooks/useAppState'
 import { MeditationTimer } from '@/components/practice/MeditationTimer'
 import { MeditationLogger } from '@/components/practice/MeditationLogger'
-import { Timer, BookText, CheckSquare } from 'lucide-react'
+import { Timer, BookText, CheckSquare, BrainCircuit, ArrowRight } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import { Button } from '@/components/ui/button'
 
 export function Practice() {
   const { state, addMeditationSession, deleteMeditationSession, addPreceptsRecord } = useAppState()
-  const [activeTab, setActiveTab] = useState<'timer' | 'log' | 'precepts'>('timer')
+  const [activeTab, setActiveTab] = useState<'timer' | 'log' | 'precepts' | 'guide'>('timer')
 
   const [preceptsType, setPreceptsType] = useState<'five' | 'eight'>('five')
   const [precepts, setPrecepts] = useState<{ [key: number]: boolean }>({})
@@ -52,7 +54,8 @@ export function Practice() {
   const tabs = [
     { id: 'timer', name: 'Đồng Hồ Thiền', icon: Timer },
     { id: 'log', name: 'Ghi Nhận', icon: BookText },
-    { id: 'precepts', name: 'Giữ Giới', icon: CheckSquare }
+    { id: 'precepts', name: 'Giữ Giới', icon: CheckSquare },
+    { id: 'guide', name: 'Hướng Dẫn', icon: BrainCircuit }
   ]
 
   return (
@@ -68,7 +71,7 @@ export function Practice() {
 
       {/* Tabs */}
       <div className="border-b border-border mb-6">
-        <div className="flex space-x-1">
+        <div className="flex space-x-1 overflow-x-auto">
           {tabs.map((tab) => {
             const Icon = tab.icon
             return (
@@ -76,7 +79,7 @@ export function Practice() {
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id as any)}
                 className={`
-                  flex items-center space-x-2 px-4 py-3 border-b-2 font-medium text-sm transition-colors
+                  flex items-center space-x-2 px-4 py-3 border-b-2 font-medium text-sm transition-colors whitespace-nowrap
                   ${activeTab === tab.id
                     ? 'border-primary text-primary'
                     : 'border-transparent text-muted-foreground hover:text-foreground hover:border-muted'
@@ -207,6 +210,27 @@ export function Practice() {
                 )}
               </div>
             </div>
+          </div>
+        )}
+
+        {activeTab === 'guide' && (
+          <div className="md:col-span-2 space-y-4">
+            <Link to="/thien-dinh/thu-gian" className="block">
+              <div className="bg-card hover:bg-muted/50 transition-colors border border-border rounded-xl p-6 flex flex-col md:flex-row items-center gap-6 group">
+                <div className="p-4 bg-primary/10 rounded-full flex-shrink-0 group-hover:bg-primary/20 transition-colors">
+                  <BrainCircuit className="h-8 w-8 text-primary" />
+                </div>
+                <div className="flex-1 text-center md:text-left">
+                  <h3 className="text-xl font-bold text-foreground mb-2">Thư Giãn Trong Tỉnh Thức</h3>
+                  <p className="text-muted-foreground mb-4 md:mb-0">
+                    Wakeful Relaxation - Kỹ thuật cân bằng hệ thần kinh, giúp cơ thể thư giãn sâu nhưng tâm trí vẫn sắc bén. Bước chuẩn bị quan trọng cho Thiền Định.
+                  </p>
+                </div>
+                <Button className="flex-shrink-0" variant="outline">
+                  Bắt đầu tập <ArrowRight className="ml-2 h-4 w-4" />
+                </Button>
+              </div>
+            </Link>
           </div>
         )}
       </div>

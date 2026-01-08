@@ -11,6 +11,7 @@ import { Community } from '@/pages/Community'
 import { FindSangha } from '@/pages/FindSangha'
 import { CodeOfConduct } from '@/pages/CodeOfConduct'
 import { Onboarding } from '@/pages/Onboarding'
+import { WakefulRelaxation } from '@/pages/WakefulRelaxation'
 import Auth from '@/pages/Auth'
 
 function App() {
@@ -24,18 +25,64 @@ function App() {
             <Route
               path="/*"
               element={
-                <ProtectedRoute>
+                <>
                   <Header />
                   <main>
                     <Routes>
-                      <Route path="/" element={<Dashboard />} />
+                      {/* Public Routes */}
                       <Route path="/tim-sangha" element={<FindSangha />} />
-                      <Route path="/thien-dinh" element={<Practice />} />
-                      <Route path="/kinh-tang" element={<Library />} />
-                      <Route path="/kinh-tang/:suttaId" element={<SuttaDetail />} />
-                      <Route path="/chuong-trinh" element={<Program />} />
-                      <Route path="/cong-dong" element={<Community />} />
                       <Route path="/quy-tac" element={<CodeOfConduct />} />
+                      <Route path="/cong-dong" element={<Community />} />
+
+                      {/* Protected Routes */}
+                      <Route
+                        path="/"
+                        element={
+                          <ProtectedRoute>
+                            <Dashboard />
+                          </ProtectedRoute>
+                        }
+                      />
+                      <Route
+                        path="/thien-dinh"
+                        element={
+                          <ProtectedRoute>
+                            <Practice />
+                          </ProtectedRoute>
+                        }
+                      />
+                      <Route
+                        path="/thien-dinh/thu-gian"
+                        element={
+                          <ProtectedRoute>
+                            <WakefulRelaxation />
+                          </ProtectedRoute>
+                        }
+                      />
+                      <Route
+                        path="/kinh-tang"
+                        element={
+                          <ProtectedRoute>
+                            <Library />
+                          </ProtectedRoute>
+                        }
+                      />
+                      <Route
+                        path="/kinh-tang/:suttaId"
+                        element={
+                          <ProtectedRoute>
+                            <SuttaDetail />
+                          </ProtectedRoute>
+                        }
+                      />
+                      <Route
+                        path="/chuong-trinh"
+                        element={
+                          <ProtectedRoute>
+                            <Program />
+                          </ProtectedRoute>
+                        }
+                      />
                     </Routes>
                   </main>
                   <footer className="border-t border-border mt-16">
@@ -46,7 +93,7 @@ function App() {
                       </p>
                     </div>
                   </footer>
-                </ProtectedRoute>
+                </>
               }
             />
           </Routes>
