@@ -1,6 +1,6 @@
 import { useAppState } from '@/hooks/useAppState'
 import { Button } from '@/components/ui/button'
-import { Trophy, CheckCircle2, Circle, Calendar } from 'lucide-react'
+import { Trophy, CheckCircle2, Circle, Calendar, Download, BookOpen } from 'lucide-react'
 
 export function Program() {
   const { state, startProgram, markDayComplete } = useAppState()
@@ -125,6 +125,32 @@ export function Program() {
                 </ul>
               </div>
             ))}
+          </div>
+
+          {/* Download Book Section */}
+          <div className="bg-card rounded-lg border border-border p-6">
+            <div className="flex items-start gap-4">
+              <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0">
+                <BookOpen className="h-6 w-6 text-primary" />
+              </div>
+              <div className="flex-1">
+                <h3 className="text-xl font-semibold text-foreground mb-2">
+                  Sách Hướng Dẫn Chi Tiết
+                </h3>
+                <p className="text-muted-foreground mb-4">
+                  Tải xuống sách "Con Đường Nhập Lưu" - Hướng dẫn đầy đủ về chương trình 90 ngày 
+                  với các phương pháp thiền định, kinh điển cần đọc, và lộ trình tu tập chi tiết.
+                </p>
+                <a
+                  href="/nhapluu-book.pdf"
+                  download="con-duong-nhap-luu.pdf"
+                  className="inline-flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors"
+                >
+                  <Download className="h-4 w-4" />
+                  Tải Sách PDF (Miễn Phí)
+                </a>
+              </div>
+            </div>
           </div>
 
           <div className="bg-muted rounded-lg p-6 text-center">

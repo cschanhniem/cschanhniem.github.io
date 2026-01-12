@@ -3,7 +3,7 @@ import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
 import { Button } from '@/components/ui/button'
 import { Link } from 'react-router-dom'
-import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles } from 'lucide-react'
+import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download } from 'lucide-react'
 
 export function Dashboard() {
   const { getStats } = useAppState()
@@ -146,6 +146,12 @@ export function Dashboard() {
                 Bắt đầu ngồi thiền
               </Button>
             </Link>
+            <a href="/nhapluu-book.pdf" download="con-duong-nhap-luu.pdf">
+              <Button className="w-full justify-start" variant="outline">
+                <Download className="mr-2 h-4 w-4" />
+                Tải sách Nhập Lưu (PDF)
+              </Button>
+            </a>
           </div>
         </div>
 

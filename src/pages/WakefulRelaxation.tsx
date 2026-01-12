@@ -1,12 +1,11 @@
 import { useState } from 'react'
 import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
-import { ArrowRight, ArrowLeft, Wind, Activity, Brain, Heart, PlayCircle, PauseCircle, SkipForward } from 'lucide-react'
+import { ArrowRight, ArrowLeft, Wind, Activity, Brain, Heart, PlayCircle } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
 export function WakefulRelaxation() {
     const [activeStep, setActiveStep] = useState(0)
-    const [isPlaying, setIsPlaying] = useState(false)
 
     const steps = [
         {

@@ -1,9 +1,60 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import { Button } from '@/components/ui/button'
-import { Play, Pause, RotateCcw, Check } from 'lucide-react'
+import { Play, Pause, RotateCcw, Check, Volume2 } from 'lucide-react'
 
 interface MeditationTimerProps {
   onComplete: (duration: number) => void
+}
+
+/**
+ * Creates a meditation bell sound using Web Audio API
+ * Generates a gentle, resonant bell tone typical of meditation timers
+ */
+function playMeditationBell() {
+  const audioContext = new (window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext)()
+  
+  // Create multiple oscillators for a richer bell sound
+  const frequencies = [528, 396, 639] // Solfeggio frequencies for harmony
+  
+  frequencies.forEach((freq, index) => {
+    const oscillator = audioContext.createOscillator()
+    const gainNode = audioContext.createGain()
+    
+    oscillator.connect(gainNode)
+    gainNode.connect(audioContext.destination)
+    
+    // Bell-like waveform
+    oscillator.type = 'sine'
+    oscillator.frequency.setValueAtTime(freq, audioContext.currentTime)
+    
+    // Envelope: quick attack, long decay (bell-like)
+    const startTime = audioContext.currentTime + (index * 0.05)
+    const volume = 0.3 / (index + 1) // Decreasing volume for harmonics
+    
+    gainNode.gain.setValueAtTime(0, startTime)
+    gainNode.gain.linearRampToValueAtTime(volume, startTime + 0.01) // Quick attack
+    gainNode.gain.exponentialRampToValueAtTime(0.001, startTime + 3) // Long decay
+    
+    oscillator.start(startTime)
+    oscillator.stop(startTime + 3)
+  })
+  
+  // Add a higher pitched "ting" for clarity
+  const tingOsc = audioContext.createOscillator()
+  const tingGain = audioContext.createGain()
+  
+  tingOsc.connect(tingGain)
+  tingGain.connect(audioContext.destination)
+  
+  tingOsc.type = 'sine'
+  tingOsc.frequency.setValueAtTime(1056, audioContext.currentTime) // High C
+  
+  tingGain.gain.setValueAtTime(0, audioContext.currentTime)
+  tingGain.gain.linearRampToValueAtTime(0.15, audioContext.currentTime + 0.005)
+  tingGain.gain.exponentialRampToValueAtTime(0.001, audioContext.currentTime + 2)
+  
+  tingOsc.start(audioContext.currentTime)
+  tingOsc.stop(audioContext.currentTime + 2)
 }
 
 export function MeditationTimer({ onComplete }: MeditationTimerProps) {
@@ -11,7 +62,15 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
   const [timeLeft, setTimeLeft] = useState(duration * 60) // seconds
   const [isRunning, setIsRunning] = useState(false)
   const [isCompleted, setIsCompleted] = useState(false)
+  const [bellEnabled, setBellEnabled] = useState(true)
   const intervalRef = useRef<number | undefined>(undefined)
+  
+  // Memoized bell function
+  const ringBell = useCallback(() => {
+    if (bellEnabled) {
+      playMeditationBell()
+    }
+  }, [bellEnabled])
 
   useEffect(() => {
     setTimeLeft(duration * 60)
@@ -24,7 +83,8 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
           if (prev <= 1) {
             setIsRunning(false)
             setIsCompleted(true)
-            // Play a gentle bell sound (would need audio file)
+            // Play meditation bell sound when timer completes
+            ringBell()
             return 0
           }
           return prev - 1
@@ -41,7 +101,7 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
         clearInterval(intervalRef.current)
       }
     }
-  }, [isRunning, timeLeft])
+  }, [isRunning, timeLeft, ringBell])
 
   const formatTime = (seconds: number) => {
     const mins = Math.floor(seconds / 60)
@@ -71,9 +131,23 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
       {/* Duration Selector */}
       {!isRunning && !isCompleted && (
         <div className="mb-6">
-          <label className="block text-sm font-medium text-foreground mb-2">
-            Thời gian (phút)
-          </label>
+          <div className="flex items-center justify-between mb-2">
+            <label className="block text-sm font-medium text-foreground">
+              Thời gian (phút)
+            </label>
+            <button
+              onClick={() => setBellEnabled(!bellEnabled)}
+              className={`flex items-center gap-1 text-xs px-2 py-1 rounded transition-colors ${
+                bellEnabled 
+                  ? 'bg-primary/10 text-primary' 
+                  : 'bg-muted text-muted-foreground'
+              }`}
+              title={bellEnabled ? 'Chuông đang bật' : 'Chuông đang tắt'}
+            >
+              <Volume2 className="h-3 w-3" />
+              {bellEnabled ? 'Chuông bật' : 'Chuông tắt'}
+            </button>
+          </div>
           <div className="flex gap-2">
             {[10, 15, 20, 25, 30, 40, 60].map((min) => (
               <button
@@ -160,6 +234,18 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
           </Button>
         )}
       </div>
+
+      {/* Test Bell Button (only when not running) */}
+      {!isRunning && !isCompleted && bellEnabled && (
+        <div className="mt-4 text-center">
+          <button
+            onClick={ringBell}
+            className="text-xs text-muted-foreground hover:text-primary transition-colors underline"
+          >
+            🔔 Thử tiếng chuông
+          </button>
+        </div>
+      )}
 
       {/* Instructions */}
       <div className="mt-6 p-4 bg-muted rounded-md">
