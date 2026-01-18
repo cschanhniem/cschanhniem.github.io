@@ -12,8 +12,9 @@ import { Skeleton } from '@/components/ui/skeleton'
 // Lazy load page components for code splitting
 const Dashboard = lazy(() => import('@/pages/Dashboard').then(m => ({ default: m.Dashboard })))
 const Practice = lazy(() => import('@/pages/Practice').then(m => ({ default: m.Practice })))
-const Library = lazy(() => import('@/pages/Library').then(m => ({ default: m.Library })))
+const DhammaLibrary = lazy(() => import('@/pages/DhammaLibrary').then(m => ({ default: m.DhammaLibrary })))
 const SuttaDetail = lazy(() => import('@/pages/SuttaDetail').then(m => ({ default: m.SuttaDetail })))
+const TeachingDetail = lazy(() => import('@/pages/TeachingDetail').then(m => ({ default: m.TeachingDetail })))
 const Program = lazy(() => import('@/pages/Program').then(m => ({ default: m.Program })))
 const Community = lazy(() => import('@/pages/Community').then(m => ({ default: m.Community })))
 const FindSangha = lazy(() => import('@/pages/FindSangha').then(m => ({ default: m.FindSangha })))
@@ -60,88 +61,97 @@ function App() {
   return (
     <Router basename="/nhapluu">
       <ThemeProvider>
-      <ToastProvider>
-      <AuthProvider>
-        <div className="min-h-screen bg-background">
-          <Suspense fallback={<PageLoader />}>
-            <Routes>
-              <Route path="/auth" element={<Auth />} />
-              <Route path="/onboarding" element={<Onboarding />} />
-              <Route
-                path="/*"
-                element={
-                  <>
-                    <Header />
-                    <main>
-                      <Routes>
-                        {/* Public Routes */}
-                        <Route path="/tim-sangha" element={<FindSangha />} />
-                        <Route path="/quy-tac" element={<CodeOfConduct />} />
-                        <Route path="/cong-dong" element={<Community />} />
+        <ToastProvider>
+          <AuthProvider>
+            <div className="min-h-screen bg-background">
+              <Suspense fallback={<PageLoader />}>
+                <Routes>
+                  <Route path="/auth" element={<Auth />} />
+                  <Route path="/onboarding" element={<Onboarding />} />
+                  <Route
+                    path="/*"
+                    element={
+                      <>
+                        <Header />
+                        <main>
+                          <Routes>
+                            {/* Public Routes */}
+                            <Route path="/tim-sangha" element={<FindSangha />} />
+                            <Route path="/quy-tac" element={<CodeOfConduct />} />
+                            <Route path="/cong-dong" element={<Community />} />
 
-                        {/* Protected Routes */}
-                        <Route
-                          path="/"
-                          element={
-                            <ProtectedRoute>
-                              <Dashboard />
-                            </ProtectedRoute>
-                          }
-                        />
-                        <Route
-                          path="/thien-dinh"
-                          element={
-                            <ProtectedRoute>
-                              <Practice />
-                            </ProtectedRoute>
-                          }
-                        />
-                        <Route
-                          path="/thien-dinh/thu-gian"
-                          element={
-                            <ProtectedRoute>
-                              <WakefulRelaxation />
-                            </ProtectedRoute>
-                          }
-                        />
-                        <Route
-                          path="/kinh-tang"
-                          element={
-                            <ProtectedRoute>
-                              <Library />
-                            </ProtectedRoute>
-                          }
-                        />
-                        <Route
-                          path="/kinh-tang/:suttaId"
-                          element={
-                            <ProtectedRoute>
-                              <SuttaDetail />
-                            </ProtectedRoute>
-                          }
-                        />
-                        <Route
-                          path="/chuong-trinh"
-                          element={
-                            <ProtectedRoute>
-                              <Program />
-                            </ProtectedRoute>
-                          }
-                        />
-                      </Routes>
-                    </main>
-                    <Footer />
-                  </>
-                }
-              />
-            </Routes>
-          </Suspense>
-        </div>
-      </AuthProvider>
-      </ToastProvider>
+                            {/* Protected Routes */}
+                            <Route
+                              path="/"
+                              element={
+                                <ProtectedRoute>
+                                  <Dashboard />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/thien-dinh"
+                              element={
+                                <ProtectedRoute>
+                                  <Practice />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/thien-dinh/thu-gian"
+                              element={
+                                <ProtectedRoute>
+                                  <WakefulRelaxation />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/phap-bao"
+                              element={
+                                <ProtectedRoute>
+                                  <DhammaLibrary />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/kinh-tang/:suttaId"
+                              element={
+                                <ProtectedRoute>
+                                  <SuttaDetail />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/giao-phap/:teachingId"
+                              element={
+                                <ProtectedRoute>
+                                  <TeachingDetail />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/chuong-trinh"
+                              element={
+                                <ProtectedRoute>
+                                  <Program />
+                                </ProtectedRoute>
+                              }
+                            />
+                          </Routes>
+                        </main>
+                        <Footer />
+                      </>
+                    }
+                  />
+                </Routes>
+              </Suspense>
+            </div>
+          </AuthProvider>
+        </ToastProvider>
       </ThemeProvider>
     </Router>
   )
 }
 
 export default App
+

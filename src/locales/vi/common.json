@@ -134,6 +134,14 @@
       },
       "sessionSaved": "Đã lưu buổi thiền!"
     },
+    "ambient": {
+      "title": "Âm thanh nền",
+      "none": "Tắt",
+      "rain": "Mưa",
+      "forest": "Rừng",
+      "temple": "Chuông chùa",
+      "stream": "Suối"
+    },
     "precepts": {
       "title": "Ghi Nhận Giữ Giới",
       "description": "Giới đức là nền tảng của tất cả công đức. Hãy kiểm tra và ghi nhận việc giữ giới hôm nay.",
@@ -181,7 +189,21 @@
       "beginner": "Sơ Cơ",
       "intermediate": "Trung Cấp",
       "advanced": "Nâng Cao"
-    }
+    },
+    "notFound": "Không tìm thấy kinh này",
+    "backToLibrary": "Quay lại Kinh Tạng",
+    "backToTop": "Về đầu trang",
+    "addBookmark": "Đánh dấu",
+    "removeBookmark": "Bỏ đánh dấu",
+    "fontSize": "Cỡ chữ",
+    "fontSizes": {
+      "small": "Nhỏ",
+      "medium": "Vừa",
+      "large": "Lớn"
+    },
+    "singleView": "Đơn",
+    "parallelView": "Song ngữ",
+    "progress": "Tiến độ"
   },
   "theme": {
     "light": "Chế độ sáng",

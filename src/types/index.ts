@@ -6,6 +6,7 @@ export interface MeditationSession {
   type: 'anapanasati' | 'vipassana' | 'walking' | 'other'
   notes?: string
   quality?: 1 | 2 | 3 | 4 | 5 // 1 = difficult, 5 = very good
+  ambientSound?: 'rain' | 'forest' | 'temple' | 'stream' // v5: ambient sound used
 }
 
 // Precepts Tracking
@@ -39,9 +40,32 @@ export interface Sutta {
   titlePali?: string
   collection: 'DN' | 'MN' | 'SN' | 'AN' | 'KN'
   summary: string
+  summaryPali?: string // v5: Pāli summary for parallel display
   content?: string
+  contentPali?: string // v5: Pāli content for parallel display
   themes: string[]
   difficulty: 'beginner' | 'intermediate' | 'advanced'
+}
+
+// Reading Progress (v5)
+export interface SuttaProgress {
+  suttaId: string
+  scrollPosition: number // scroll percentage 0-100
+  lastRead: string // ISO date
+}
+
+// Teaching Data (meditation manuals, commentaries)
+export interface Teaching {
+  id: string
+  title: string
+  titlePali?: string
+  author: string
+  translator?: string
+  summary: string
+  content: string
+  themes: string[]
+  difficulty: 'beginner' | 'intermediate' | 'advanced'
+  type: 'manual' | 'commentary' | 'discourse'
 }
 
 // User Stats

@@ -2,9 +2,10 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Button } from '@/components/ui/button'
 import { Play, Pause, RotateCcw, Check, Volume2, Clock } from 'lucide-react'
+import { AmbientSoundSelector, useAmbientSound, type AmbientSoundType } from './AmbientSound'
 
 interface MeditationTimerProps {
-  onComplete: (duration: number, quality?: number, notes?: string) => void
+  onComplete: (duration: number, quality?: number, notes?: string, ambientSound?: AmbientSoundType) => void
 }
 
 /**
@@ -74,6 +75,10 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
   const [quality, setQuality] = useState(3)
   const [notes, setNotes] = useState('')
 
+  // Ambient sound
+  const { currentSound, fadeOut: fadeOutSound } = useAmbientSound()
+  const [selectedSound, setSelectedSound] = useState<AmbientSoundType>('none')
+
   const intervalRef = useRef<number | undefined>(undefined)
 
   // Memoized bell function
@@ -124,6 +129,10 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
             setShowQuality(true)
             // Play meditation bell sound when timer completes
             ringBell()
+            // Fade out ambient sound over 3 seconds
+            if (currentSound !== 'none') {
+              fadeOutSound(3)
+            }
             return 0
           }
           return prev - 1
@@ -140,7 +149,7 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
         clearInterval(intervalRef.current)
       }
     }
-  }, [isRunning, timeLeft, ringBell])
+  }, [isRunning, timeLeft, ringBell, currentSound, fadeOutSound])
 
   const formatTime = (seconds: number) => {
     const mins = Math.floor(seconds / 60)
@@ -149,6 +158,8 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
   }
 
   const handleStart = () => {
+    // Track which sound was selected at start
+    setSelectedSound(currentSound)
     if (prepCountdown > 0) {
       setIsPreparing(true)
       setPrepTimeLeft(prepCountdown * 60)
@@ -167,10 +178,11 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
     setShowQuality(false)
     setQuality(3)
     setNotes('')
+    setSelectedSound('none')
   }
 
   const handleComplete = () => {
-    onComplete(duration, quality, notes)
+    onComplete(duration, quality, notes, selectedSound)
     handleReset()
   }
 
@@ -249,6 +261,9 @@ export function MeditationTimer({ onComplete }: MeditationTimerProps) {
               ))}
             </div>
           </div>
+
+          {/* Ambient Sound Selector */}
+          <AmbientSoundSelector isPlaying={isRunning || isPreparing} />
         </div>
       )}
 

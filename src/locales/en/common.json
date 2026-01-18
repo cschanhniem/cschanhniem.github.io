@@ -134,6 +134,14 @@
       },
       "sessionSaved": "Session saved!"
     },
+    "ambient": {
+      "title": "Ambient sound",
+      "none": "Off",
+      "rain": "Rain",
+      "forest": "Forest",
+      "temple": "Temple bells",
+      "stream": "Stream"
+    },
     "precepts": {
       "title": "Precepts Observance",
       "description": "Moral virtue is the foundation of all merit. Check and record your precepts observance today.",

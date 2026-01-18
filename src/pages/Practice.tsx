@@ -19,13 +19,14 @@ export function Practice() {
 
   const preceptsList = preceptsType === 'five' ? [1, 2, 3, 4, 5] : [1, 2, 3, 4, 5, 6, 7, 8]
 
-  const handleTimerComplete = (duration: number, quality?: number, notes?: string) => {
+  const handleTimerComplete = (duration: number, quality?: number, notes?: string, ambientSound?: string) => {
     addMeditationSession({
       date: new Date().toISOString(),
       duration,
       type: 'anapanasati',
       quality: (quality || 3) as 1 | 2 | 3 | 4 | 5,
-      notes
+      notes,
+      ambientSound: ambientSound as 'rain' | 'forest' | 'temple' | 'stream' | undefined
     })
     addToast(t('practice.timer.sessionSaved'), 'success')
   }

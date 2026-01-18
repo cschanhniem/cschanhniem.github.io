@@ -3,7 +3,8 @@
 
 **Tác giả:** Đại Trưởng Lão Mahasi Sayadaw
 **Dịch giả (Pali sang Anh):** Nyanaponika Thera
-**Chuyển ngữ Việt:** [Tên Bạn/Antigravity]
+**Bản dịch Việt ngữ tham khảo:** Phạm Kim Khánh
+**Hiệu đính và biên tập lại:** [Tên bạn] / Antigravity AI
 
 ---
 
@@ -209,3 +210,243 @@ Khi tham gia như vậy, người ấy nhận thức rằng trong mỗi hành đ
 
 Chính sự hiểu biết hoàn toàn rõ ràng về sự hoại diệt của hai điều, theo từng cặp — tức là, (1) của đối tượng thị giác hoặc đối tượng khác xuất hiện tại bất kỳ cửa nào trong sáu cửa giác quan, và (2) của thức ghi nhận chính đối tượng đó — được gọi là "tuệ diệt".
 
+
+### 6. Tuệ Kinh Hãi (Bhayatupatthana-ñana)
+
+Khi tuệ diệt đó chín muồi, dần dần sẽ nảy sinh, chỉ bằng cách nhìn thấy sự hoại diệt của tất cả các hành (đối tượng và chủ thể), nhận thức về sự đáng sợ [37] và các kiến thức (cao hơn) khác, cùng với các khía cạnh sợ hãi tương ứng của chúng, v.v. [38].
+
+Đã thấy sự hoại diệt của hai điều — tức là, bất kỳ đối tượng nào được ghi nhận và ý nghĩ minh sát tham gia vào việc ghi nhận nó — diễn ra theo từng khoảnh khắc, thiền sinh cũng hiểu bằng suy luận rằng trong quá khứ cũng vậy, mọi vật được tạo tác (hành) đều đã tan vỡ theo cùng một cách, rằng trong tương lai cũng vậy, nó sẽ tan vỡ y như thế, và hiện tại nó cũng đang tan vỡ. Và ngay tại thời điểm ghi nhận bất kỳ hành nào hiển hiện, những hành này sẽ xuất hiện đối với người ấy trong khía cạnh đáng sợ của chúng. Do đó, ngay trong hành động ghi nhận, thiền sinh cũng sẽ đi đến chỗ hiểu: "Những hành này thực sự đáng sợ."
+
+Sự hiểu biết như vậy về tính chất đáng sợ của chúng được gọi là "tuệ kinh hãi"; nó cũng có tên là "tuệ sợ hãi". Vào lúc đó, tâm trí của người ấy bị nỗi sợ hãi bao trùm và dường như bất lực.
+
+### 7. Tuệ Nguy Hiểm (Adinava-ñana)
+
+Khi người ấy đã nhận ra sự đáng sợ (của các hành) thông qua tuệ sợ hãi, và tiếp tục ghi nhận liên tục, thì "tuệ nguy hiểm" sẽ nảy sinh trong người ấy không lâu sau đó. Khi nó đã nảy sinh, tất cả các hành ở khắp mọi nơi — cho dù ở giữa các đối tượng được ghi nhận, hay ở giữa các trạng thái của ý thức tham gia vào việc ghi nhận, hay trong bất kỳ loại đời sống hoặc sự tồn tại nào được đưa vào tâm trí — sẽ xuất hiện nhạt nhẽo, không có yếu tố sinh lực [39], và không thỏa mãn. Vì vậy, vào lúc đó, người ấy chỉ thấy đau khổ, chỉ thấy sự không thỏa mãn, chỉ thấy sự khốn khổ. Do đó trạng thái này được gọi là "tuệ nguy hiểm".
+
+### 8. Tuệ Chán Nản (Nibbida-ñana)
+
+Thấy như vậy sự khốn khổ trong các vật được tạo tác (các hành), tâm trí người ấy không tìm thấy sự thích thú trong những vật khốn khổ đó mà hoàn toàn chán ghét chúng. Đôi khi, tâm trí người ấy trở nên, như thể, bất mãn và bồn chồn. Mặc dù vậy, người ấy không từ bỏ việc thực hành minh sát, mà dành thời gian liên tục tham gia vào nó. Do đó, người ấy nên biết rằng trạng thái tâm trí này không phải là sự bất mãn với thiền định, mà chính xác là "tuệ chán nản" có khía cạnh chán ghét với các hành. Ngay cả khi người ấy hướng suy nghĩ của mình đến loại cuộc sống và sự tồn tại hạnh phúc nhất, hoặc đến những đối tượng dễ chịu và đáng mong muốn nhất, tâm trí người ấy sẽ không thích thú trong chúng, sẽ không tìm thấy sự thỏa mãn trong chúng. Ngược lại, tâm trí người ấy sẽ nghiêng và dựa và hướng chỉ về phía Niết bàn. Do đó suy nghĩ sau đây sẽ nảy sinh trong người ấy giữa các khoảnh khắc ghi nhận: "Sự chấm dứt của tất cả các hành đang hoại diệt từ khoảnh khắc này sang khoảnh khắc khác — chỉ điều đó mới là hạnh phúc."
+
+### 9. Tuệ Muốn Giải Thoát (Muncitu-kamyata-ñana)
+
+Khi thông qua kiến thức này (hiện đã đạt được), người ấy cảm thấy chán ghét đối với mọi hành được ghi nhận, sẽ nảy sinh trong người ấy mong muốn từ bỏ các hành này hoặc được giải thoát khỏi chúng. Kiến thức liên quan đến mong muốn đó được gọi là "tuệ muốn giải thoát". Vào lúc đó, thường có nhiều cảm giác đau đớn khác nhau nảy sinh trong cơ thể người ấy, và cũng có sự không sẵn lòng duy trì lâu trong một tư thế cơ thể cụ thể. Ngay cả khi các trạng thái này không nảy sinh, bản chất không thoải mái của các hành sẽ trở nên rõ ràng hơn bao giờ hết. Và do đó, giữa các khoảnh khắc ghi nhận, người ấy cảm thấy khao khát như sau: "Ôi, mong sao tôi sớm thoát khỏi điều đó! Ôi, mong sao tôi đạt đến trạng thái nơi các hành này chấm dứt! Ôi, mong sao tôi có thể từ bỏ hoàn toàn các hành này!" Tại thời điểm này, ý thức của người ấy tham gia vào việc ghi nhận dường như co lại khỏi đối tượng được ghi nhận ở mỗi khoảnh khắc ghi nhận, và mong muốn thoát khỏi nó.
+
+### 10. Tuệ Phản Quan (Patisankhanupassana-ñana) - Kiến thức tái khảo sát
+
+Mong muốn thoát khỏi các hành như vậy, thiền sinh nỗ lực mạnh mẽ hơn và tiếp tục thực hành ghi nhận chính các hành này với mục đích duy nhất là từ bỏ chúng và thoát khỏi chúng. Vì lý do đó, kiến thức nảy sinh vào lúc đó được gọi là "tuệ phản quan". Thuật ngữ "phản quan" (tái quan sát) có cùng ý nghĩa với "tái ghi nhận" hoặc "tái quán chiếu". Khi đó bản chất (hoặc đặc tính) của các hành — sự vô thường, khổ, và vô ngã của chúng — sẽ hiển hiện rõ ràng đối với người ấy; và trong ba đặc tính này, khía cạnh khổ sẽ đặc biệt rõ rệt.
+
+Ở giai đoạn này cũng vậy, thường sẽ nảy sinh trong cơ thể người ấy nhiều loại đau đớn khác nhau dữ dội, sắc nhọn và ngày càng tăng cường độ. Do đó toàn bộ hệ thống thân và tâm của người ấy sẽ dường như đối với người ấy giống như một khối bệnh tật không thể chịu đựng được hoặc một khối đau khổ. Và một trạng thái bồn chồn (trào cử) thường sẽ biểu hiện, khiến người ấy không thể giữ một tư thế cụ thể nào trong bất kỳ khoảng thời gian dài nào. Vì khi đó người ấy sẽ không thể giữ bất kỳ vị trí nào lâu, mà sẽ sớm muốn thay đổi nó. Tuy nhiên, trạng thái này chỉ đơn giản biểu hiện bản chất không thể chịu đựng được của các hành. Mặc dù người ấy muốn thay đổi tư thế cơ thể của mình, người ấy vẫn không nên dễ dàng nhượng bộ mong muốn đó, mà nên nỗ lực duy trì bất động trong một thời gian dài hơn ở cùng một tư thế và tiếp tục thực hiện việc thực hành ghi nhận. Bằng cách làm như vậy, người ấy sẽ có thể vượt qua sự bồn chồn của mình.
+
+Bây giờ tuệ minh sát của người ấy khá mạnh và sáng suốt, và nhờ vào nó, ngay cả những cảm giác đau đớn của người ấy cũng sẽ chấm dứt ngay lập tức ngay khi chúng được ghi nhận một cách chắc chắn. Ngay cả khi một cảm giác đau đớn không chấm dứt hoàn toàn, người ấy sẽ nhận thức rằng nó đang hoại diệt, từng phần, từ khoảnh khắc này sang khoảnh khắc khác. Nghĩa là, sự chấm dứt, biến mất và tan biến của mỗi khoảnh khắc cảm giác đơn lẻ sẽ trở nên rõ ràng riêng biệt trong mỗi hành động ghi nhận tương ứng. Nói cách khác, bây giờ nó sẽ không giống như lúc ở tuệ thẩm sát, khi dòng chảy liên tục hoặc sự liên tục của các cảm giác cùng loại hiển hiện như một đơn vị duy nhất. Nhưng nếu, không từ bỏ việc thực hành, cảm giác đau đớn đó được ghi nhận một cách chắc chắn và liên tục, nó sẽ hoàn toàn chấm dứt không lâu sau đó. Khi nó chấm dứt theo cách đó, nó chấm dứt vĩnh viễn và sẽ không nảy sinh lại. Mặc dù theo cách đó tuệ minh sát có thể đã trở nên mạnh mẽ và hoàn toàn sáng suốt, người ấy vẫn không hài lòng với bấy nhiêu đó. Người ấy thậm chí sẽ nghĩ: "Tuệ minh sát của tôi không rõ ràng." Tuy nhiên, người ấy nên gạt bỏ những suy nghĩ như vậy bằng cách áp dụng hành động ghi nhận vào chúng, và người ấy nên tiếp tục nhiệm vụ ghi nhận liên tục các hành thân và tâm khi chúng xảy ra.
+
+Nếu người ấy kiên trì như vậy, sự ghi nhận của người ấy sẽ trở nên ngày càng rõ ràng khi thời gian trôi qua từng phút, từng giờ và từng ngày. Sau đó, người ấy sẽ vượt qua những cảm giác đau đớn và sự bồn chồn khi không thể duy trì lâu trong một tư thế cụ thể, và cũng vượt qua ý tưởng rằng tuệ minh sát của mình chưa đủ rõ ràng. Sự ghi nhận của người ấy sau đó sẽ hoạt động nhanh chóng, và tại mỗi khoảnh khắc ghi nhận, người ấy sẽ hiểu khá rõ ràng bất kỳ đặc tính nào trong ba đặc tính vô thường, v.v.
+
+Sự hiểu biết này về bất kỳ đặc tính nào trong ba đặc tính vô thường, v.v., thông qua hành động ghi nhận hoạt động với sự nhanh chóng trong sự kế thừa nhanh lẹ, được gọi là "tuệ phản quan mạnh".
+
+### 11. Tuệ Xả Hành (Sankhar'upekkha-ñana)
+
+Khi tuệ phản quan này chín muồi, sẽ nảy sinh kiến thức nhận thức các tiến trình thân và tâm hiển hiện trong sự nối tiếp liên tục một cách khá tự nhiên, như thể tự nó trôi đi. Đây được gọi là "tuệ xả hành".
+
+Bây giờ, trong hành động ghi nhận, nỗ lực không còn cần thiết để giữ các hành trước tâm trí hoặc để hiểu chúng. Sau khi hoàn thành mỗi hành động ghi nhận đơn lẻ, đối tượng cần ghi nhận sau đó sẽ tự xuất hiện, và tuệ minh sát cũng sẽ tự ghi nhận và hiểu nó. Nó giống như thể không cần thiền sinh phải nỗ lực thêm nữa. Trước đây, do nhìn thấy sự hoại diệt của các hành, đã nảy sinh, theo thứ tự kế tiếp, khía cạnh đáng sợ, sự nhận thức về sự nguy hiểm, khía cạnh chán nản, mong muốn giải thoát, và sự không hài lòng với kiến thức đã đạt được cho đến nay. Nhưng bây giờ những trạng thái tâm trí này không còn nảy sinh nữa mặc dù, trong trạng thái hiện tại cũng vậy, sự tan vỡ của các hành đang hoại diệt nhanh hơn được nhận thức chặt chẽ. Ngay cả khi một cảm giác đau đớn nảy sinh trong cơ thể, không có sự xáo trộn tâm trí (đau buồn) nào nảy sinh, và không có sự thiếu can đảm trong việc chịu đựng nó. Tuy nhiên, nói chung, ở giai đoạn này, những cơn đau sẽ hoàn toàn vắng mặt, nghĩa là chúng không nảy sinh chút nào. Ngay cả khi thiền sinh nghĩ về điều gì đó đáng sợ hoặc buồn bã, không có sự xáo trộn tâm trí nào nảy sinh, dù là dưới hình thức sợ hãi hay đau buồn. Điều này, thứ nhất, là "sự từ bỏ sợ hãi" ở giai đoạn "xả hành".
+
+Ở giai đoạn trước đó, khi đạt được tuệ sanh diệt, niềm vui lớn đã nảy sinh do sự rõ ràng của minh sát. Nhưng bây giờ loại niềm vui này không nảy sinh, mặc dù hiện diện sự rõ ràng cực kỳ an bình và siêu phàm của tâm trí thuộc về "xả hành". Mặc dù người ấy thực sự nhìn thấy những đối tượng đáng mong muốn dẫn đến niềm vui, hoặc mặc dù người ấy nghĩ về những điều thú vị khác nhau, không có cảm giác vui sương mạnh mẽ nào nảy sinh. Đây là "sự từ bỏ hỷ lạc" ở giai đoạn "xả hành".
+
+Người ấy không ấp ủ ham muốn hay ghét bỏ đối với bất kỳ đối tượng nào, đáng mong muốn hay không đáng mong muốn, đi vào phạm vi của các cửa giác quan của mình, nhưng coi chúng giống như nhau trong hành động ghi nhận của mình, người ấy hiểu chúng (nghĩa là, đó là một hành động hiểu biết thuần túy). Đây là "tầm nhìn bình thản" ở giai đoạn "xả hành".
+
+Về ba phẩm chất vừa được đề cập này, trong Thanh Tịnh Đạo có nói: "Đã loại bỏ sợ hãi và hỷ lạc, người ấy vô tư và trung lập đối với tất cả các hành" (Thanh Tịnh Đạo, xxi, 62).
+
+Nếu người ấy tiếp tục thực hành ghi nhận với suy nghĩ: "Bây giờ tôi sẽ làm điều đó một cách mạnh mẽ trở lại!" thì, không lâu sau, việc ghi nhận sẽ hoạt động hiệu quả như thể tự nó trôi đi. Từ giờ trở đi, thiền sinh không cần phải nỗ lực (có chủ ý) thêm nữa. Mặc dù người ấy không thực hiện một nỗ lực (có chủ ý), sự ghi nhận của người ấy sẽ tiến hành trong một dòng chảy liên tục và ổn định trong một thời gian dài; nó sẽ tiếp tục thậm chí trong hai hoặc ba giờ mà không bị gián đoạn. Đây là "trạng thái kéo dài (thực hành)" của xả hành. Đề cập đến điều này, trong Patisambhidamagga có nói: "'Trí tuệ kéo dài lâu' là kiến thức hiện diện trong các trạng thái tâm của xả hành." Đại Chú giải cho Thanh Tịnh Đạo giải thích như sau: "Điều này được nói liên quan đến kiến thức hoạt động trong một dòng chảy liên tục."
+
+Bây giờ khi việc ghi nhận hoạt động một cách tự phát như thể tự nó trôi đi, tâm trí, ngay cả khi được gửi đi về phía nhiều đối tượng khác nhau, thường từ chối đi; và ngay cả khi nó đi, nó sẽ không ở lại lâu mà sẽ sớm quay trở lại đối tượng thông thường cần được ghi nhận, và sẽ tiếp tục ghi nhận liên tục. Trong mối liên hệ này, đã có nói: "Nó co lại, lùi lại, và rút lui; nó không đi tới nó."
+
+### 12. Tuệ Dẫn Đến Xuất Khởi (Vutthanagamini-vipassana-ñana)
+
+Vì vậy, thông qua tuệ xả hành, được ban cho nhiều đức hạnh, phước lành và sức mạnh, người ấy ghi nhận các hành khi chúng xảy ra. Khi kiến thức này chín muồi, đã trở nên sắc bén, mạnh mẽ và sáng suốt, khi đạt đến điểm cực đỉnh của nó, nó sẽ hiểu bất kỳ hành nào là vô thường hoặc khổ hoặc vô ngã, chỉ bằng cách nhìn thấy sự hoại diệt của chúng. Bây giờ hành động ghi nhận bất kỳ một trong ba đặc tính nào, vẫn còn sáng suốt hơn trong sự hiểu biết hoàn hảo của nó, biểu hiện hai hoặc ba lần hoặc nhiều hơn trong sự kế thừa nhanh chóng. Đây được gọi là "tuệ dẫn đến xuất khởi" [40].
+
+Ngay sau đó, ngay sau ý thức cuối cùng trong chuỗi các hành động ghi nhận thuộc về minh sát dẫn đến xuất khởi này, ý thức của thiền sinh nhảy vọt vào Niết bàn, là sự chấm dứt của tất cả các hành, lấy nó làm đối tượng. Sau đó xuất hiện với người ấy sự tĩnh lặng (lắng xuống) của tất cả các hành được gọi là diệt (cessation).
+
+Phương thức chứng ngộ Niết bàn này đã được đề cập trong nhiều bài giảng của Bậc Đạo Sư, ví dụ: "Pháp nhãn (tầm nhìn sự thật) đã sinh khởi: bất cứ điều gì có bản chất sinh khởi đều phải bị diệt." Ở đây những từ "phải bị diệt" chỉ ra khía cạnh chứng ngộ sự tĩnh lặng và chấm dứt của tất cả các hành có bản chất sinh khởi.
+
+Cũng trong Câu Hỏi của Vua Milinda (Mi Tiên Vấn Đáp) có nói: "Ý thức của người ấy, trong khi thực hiện việc thực hành tác ý (tức là ghi nhận), vượt qua sự xuất hiện liên tục của các hiện tượng và đậu vào sự không xuất hiện (vô hành/vô vi). Người, đã thực hành theo cách đúng đắn, đã đậu vào sự không xuất hiện, tâu đại vương, được cho là đã chứng ngộ Niết bàn."
+
+Ý nghĩa là thế này: thiền sinh muốn chứng ngộ Niết bàn nên lặp đi lặp lại việc tác ý, thông qua việc thực hành ghi nhận, mọi tiến trình thân và tâm xuất hiện tại bất kỳ cửa nào trong sáu cửa giác quan. Khi người ấy tác ý đến chúng như vậy, ý thức của người ấy tham gia vào việc ghi nhận — ở đây được gọi là "tác ý" — sẽ, cho đến khi đạt được tuệ thuận thứ, rơi vào mọi khoảnh khắc trên các hành thân và tâm (hữu vi) được gọi ở đây là "sự xuất hiện liên tục", bởi vì chúng tiếp tục xảy ra lặp đi lặp lại trong một dòng chảy không gián đoạn, giống như dòng chảy của một con sông. Nhưng trong giai đoạn cuối, thay vì rơi vào sự xuất hiện liên tục đó, ý thức vượt qua nó và đậu vào "sự không xuất hiện", hoàn toàn đối lập với các hành thân và tâm được gọi ở đây là "sự xuất hiện". Nói cách khác, nó đi đến sự không xuất hiện, nghĩa là, nó đạt đến, như thể nó "đậu vào", sự diệt, là sự tĩnh lặng của các hành (hoặc các hiện tượng hữu vi). Khi thiền sinh, trước đó đã thực hành đúng đắn và không đi chệch hướng bằng con đường của tuệ sanh diệt và các kiến thức khác (hoặc bằng con đường thanh tịnh giới, tâm, kiến, v.v.), theo cách này đã đi đến sự không xuất hiện (bằng cách ý thức đậu vào nó), người ấy được cho là đã "chứng ngộ Niết bàn". Người ấy được gọi là người đã biến Niết bàn thành trải nghiệm trực tiếp và đã thực sự nhìn thấy nó.
+
+### 13. Tuệ Thuận Thứ (Anuloma-ñana)
+
+Ở đây kiến thức bằng cách ghi nhận xảy ra cuối cùng trong chuỗi cấu thành minh sát dẫn đến xuất khởi, được gọi là "tuệ thuận thứ" [41].
+Đây là sự kết thúc của thanh tịnh bằng tri kiến về lộ trình thực hành.
+
+### 14. Tuệ Chuyển Tộc (Gotrabhu-ñana)
+
+Ngay sau đó, một loại kiến thức biểu hiện, như thể, lần đầu tiên rơi vào Niết bàn, vốn trống rỗng các hành (hiện tượng hữu vi) vì nó là sự chấm dứt của chúng. Kiến thức này được gọi là "tuệ chuyển tộc" [42].
+
+## VII. Tri Kiến Tịnh (Ñanadassana-visuddhi)
+
+### 15. Tuệ Đạo (Magga-ñana)
+
+Nó được theo sau ngay lập tức bởi kiến thức an trú trong cùng Niết bàn đó, vốn trống rỗng các hành vì nó là sự chấm dứt của chúng. Đây được gọi là "tuệ đạo" [43]. Nó cũng được gọi là "tri kiến tịnh".
+
+### 16. Tuệ Quả (Phala-ñana)
+
+Cái đó lại được theo sau ngay lập tức bởi kiến thức thuộc về giai đoạn cuối cùng và tiếp tục trong quá trình của người tiền nhiệm. Nó an trú trong cùng Niết bàn đó, vốn trống rỗng các hành vì nó là sự chấm dứt của chúng. Đây được gọi là "tuệ quả".
+
+### 17. Tuệ Phản Khán (Paccavekkhana-ñana)
+
+Tuy nhiên, thời lượng của ba loại kiến thức chuyển tộc, đạo và quả không dài. Nó rất ngắn, và chỉ kéo dài trong một khoảnh khắc, giống như thời lượng của một ý nghĩ ghi nhận duy nhất. Sau đó nảy sinh "tuệ phản khán". Thông qua tuệ phản khán đó, thiền sinh phân biệt rằng minh sát dẫn đến xuất khởi đã đến cùng với chức năng ghi nhận rất nhanh chóng, và ngay sau giai đoạn ghi nhận cuối cùng, tâm đạo đã đi vào sự diệt (của các hành). Đây là "kiến thức phản khán đạo".
+
+Người ấy cũng phân biệt rằng ý thức đã an trú trong cùng trạng thái diệt đó trong khoảng thời gian trung gian giữa đạo và phản khán. Đây là "kiến thức phản khán quả".
+
+Người ấy phân biệt thêm rằng đối tượng vừa trải nghiệm là trống rỗng tất cả các hành. Đây là "kiến thức phản khán Niết bàn".
+
+Về vấn đề này, trong Thanh Tịnh Đạo có nói: "'Quả thật, ta đã đến bằng con đường đó'; như vậy người ấy phản khán đạo. 'Phước lành đó đã nhận được'; như vậy người ấy phản khán quả. 'Trạng thái đó đã được thâm nhập như một đối tượng bởi ta' [44]; như vậy người ấy phản khán Bất Tử, Niết bàn" (Thanh Tịnh Đạo, xxii, 20).
+
+Một số thiền sinh, nhưng không phải tất cả, có "phản khán phiền não" [45].
+
+Sau khi đã phản khán theo cách này, thiền sinh vẫn tiếp tục thực hành ghi nhận các tiến trình thân và tâm khi chúng trở nên rõ ràng. Nhưng trong khi người ấy đang tham gia vào việc ghi nhận như vậy, các tiến trình thân và tâm xuất hiện đối với người ấy khá thô, không tinh tế như trước đây vào thời điểm của tuệ xả hành. Tại sao lại như vậy? Điều này là như vậy bởi vì kiến thức hiện tại có bản chất của tuệ sanh diệt. Vì khi các vị thánh đệ tử (cụ thể là bậc Nhập Lưu, v.v.) tiếp tục thực hành minh sát (bằng cách ghi nhận), tuệ sanh diệt thường nảy sinh lúc ban đầu. Đây là trình tự thông thường trong khía cạnh này.
+
+Tuy nhiên, khi một số thiền sinh xuất khỏi sự chứng đạt đạo và quả, đức tin lớn, hạnh phúc, hỷ lạc và khinh an, được tạo ra nhờ sự chứng đạt, nảy sinh tràn ngập toàn bộ cơ thể. Do đó, họ không thể thực hiện việc thực hành ghi nhận bất cứ điều gì hiển hiện vào lúc đó. Ngay cả khi họ nỗ lực gấp đôi và cố gắng tiến hành việc thực hành minh sát, họ cũng không phân biệt được các hiện tượng một cách rõ ràng và riêng biệt, tại thời điểm xuất hiện của chúng. Họ tiếp tục chỉ trải nghiệm hỷ, tịnh và lạc, xảy ra với lực lớn. Trạng thái tâm trí này, vô cùng thanh thản nhờ đức tin mạnh mẽ đang chiếm ưu thế, kéo dài trong một giờ, hai giờ hoặc hơn, không gián đoạn. Vì điều này, các thiền sinh cảm thấy như thể họ đang ở một nơi nào đó như một không gian rộng mở tràn ngập ánh hào quang và thú vị nhất. Hỷ và lạc, có tính chất thanh thản, nảy sinh khi đó được các thiền sinh ca ngợi như sau: "Chắc chắn, tôi chưa bao giờ cảm thấy và trải nghiệm hạnh phúc như vậy trước đây!" Sau hai hoặc ba giờ đã trôi qua, đức tin, hạnh phúc, hỷ lạc và khinh an đó sẽ phai nhạt. Các thiền sinh có thể một lần nữa tiến hành việc ghi nhận các tiến trình thân và tâm khi chúng xảy ra, phân biệt chúng một cách riêng biệt, và họ sẽ có thể nhận thức chúng rõ ràng. Nhưng vào lúc đó cũng vậy, trước tiên tuệ sanh diệt sẽ xuất hiện.
+
+### 18. Quả Định (Phalasamapatti) - Sự chứng đạt Quả
+
+Trong khi người ấy đang tham gia vào việc ghi nhận như vậy, tuệ minh sát của người ấy sẽ dần dần phát triển, và sẽ sớm đạt lại giai đoạn xả hành. Nếu sức định của người ấy vẫn chưa hoàn hảo, chỉ có xả hành sẽ tiếp tục lặp lại chính nó. Nhưng nếu định của người ấy đã đạt đến sự hoàn hảo, thì, trong trường hợp của một người thực hành minh sát ghi nhận với mục đích chỉ đạt đến đạo và quả thứ nhất, tâm quả của đạo thứ nhất đơn độc đạt đến sự chấm dứt của các hành bằng con đường chứng đạt quả (Quả định) [46]. Điều này xảy ra theo cách chính xác như tâm đạo và tâm quả đã xảy ra trước đó trong chuỗi ý thức thuộc về sự chứng đạt ban đầu của đạo thứ nhất. Sự khác biệt duy nhất ở đây là khả năng của sự chứng đạt quả kéo dài lâu.
+
+Người ta cũng nên đặt tâm trí kiên quyết vào các nhiệm vụ tiếp theo: để có thể lặp lại thành tựu chứng đạt quả, để đạt được nó nhanh chóng, và, tại thời điểm thành tựu, để an trú trong nó một thời gian dài, chẳng hạn trong sáu, mười, mười lăm hoặc ba mươi phút, hoặc trong một giờ hoặc hơn.
+
+Ở một người áp dụng bản thân để đạt được sự chứng đạt quả, tuệ sanh diệt sẽ nảy sinh lúc ban đầu. Tiến lên từ đó theo trình tự thích hợp, chẳng bao lâu tuệ xả hành đạt được. Nhưng khi kỹ năng trong thực hành đã đạt được, tuệ xả hành sẽ nảy sinh nhanh chóng ngay cả sau bốn hoặc năm hành động ghi nhận. Nếu sức định đã đạt đến sự hoàn hảo, tâm quả sẽ lặp đi lặp lại trở nên hấp thụ vào sự diệt bằng con đường chứng đạt quả. Tâm trí do đó có thể đạt đến sự hấp thụ ngay cả khi người ta đang đi đi lại lại, hoặc trong khi đang dùng bữa, và sự chứng đạt quả có thể duy trì trong bất kỳ khoảng thời gian nào đã quyết định. Trong quá trình chứng đạt quả, tâm trí sẽ chỉ an trú trong sự chấm dứt của các hành và sẽ không nhận thức bất cứ điều gì khác.
+
+### 19. Các Đạo Quả cao hơn
+
+Khi thiền sinh đã trở nên thành thạo trong việc đạt được sự chứng đạt quả như vậy, người ấy nên kiên quyết đặt tâm trí vào nhiệm vụ đạt đến các đạo và quả cao hơn. Bây giờ người đã đặt cho mình nhiệm vụ đó nên làm gì? Cũng như trước đây, người ấy nên thực hiện việc thực hành ghi nhận (bất cứ điều gì xảy ra) tại sáu cửa giác quan.
+
+Do đó, thiền sinh nên ghi nhận bất kỳ tiến trình thân và tâm nào trở nên rõ ràng đối với mình tại sáu cửa giác quan. Trong khi người ấy đang tham gia như vậy, người ấy sẽ thấy, ở giai đoạn tuệ sanh diệt, rằng các đối tượng đầu tiên bao gồm các hành xuất hiện đối với người ấy khá thô, và tâm trí người ấy không được tập trung tốt. Sự phát triển của minh sát thuộc về các đạo cao hơn, trên thực tế, không dễ dàng như của minh sát thuộc về sự chứng đạt quả đã đạt được bởi thiền sinh. Trên thực tế, nó hơi khó khăn, do thực tế là minh sát phải được phát triển lại từ đầu. Tuy nhiên, nó không quá khó khăn như lần đầu tiên khi bắt đầu thực hành. Trong một ngày duy nhất, hoặc thậm chí trong một giờ duy nhất, người ấy có thể đạt được tuệ xả hành. Tuyên bố này được đưa ra ở đây, dựa trên kinh nghiệm thường đạt được bởi những người ngày nay, những người phải được hướng dẫn ngay từ đầu và những người không sở hữu trí thông minh đặc biệt mạnh mẽ. Ở đây nó được áp dụng, bằng suy luận, cho các loại người tương tự nói chung.
+
+Nhưng mặc dù xả hành đã đạt được, nếu các tín căn (các yếu tố tinh thần) [47] chưa đạt đến sự chín muồi hoàn toàn, nó chỉ tiếp tục lặp lại chính nó. Mặc dù người đã giành được (một trong các) quả (thấp hơn) có thể nhập vào nó nhiều lần trong vòng một giờ, nhưng nếu các tín căn của người ấy chưa trưởng thành, người ấy không thể đạt đến đạo cao hơn tiếp theo trong vòng một ngày, hai, ba hoặc nhiều ngày hơn. Người ấy chỉ an trú trong xả hành. Tuy nhiên, nếu sau đó người ấy hướng tâm trí để đạt đến quả đã đạt được, người ấy sẽ đạt đến nó có lẽ trong hai hoặc ba phút.
+
+Tuy nhiên, khi các tín căn đã chín muồi, người thực hiện việc thực hành minh sát để đạt đến đạo cao hơn sẽ thấy rằng ngay sau khi xả hành đã đạt đến cực đỉnh của nó, đạo và quả cao hơn nảy sinh theo cùng một cách như trước (tức là, như tại thời điểm của đạo và quả đầu tiên), nghĩa là, nó được đi trước bởi các giai đoạn thuận thứ và chuyển tộc. Sau quả, các giai đoạn phản khán, v.v., theo sau cũng giống như trước.
+
+Bất cứ điều gì khác liên quan đến phương pháp thực hành minh sát và sự tiến bộ của kiến thức ngay đến quả vị A-la-hán có thể được hiểu theo cách chính xác như đã mô tả. Do đó không cần phải giải thích thêm chi tiết.
+
+## Kết luận
+
+Bây giờ, tác phẩm hiện tại về "Tiến trình Minh Sát qua các Giai đoạn Thanh Tịnh" đã được viết dưới dạng ngắn gọn, để các thiền sinh có thể dễ dàng lĩnh hội nó. Do đó, các chi tiết đầy đủ đã không được đưa ra ở đây. Và vì nó được viết với mục đích làm cho nó dễ hiểu, trong nhiều đoạn của tác phẩm này, các tài liệu tham khảo kinh điển liên quan đã không được trích dẫn, và có sự lặp lại và các lỗi khác về bố cục văn học. Nhưng những thiếu sót này trong cách trình bày và sự không đầy đủ của các tài liệu tham khảo kinh điển có thể được người đọc bỏ qua ở đây. Chỉ có ý nghĩa và mục đích nên được các bậc trí giả chú ý kỹ. Chính điều này mà tôi muốn mời sự chú ý của người đọc.
+
+Mặc dù lúc đầu đã đề cập rằng tác phẩm này được viết cho những người đã thu được kết quả đặc biệt trong việc thực hành của họ, những người khác có lẽ cũng có thể đọc nó với lợi ích.
+
+Bây giờ đây là những lời chúc tốt đẹp kết luận của tôi dành cho loại độc giả sau: Cũng như một bữa ăn rất ngon, hấp dẫn, đậm đà và bổ dưỡng chỉ có thể được đánh giá cao trọn vẹn bởi người đã chính mình ăn nó, chứ không phải không cần dùng nó, theo cùng một cách, toàn bộ loạt kiến thức được mô tả ở đây chỉ có thể được hiểu trọn vẹn bởi người đã chính mình nhìn thấy nó bằng kinh nghiệm trực tiếp, chứ không phải cách khác. Vì vậy, mong tất cả những người tốt đạt đến giai đoạn hiểu biết không thể nghi ngờ về toàn bộ loạt kiến thức này! Mong họ cũng nỗ lực để đạt được nó!
+
+*Tác phẩm này về các thanh tịnh và minh sát,*
+*Cho các thiền sinh, những người đã thấy các pháp rõ ràng,*
+*Mặc dù kho kiến thức của họ có thể nhỏ —*
+*Trưởng lão, tên là Mahasi, trong phương pháp của minh sát thiện xảo,*
+*Đã viết nó bằng tiếng Miến và dịch sang tiếng Pali.*
+
+Tác phẩm về Các Thanh Tịnh và Minh Sát
+được soạn vào ngày 22.5.1950
+kết thúc tại đây.
+
+---
+
+## Ghi chú
+
+1. Ở đây, và trong tiêu đề của tác phẩm này, thuật ngữ Pali *ñana* đã được dịch là "minh sát" (insight - trong bản tiếng Anh), vì ngay từ đầu từ "kiến thức" (knowledge), bản dịch bình thường của *ñana*, có thể không được người đọc tiếp nhận với đầy đủ trọng lượng và ý nghĩa mà nó sẽ nhận được trong bối cảnh của tác phẩm hiện tại. Tuy nhiên, trong tất cả các lần xuất hiện sau, thuật ngữ Pali này đã được dịch là "kiến thức" (knowledge), trong khi từ "minh sát" (insight) đã được dành riêng cho thuật ngữ Pali *vipassana*. Khi đề cập đến một số loại và giai đoạn kiến thức, số nhiều "các kiến thức" (knowledges) đã được sử dụng, phù hợp với tiếng Pali *ñanani*. (Trong bản dịch tiếng Việt, người dịch dùng linh hoạt "Tuệ" hoặc "Kiến thức" tùy ngữ cảnh).
+2. Trong kinh điển Phật giáo, bảy giai đoạn thanh tịnh (*visuddhi*) được đề cập trong Kinh Trạm Xe (Trung Bộ Kinh số 24). Chúng cũng là khung sườn của bộ Thanh Tịnh Đạo (*Visuddhimagga*) của Ngài Buddhaghosa, nơi chúng được giải thích đầy đủ.
+3. "Chuyển động" (*vayo*, nghĩa đen là gió, không khí) đề cập đến yếu tố cuối cùng của bốn yếu tố vật chất (*dhatu*), hoặc các phẩm chất chính của vật chất (Tứ đại). Ba yếu tố kia là: đất (tính rắn, cứng), nước (tính dính), và lửa (nhiệt). Bốn yếu tố này, với sức mạnh tỷ lệ khác nhau, hiện diện trong tất cả các dạng vật chất. Cái gọi là "yếu tố gió bên trong" áp dụng trong bối cảnh này hoạt động trong cơ thể như chuyển động, rung động và áp lực biểu hiện trong sự di chuyển của không khí qua cơ thể (ví dụ, trong hơi thở), trong chuyển động và áp lực của các chi và cơ quan, v.v. Nó trở nên có thể nhận thức được như một tiến trình xúc chạm, hoặc đối tượng của xúc giác (*photthabbarammana*), thông qua áp lực do nó gây ra.
+4. Sự chú ý hướng đến chuyển động của bụng được đưa vào phương pháp thực hành thiền minh sát bởi tác giả của tác phẩm này, Ngài Mahasi Sayadaw, và hình thành nên đối tượng cơ bản của thực hành thiền định ở đây. Để biết chi tiết xem *The Heart of Buddhist Meditation* của Nyanaponika Thera. Nếu thích, hơi thở cũng có thể được lấy làm đối tượng cơ bản của sự chú ý thiền định, theo phương pháp truyền thống của "niệm hơi thở" (*anapanasati*).
+5. Theo giáo lý Vi Diệu Pháp (Abhidhamma) của Phật giáo, chỉ có ba yếu tố đất, lửa và gió cấu thành chất xúc chạm trong vật chất. Yếu tố nước không được coi là một đối tượng của xúc giác ngay cả trong những trường hợp nó chiếm ưu thế, như trong chất lỏng. Cái xúc chạm được trong bất kỳ chất lỏng nào là sự đóng góp của ba yếu tố kia vào bản chất hỗn hợp của nó.
+6. "Cửa" (Môn) là một biểu thức tượng hình cho các cơ quan giác quan (bao gồm cả ý, là sáu), bởi vì chúng cung cấp, như thể, lối vào thế giới của các đối tượng.
+7. Chuỗi các thuật ngữ trước đó thường được sử dụng trong các Kinh (*Suttas*) của Đức Phật để chỉ những cá nhân đã đạt đến giai đoạn siêu thế đầu tiên trên con đường đến quả vị A-la-hán, tức là, Nhập lưu (*sotapatti*), hoặc các giai đoạn sau. Xem Ghi chú 33. Thuật ngữ Pháp (*Dhamma*) ở đây đề cập đến Niết bàn.
+8. I. Ngũ Giới ràng buộc đối với tất cả các cư sĩ Phật giáo, là: tránh xa (1) sát sinh, (2) trộm cắp, (3) tà dâm, (4) nói dối, (5) chất say.
+   II. Bát Quan Trai Giới là: tránh xa (1) sát sinh, (2) trộm cắp, (3) dâm dục ̣(không hành dâm), (4) nói dối, (5) chất say, (6) ăn phi thời (sau giờ ngọ), (7) tránh xa (a) khiêu vũ, ca hát, âm nhạc, xem biểu diễn, (b) trang điểm, thoa vật thơm, v.v., (8) nằm ngồi nơi quá cao và xinh đẹp. Bộ tám giới này được tuân giữ bởi các cư sĩ Phật giáo sùng đạo vào các ngày rằm và các dịp khác.
+   III. Thập Giới (Sa di): (1)-(6) giống như II, 1-6; (7) giống II, 7 (a); (8) giống II, 7 (b); (9) giống II, 8; (10) tránh xa việc chấp nhận vàng và bạc, tiền bạc, v.v.
+9. Ba mục khác của giới hạnh thanh tịnh bốn phần của nhà sư là thu thúc lục căn, thanh tịnh về nuôi mạng, và giới hạnh thanh tịnh liên quan đến các vật dụng của nhà sư (quán tưởng vật dụng).
+10. Cận định (*upacara-samadhi*) là mức độ tập trung tâm trí tiếp cận, nhưng chưa đạt được, toàn định (*appana-samadhi*) của thiền định đầu tiên (sơ thiền). Nó vẫn thuộc về cõi dục giới (*kamavacara*) của tâm thức, trong khi các tầng thiền (*jhanas*) thuộc về cõi sắc giới (*rupavacara*).
+11. *Pañcupadanakkhandha*. Năm nhóm này, là đối tượng của sự chấp thủ, là: (1) sắc, (2) thọ, (3) tưởng, (4) hành, (5) thức.
+12. Cũng được gọi là *sukkhavipassana-yanika*.
+13. Nghĩa đen: "theo bản chất và chức năng thực sự của chúng."
+14. Phương pháp thiền định này nhằm mục đích "kiến thức bằng kinh nghiệm trực tiếp" (*paccakkha-ñana*), kết quả từ chánh niệm hướng về các tiến trình thân và tâm của chính mình. Chính vì lý do đó mà ở đây đề cập rõ ràng đến "sự liên tục đời sống của chính mình". Đã thu thập kinh nghiệm trực tiếp quyết định từ việc quán chiếu thân và tâm của chính mình, thiền sinh sau này sẽ mở rộng sự quán chiếu đến các tiến trình đời sống của người khác, bằng cách suy luận (*anumana*). Xem, trong Kinh Niệm Xứ, đoạn lặp lại: "quán thân, v.v., bên ngoài."
+15. "Ghi nhận" (*sallakkhana*) là một thuật ngữ chính trong tác phẩm này. Động từ tương ứng trong tiếng Pali là *sallakkheti* (sam + lakh), có thể được dịch một cách thỏa đáng cũng như theo nghĩa đen là "đánh dấu rõ ràng".
+16. Phụ Chú giải Kinh Phạm Võng giải thích như sau: "Các pháp theo bản chất thực sự của chúng (*paramatthadhamma*) có hai đặc tính hoặc dấu hiệu: đặc tính riêng (tướng riêng) và đặc tính chung (tướng chung). Sự hiểu biết về các đặc tính riêng là kiến thức bằng kinh nghiệm (*paccakkha-ñana*), trong khi sự hiểu biết về các đặc tính chung là kiến thức bằng suy luận (*anumana-ñana*)." Đặc tính riêng, ví dụ, của yếu tố chuyển động (vayo-dhatu - phong đại) là bản chất nâng đỡ, chức năng di chuyển của nó; các đặc tính chung của nó là vô thường, v.v.
+17. Ba thuật ngữ in nghiêng là các danh mục định nghĩa tiêu chuẩn được sử dụng trong các Chú giải Pali và Thanh Tịnh Đạo. Trong trường hợp của các hiện tượng tâm lý, một danh mục thứ tư, "nhân gần" (*padatthana*) được thêm vào. Định nghĩa về yếu tố chuyển động (hoặc gió), ví dụ, xuất hiện trong Thanh Tịnh Đạo (XI, 93) và được hiển thị trong tác phẩm này là một thực tế của kinh nghiệm trực tiếp.
+18. "Tâm tịnh" đề cập đến sự tập trung tâm trí ở một trong hai mức độ cường độ: toàn định hoặc cận định (xem Ghi chú 10). Trong cả hai loại định, tâm trí tạm thời được thanh lọc khỏi năm triền cái (xem Ghi chú 20), làm ô nhiễm tâm trí và cản trở sự định tâm.
+19. Các đối tượng "khác" cũng có thể thuộc về cùng một chuỗi sự kiện, ví dụ, sự phồng và xẹp lặp đi lặp lại của bụng.
+20. Năm triền cái (*nivarana*) cản trở sự định tâm, là: (1) tham dục, (2) sân hận, (3) hôn trầm và thụy miên, (4) trào cử và hối quá, (5) hoài nghi.
+21. Minh sát đạt đến đỉnh cao của nó khi đạt đến sự hoàn hảo của "đạo tri kiến tịnh". Xem Ghi chú 41 và Thanh Tịnh Đạo, XXI, 1.
+22. Đoạn này được dịch trong *The Way of Mindfulness* của Soma Thera, nơi, đối với thuật ngữ "cận định" của chúng tôi, bản dịch "sự hấp thụ một phần" được sử dụng.
+23. Khi xảy ra trong quá trình thực hành thiền chỉ.
+24. Đây là định toàn phần (*jhana*) đạt được tại sự chứng đạt của các thánh đạo và thánh quả.
+25. Trong Chú giải Trung Bộ Kinh số 111, Kinh Bất Đoạn (Anupada Sutta).
+26. Thanh Tịnh Đạo nói rằng cả hai thuật ngữ, "kiến thức bằng minh sát quy nạp" và "thấu hiểu theo nhóm", là tên cho cùng một loại minh sát. Theo *Paramattha-manjusa*, Chú giải của nó, thuật ngữ trước được sử dụng ở Ceylon (Sri Lanka), thuật ngữ sau ở Ấn Độ.
+27. Mười phiền não của minh sát (*vipassanupakkilesa*) được đề cập lần đầu trong Vô Ngại Giải Đạo và được giải thích trong Thanh Tịnh Đạo (XX, 105ff.).
+28. Năm cấp độ của hỷ (*piti*), được giải quyết trong Thanh Tịnh Đạo (IV, 94) là: (1) tiểu hỷ, (2) sát-na hỷ, (3) hải trào hỷ, (4) khinh thượng hỷ, (5) sung mãn hỷ.
+29. Đoạn này đề cập đến sáu cặp yếu tố định tính của hoạt động tâm thần, theo Vi Diệu Pháp, hiện diện trong tất cả các tâm tịnh hảo mặc dù ở các mức độ phát triển khác nhau. Cặp đầu tiên là sự tịnh (khinh an) (a) của ý thức (tâm), và (b) của các yếu tố tâm trí đi kèm (tâm sở). Các cặp khác là sự lanh lợi (khinh), nhu nhuyến (nhu), thích ứng (thích sự), thuần thục, và chánh trực, tất cả đều có cùng sự phân chia hai phần như đã nêu trước đó. Sáu cặp này đại diện cho khía cạnh hình thức, hoặc cấu trúc, của tâm tịnh hảo.
+30. Sáu sự tắc nghẽn của tâm này bị chống lại bởi sáu cặp tâm sở được đề cập trong Ghi chú 29 và trong câu tiếp theo của văn bản.
+31. Vô hành, không hoạt động (bận rộn), đề cập đến thái độ tiếp nhận, nhưng quan sát sắc bén, của việc ghi nhận (hoặc chánh niệm đơn thuần).
+32. Hướng tâm (tác ý) là giai đoạn đầu tiên của quá trình nhận thức, như được phân tích trong Vi Diệu Pháp. Đó là "sự quay về phía" đầu tiên đối tượng của nhận thức; nói cách khác, sự chú ý ban đầu.
+33. Các thánh đạo và quả siêu thế là: Nhập lưu (Tu-đà-hoàn), Nhất lai (Tư-đà-hàm), Bất lai (A-na-hàm), và A-la-hán. Bằng cách đạt đến đạo và quả đầu tiên, tức là Nhập lưu, sự giải thoát cuối cùng được đảm bảo muộn nhất sau bảy lần tái sinh nữa.
+34. "Đối tượng khái niệm về hình dạng" (*santhana-paññatti*). Hai loại khái niệm khác được ngụ ý ở đây là: các khái niệm về bản sắc cá nhân bắt nguồn từ sự liên tục của các hiện tượng nối tiếp (*santati-paññatti*), và các khái niệm tập hợp bắt nguồn từ sự kết tụ của các hiện tượng (*samuha-paññatti*).
+35. "Ý tưởng về các hành với các đặc điểm cụ thể của chúng": cụm từ này xây dựng ý nghĩa áp dụng ở đây của thuật ngữ Pali *nimitta*, có nghĩa đen là "dấu hiệu", "biển hiệu", "đặc điểm", tức là, ý tưởng hoặc hình ảnh được hình thành về một đối tượng được nhận thức.
+36. "Với cấu trúc cụ thể của nó" (*sa-viggaha*): hình thức có thể nắm bắt (*gaha*) đặc biệt (*vi*) của một đối tượng.
+37. *Bhay'upatthana*. Từ *bhaya* có khía cạnh chủ quan là sợ hãi và khía cạnh khách quan là sự đáng sợ, nguy hiểm. Cả hai đều được bao gồm trong ý nghĩa của thuật ngữ trong bối cảnh này.
+38. Điều này đề cập đến các kiến thức được mô tả trong phần tiếp theo (Số 7-11).
+39. *Niroja*. Nghĩa đen "không có tinh chất dinh dưỡng".
+40. Theo Thanh Tịnh Đạo, "minh sát dẫn đến xuất khởi" là đỉnh cao của minh sát, và giống hệt với ba kiến thức sau: xả hành, muốn giải thoát, và tuệ phản quan. Nó được gọi là "dẫn đến xuất khởi" bởi vì nó xuất hiện từ sự quán chiếu các hành (hiện tượng hữu vi) đến thánh đạo có Niết bàn làm đối tượng.
+41. Thanh Tịnh Đạo nói (XXI, 130): "Tuệ thuận thứ (thích ứng) lấy tên của nó từ thực tế là nó thích ứng với các trạng thái tâm trước và sau đó. Nó thích ứng với tám tuệ minh sát trước đó với các chức năng riêng lẻ của chúng, và với ba mươi bảy phẩm trợ đạo theo sau."
+42. *Gotrabhu-ñana* (tuệ chuyển tộc) là, theo nghĩa đen, "kiến thức của người đã trở thành một trong dòng dõi (gotra - của các bậc Thánh)". Bằng cách đạt đến kiến thức đó, người ta đã để lại phía sau sự chỉ định và giai đoạn của một phàm phu chưa giải thoát và đang bước vào dòng dõi và thứ hạng của các bậc thánh, tức là, bậc Nhập lưu, v.v. Minh sát bây giờ đã đến độ chín muồi hoàn toàn, chín muồi thành kiến thức của các thánh đạo và quả siêu thế. Tuệ chuyển tộc chỉ xảy ra như một khoảnh khắc ý thức duy nhất; nó không lặp lại, vì nó được theo sau ngay lập tức bởi tâm đạo của Nhập lưu hoặc Nhất lai, v.v.
+43. "Tuệ đạo" là kiến thức kết nối với bốn thánh đạo Nhập lưu, v.v. Ở đây, trong đoạn này, chỉ có đạo Nhập lưu được ngụ ý. Tuệ đạo, giống như tuệ chuyển tộc, chỉ kéo dài trong một khoảnh khắc ý thức, được theo sau bởi tuệ quả do nó tạo ra, có thể lặp lại nhiều lần và cũng có thể được cố ý nhập vào bằng cách "chứng đạt quả" (xem Số 17).
+44. Điều đó có nghĩa là Niết bàn bây giờ đã trở thành một đối tượng của kinh nghiệm trực tiếp, và không còn là một cấu trúc tinh thần của tư duy khái niệm.
+45. Kiến thức về phản khán phiền não vẫn còn lại, không đạt được ở giai đoạn A-la-hán nơi tất cả các phiền não đã được loại bỏ. Nó có thể xảy ra, nhưng không nhất thiết phải như vậy, ở ba giai đoạn thấp hơn của Nhập lưu, v.v.
+46. Xem Ghi chú 43.
+47. Năm tín căn (indriya) là: tín, tấn, niệm, định, và tuệ.
+
+---
+
+## Tiểu sử Đại Trưởng Lão Mahasi Sayadaw
+
+Đại Trưởng Lão Mahasi Sayadaw, tức Ngài U Sobhana Mahathera, là con trai của ông U Kan Htaw và bà Daw Shwe Ok tại làng Seikkhun, nằm cách thị trấn Shwebo khoảng bảy dặm về phía tây — nơi từng là kinh đô của người sáng lập vương triều Miến Điện cuối cùng. Ngài sinh vào ngày 29 tháng 7 năm 1904 (ngày thứ ba sau rằm tháng Waso thứ hai, năm 1266 theo lịch Miến Điện).
+
+Năm lên sáu tuổi, Ngài bắt đầu học tại một trường tu viện trong làng, và năm mười hai tuổi, Ngài được thọ giới sa-di (samanera). Khi đủ hai mươi tuổi, Ngài được thọ giới tỳ-kheo vào ngày 23 tháng 11 năm 1923 (ngày thứ năm sau rằm tháng Tazaungmon, năm 1285 Miến lịch). Sau đó, Ngài đã vượt qua các kỳ thi Pali của Chính phủ ở cả ba cấp độ Pathamange, Pathamalat và Pathamagyi trong ba năm liên tiếp.
+
+Vào năm thứ tư sau khi thọ đại giới, Ngài đến Mandalay — cố đô của Miến Điện — nơi Ngài tiếp tục nghiên cứu chuyên sâu tại Khinmagan Kyaung Taik dưới sự hướng dẫn của nhiều vị tăng nổi tiếng về học vấn. Năm thứ năm, Ngài đến Moulmein và bắt đầu công việc giảng dạy kinh điển Phật giáo tại một tu viện được biết đến với tên Taung Waing Galay Taik Kyaung.
+
+Vào năm thứ tám sau khi thọ giới, Ngài cùng một vị tăng khác rời Moulmein chỉ với những vật dụng cần thiết tối thiểu của một tỳ-kheo (bình bát, ba y, v.v.) và lên đường tìm kiếm một phương pháp thực hành thiền định rõ ràng và hiệu quả. Tại Thaton, Ngài gặp thiền sư nổi tiếng Đại Đức U Narada, còn được biết đến với tên "Mingun Jetawun Sayadaw Đệ Nhất". Ngài đặt mình dưới sự hướng dẫn của vị Sayadaw này và ngay lập tức bắt đầu một khóa tu thiền chuyên sâu.
+
+Sau khóa thực hành này, Ngài trở về Moulmein và tiếp tục công việc giảng dạy kinh điển Phật giáo. Ngài dự thi kỳ thi Giảng sư Pali do Chính phủ Miến Điện tổ chức vào tháng 6 năm 1941 và đã đỗ hoàn toàn ngay lần đầu tiên. Ngài được trao tặng danh hiệu Sasanadhaja Siri Pavara Dhammacariya.
+
+Năm 1941 (năm 1303 Miến lịch), vào năm thứ mười tám của đại giới, Ngài trở về làng quê Seikkhun và cư trú tại một tu viện được gọi là "Maha-Si Kyaung" vì nơi đây có một cái trống (tiếng Miến: si) có kích thước lớn bất thường (maha). Ngài bắt đầu đưa ra khóa thực hành thiền Tứ Niệm Xứ (Satipatthana) một cách có hệ thống. Nhiều người, cả tăng sĩ lẫn cư sĩ, tập hợp quanh Ngài để tham gia khóa tu nghiêm ngặt và đã hưởng được nhiều lợi ích to lớn từ sự hướng dẫn tận tâm của Ngài. Họ vui mừng vì bắt đầu hiểu được những đặc điểm nổi bật của phương pháp Tứ Niệm Xứ và cũng học được cách tự tiếp tục thực hành đúng đắn.
+
+Năm 1949 (năm 1311 Miến lịch), Thủ tướng Miến Điện lúc bấy giờ, ông U Nu, và Sir U Thwin, thành viên Ban Chấp hành Hội Phật Giáo Hộ Trì (Buddha Sasananuggha Association), đã cung thỉnh Đại Trưởng Lão Mahasi Sayadaw đến Rangoon để hướng dẫn thực hành thiền định. Vào năm thứ hai mươi sáu của đại giới, Ngài đến Rangoon và cư trú tại Thathana Yeiktha, trụ sở của Hội, nơi các khóa tu thiền chuyên sâu đã được tổ chức từ đó cho đến ngày nay.
+
+Hơn 15.000 người đã được đào tạo chỉ riêng tại trung tâm này và tổng cộng hơn 200.000 người đã được đào tạo trên khắp Miến Điện, nơi có hơn 100 chi nhánh hướng dẫn cùng phương pháp. Phương pháp này cũng đã lan rộng tại Thái Lan và Sri Lanka.
+
+Đại Trưởng Lão Mahasi Sayadaw được trao tặng danh hiệu Agga-Maha-Pandita vào năm 1952.
+
+Ngài đảm nhận vai trò Người Hỏi (pucchaka) tại Kỳ Kết Tập Kinh Điển Phật Giáo lần thứ Sáu (Chattha Sangayana) được tổ chức tại Rangoon trong hai năm, kết thúc vào năm 2500 Phật lịch (1956). Để hiểu đầy đủ tầm quan trọng của vai trò này, cần đề cập rằng Đại Đức Maha-Kassapa, với tư cách là Người Hỏi, đã đặt các câu hỏi tại Kỳ Kết Tập Lần Thứ Nhất được tổ chức ba tháng sau khi Đức Phật nhập Niết bàn. Khi đó, Đại Đức Upali và Đại Đức Ananda đã trả lời các câu hỏi. Tại Kỳ Kết Tập Lần Thứ Sáu, chính Ngài Tipitakadhara Dhammabhandagarika Ashin Vicittasarabhivamsa đã trả lời các câu hỏi do Đại Trưởng Lão Mahasi Sayadaw đặt ra. Đại Trưởng Lão Mahasi Sayadaw cũng là thành viên của ủy ban chịu trách nhiệm, với tư cách là cơ quan có thẩm quyền cuối cùng, về việc hệ thống hóa tất cả các văn bản được thông qua tại Kỳ Kết Tập Lần Thứ Sáu.
+
+Ngài đã viết nhiều sách về thiền định và có thể kể đến các tác phẩm đáng chú ý sau:
+1. *Hướng Dẫn Thực Hành Thiền Minh Sát* (tiếng Miến) — 2 tập.
+2. Bản dịch tiếng Miến *Kinh Đại Niệm Xứ* (Maha-satipatthana Sutta), có chú thích.
+3. *Visuddhiñana-katha* (Tiến Trình Minh Sát) — bằng tiếng Miến và Pali.
+4. Bản dịch tiếng Miến *Thanh Tịnh Đạo* (Visuddhimagga), có chú thích.
+5. Bản dịch tiếng Miến *Đại Chú Giải Thanh Tịnh Đạo* (Visuddhimagga Maha-Tika), có chú thích — 4 tập.
+6. *Thập Nhị Nhân Duyên* (Paticca-Samuppada) — 2 tập.
+
+Nhiều bài pháp thoại của Ngài, dựa trên các Kinh Pali, đã được dịch sang tiếng Anh và xuất bản bởi Hội Phật Giáo Hộ Trì (Buddha Sasananuggha Association), 16 Hermitage Road, Kokkine, Rangoon, Myanmar (Miến Điện).
+
+**Đại Trưởng Lão Mahasi Sayadaw đã viên tịch vào ngày 14 tháng 8 năm 1982 sau một thời gian ngắn lâm bệnh.**
+
+---
+
+## Ghi chú về Bản Dịch Tiếng Việt
+
+Bản dịch tiếng Việt này được thực hiện dựa trên bản tiếng Anh của Nyanaponika Thera, xuất bản bởi Buddhist Publication Society (BPS), Kandy, Sri Lanka.
+
+Trước đó, tác phẩm này cũng đã được dịch sang tiếng Việt bởi cư sĩ **Phạm Kim Khánh** với nhan đề "Những Giai Đoạn Tiến Triển của Thiền Minh Sát", được phổ biến rộng rãi trong cộng đồng Phật tử Việt Nam.
+
+### Tham khảo
+- Bản tiếng Anh: *The Progress of Insight* (Visuddhiñana-katha), Nyanaponika Thera dịch, BPS Wheel No. 394/396.
+- Bản tiếng Việt của Phạm Kim Khánh: [budsas.org](https://budsas.org)
+- Nguồn gốc: AccessToInsight.org
+
+---
+
+*© Buddhist Publication Society. Tác phẩm này có thể được sao chép, tái bản và phân phối miễn phí với mục đích giáo dục và phi thương mại, với điều kiện ghi rõ nguồn gốc.*
