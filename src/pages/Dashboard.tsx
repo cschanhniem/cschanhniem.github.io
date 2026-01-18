@@ -1,12 +1,19 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
 import { Button } from '@/components/ui/button'
 import { Link } from 'react-router-dom'
-import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download } from 'lucide-react'
+import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download, BookOpen, ArrowRight } from 'lucide-react'
 import { WeeklyChart } from '@/components/charts/WeeklyChart'
 import { HeatmapCalendar } from '@/components/charts/HeatmapCalendar'
+import { suttas } from '@/data/suttas/index'
+
+interface ReadingProgress {
+  suttaId: string
+  progress: number
+  lastRead: number // timestamp
+}
 
 export function Dashboard() {
   const { t } = useTranslation()
@@ -17,6 +24,48 @@ export function Dashboard() {
 
   const checkedInToday = hasCheckedInToday()
   const todayCheckIn = getTodayCheckIn()
+  const [lastReadSutta, setLastReadSutta] = useState<ReadingProgress | null>(null)
+
+  // Get last read sutta from localStorage
+  useEffect(() => {
+    const progressKeys = Object.keys(localStorage).filter(key =>
+      key.startsWith('nhapluu_progress_')
+    )
+
+    if (progressKeys.length === 0) return
+
+    // Find the most recently read sutta
+    let mostRecent: ReadingProgress | null = null
+    let maxTimestamp = 0
+
+    progressKeys.forEach(key => {
+      const suttaId = key.replace('nhapluu_progress_', '')
+      const progress = parseFloat(localStorage.getItem(key) || '0')
+      const timestampKey = `nhapluu_lastread_${suttaId}`
+      const timestamp = parseInt(localStorage.getItem(timestampKey) || '0', 10)
+
+      // Only show suttas that have been read (progress > 0)
+      if (progress > 0 && timestamp > maxTimestamp) {
+        maxTimestamp = timestamp
+        mostRecent = { suttaId, progress, lastRead: timestamp }
+      }
+    })
+
+    // If no timestamp, use most progress as fallback
+    if (!mostRecent) {
+      let maxProgress = 0
+      progressKeys.forEach(key => {
+        const suttaId = key.replace('nhapluu_progress_', '')
+        const progress = parseFloat(localStorage.getItem(key) || '0')
+        if (progress > maxProgress && progress > 0) {
+          maxProgress = progress
+          mostRecent = { suttaId, progress, lastRead: Date.now() }
+        }
+      })
+    }
+
+    setLastReadSutta(mostRecent)
+  }, [])
 
   const handleCheckIn = () => {
     const result = doCheckIn(null, 30) // Solo check-in for 30 mins
@@ -131,6 +180,53 @@ export function Dashboard() {
           <div className="text-xs text-muted-foreground mt-1">{t('dashboard.stats.earned')}</div>
         </div>
       </div>
+
+      {/* Continue Reading Section */}
+      {lastReadSutta && (() => {
+        const sutta = suttas.find(s => s.id === lastReadSutta.suttaId)
+        if (!sutta) return null
+        return (
+          <div className="mb-8">
+            <Link
+              to={`/kinh-tang/${sutta.id}`}
+              className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow group"
+            >
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-4 flex-1">
+                  <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center">
+                    <BookOpen className="h-6 w-6 text-primary" />
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <span className="text-xs font-medium text-primary">{t('dashboard.continueReading.title')}</span>
+                      <span className="text-xs text-muted-foreground">•</span>
+                      <span className="text-xs text-muted-foreground">{sutta.code}</span>
+                    </div>
+                    <h3 className="font-semibold text-foreground truncate">{sutta.title}</h3>
+                    {sutta.titlePali && (
+                      <p className="text-sm text-muted-foreground italic font-serif truncate">{sutta.titlePali}</p>
+                    )}
+                  </div>
+                </div>
+                <div className="flex items-center gap-4 ml-4">
+                  <div className="text-right">
+                    <div className="text-lg font-bold text-primary">{Math.round(lastReadSutta.progress)}%</div>
+                    <div className="text-xs text-muted-foreground">{t('dashboard.continueReading.progress')}</div>
+                  </div>
+                  <ArrowRight className="h-5 w-5 text-muted-foreground group-hover:text-primary transition-colors" />
+                </div>
+              </div>
+              {/* Progress bar */}
+              <div className="mt-3 h-1 bg-muted rounded-full overflow-hidden">
+                <div
+                  className="h-full bg-primary transition-all"
+                  style={{ width: `${lastReadSutta.progress}%` }}
+                />
+              </div>
+            </Link>
+          </div>
+        )
+      })()}
 
       {/* Charts Section */}
       <div className="grid md:grid-cols-2 gap-6 mb-8">

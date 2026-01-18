@@ -33,6 +33,7 @@ export function SuttaDetail() {
   const [progress, setProgress] = useState(0)
   const contentRef = useRef<HTMLDivElement>(null)
   const progressKey = `nhapluu_progress_${suttaId}`
+  const lastReadKey = `nhapluu_lastread_${suttaId}`
 
   // Save font size preference
   useEffect(() => {
@@ -59,7 +60,8 @@ export function SuttaDetail() {
 
     setProgress(newProgress)
     localStorage.setItem(progressKey, newProgress.toString())
-  }, [progressKey])
+    localStorage.setItem(lastReadKey, Date.now().toString())
+  }, [progressKey, lastReadKey])
 
   useEffect(() => {
     window.addEventListener('scroll', handleScroll)

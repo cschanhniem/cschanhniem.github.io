@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { suttas } from '@/data/suttas/index'
-import { BookOpen, Bookmark, Search, ChevronRight } from 'lucide-react'
+import { BookOpen, Bookmark, Search, ChevronRight, ArrowRight } from 'lucide-react'
 
 export function Library() {
+  const { t } = useTranslation()
   const { state } = useAppState()
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedCollection, setSelectedCollection] = useState<string>('all')
@@ -23,9 +25,9 @@ export function Library() {
   })
 
   const difficultyLabels = {
-    beginner: 'Sơ cấp',
-    intermediate: 'Trung cấp',
-    advanced: 'Cao cấp'
+    beginner: t('library.filters.beginner'),
+    intermediate: t('library.filters.intermediate'),
+    advanced: t('library.filters.advanced')
   }
 
   return (
@@ -102,12 +104,21 @@ export function Library() {
             </div>
           </div>
 
-          <div className="bg-card rounded-lg border border-border p-4">
-            <h3 className="font-semibold text-foreground mb-3">Đã Đánh Dấu</h3>
+          <Link
+            to="/danh-dau"
+            className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow group"
+          >
+            <div className="flex items-center justify-between mb-2">
+              <h3 className="font-semibold text-foreground flex items-center gap-2">
+                <Bookmark className="h-4 w-4 text-primary" />
+                {t('bookmarks.title')}
+              </h3>
+              <ArrowRight className="h-4 w-4 text-muted-foreground group-hover:text-primary transition-colors" />
+            </div>
             <p className="text-sm text-muted-foreground">
-              {state.bookmarkedSuttas.length} kinh đã lưu
+              {t('bookmarks.subtitle', { count: state.bookmarkedSuttas.length })}
             </p>
-          </div>
+          </Link>
         </div>
 
         {/* Suttas List */}

@@ -94,6 +94,10 @@
       "pali": "Appamādo amatapadaṃ",
       "translation": "Heedfulness is the path to the Deathless",
       "source": "Dhammapada 21"
+    },
+    "continueReading": {
+      "title": "Continue Reading",
+      "progress": "Progress"
     }
   },
   "practice": {
@@ -179,6 +183,19 @@
         "start": "Start practice"
       }
     }
+  },
+  "bookmarks": {
+    "title": "Bookmarked Suttas",
+    "subtitle": "{{count}} suttas saved",
+    "backToLibrary": "Back to Library",
+    "searchPlaceholder": "Search bookmarked suttas...",
+    "removeBookmark": "Remove bookmark",
+    "empty": {
+      "title": "No bookmarked suttas yet",
+      "description": "Explore the Sutta Library and bookmark suttas you want to read again.",
+      "browseLibrary": "Browse Library"
+    },
+    "noResults": "No matching suttas found"
   },
   "library": {
     "title": "Sutta Library",

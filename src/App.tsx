@@ -21,6 +21,7 @@ const FindSangha = lazy(() => import('@/pages/FindSangha').then(m => ({ default:
 const CodeOfConduct = lazy(() => import('@/pages/CodeOfConduct').then(m => ({ default: m.CodeOfConduct })))
 const Onboarding = lazy(() => import('@/pages/Onboarding').then(m => ({ default: m.Onboarding })))
 const WakefulRelaxation = lazy(() => import('@/pages/WakefulRelaxation').then(m => ({ default: m.WakefulRelaxation })))
+const Bookmarks = lazy(() => import('@/pages/Bookmarks').then(m => ({ default: m.Bookmarks })))
 const Auth = lazy(() => import('@/pages/Auth'))
 
 // Loading fallback component with skeleton
@@ -126,6 +127,14 @@ function App() {
                               element={
                                 <ProtectedRoute>
                                   <TeachingDetail />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/danh-dau"
+                              element={
+                                <ProtectedRoute>
+                                  <Bookmarks />
                                 </ProtectedRoute>
                               }
                             />

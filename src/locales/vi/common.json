@@ -94,6 +94,10 @@
       "pali": "Appamādo amatapadaṃ",
       "translation": "Không phóng dật là con đường đến bất tử",
       "source": "Pháp Cú 21"
+    },
+    "continueReading": {
+      "title": "Tiếp tục đọc",
+      "progress": "Tiến độ"
     }
   },
   "practice": {
@@ -179,6 +183,19 @@
         "start": "Bắt đầu tập"
       }
     }
+  },
+  "bookmarks": {
+    "title": "Kinh Đã Đánh Dấu",
+    "subtitle": "{{count}} kinh đã lưu",
+    "backToLibrary": "Quay lại Pháp Bảo",
+    "searchPlaceholder": "Tìm kiếm trong kinh đã lưu...",
+    "removeBookmark": "Bỏ đánh dấu",
+    "empty": {
+      "title": "Chưa có kinh nào được đánh dấu",
+      "description": "Hãy khám phá Kinh Tạng và đánh dấu những bài kinh bạn muốn đọc lại.",
+      "browseLibrary": "Khám phá Kinh Tạng"
+    },
+    "noResults": "Không tìm thấy kinh nào phù hợp"
   },
   "library": {
     "title": "Kinh Tạng",
