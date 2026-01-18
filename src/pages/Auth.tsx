@@ -1,11 +1,13 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import { useAuth } from '@/contexts/AuthContext'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
 export default function Auth() {
+  const { t } = useTranslation()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [isLogin, setIsLogin] = useState(true)
@@ -19,12 +21,12 @@ export default function Auth() {
     setError('')
 
     if (!email || !email.includes('@')) {
-      setError('Vui lòng nhập email hợp lệ')
+      setError(t('auth.invalidEmail'))
       return
     }
 
     if (!password || password.length < 6) {
-      setError('Mật khẩu phải có ít nhất 6 ký tự')
+      setError(t('auth.shortPassword'))
       return
     }
 
@@ -38,7 +40,7 @@ export default function Auth() {
       }
       navigate('/')
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Có lỗi xảy ra. Vui lòng thử lại.')
+      setError(err instanceof Error ? err.message : t('auth.error'))
     } finally {
       setIsLoading(false)
     }
@@ -50,19 +52,17 @@ export default function Auth() {
         <CardHeader className="text-center space-y-2">
           <div className="text-4xl mb-2">☸️</div>
           <CardTitle className="text-2xl">
-            {isLogin ? 'Đăng Nhập' : 'Đăng Ký'}
+            {isLogin ? t('auth.login') : t('auth.register')}
           </CardTitle>
           <CardDescription>
-            {isLogin
-              ? 'Nhập email và mật khẩu để đăng nhập'
-              : 'Tạo tài khoản mới để bắt đầu hành trình tu tập'}
+            {isLogin ? t('auth.enterEmail') : t('auth.createAccount')}
           </CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
             <div className="space-y-2">
               <label htmlFor="email" className="text-sm font-medium">
-                Email
+                {t('auth.email')}
               </label>
               <Input
                 id="email"
@@ -77,7 +77,7 @@ export default function Auth() {
 
             <div className="space-y-2">
               <label htmlFor="password" className="text-sm font-medium">
-                Mật khẩu
+                {t('auth.password')}
               </label>
               <Input
                 id="password"
@@ -91,7 +91,7 @@ export default function Auth() {
               />
               {!isLogin && (
                 <p className="text-xs text-muted-foreground">
-                  Tối thiểu 6 ký tự
+                  {t('auth.minPassword')}
                 </p>
               )}
             </div>
@@ -108,10 +108,10 @@ export default function Auth() {
               disabled={isLoading}
             >
               {isLoading
-                ? 'Đang xử lý...'
+                ? t('auth.processing')
                 : isLogin
-                ? 'Đăng Nhập'
-                : 'Đăng Ký'}
+                ? t('auth.login')
+                : t('auth.register')}
             </Button>
 
             <div className="text-center text-sm">
@@ -125,16 +125,13 @@ export default function Auth() {
                 className="text-primary hover:underline"
                 disabled={isLoading}
               >
-                {isLogin
-                  ? 'Chưa có tài khoản? Đăng ký ngay'
-                  : 'Đã có tài khoản? Đăng nhập'}
+                {isLogin ? t('auth.noAccount') : t('auth.hasAccount')}
               </button>
             </div>
           </form>
 
           <div className="mt-6 pt-6 border-t text-center text-sm text-muted-foreground">
-            <p>🙏 Bước vào con đường chánh niệm</p>
-            <p className="mt-1 text-xs">Sabbe sattā sukhi hontu</p>
+            <p>🙏 Sabbe sattā sukhi hontu</p>
           </div>
         </CardContent>
       </Card>

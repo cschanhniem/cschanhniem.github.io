@@ -58,12 +58,40 @@
     },
     "precepts": {
       "title": "Precepts Observance",
+      "description": "Moral virtue is the foundation of all merit. Check and record your precepts observance today.",
+      "type": "Precept type",
       "five": "5 Precepts (Daily)",
       "eight": "8 Precepts (Uposatha)",
       "save": "Save Precepts Record",
       "saved": "Precepts record saved!",
       "history": "Recent History",
-      "noRecords": "No records yet."
+      "noRecords": "No records yet.",
+      "preceptsWord": "precepts",
+      "list": {
+        "1": "Refrain from killing",
+        "1_pali": "Pāṇātipātā veramaṇī",
+        "2": "Refrain from stealing",
+        "2_pali": "Adinnādānā veramaṇī",
+        "3": "Refrain from sexual misconduct",
+        "3_pali": "Kāmesumicchācāra veramaṇī",
+        "4": "Refrain from false speech",
+        "4_pali": "Musāvādā veramaṇī",
+        "5": "Refrain from intoxicants",
+        "5_pali": "Surāmerayamajjapamādaṭṭhānā veramaṇī",
+        "6": "Refrain from eating at wrong time",
+        "6_pali": "Vikālabhojanā veramaṇī",
+        "7": "Refrain from entertainment and adornment",
+        "7_pali": "Nacca-gīta-vādita-visūkadassanā veramaṇī",
+        "8": "Refrain from high and luxurious beds",
+        "8_pali": "Uccāsayana-mahāsayanā veramaṇī"
+      }
+    },
+    "guide": {
+      "wakeful": {
+        "title": "Wakeful Relaxation",
+        "description": "A technique to balance the nervous system, helping the body relax deeply while the mind stays sharp. An important preparation for meditation.",
+        "start": "Start practice"
+      }
     }
   },
   "library": {

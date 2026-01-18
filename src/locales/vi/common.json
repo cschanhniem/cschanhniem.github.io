@@ -58,12 +58,40 @@
     },
     "precepts": {
       "title": "Ghi Nhận Giữ Giới",
+      "description": "Giới đức là nền tảng của tất cả công đức. Hãy kiểm tra và ghi nhận việc giữ giới hôm nay.",
+      "type": "Loại giới",
       "five": "5 Giới (Hằng Ngày)",
       "eight": "8 Giới (Ngày Bố Tát)",
       "save": "Lưu Ghi Nhận Giữ Giới",
       "saved": "Đã lưu ghi nhận giữ giới!",
       "history": "Lịch Sử Gần Đây",
-      "noRecords": "Chưa có ghi nhận nào."
+      "noRecords": "Chưa có ghi nhận nào.",
+      "preceptsWord": "giới",
+      "list": {
+        "1": "Không sát sinh",
+        "1_pali": "Pāṇātipātā veramaṇī",
+        "2": "Không trộm cắp",
+        "2_pali": "Adinnādānā veramaṇī",
+        "3": "Không tà dâm",
+        "3_pali": "Kāmesumicchācāra veramaṇī",
+        "4": "Không nói dối",
+        "4_pali": "Musāvādā veramaṇī",
+        "5": "Không uống rượu, chất say",
+        "5_pali": "Surāmerayamajjapamādaṭṭhānā veramaṇī",
+        "6": "Không ăn phi thời",
+        "6_pali": "Vikālabhojanā veramaṇī",
+        "7": "Không ca hát, múa, nhạc, trang sức",
+        "7_pali": "Nacca-gīta-vādita-visūkadassanā veramaṇī",
+        "8": "Không ngồi nằm giường cao, sang trọng",
+        "8_pali": "Uccāsayana-mahāsayanā veramaṇī"
+      }
+    },
+    "guide": {
+      "wakeful": {
+        "title": "Thư Giãn Trong Tỉnh Thức",
+        "description": "Wakeful Relaxation - Kỹ thuật cân bằng hệ thần kinh, giúp cơ thể thư giãn sâu nhưng tâm trí vẫn sắc bén. Bước chuẩn bị quan trọng cho Thiền Định.",
+        "start": "Bắt đầu tập"
+      }
     }
   },
   "library": {

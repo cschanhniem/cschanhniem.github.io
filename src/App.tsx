@@ -1,10 +1,12 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
+import { useTranslation } from 'react-i18next'
 import { AuthProvider } from '@/contexts/AuthContext'
 import { ThemeProvider } from '@/contexts/ThemeContext'
 import { ToastProvider } from '@/components/ui/toast'
 import { ProtectedRoute } from '@/components/ProtectedRoute'
 import { Header } from '@/components/layout/Header'
+import { Footer } from '@/components/layout/Footer'
 import { Skeleton } from '@/components/ui/skeleton'
 
 // Lazy load page components for code splitting
@@ -22,6 +24,7 @@ const Auth = lazy(() => import('@/pages/Auth'))
 
 // Loading fallback component with skeleton
 function PageLoader() {
+  const { t } = useTranslation()
   return (
     <div className="container mx-auto px-4 py-8 max-w-6xl space-y-6 animate-in fade-in duration-300">
       {/* Header skeleton */}
@@ -47,7 +50,7 @@ function PageLoader() {
       {/* Loading indicator */}
       <div className="flex items-center justify-center pt-4">
         <div className="inline-block h-6 w-6 animate-spin rounded-full border-2 border-solid border-primary border-r-transparent" />
-        <span className="ml-3 text-sm text-muted-foreground">Đang tải...</span>
+        <span className="ml-3 text-sm text-muted-foreground">{t('loading')}</span>
       </div>
     </div>
   )
@@ -127,23 +130,7 @@ function App() {
                         />
                       </Routes>
                     </main>
-                    <footer className="border-t border-border mt-16">
-                      <div className="container mx-auto px-4 py-8 text-center text-sm text-muted-foreground">
-                        <p className="mb-2 font-medium text-foreground">Công nghệ vị nhân sinh - Tỉnh thức giữa đời thường</p>
-                        <p className="text-xs">
-                          Cộng đồng Nhập Lưu • Stream Entry Community
-                        </p>
-                        <p className="text-[10px] mt-3 opacity-50" title={`Build: ${__BUILD_TIME__}`}>
-                          v{__GIT_HASH__} • {new Date(__BUILD_TIME__).toLocaleDateString('vi-VN', { 
-                            day: '2-digit', 
-                            month: '2-digit', 
-                            year: 'numeric',
-                            hour: '2-digit',
-                            minute: '2-digit'
-                          })}
-                        </p>
-                      </div>
-                    </footer>
+                    <Footer />
                   </>
                 }
               />

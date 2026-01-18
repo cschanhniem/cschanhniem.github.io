@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { useToast } from '@/components/ui/toast'
 import { MeditationTimer } from '@/components/practice/MeditationTimer'
@@ -8,6 +9,7 @@ import { Link } from 'react-router-dom'
 import { Button } from '@/components/ui/button'
 
 export function Practice() {
+  const { t, i18n } = useTranslation()
   const { state, addMeditationSession, deleteMeditationSession, addPreceptsRecord } = useAppState()
   const { addToast } = useToast()
   const [activeTab, setActiveTab] = useState<'timer' | 'log' | 'precepts' | 'guide'>('timer')
@@ -15,24 +17,7 @@ export function Practice() {
   const [preceptsType, setPreceptsType] = useState<'five' | 'eight'>('five')
   const [precepts, setPrecepts] = useState<{ [key: number]: boolean }>({})
 
-  const fivePrecepts = [
-    'Không sát sinh (Pāṇātipātā veramaṇī)',
-    'Không trộm cắp (Adinnādānā veramaṇī)',
-    'Không tà dâm (Kāmesumicchācāra veramaṇī)',
-    'Không nói dối (Musāvādā veramaṇī)',
-    'Không uống rượu, chất say (Surāmerayamajjapamādaṭṭhānā veramaṇī)'
-  ]
-
-  const eightPrecepts = [
-    ...fivePrecepts.slice(0, 3),
-    'Không nói dối (Musāvādā veramaṇī)',
-    'Không uống rượu, chất say (Surāmerayamajjapamādaṭṭhānā veramaṇī)',
-    'Không ăn phi thời (Vikālabhojanā veramaṇī)',
-    'Không ca hát, múa, nhạc, trang sức (Nacca-gīta-vādita-visūkadassanā veramaṇī)',
-    'Không ngồi nằm giường cao, sang trọng (Uccāsayana-mahāsayanā veramaṇī)'
-  ]
-
-  const currentPrecepts = preceptsType === 'five' ? fivePrecepts : eightPrecepts
+  const preceptsList = preceptsType === 'five' ? [1, 2, 3, 4, 5] : [1, 2, 3, 4, 5, 6, 7, 8]
 
   const handleTimerComplete = (duration: number) => {
     addMeditationSession({
@@ -50,24 +35,28 @@ export function Practice() {
       precepts
     })
     setPrecepts({})
-    addToast('Đã lưu ghi nhận giữ giới!', 'success')
+    addToast(t('practice.precepts.saved'), 'success')
   }
 
   const tabs = [
-    { id: 'timer', name: 'Đồng Hồ Thiền', icon: Timer },
-    { id: 'log', name: 'Ghi Nhận', icon: BookText },
-    { id: 'precepts', name: 'Giữ Giới', icon: CheckSquare },
-    { id: 'guide', name: 'Hướng Dẫn', icon: BrainCircuit }
+    { id: 'timer', name: t('practice.tabs.timer'), icon: Timer },
+    { id: 'log', name: t('practice.tabs.log'), icon: BookText },
+    { id: 'precepts', name: t('practice.tabs.precepts'), icon: CheckSquare },
+    { id: 'guide', name: t('practice.tabs.guide'), icon: BrainCircuit }
   ]
+
+  const formatDate = (date: string) => {
+    return new Date(date).toLocaleDateString(i18n.language === 'vi' ? 'vi-VN' : 'en-US')
+  }
 
   return (
     <div className="container mx-auto px-4 py-8 max-w-6xl">
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-foreground mb-2">
-          Thiền Định & Giữ Giới
+          {t('practice.title')}
         </h1>
         <p className="text-muted-foreground">
-          Giới - Định - Tuệ: Ba trụ cột của con đường giải thoát
+          {t('practice.subtitle')}
         </p>
       </div>
 
@@ -118,16 +107,16 @@ export function Practice() {
           <div className="md:col-span-2">
             <div className="bg-card rounded-lg border border-border p-6 space-y-6">
               <div>
-                <h3 className="text-xl font-semibold text-foreground mb-2">Ghi Nhận Giữ Giới</h3>
+                <h3 className="text-xl font-semibold text-foreground mb-2">{t('practice.precepts.title')}</h3>
                 <p className="text-sm text-muted-foreground">
-                  Giới đức là nền tảng của tất cả công đức. Hãy kiểm tra và ghi nhận việc giữ giới hôm nay.
+                  {t('practice.precepts.description')}
                 </p>
               </div>
 
               {/* Type Selector */}
               <div>
                 <label className="block text-sm font-medium text-foreground mb-2">
-                  Loại giới
+                  {t('practice.precepts.type')}
                 </label>
                 <div className="flex gap-3">
                   <button
@@ -140,7 +129,7 @@ export function Practice() {
                       }
                     `}
                   >
-                    5 Giới (Hằng Ngày)
+                    {t('practice.precepts.five')}
                   </button>
                   <button
                     onClick={() => setPreceptsType('eight')}
@@ -152,27 +141,27 @@ export function Practice() {
                       }
                     `}
                   >
-                    8 Giới (Ngày Bố Tát)
+                    {t('practice.precepts.eight')}
                   </button>
                 </div>
               </div>
 
               {/* Precepts Checklist */}
               <div className="space-y-3">
-                {currentPrecepts.map((precept, index) => (
-                  <label key={index} className="flex items-start space-x-3 p-3 bg-muted rounded-md cursor-pointer hover:bg-muted/80">
+                {preceptsList.map((num) => (
+                  <label key={num} className="flex items-start space-x-3 p-3 bg-muted rounded-md cursor-pointer hover:bg-muted/80">
                     <input
                       type="checkbox"
-                      checked={precepts[index + 1] || false}
-                      onChange={(e) => setPrecepts({ ...precepts, [index + 1]: e.target.checked })}
+                      checked={precepts[num] || false}
+                      onChange={(e) => setPrecepts({ ...precepts, [num]: e.target.checked })}
                       className="mt-1 h-4 w-4 rounded border-input text-primary focus:ring-ring"
                     />
                     <div className="flex-1">
                       <div className="text-sm font-medium text-foreground">
-                        {index + 1}. {precept.split('(')[0].trim()}
+                        {num}. {t(`practice.precepts.list.${num}`)}
                       </div>
                       <div className="text-xs text-muted-foreground mt-1">
-                        {precept.match(/\((.*?)\)/)?.[1]}
+                        {t(`practice.precepts.list.${num}_pali`)}
                       </div>
                     </div>
                   </label>
@@ -183,28 +172,28 @@ export function Practice() {
                 onClick={handleSavePrecepts}
                 className="w-full py-3 bg-primary text-primary-foreground rounded-md font-medium hover:bg-primary/90"
               >
-                Lưu Ghi Nhận Giữ Giới
+                {t('practice.precepts.save')}
               </button>
 
               {/* Recent Records */}
               <div className="border-t border-border pt-6">
-                <h4 className="font-semibold text-foreground mb-3">Lịch Sử Gần Đây</h4>
+                <h4 className="font-semibold text-foreground mb-3">{t('practice.precepts.history')}</h4>
                 {state.preceptsRecords.length === 0 ? (
-                  <p className="text-sm text-muted-foreground">Chưa có ghi nhận nào.</p>
+                  <p className="text-sm text-muted-foreground">{t('practice.precepts.noRecords')}</p>
                 ) : (
                   <div className="space-y-2">
                     {state.preceptsRecords.slice(0, 5).map((record) => (
                       <div key={record.id} className="flex items-center justify-between py-2 border-b border-border last:border-0">
                         <div>
                           <div className="text-sm font-medium text-foreground">
-                            {record.type === 'five' ? '5 Giới' : '8 Giới'}
+                            {record.type === 'five' ? t('practice.precepts.five') : t('practice.precepts.eight')}
                           </div>
                           <div className="text-xs text-muted-foreground">
-                            {new Date(record.date).toLocaleDateString('vi-VN')}
+                            {formatDate(record.date)}
                           </div>
                         </div>
                         <div className="text-sm text-primary font-medium">
-                          {Object.values(record.precepts).filter(Boolean).length}/{record.type === 'five' ? 5 : 8} giới
+                          {Object.values(record.precepts).filter(Boolean).length}/{record.type === 'five' ? 5 : 8} {t('practice.precepts.preceptsWord')}
                         </div>
                       </div>
                     ))}
@@ -223,13 +212,13 @@ export function Practice() {
                   <BrainCircuit className="h-8 w-8 text-primary" />
                 </div>
                 <div className="flex-1 text-center md:text-left">
-                  <h3 className="text-xl font-bold text-foreground mb-2">Thư Giãn Trong Tỉnh Thức</h3>
+                  <h3 className="text-xl font-bold text-foreground mb-2">{t('practice.guide.wakeful.title')}</h3>
                   <p className="text-muted-foreground mb-4 md:mb-0">
-                    Wakeful Relaxation - Kỹ thuật cân bằng hệ thần kinh, giúp cơ thể thư giãn sâu nhưng tâm trí vẫn sắc bén. Bước chuẩn bị quan trọng cho Thiền Định.
+                    {t('practice.guide.wakeful.description')}
                   </p>
                 </div>
                 <Button className="flex-shrink-0" variant="outline">
-                  Bắt đầu tập <ArrowRight className="ml-2 h-4 w-4" />
+                  {t('practice.guide.wakeful.start')} <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </div>
             </Link>
