@@ -124,19 +124,9 @@ export function TeachingDetail() {
                         </div>
 
                         {/* Chapters */}
-                        <div className="space-y-16">
+                        <div className="space-y-12">
                             {teaching.chapters.map((chapter, index) => (
                                 <article key={chapter.id} id={chapter.id} className="scroll-mt-24">
-                                    <div className="mb-6 pb-4 border-b border-border">
-                                        <h2 className="text-2xl font-bold text-foreground mb-2">
-                                            {chapter.title}
-                                        </h2>
-                                        {chapter.titlePali && (
-                                            <p className="text-muted-foreground italic font-serif">
-                                                {chapter.titlePali}
-                                            </p>
-                                        )}
-                                    </div>
 
                                     <div className="prose prose-neutral dark:prose-invert max-w-none">
                                         <ReactMarkdown
