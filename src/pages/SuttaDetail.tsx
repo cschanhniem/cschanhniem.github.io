@@ -53,7 +53,6 @@ export function SuttaDetail() {
     if (!contentRef.current) return
 
     const element = contentRef.current
-    const rect = element.getBoundingClientRect()
     const scrollTop = window.scrollY - element.offsetTop
     const scrollHeight = element.scrollHeight - window.innerHeight
     const newProgress = Math.min(100, Math.max(0, (scrollTop / scrollHeight) * 100))
@@ -158,11 +157,10 @@ export function SuttaDetail() {
             }
           >
             <Bookmark
-              className={`h-6 w-6 ${
-                state.bookmarkedSuttas.includes(sutta.id)
+              className={`h-6 w-6 ${state.bookmarkedSuttas.includes(sutta.id)
                   ? 'fill-primary text-primary'
                   : 'text-muted-foreground'
-              }`}
+                }`}
             />
           </button>
         </div>
@@ -212,22 +210,20 @@ export function SuttaDetail() {
             <div className="flex items-center gap-2">
               <button
                 onClick={() => setViewMode('single')}
-                className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${
-                  viewMode === 'single'
+                className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${viewMode === 'single'
                     ? 'bg-primary text-primary-foreground'
                     : 'bg-muted text-muted-foreground hover:bg-muted/80'
-                }`}
+                  }`}
               >
                 <FileText className="h-4 w-4" />
                 {t('library.singleView')}
               </button>
               <button
                 onClick={() => setViewMode('parallel')}
-                className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${
-                  viewMode === 'parallel'
+                className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${viewMode === 'parallel'
                     ? 'bg-primary text-primary-foreground'
                     : 'bg-muted text-muted-foreground hover:bg-muted/80'
-                }`}
+                  }`}
               >
                 <Columns className="h-4 w-4" />
                 {t('library.parallelView')}
