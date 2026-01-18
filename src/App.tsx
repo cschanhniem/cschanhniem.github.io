@@ -1,8 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
 import { AuthProvider } from '@/contexts/AuthContext'
+import { ThemeProvider } from '@/contexts/ThemeContext'
+import { ToastProvider } from '@/components/ui/toast'
 import { ProtectedRoute } from '@/components/ProtectedRoute'
 import { Header } from '@/components/layout/Header'
+import { Skeleton } from '@/components/ui/skeleton'
 
 // Lazy load page components for code splitting
 const Dashboard = lazy(() => import('@/pages/Dashboard').then(m => ({ default: m.Dashboard })))
@@ -17,13 +20,34 @@ const Onboarding = lazy(() => import('@/pages/Onboarding').then(m => ({ default:
 const WakefulRelaxation = lazy(() => import('@/pages/WakefulRelaxation').then(m => ({ default: m.WakefulRelaxation })))
 const Auth = lazy(() => import('@/pages/Auth'))
 
-// Loading fallback component
+// Loading fallback component with skeleton
 function PageLoader() {
   return (
-    <div className="flex items-center justify-center min-h-[60vh]">
-      <div className="text-center">
-        <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-primary border-r-transparent motion-reduce:animate-[spin_1.5s_linear_infinite]" />
-        <p className="mt-4 text-sm text-muted-foreground">Đang tải...</p>
+    <div className="container mx-auto px-4 py-8 max-w-6xl space-y-6 animate-in fade-in duration-300">
+      {/* Header skeleton */}
+      <div className="space-y-2">
+        <Skeleton className="h-10 w-48" />
+        <Skeleton className="h-5 w-72" />
+      </div>
+
+      {/* Content skeleton */}
+      <div className="grid md:grid-cols-2 gap-6">
+        <div className="bg-card rounded-lg border border-border p-6 space-y-4">
+          <Skeleton className="h-6 w-3/4" />
+          <Skeleton className="h-4 w-full" />
+          <Skeleton className="h-4 w-5/6" />
+        </div>
+        <div className="bg-card rounded-lg border border-border p-6 space-y-4">
+          <Skeleton className="h-6 w-2/3" />
+          <Skeleton className="h-4 w-full" />
+          <Skeleton className="h-4 w-4/5" />
+        </div>
+      </div>
+
+      {/* Loading indicator */}
+      <div className="flex items-center justify-center pt-4">
+        <div className="inline-block h-6 w-6 animate-spin rounded-full border-2 border-solid border-primary border-r-transparent" />
+        <span className="ml-3 text-sm text-muted-foreground">Đang tải...</span>
       </div>
     </div>
   )
@@ -32,6 +56,8 @@ function PageLoader() {
 function App() {
   return (
     <Router basename="/nhapluu">
+      <ThemeProvider>
+      <ToastProvider>
       <AuthProvider>
         <div className="min-h-screen bg-background">
           <Suspense fallback={<PageLoader />}>
@@ -125,6 +151,8 @@ function App() {
           </Suspense>
         </div>
       </AuthProvider>
+      </ToastProvider>
+      </ThemeProvider>
     </Router>
   )
 }

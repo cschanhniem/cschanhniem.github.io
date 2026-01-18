@@ -51,6 +51,7 @@ export function useAppState() {
         clearTimeout(syncTimerRef.current)
       }
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [state, token])
 
   // Sync to cloud

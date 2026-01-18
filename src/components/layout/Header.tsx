@@ -1,12 +1,14 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield, LogIn, Trophy } from 'lucide-react'
+import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield, LogIn, Trophy, Sun, Moon } from 'lucide-react'
 import { useAuth } from '@/contexts/AuthContext'
+import { useTheme } from '@/contexts/ThemeContext'
 import { useAppState } from '@/hooks/useAppState'
 import { Button } from '@/components/ui/button'
 
 export function Header() {
   const location = useLocation()
   const { user, logout, isAuthenticated } = useAuth()
+  const { isDark, setTheme } = useTheme()
   const { isSyncing } = useAppState()
 
   const navigation = [
@@ -58,8 +60,19 @@ export function Header() {
               })}
             </nav>
 
-            {/* User Menu */}
+            {/* Theme Toggle & User Menu */}
             <div className="flex items-center space-x-2 border-l border-border pl-4">
+              {/* Theme Toggle */}
+              <Button
+                variant="ghost"
+                size="icon-sm"
+                onClick={() => setTheme(isDark ? 'light' : 'dark')}
+                className="text-muted-foreground hover:text-foreground"
+                aria-label={isDark ? 'Chuyển sang chế độ sáng' : 'Chuyển sang chế độ tối'}
+              >
+                {isDark ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
+              </Button>
+
               {isAuthenticated ? (
                 <>
                   {/* Sync Indicator */}

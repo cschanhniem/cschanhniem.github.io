@@ -37,8 +37,8 @@ export default function Auth() {
         await register(email, password)
       }
       navigate('/')
-    } catch (err: any) {
-      setError(err.message || 'Có lỗi xảy ra. Vui lòng thử lại.')
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Có lỗi xảy ra. Vui lòng thử lại.')
     } finally {
       setIsLoading(false)
     }

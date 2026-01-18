@@ -1,5 +1,6 @@
 import { createContext, useContext, useState, useEffect } from 'react'
 import type { ReactNode } from 'react'
+import type { MeditationSession } from '@/types'
 import { registerUser, loginUser, pullData } from '@/lib/api'
 
 interface User {
@@ -53,8 +54,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
       localStorage.setItem('auth_token', response.token)
       localStorage.setItem('auth_user', JSON.stringify(response.user))
-    } catch (error) {
-      throw error
     } finally {
       setIsLoading(false)
     }
@@ -82,7 +81,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
               const parsed = JSON.parse(localData)
               // Merge: Server data takes precedence, but keep local data that's not on server
               const serverIds = new Set(serverData.meditationSessions.map(s => s.id))
-              const localOnly = parsed.meditationSessions?.filter((s: any) => !serverIds.has(s.id)) || []
+              const localOnly = (parsed.meditationSessions as MeditationSession[] | undefined)?.filter((s) => !serverIds.has(s.id)) || []
 
               // Combine server data + local-only data, sorted by date
               const merged = [...serverData.meditationSessions, ...localOnly].sort(
@@ -109,8 +108,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
           console.error('Failed to pull data from server:', error)
         }
       }
-    } catch (error) {
-      throw error
     } finally {
       setIsLoading(false)
     }

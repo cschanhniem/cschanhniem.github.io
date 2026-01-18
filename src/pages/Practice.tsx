@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useAppState } from '@/hooks/useAppState'
+import { useToast } from '@/components/ui/toast'
 import { MeditationTimer } from '@/components/practice/MeditationTimer'
 import { MeditationLogger } from '@/components/practice/MeditationLogger'
 import { Timer, BookText, CheckSquare, BrainCircuit, ArrowRight } from 'lucide-react'
@@ -8,6 +9,7 @@ import { Button } from '@/components/ui/button'
 
 export function Practice() {
   const { state, addMeditationSession, deleteMeditationSession, addPreceptsRecord } = useAppState()
+  const { addToast } = useToast()
   const [activeTab, setActiveTab] = useState<'timer' | 'log' | 'precepts' | 'guide'>('timer')
 
   const [preceptsType, setPreceptsType] = useState<'five' | 'eight'>('five')
@@ -48,7 +50,7 @@ export function Practice() {
       precepts
     })
     setPrecepts({})
-    alert('Đã lưu ghi nhận giữ giới!')
+    addToast('Đã lưu ghi nhận giữ giới!', 'success')
   }
 
   const tabs = [
@@ -77,7 +79,7 @@ export function Practice() {
             return (
               <button
                 key={tab.id}
-                onClick={() => setActiveTab(tab.id as any)}
+                onClick={() => setActiveTab(tab.id as typeof activeTab)}
                 className={`
                   flex items-center space-x-2 px-4 py-3 border-b-2 font-medium text-sm transition-colors whitespace-nowrap
                   ${activeTab === tab.id
