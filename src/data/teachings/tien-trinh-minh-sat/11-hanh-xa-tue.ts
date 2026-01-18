@@ -24,7 +24,7 @@ Nếu người ấy tiếp tục thực hành ghi nhận với suy nghĩ: *"Bây
 
 Bây giờ khi việc ghi nhận hoạt động một cách tự phát như thể tự nó được đưa về phía trước, tâm trí, ngay cả khi được gửi ra hướng tới nhiều loại đối tượng khác nhau, thường từ chối đi; và ngay cả khi nó đi, nó sẽ không ở lại lâu mà sẽ sớm quay trở lại đối tượng thông thường cần được ghi nhận, và sẽ tiếp tục việc ghi nhận liên tục. Trong mối liên hệ này đã có nói: *"Người ấy co lại, lùi lại, và rút lui; người ấy không đi ra với nó."*
 
-## 12. Tuệ Thuận Thứ (Anuloma-ñāṇa)
+## 12. Minh Sát Dẫn Đến Sự Xuất Khởi (Vuṭṭhānagāminī-vipassanā-ñāṇa)
 
 Vì vậy, thông qua Hành Xả Tuệ, vốn được phú cho nhiều đức tính, phước lành và sức mạnh, người ấy ghi nhận các hành khi chúng xảy ra. Khi kiến thức này đã chín muồi, trở nên sắc bén, mạnh mẽ và sáng suốt, khi đạt đến điểm cực đỉnh của nó, nó sẽ hiểu bất kỳ hành nào là vô thường hoặc khổ hoặc vô ngã, chỉ bằng cách thấy sự tan rã của chúng.
 
