@@ -101,52 +101,145 @@ export function TeachingDetail() {
 
             {/* Content */}
             <div className="bg-card rounded-lg border border-border p-6">
-                <article className="prose prose-neutral dark:prose-invert max-w-none">
-                    <ReactMarkdown
-                        components={{
-                            h1: ({ children }) => (
-                                <h1 className="text-2xl font-bold text-foreground mt-8 mb-4 first:mt-0">{children}</h1>
-                            ),
-                            h2: ({ children }) => (
-                                <h2 className="text-xl font-bold text-foreground mt-6 mb-3 pb-2 border-b border-border">{children}</h2>
-                            ),
-                            h3: ({ children }) => (
-                                <h3 className="text-lg font-semibold text-foreground mt-5 mb-2">{children}</h3>
-                            ),
-                            p: ({ children }) => (
-                                <p className="text-foreground/90 leading-relaxed mb-4">{children}</p>
-                            ),
-                            ul: ({ children }) => (
-                                <ul className="list-disc pl-6 mb-4 space-y-1">{children}</ul>
-                            ),
-                            ol: ({ children }) => (
-                                <ol className="list-decimal pl-6 mb-4 space-y-1">{children}</ol>
-                            ),
-                            li: ({ children }) => (
-                                <li className="text-foreground/90">{children}</li>
-                            ),
-                            blockquote: ({ children }) => (
-                                <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground my-4">
-                                    {children}
-                                </blockquote>
-                            ),
-                            strong: ({ children }) => (
-                                <strong className="font-semibold text-foreground">{children}</strong>
-                            ),
-                            em: ({ children }) => (
-                                <em className="italic text-muted-foreground">{children}</em>
-                            ),
-                            hr: () => (
-                                <hr className="my-8 border-border" />
-                            ),
-                            a: ({ href, children }) => (
-                                <a href={href} className="text-primary hover:underline">{children}</a>
-                            ),
-                        }}
-                    >
-                        {teaching.content}
-                    </ReactMarkdown>
-                </article>
+                {teaching.chapters && teaching.chapters.length > 0 ? (
+                    <>
+                        {/* Table of Contents */}
+                        <div className="mb-12 p-6 bg-muted/30 rounded-lg border border-border/50">
+                            <h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
+                                <BookOpen className="h-4 w-4" />
+                                Mục Lục
+                            </h3>
+                            <ul className="grid gap-2 sm:grid-cols-2">
+                                {teaching.chapters.map((chapter) => (
+                                    <li key={chapter.id}>
+                                        <a
+                                            href={`#${chapter.id}`}
+                                            className="text-primary hover:underline text-sm flex items-start gap-2"
+                                        >
+                                            <span className="text-muted-foreground min-w-[1.5rem]">{chapter.order}.</span>
+                                            <span>{chapter.title}</span>
+                                        </a>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+
+                        {/* Chapters */}
+                        <div className="space-y-16">
+                            {teaching.chapters.map((chapter, index) => (
+                                <article key={chapter.id} id={chapter.id} className="scroll-mt-24">
+                                    <div className="mb-6 pb-4 border-b border-border">
+                                        <h2 className="text-2xl font-bold text-foreground mb-2">
+                                            {chapter.title}
+                                        </h2>
+                                        {chapter.titlePali && (
+                                            <p className="text-muted-foreground italic font-serif">
+                                                {chapter.titlePali}
+                                            </p>
+                                        )}
+                                    </div>
+
+                                    <div className="prose prose-neutral dark:prose-invert max-w-none">
+                                        <ReactMarkdown
+                                            components={{
+                                                h1: ({ children }) => (
+                                                    <h3 className="text-xl font-bold text-foreground mt-8 mb-4">{children}</h3>
+                                                ),
+                                                h2: ({ children }) => (
+                                                    <h4 className="text-lg font-bold text-foreground mt-6 mb-3">{children}</h4>
+                                                ),
+                                                h3: ({ children }) => (
+                                                    <h5 className="text-base font-bold text-foreground mt-5 mb-2">{children}</h5>
+                                                ),
+                                                p: ({ children }) => (
+                                                    <p className="text-foreground/90 leading-relaxed mb-4">{children}</p>
+                                                ),
+                                                ul: ({ children }) => (
+                                                    <ul className="list-disc pl-6 mb-4 space-y-1">{children}</ul>
+                                                ),
+                                                ol: ({ children }) => (
+                                                    <ol className="list-decimal pl-6 mb-4 space-y-1">{children}</ol>
+                                                ),
+                                                li: ({ children }) => (
+                                                    <li className="text-foreground/90">{children}</li>
+                                                ),
+                                                blockquote: ({ children }) => (
+                                                    <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground my-4">
+                                                        {children}
+                                                    </blockquote>
+                                                ),
+                                                strong: ({ children }) => (
+                                                    <strong className="font-semibold text-foreground">{children}</strong>
+                                                ),
+                                                em: ({ children }) => (
+                                                    <em className="italic text-muted-foreground">{children}</em>
+                                                ),
+                                                a: ({ href, children }) => (
+                                                    <a href={href} className="text-primary hover:underline">{children}</a>
+                                                ),
+                                            }}
+                                        >
+                                            {chapter.content}
+                                        </ReactMarkdown>
+                                    </div>
+
+                                    {index < (teaching.chapters?.length || 0) - 1 && (
+                                        <div className="flex justify-center mt-12">
+                                            <span className="text-muted-foreground/30 text-xl">***</span>
+                                        </div>
+                                    )}
+                                </article>
+                            ))}
+                        </div>
+                    </>
+                ) : (
+                    <article className="prose prose-neutral dark:prose-invert max-w-none">
+                        <ReactMarkdown
+                            components={{
+                                h1: ({ children }) => (
+                                    <h1 className="text-2xl font-bold text-foreground mt-8 mb-4 first:mt-0">{children}</h1>
+                                ),
+                                h2: ({ children }) => (
+                                    <h2 className="text-xl font-bold text-foreground mt-6 mb-3 pb-2 border-b border-border">{children}</h2>
+                                ),
+                                h3: ({ children }) => (
+                                    <h3 className="text-lg font-semibold text-foreground mt-5 mb-2">{children}</h3>
+                                ),
+                                p: ({ children }) => (
+                                    <p className="text-foreground/90 leading-relaxed mb-4">{children}</p>
+                                ),
+                                ul: ({ children }) => (
+                                    <ul className="list-disc pl-6 mb-4 space-y-1">{children}</ul>
+                                ),
+                                ol: ({ children }) => (
+                                    <ol className="list-decimal pl-6 mb-4 space-y-1">{children}</ol>
+                                ),
+                                li: ({ children }) => (
+                                    <li className="text-foreground/90">{children}</li>
+                                ),
+                                blockquote: ({ children }) => (
+                                    <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground my-4">
+                                        {children}
+                                    </blockquote>
+                                ),
+                                strong: ({ children }) => (
+                                    <strong className="font-semibold text-foreground">{children}</strong>
+                                ),
+                                em: ({ children }) => (
+                                    <em className="italic text-muted-foreground">{children}</em>
+                                ),
+                                hr: () => (
+                                    <hr className="my-8 border-border" />
+                                ),
+                                a: ({ href, children }) => (
+                                    <a href={href} className="text-primary hover:underline">{children}</a>
+                                ),
+                            }}
+                        >
+                            {teaching.content || ''}
+                        </ReactMarkdown>
+                    </article>
+                )}
             </div>
         </div>
     )

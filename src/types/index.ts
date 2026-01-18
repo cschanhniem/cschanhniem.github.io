@@ -54,6 +54,15 @@ export interface SuttaProgress {
   lastRead: string // ISO date
 }
 
+// Teaching Chapter
+export interface TeachingChapter {
+  id: string
+  order: number
+  title: string
+  titlePali?: string
+  content: string
+}
+
 // Teaching Data (meditation manuals, commentaries)
 export interface Teaching {
   id: string
@@ -62,7 +71,8 @@ export interface Teaching {
   author: string
   translator?: string
   summary: string
-  content: string
+  content?: string // Optional if using chapters
+  chapters?: TeachingChapter[] // Optional for multi-part teachings
   themes: string[]
   difficulty: 'beginner' | 'intermediate' | 'advanced'
   type: 'manual' | 'commentary' | 'discourse'
