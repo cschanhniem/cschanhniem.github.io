@@ -9,13 +9,15 @@ import nhanQuaLuanHoi from './nhan-qua-luan-hoi'
 import muoiBaLaMat from './muoi-ba-la-mat'
 import thienBaoHo from './thien-bao-ho'
 import vanDapTinhHoa from './van-dap-tinh-hoa'
+import guongSangThanhTang from './guong-sang-thanh-tang'
 
 export const teachings = [
-    vanDapTinhHoa,    // Dialogue (Resolving Doubts) - NEW
+    guongSangThanhTang, // Sangha (Living Proof) - NEW
+    thienBaoHo,       // Armor (Faith & Protection)
+    vanDapTinhHoa,    // Dialogue (Resolving Doubts)
     nhanQuaLuanHoi,   // Foundation 1 (Mundane Right View)
     tuDieuDe,         // Foundation 2 (The Truths)
     muoiBaLaMat,      // Fuel (The Perfections)
-    thienBaoHo,       // Armor (Guardian Meditations)
     tuVoLuong,        // Heart (Divine Abodes)
     baMuoiBayPham,    // Framework (37 Factors)
     viDieuPhap,       // Deep Dive (Abhidhamma)
@@ -35,5 +37,6 @@ export {
     nhanQuaLuanHoi,
     muoiBaLaMat,
     thienBaoHo,
-    vanDapTinhHoa
+    vanDapTinhHoa,
+    guongSangThanhTang
 }

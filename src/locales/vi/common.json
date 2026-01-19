@@ -271,5 +271,6 @@
   },
   "loading": "Đang tải...",
   "error": "Có lỗi xảy ra",
+  "exportPdf": "Xuất PDF / In",
   "success": "Thành công"
 }
