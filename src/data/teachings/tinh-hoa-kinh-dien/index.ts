@@ -9,6 +9,8 @@ import guongPhap from './06-guong-phap'
 import kinhChuyenPhapLuan from './07-kinh-chuyen-phap-luan'
 import tuDuLuuChi from './08-tu-du-luu-chi'
 import appamada from './09-appamada'
+import maranasati from './10-maranasati'
+import tinPhapHanhGia from './11-tin-phap-hanh-gia'
 
 export const tinhHoaKinhDien: Teaching = {
     id: 'tinh-hoa-kinh-dien',
@@ -28,7 +30,9 @@ export const tinhHoaKinhDien: Teaching = {
         kinhVoNgaTuong,
         guongPhap,           // Tiêu chuẩn kiểm chứng Dự Lưu
         tuDuLuuChi,          // 4 yếu tố đưa đến Dự Lưu
-        appamada             // Lời di huấn cuối cùng của Đức Phật
+        appamada,            // Lời di huấn cuối cùng của Đức Phật
+        maranasati,          // Niệm chết
+        tinPhapHanhGia       // 2 loại người đắc quả
     ]
 }
 

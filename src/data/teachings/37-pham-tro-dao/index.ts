@@ -6,6 +6,8 @@ import chap03 from './03-tu-nhu-y-tuc'
 import chap04 from './04-ngu-can-ngu-luc'
 import chap05 from './05-that-giac-chi'
 import chap06 from './06-bat-chanh-dao'
+import chap07 from './07-ngu-trien-cai'
+import chap08 from './08-that-giac-chi-chi-tiet'
 
 export const baMuoiBayPhamMeta: Omit<TeachingWithChapters, 'chapters'> = {
     id: '37-pham-tro-dao',
@@ -28,7 +30,9 @@ const baMuoiBayPham: TeachingWithChapters = {
         chap03,
         chap04,
         chap05,
-        chap06
+        chap06,
+        chap07,
+        chap08
     ]
 }
 
