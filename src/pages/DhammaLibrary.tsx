@@ -48,7 +48,8 @@ export function DhammaLibrary() {
         commentary: 'Chú giải',
         discourse: 'Pháp thoại',
         guide: 'Hướng dẫn',
-        foundation: 'Nền tảng'
+        foundation: 'Nền tảng',
+        practical: 'Thực hành đời sống'
     }
 
     return (
