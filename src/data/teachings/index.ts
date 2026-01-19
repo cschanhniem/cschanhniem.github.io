@@ -10,20 +10,22 @@ import muoiBaLaMat from './muoi-ba-la-mat'
 import thienBaoHo from './thien-bao-ho'
 import vanDapTinhHoa from './van-dap-tinh-hoa'
 import guongSangThanhTang from './guong-sang-thanh-tang'
+import dinhHocTinhHoa from './dinh-hoc-tinh-hoa'
 
 export const teachings = [
-    guongSangThanhTang, // Sangha (Living Proof) - NEW
-    thienBaoHo,       // Armor (Faith & Protection)
-    vanDapTinhHoa,    // Dialogue (Resolving Doubts)
-    nhanQuaLuanHoi,   // Foundation 1 (Mundane Right View)
-    tuDieuDe,         // Foundation 2 (The Truths)
-    muoiBaLaMat,      // Fuel (The Perfections)
-    tuVoLuong,        // Heart (Divine Abodes)
-    baMuoiBayPham,    // Framework (37 Factors)
-    viDieuPhap,       // Deep Dive (Abhidhamma)
-    tienTrinhMinhSat, // Map (16 Nanas)
-    conDuongMahasi,   // Guide 1 (Path)
-    huongDanNhapThat, // Guide 2 (Retreat)
+    dinhHocTinhHoa,     // Concentration (Jhana) - NEW
+    guongSangThanhTang, // Sangha (Living Proof)
+    thienBaoHo,         // Armor (Faith & Protection)
+    vanDapTinhHoa,      // Dialogue (Resolving Doubts)
+    nhanQuaLuanHoi,     // Foundation 1 (Mundane Right View)
+    tuDieuDe,           // Foundation 2 (The Truths)
+    muoiBaLaMat,        // Fuel (The Perfections)
+    tuVoLuong,          // Heart (Divine Abodes)
+    baMuoiBayPham,      // Framework (37 Factors)
+    viDieuPhap,         // Deep Dive (Abhidhamma)
+    tienTrinhMinhSat,   // Map (16 Nanas)
+    conDuongMahasi,     // Guide 1 (Path)
+    huongDanNhapThat,   // Guide 2 (Retreat)
 ]
 
 export {
@@ -38,5 +40,6 @@ export {
     muoiBaLaMat,
     thienBaoHo,
     vanDapTinhHoa,
-    guongSangThanhTang
+    guongSangThanhTang,
+    dinhHocTinhHoa
 }

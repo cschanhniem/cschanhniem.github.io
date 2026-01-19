@@ -6,6 +6,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { ChevronLeft, Bookmark, Type, Minus, Plus, Columns, FileText } from 'lucide-react'
 import { useAppState } from '@/hooks/useAppState'
+import { PrintButton } from '@/components/PrintButton'
 
 type FontSize = 'small' | 'medium' | 'large'
 type ViewMode = 'single' | 'parallel'
@@ -32,6 +33,7 @@ export function SuttaDetail() {
   // Reading progress
   const [progress, setProgress] = useState(0)
   const contentRef = useRef<HTMLDivElement>(null)
+  const printRef = useRef<HTMLDivElement>(null)
   const progressKey = `nhapluu_progress_${suttaId}`
   const lastReadKey = `nhapluu_lastread_${suttaId}`
 
@@ -122,7 +124,7 @@ export function SuttaDetail() {
   return (
     <div className="container mx-auto px-4 py-8 max-w-6xl">
       {/* Reading Progress Bar */}
-      <div className="fixed top-0 left-0 right-0 h-1 bg-muted z-50">
+      <div className="fixed top-0 left-0 right-0 h-1 bg-muted z-50 print:hidden">
         <div
           className="h-full bg-primary transition-all duration-150"
           style={{ width: `${progress}%` }}
@@ -131,158 +133,166 @@ export function SuttaDetail() {
 
       <button
         onClick={() => navigate('/kinh-tang')}
-        className="flex items-center gap-2 text-primary hover:underline mb-6"
+        className="flex items-center gap-2 text-primary hover:underline mb-6 print:hidden"
       >
         <ChevronLeft className="h-4 w-4" />
         {t('library.backToLibrary')}
       </button>
 
-      {/* Header Card */}
-      <div className="bg-card rounded-lg border border-border p-6 mb-6">
-        <div className="flex items-start justify-between mb-4">
-          <div className="flex-1">
-            <div className="text-sm text-primary font-medium mb-2">{sutta.code}</div>
-            <h1 className="text-3xl font-bold text-foreground mb-2">{sutta.title}</h1>
-            {sutta.titlePali && (
-              <p className="text-lg text-muted-foreground italic font-serif mb-4">
-                {sutta.titlePali}
-              </p>
-            )}
-          </div>
-          <button
-            onClick={() => toggleBookmark(sutta.id)}
-            className="p-2 hover:bg-muted rounded-md transition-colors"
-            aria-label={
-              state.bookmarkedSuttas.includes(sutta.id)
-                ? t('library.removeBookmark')
-                : t('library.addBookmark')
-            }
-          >
-            <Bookmark
-              className={`h-6 w-6 ${state.bookmarkedSuttas.includes(sutta.id)
+      {/* Printable Wrapper */}
+      <div ref={printRef} className="print:p-4">
+        {/* Header Card */}
+        <div className="bg-card rounded-lg border border-border p-6 mb-6 print:border-none print:shadow-none print:p-0">
+          <div className="flex items-start justify-between mb-4">
+            <div className="flex-1">
+              <div className="text-sm text-primary font-medium mb-2">{sutta.code}</div>
+              <h1 className="text-3xl font-bold text-foreground mb-2">{sutta.title}</h1>
+              {sutta.titlePali && (
+                <p className="text-lg text-muted-foreground italic font-serif mb-4">
+                  {sutta.titlePali}
+                </p>
+              )}
+            </div>
+            <button
+              onClick={() => toggleBookmark(sutta.id)}
+              className="p-2 hover:bg-muted rounded-md transition-colors print:hidden"
+              aria-label={
+                state.bookmarkedSuttas.includes(sutta.id)
+                  ? t('library.removeBookmark')
+                  : t('library.addBookmark')
+              }
+            >
+              <Bookmark
+                className={`h-6 w-6 ${state.bookmarkedSuttas.includes(sutta.id)
                   ? 'fill-primary text-primary'
                   : 'text-muted-foreground'
-                }`}
-            />
-          </button>
-        </div>
-
-        <div className="flex flex-wrap gap-2 mb-6">
-          {sutta.themes.map((theme) => (
-            <span
-              key={theme}
-              className="px-3 py-1 bg-muted text-muted-foreground text-sm rounded-full"
-            >
-              {theme}
-            </span>
-          ))}
-        </div>
-
-        <div className="bg-muted p-4 rounded-md mb-6">
-          <p className="text-foreground font-medium">{sutta.summary}</p>
-        </div>
-
-        {/* Reading Controls */}
-        <div className="flex items-center justify-between flex-wrap gap-4 pt-4 border-t border-border">
-          {/* Font Size Control */}
-          <div className="flex items-center gap-2">
-            <Type className="h-4 w-4 text-muted-foreground" />
-            <span className="text-sm text-muted-foreground mr-2">{t('library.fontSize')}</span>
-            <button
-              onClick={() => cycleFontSize('down')}
-              disabled={fontSize === 'small'}
-              className="p-1.5 rounded bg-muted hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              <Minus className="h-4 w-4" />
-            </button>
-            <span className="text-sm font-medium w-16 text-center">
-              {t(`library.fontSizes.${fontSize}`)}
-            </span>
-            <button
-              onClick={() => cycleFontSize('up')}
-              disabled={fontSize === 'large'}
-              className="p-1.5 rounded bg-muted hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              <Plus className="h-4 w-4" />
+                  }`}
+              />
             </button>
           </div>
 
-          {/* View Mode Toggle (only if Pāli content available) */}
-          {hasPaliContent && (
-            <div className="flex items-center gap-2">
-              <button
-                onClick={() => setViewMode('single')}
-                className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${viewMode === 'single'
-                    ? 'bg-primary text-primary-foreground'
-                    : 'bg-muted text-muted-foreground hover:bg-muted/80'
-                  }`}
+          <div className="flex flex-wrap gap-2 mb-6 print:hidden">
+            {sutta.themes.map((theme) => (
+              <span
+                key={theme}
+                className="px-3 py-1 bg-muted text-muted-foreground text-sm rounded-full"
               >
-                <FileText className="h-4 w-4" />
-                {t('library.singleView')}
-              </button>
-              <button
-                onClick={() => setViewMode('parallel')}
-                className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${viewMode === 'parallel'
-                    ? 'bg-primary text-primary-foreground'
-                    : 'bg-muted text-muted-foreground hover:bg-muted/80'
-                  }`}
-              >
-                <Columns className="h-4 w-4" />
-                {t('library.parallelView')}
-              </button>
+                {theme}
+              </span>
+            ))}
+          </div>
+
+          <div className="bg-muted p-4 rounded-md mb-6 print:bg-gray-50 print:text-black">
+            <p className="text-foreground font-medium">{sutta.summary}</p>
+          </div>
+
+          {/* Reading Controls */}
+          <div className="flex items-center justify-between flex-wrap gap-4 pt-4 border-t border-border print:hidden">
+            <div className="flex items-center gap-4 flex-wrap">
+              {/* Font Size Control */}
+              <div className="flex items-center gap-2">
+                <Type className="h-4 w-4 text-muted-foreground" />
+                <span className="text-sm text-muted-foreground mr-2">{t('library.fontSize')}</span>
+                <button
+                  onClick={() => cycleFontSize('down')}
+                  disabled={fontSize === 'small'}
+                  className="p-1.5 rounded bg-muted hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  <Minus className="h-4 w-4" />
+                </button>
+                <span className="text-sm font-medium w-16 text-center">
+                  {t(`library.fontSizes.${fontSize}`)}
+                </span>
+                <button
+                  onClick={() => cycleFontSize('up')}
+                  disabled={fontSize === 'large'}
+                  className="p-1.5 rounded bg-muted hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  <Plus className="h-4 w-4" />
+                </button>
+              </div>
+
+              {/* View Mode Toggle (only if Pāli content available) */}
+              {hasPaliContent && (
+                <div className="flex items-center gap-2">
+                  <button
+                    onClick={() => setViewMode('single')}
+                    className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${viewMode === 'single'
+                      ? 'bg-primary text-primary-foreground'
+                      : 'bg-muted text-muted-foreground hover:bg-muted/80'
+                      }`}
+                  >
+                    <FileText className="h-4 w-4" />
+                    {t('library.singleView')}
+                  </button>
+                  <button
+                    onClick={() => setViewMode('parallel')}
+                    className={`flex items-center gap-2 px-3 py-1.5 rounded text-sm font-medium transition-colors ${viewMode === 'parallel'
+                      ? 'bg-primary text-primary-foreground'
+                      : 'bg-muted text-muted-foreground hover:bg-muted/80'
+                      }`}
+                  >
+                    <Columns className="h-4 w-4" />
+                    {t('library.parallelView')}
+                  </button>
+                </div>
+              )}
             </div>
+
+            {/* Print & Progress */}
+            <div className="flex items-center gap-4">
+              <PrintButton contentRef={printRef} title={sutta.title} />
+              <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                <span>{t('library.progress')}: {Math.round(progress)}%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Content */}
+        <div ref={contentRef} className="bg-card rounded-lg border border-border p-6 print:border-none print:shadow-none print:p-0">
+          {viewMode === 'parallel' && hasPaliContent ? (
+            // Parallel View
+            <div className="grid md:grid-cols-2 gap-6">
+              {/* Pāli Column */}
+              <div className="border-r border-border pr-6">
+                <div className="sticky top-4 mb-4 print:static">
+                  <span className="text-xs font-medium text-primary bg-primary/10 px-2 py-1 rounded print:border print:border-gray-200">
+                    Pāli
+                  </span>
+                </div>
+                <article className={`${proseClasses} font-serif print:prose-black`}>
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {sutta.contentPali || ''}
+                  </ReactMarkdown>
+                </article>
+              </div>
+
+              {/* Vietnamese Column */}
+              <div className="pl-6">
+                <div className="sticky top-4 mb-4 print:static">
+                  <span className="text-xs font-medium text-primary bg-primary/10 px-2 py-1 rounded print:border print:border-gray-200">
+                    Việt
+                  </span>
+                </div>
+                <article className={`${proseClasses} print:prose-black`}>
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {sutta.content || ''}
+                  </ReactMarkdown>
+                </article>
+              </div>
+            </div>
+          ) : (
+            // Single View
+            <article className={`${proseClasses} print:prose-black`}>
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>{sutta.content || ''}</ReactMarkdown>
+            </article>
           )}
-
-          {/* Reading Progress */}
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <span>{t('library.progress')}: {Math.round(progress)}%</span>
-          </div>
         </div>
-      </div>
-
-      {/* Content */}
-      <div ref={contentRef} className="bg-card rounded-lg border border-border p-6">
-        {viewMode === 'parallel' && hasPaliContent ? (
-          // Parallel View
-          <div className="grid md:grid-cols-2 gap-6">
-            {/* Pāli Column */}
-            <div className="border-r border-border pr-6">
-              <div className="sticky top-4 mb-4">
-                <span className="text-xs font-medium text-primary bg-primary/10 px-2 py-1 rounded">
-                  Pāli
-                </span>
-              </div>
-              <article className={`${proseClasses} font-serif`}>
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                  {sutta.contentPali || ''}
-                </ReactMarkdown>
-              </article>
-            </div>
-
-            {/* Vietnamese Column */}
-            <div className="pl-6">
-              <div className="sticky top-4 mb-4">
-                <span className="text-xs font-medium text-primary bg-primary/10 px-2 py-1 rounded">
-                  Việt
-                </span>
-              </div>
-              <article className={proseClasses}>
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                  {sutta.content || ''}
-                </ReactMarkdown>
-              </article>
-            </div>
-          </div>
-        ) : (
-          // Single View
-          <article className={proseClasses}>
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>{sutta.content || ''}</ReactMarkdown>
-          </article>
-        )}
       </div>
 
       {/* Bottom Navigation */}
-      <div className="mt-8 flex justify-between">
+      <div className="mt-8 flex justify-between print:hidden">
         <button
           onClick={() => navigate('/kinh-tang')}
           className="flex items-center gap-2 text-primary hover:underline"
