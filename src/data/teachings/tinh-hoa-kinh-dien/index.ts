@@ -8,6 +8,7 @@ import kinhVoNgaTuong from './05-kinh-vo-nga-tuong'
 import guongPhap from './06-guong-phap'
 import kinhChuyenPhapLuan from './07-kinh-chuyen-phap-luan'
 import tuDuLuuChi from './08-tu-du-luu-chi'
+import appamada from './09-appamada'
 
 export const tinhHoaKinhDien: Teaching = {
     id: 'tinh-hoa-kinh-dien',
@@ -15,7 +16,7 @@ export const tinhHoaKinhDien: Teaching = {
     summary: 'Lời vàng trực tiếp từ Đức Phật (Buddhavacana). Tuyển tập những bài kinh căn bản nhất: từ nghệ thuật sống đến tiêu chuẩn kiểm chứng quả Dự Lưu.',
     author: 'Đức Phật Gotama',
     type: 'foundation',
-    themes: ['kinh điển', 'nguyên thủy', 'đạo đức', 'dự lưu', 'tứ diệu đế'],
+    themes: ['kinh điển', 'nguyên thủy', 'đạo đức', 'dự lưu', 'tứ diệu đế', 'appamāda'],
     difficulty: 'beginner',
     chapters: [
         tongQuan,
@@ -26,7 +27,8 @@ export const tinhHoaKinhDien: Teaching = {
         kinhMangala,
         kinhVoNgaTuong,
         guongPhap,           // Tiêu chuẩn kiểm chứng Dự Lưu
-        tuDuLuuChi           // 4 yếu tố đưa đến Dự Lưu
+        tuDuLuuChi,          // 4 yếu tố đưa đến Dự Lưu
+        appamada             // Lời di huấn cuối cùng của Đức Phật
     ]
 }
 
