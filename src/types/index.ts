@@ -75,7 +75,7 @@ export interface Teaching {
   chapters?: TeachingChapter[] // Optional for multi-part teachings
   themes: string[]
   difficulty: 'beginner' | 'intermediate' | 'advanced'
-  type: 'manual' | 'commentary' | 'discourse'
+  type: 'manual' | 'commentary' | 'discourse' | 'guide'
 }
 
 // User Stats

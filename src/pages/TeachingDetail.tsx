@@ -35,7 +35,8 @@ export function TeachingDetail() {
     const typeLabels = {
         manual: 'Sổ tay thực hành',
         commentary: 'Chú giải',
-        discourse: 'Pháp thoại'
+        discourse: 'Pháp thoại',
+        guide: 'Hướng dẫn'
     }
 
     return (
