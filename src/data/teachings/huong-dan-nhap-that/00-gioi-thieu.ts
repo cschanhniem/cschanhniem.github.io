@@ -5,25 +5,30 @@ const chapter: TeachingChapter = {
     order: 0,
     title: 'Giới Thiệu: Đánh Thức Tiềm Năng',
     content: `
-# Nhập Thất: Hành Trình Đánh Thức Tiềm Năng
+# Nhập Thất: Hành Trình Trở Về Với Chân Tâm
 
-Bạn đang cầm trên tay tấm bản đồ cho một trong những chuyến phiêu lưu quan trọng nhất cuộc đời: **Khóa Thiền Nhập Thất (Retreat)**.
+Bạn đang đứng trước ngưỡng cửa của một trong những trải nghiệm chuyển hóa sâu sắc nhất: **Khóa Thiền Nhập Thất (Retreat)**. Đây là khoảng thời gian quý báu để bạn tạm gác lại những vai diễn thế tục và quay về chăm sóc khu vườn tâm thức của mình.
 
-## Đây Không Phải Là Kỳ Nghỉ Dưỡng
-Hãy xác định ngay từ đầu: Nhập thất không phải là để thư giãn, trốn tránh thế giới hay tìm kiếm sự dễ chịu. 
-Đó là một **trường huấn luyện tâm linh** nghiêm khắc, nơi bạn đối diện trực tiếp với chính mình — trần trụi và không che đậy. Nó giống như việc luyện thép trong lò lửa: nóng bỏng, áp lực, nhưng kết quả là một thanh kiếm sắc bén và kiên cường.
+## Tinh Thần Trung Đạo (The Middle Way)
+
+Nhập thất không phải là cuộc hành xác, cũng không phải kỳ nghỉ dưỡng. Đó là con đường của sự **Cân Bằng**.
+*   **Không quá căng thẳng:** Đừng nghiến răng nghiến lợi cố gắng "đạt" được cái gì đó. Điều đó chỉ tạo ra sự bồn chồn (Trào cử).
+*   **Không quá buông lung:** Đừng lười biếng, chiều chuộng thói quen ngủ nghỉ của thân. Điều đó dẫn đến sự mê mờ (Hôn trầm).
+*   **Bí quyết:** Giống như dây đàn, không quá căng cũng không quá chùn. Hãy duy trì sự **Tỉnh Thức Thư Giãn**. Nỗ lực nằm ở sự *liên tục*, không phải ở sự *gồng mình*.
 
 ## Mục Tiêu Của Khóa Tu
-1.  **Thanh lọc tâm:** Quét sạch rác rưởi của tham lam, giận hờn, đố kỵ, lo âu đã tích tụ bao năm tháng.
-2.  **Khai mở tuệ giác:** Nhìn thấy sự thật trần trụi của thân và tâm, phá vỡ lớp vỏ ảo tưởng về cái "Tôi".
-3.  **Hướng đến Nhập Lưu:** Đặt bước chân đầu tiên và quan trọng nhất vào dòng Thánh, đảm bảo sự an vui vĩnh cửu.
+1.  **Thanh lọc tâm:** Để cho những cặn bã của tham, sân, si lắng xuống, hiển lộ sự trong sáng tự nhiên của tâm.
+2.  **Khai mở Tuệ giác (Paññā):** Không phải học thêm kiến thức mới, mà là *thấy lại* những gì đã cũ kỹ (thân, tâm) bằng một con mắt mới - con mắt của Chánh Kiến.
+3.  **Thực chứng Sự thật:** Hướng đến việc kinh nghiệm trực tiếp Ba đặc tính của sự sống (Vô thường, Khổ, Vô ngã), từ đó đạt được sự giải thoát thực sự (Nhập Lưu).
 
-## Bạn Cần Gì?
-*   **Thời gian:** 10-14 ngày trọn vẹn (ít nhất là 7 ngày). Đây là khoảng thời gian tối thiểu để tâm buông bỏ thế giới bên ngoài và đi vào chiều sâu.
-*   **Địa điểm:** Một trung tâm thiền chuyên nghiệp (khuyên dùng) hoặc một không gian biệt lập tại nhà (nếu bạn có kỷ luật thép).
-*   **Tinh thần chiến binh:** Sẵn sàng đối mặt với khó khăn, đau đớn và sự nhàm chán mà không bỏ cuộc.
+## Những Yếu Tố Cần Thiết
+*   **Sự Thành Tâm (Saddhā):** Tin tưởng vào khả năng giác ngộ của chính mình và phương pháp thực hành.
+*   **Sự Tinh Tấn (Viriya):** Năng lượng bền bỉ để đứng dậy sau mỗi lần tâm phóng dật.
+*   **Sự Chánh Niệm (Sati):** Khả năng nhớ và ghi nhận những gì đang xảy ra trong hiện tại.
+*   **Sự Định Tĩnh (Samādhi):** Sự không dao động trước các cảm thọ dễ chịu hay khó chịu.
+*   **Trí Tuệ (Paññā):** Sự hiểu biết đúng đắn về mục đích và phương pháp.
 
-Hãy chuẩn bị tinh thần để lột xác. Phiên bản mới của bạn đang đợi ở cuối con đường.
+Hãy bước vào khóa tu với trái tim rộng mở của người học trò, sẵn sàng khám phá những tầng sâu chưa từng biết đến của chính mình.
 `
 }
 

@@ -3,72 +3,73 @@ import type { TeachingChapter } from '../tien-trinh-minh-sat/index'
 const chapter: TeachingChapter = {
     id: 'ky-thuat-co-ban',
     order: 2,
-    title: 'Kỹ Thuật Cốt Lõi',
+    title: 'Kỹ Thuật Cốt Lõi: Nhìn Thấu Thực Tại',
     content: `
 # Kỹ Thuật Thiền Quán Căn Bản
 
-Phương pháp Mahasi nổi tiếng với sự trực diện và hiệu quả. Bí quyết nằm ở một công cụ đơn giản nhưng đầy quyền năng: **GHI NHẬN (Noting)**.
+Phương pháp Mahasi không chỉ là ngồi yên, mà là một công nghệ tâm linh chính xác để bóc tách lớp vỏ ảo tưởng của thế gian. Bí quyết nằm ở công cụ: **GHI NHẬN (Noting)**.
 
-## 1. Nguyên Tắc Vàng: Thấy và Gọi Tên
+## 1. Bí Mật Của Minh Sát: Chế Định (Paññatti) vs. Chân Đế (Paramattha)
 
-Hãy tưởng tượng bạn là một người gác cổng tỉnh thức. Mỗi vị khách (hiện tượng) đi qua cửa giác quan đều được bạn nhận diện rõ ràng.
+Đây là điểm mấu chốt phân biệt Thiền Minh Sát (Vipassana) với các loại thiền khác.
 
-**Ghi nhận = Nhận biết trọn vẹn + Đặt tên thầm lặng**
+*   **Chế Định (Khái niệm):** Là tên gọi, hình dáng, quy ước. Ví dụ: "Cái bụng", "Cánh tay", "Đàn ông", "Phụ nữ".
+*   **Chân Đế (Thực tại):** Là bản chất thực sự đang diễn ra mà không qua lăng kính ngôn ngữ. Ví dụ: Sự căng, nóng, chuyển động, cứng, mềm.
 
-*   **Nhận biết:** Tâm hướng trọn vẹn đến đối tượng đang xảy ra ngay bây giờ.
-*   **Đặt tên:** Dùng một từ đơn giản để "đánh dấu" đối tượng đó trong tâm.
+**Mục tiêu của chúng ta:** Xuyên qua lớp vỏ Chế Định để thấy Chân Đế.
+Khi bạn quan sát bụng phồng, đừng hình dung ra "cái da bụng hình tròn đang phình lên" (đó là Chế Định). Hãy cảm nhận trực tiếp **Sự căng giãn, Sự chuyển động, Áp lực** (đó là Chân Đế - Yếu tố Gió).
 
-Ví dụ: 
-*   Bụng phồng lên $\\rightarrow$ Biết rõ cảm giác căng giãn $\\rightarrow$ Thầm niệm: *"Phồng"*.
-*   Tai nghe tiếng động $\\rightarrow$ Biết rõ âm thanh chạm vào tai $\\rightarrow$ Thầm niệm: *"Nghe"*.
-*   Tâm đang suy nghĩ $\\rightarrow$ Biết rõ dòng suy tưởng $\\rightarrow$ Thầm niệm: *"Nghĩ"*.
+## 2. Nguyên Tắc Vàng: Ghi Nhận (Noting)
 
-## 2. Đối Tượng Chính: Vũ Điệu Của Hơi Thở
+Hành động Ghi Nhận gồm 2 phần:
+1.  **Nhận biết trọn vẹn (Aiming):** Tâm hướng thẳng vào đối tượng thực tại (sự căng, nóng...).
+2.  **Đặt tên thầm lặng (Labeling):** Dùng một từ đơn giản để "neo" tâm vào đối tượng.
 
-Trong phương pháp này, chúng ta sử dụng chuyển động **Phồng - Xẹp** của thành bụng làm "mỏ neo" cho sự chú ý.
-Tại sao là bụng? Vì đây là chuyển động vật lý thô, rõ ràng, diễn ra liên tục và không dính dáng đến các khái niệm trừu tượng.
+*Ví dụ:*
+*   Cảm thấy sự chuyển động đẩy ra ở bụng $\\rightarrow$ Niệm *"Phồng"*.
+*   Cảm thấy âm thanh va chạm màng nhĩ $\\rightarrow$ Niệm *"Nghe"*.
+*   Cảm thấy dòng suy nghĩ khởi lên $\\rightarrow$ Niệm *"Nghĩ"*.
 
-**Thực hành như thế nào?**
-1.  **An vị:** Ngồi xuống thoải mái, lưng thẳng, thả lỏng toàn thân. Đặt sự chú ý nhẹ nhàng vào vùng bụng quanh rốn.
-2.  **Cảm nhận:** Đừng hình dung, hãy *cảm nhận* trực tiếp. Khi hít vào, bụng từ từ nhô lên — bạn cảm thấy sự căng, đẩy. Khi thở ra, bụng hạ xuống — bạn cảm thấy sự xẹp, buông.
-3.  **Ghi nhận:** 
-    *   Khi bụng phồng: Niệm thầm *"Phồng... phồng..."* song hành cùng chuyển động.
-    *   Khi bụng xẹp: Niệm thầm *"Xẹp... xẹp..."* bám sát theo sự hạ xuống.
+**Lưu ý quan trọng:** Cái tên (nhãn) chỉ chiếm 5%, sự cảm nhận trực tiếp chiếm 95%. Đừng biến buổi thiền thành bài tập đọc chính tả trong đầu.
 
-*Lưu ý: Cái tên (nhãn) chỉ là công cụ giúp tâm bám sát mục tiêu. Đừng quá chú trọng vào từ ngữ, hãy đặt 90% nỗ lực vào việc cảm nhận thực tại đang diễn ra.*
+## 3. Đối Tượng Chính: Vũ Điệu Của Tứ Đại
 
-## 3. Nghệ Thuật Ứng Phó Với Các Vị Khách Khác
+Chúng ta dùng chuyển động **Phồng - Xẹp** làm mỏ neo chính. Tại sao? Vì nó là sự biểu hiện rõ ràng nhất của **Yếu tố Gió (Vāyo-dhātu)** - sự chuyển động và nâng đỡ.
 
-Khi đang an trú trên Phồng-Xẹp, chắc chắn sẽ có những "vị khách không mời" xuất hiện: âm thanh, đau nhức, suy nghĩ, cảm xúc... Đừng xua đuổi chúng. Nguyên tắc là: **Cái gì nổi bật nhất, hãy ghi nhận cái đó.**
+**Thực hành:**
+1.  **An vị:** Ngồi thẳng lưng, nhưng thả lỏng. Đừng gồng mình như bức tượng thép.
+2.  **Kết nối:** Đặt tâm lên vùng bụng (hoặc ngực).
+3.  **Quan sát:**
+    *   Khi hít vào $\\rightarrow$ Cảm nhận sự đẩy ra, căng lên $\\rightarrow$ Niệm *"Phồng"*.
+    *   Khi thở ra $\\rightarrow$ Cảm nhận sự hạ xuống, chùng lại $\\rightarrow$ Niệm *"Xẹp"*.
 
-### Khi Suy Nghĩ Kéo Đến
-Tâm trí như chú khỉ hiếu động, nó sẽ phóng đi liên tục.
-*   Ngay khi nhận ra mình đang lơ đễnh nghĩ ngợi, hãy dừng lại và ghi nhận: *"Nghĩ, nghĩ"*.
-*   Chỉ cần biết là đang nghĩ, không cần đi sâu vào nội dung câu chuyện.
-*   Sau khi ghi nhận, nhẹ nhàng nhưng kiên quyết đưa tâm quay về với *"Phồng, xẹp"*.
+Đừng điều khiển hơi thở! Hãy để nó tự nhiên như nó vốn là. Bạn chỉ là người quan sát khách quan (Observer), không phải người điều khiển (Controller).
 
-### Khi Cảm Giác Thân (Đau, Tê, Ngứa) Xuất Hiện
-*   Nếu cơn đau nhẹ: Hãy lờ nó đi, tiếp tục với bụng.
-*   Nếu cơn đau trở nên mạnh mẽ, lấn át hơi thở: Hãy biến nó thành đối tượng thiền. Niệm *"Đau, đau, đau..."*.
-*   Quan sát cơn đau như một nhà khoa học khách quan: Nó nóng hay lạnh? Nhói hay buốt? Nó đứng yên hay lan tỏa? Nó tăng lên hay giảm đi?
-*   Bạn sẽ ngạc nhiên khi thấy rằng: *"Cơn đau chỉ là cơn đau, không phải là 'tôi đau'".*
+## 4. Nghệ Thuật Ứng Phó Với "Khách Không Mời"
 
-### Khi Có Cảm Xúc (Buồn, Vui, Bực, Chán)
-*   Đừng đồng nhất mình với cảm xúc. Thay vì nghĩ *"Tôi đang buồn"*, hãy nhìn nó và ghi nhận: *"Buồn, buồn"* hay *"Bực, bực"*.
-*   Nhìn cảm xúc như một đám mây trôi qua bầu trời tâm thức. Ghi nhận nó, rồi để nó tự tan biến.
+Tâm bạn chắc chắn sẽ phóng đi. Đừng bực bội! Đó là bản chất tự nhiên của tâm (*Vô ngã*).
 
-## 4. Thiền Hành: Chánh Niệm Trong Từng Bước Chân
+### Khi Vọng Tưởng (Suy Nghĩ) Đến
+*   Ngay khoảnh khắc bạn nhận ra mình đang mơ mộng, đó là khoảnh khắc của Tỉnh Thức (Chánh niệm). Hãy mừng vì điều đó!
+*   Ghi nhận nhẹ nhàng: *"Nghĩ, nghĩ"*.
+*   Biết rằng suy nghĩ chỉ là một dòng năng lượng, vô chủ, đến rồi đi. Đừng đi vào nội dung câu chuyện.
+*   Quay về *"Phồng, xẹp"*.
 
-Thiền hành là sự bổ trợ tuyệt vời cho thiền tọa, giúp cân bằng năng lượng và mang chánh niệm vào cử động.
+### Khi Cảm Thọ (Đau, Ngứa) Xuất Hiện
+Đau không phải kẻ thù. Đau là một đối tượng Tuệ giác tuyệt vời.
+*   Nếu đau nhẹ: Lờ đi, quay về bụng.
+*   Nếu đau mạnh: Biến nó thành đối tượng chính. Niệm *"Đau, đau"*.
+*   **Thẩm sát cơn đau:** Nhìn sâu vào nó. Nó là một khối đặc hay là những điểm rung động? Nó nóng hay lạnh? Nó có hình dáng không? (Thực ra đau không có hình dáng, chỉ có tâm tưởng tượng ra hình dáng chỗ đau).
+*   Bạn sẽ thấy: *"Chỉ có sự đau, không có 'người' đau"*.
 
-*   Chọn một đoạn đường ngắn (5-10m). Đứng yên, hai tay xếp nhẹ nhàng.
-*   **Bước chậm rãi:** Chia mỗi bước chân thành 3 giai đoạn rõ rệt:
-    1.  **Nhấc:** Khi chân bắt đầu nhấc lên khỏi sàn $\\rightarrow$ Niệm *"Nhấc"*.
-    2.  **Đưa:** Khi chân di chuyển về phía trước $\\rightarrow$ Niệm *"Đưa"*.
-    3.  **Hạ:** Khi chân hạ xuống chạm đất $\\rightarrow$ Niệm *"Hạ"*.
-*   *Nhấc, đưa, hạ... Nhấc, đưa, hạ...* Hãy để tâm trọn vẹn trong từng cử động nhỏ nhất.
+## 5. Thiền Hành: Chánh Niệm Trong Bước Chân
 
-Bằng cách duy trì sự Ghi Nhận (Noting) liên tục này, bạn đang thắp sáng ngọn đèn tỉnh thức, xua tan bóng tối của sự thất niệm và vô minh.
+Đi không chỉ để đến nơi, đi là để *biết mình đang đi*.
+*   **Bước chậm:** Chú ý vào sự chuyển động của chân.
+*   *Nhấc (Nhẹ, bổng) $\\rightarrow$ Đưa (Trôi, lướt) $\\rightarrow$ Hạ (Nặng, chùng) $\\rightarrow$ Chạm (Cứng, xúc chạm).*
+*   Thấy rõ sự liên tục của ý muốn (tâm) dắt dẫn hành động (thân).
+
+Bằng cách ghi nhận liên tục như vậy, bạn đang mài sắc lưỡi gươm Trí Tuệ để cắt đứt sợi dây Vô Minh.
 `
 }
 
