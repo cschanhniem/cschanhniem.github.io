@@ -1,0 +1,313 @@
+{
+  "root_text": {
+    "uid": "sn11.16",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Tổ Chức Lễ Tế Ðàn",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Homage to the Buddha ",
+      "uid": "sn11.17"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Delightful ",
+      "uid": "sn11.15"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn11.16' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 11: Tương Ưng Sakka</li>\n<li>II: Phẩm Thứ Hai</li>\n</ul>\n<h1>11.16. Tổ Chức Lễ Tế Ðàn</h1>\n</header>\n<p><a class='pts' id='S.i.232' href='#S.i.232'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> Một thời Thế Tôn trú ở <i lang='pli' translate='no'>Rājagaha</i> (Vương Xá), tại núi Gijjhakùta (Linh Thứu).</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> Rồi Thiên tử Sakka đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Ðứng một bên, Thiên chủ Sakka nói lên bài kệ với Thế Tôn:</p>\n<blockquote class='gatha'>\n<p>Loài Người lễ tế đàn,<br>\nChúng sanh mong công đức.<br>\nAi làm các công đức,<br>\nÐưa đến sự tái sanh,<br>\nChỗ nào sự bố thí,<br>\nÐược quả báo thật lớn?</p>\n<span class='speaker'><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> (Thế Tôn):</span>\n<p>Ai thành tựu bốn đạo,<br>\nAi chứng đắc bốn quả,<br>\nTăng chúng ấy chơn trực,<br>\nGiới, định, tuệ đầy đủ.<br>\nLoài Người lễ tế đàn,<br>\nChúng sanh mong công đức.<br>\nAi làm các công đức,<br>\nÐưa đến sự tái sanh,<br>\nBố thí cho chúng Tăng,<br>\nÐược quả báo thật lớn.</p>\n</blockquote>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn11.16",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Tổ Chức Lễ Tế Ðàn",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Homage to the Buddha ",
+      "uid": "sn11.17"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Delightful ",
+      "uid": "sn11.15"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn11.16' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 11: Tương Ưng Sakka</li>\n<li>II: Phẩm Thứ Hai</li>\n</ul>\n<h1>11.16. Tổ Chức Lễ Tế Ðàn</h1>\n</header>\n<p><a class='pts' id='S.i.232' href='#S.i.232'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> Một thời Thế Tôn trú ở <i lang='pli' translate='no'>Rājagaha</i> (Vương Xá), tại núi Gijjhakùta (Linh Thứu).</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> Rồi Thiên tử Sakka đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Ðứng một bên, Thiên chủ Sakka nói lên bài kệ với Thế Tôn:</p>\n<blockquote class='gatha'>\n<p>Loài Người lễ tế đàn,<br>\nChúng sanh mong công đức.<br>\nAi làm các công đức,<br>\nÐưa đến sự tái sanh,<br>\nChỗ nào sự bố thí,<br>\nÐược quả báo thật lớn?</p>\n<span class='speaker'><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> (Thế Tôn):</span>\n<p>Ai thành tựu bốn đạo,<br>\nAi chứng đắc bốn quả,<br>\nTăng chúng ấy chơn trực,<br>\nGiới, định, tuệ đầy đủ.<br>\nLoài Người lễ tế đàn,<br>\nChúng sanh mong công đức.<br>\nAi làm các công đức,<br>\nÐưa đến sự tái sanh,<br>\nBố thí cho chúng Tăng,<br>\nÐược quả báo thật lớn.</p>\n</blockquote>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 11.16",
+    "volpages": "PTS (1st ed) SN i 233",
+    "alt_volpages": " PTS (2nd ed) 1.501",
+    "uid": "sn11.16",
+    "blurb": "When Sakka asks where a gift is most fruitful, the Buddha replies that it is the Saṅgha.",
+    "difficulty": null,
+    "original_title": "Yajamānasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Tổ Chức Lễ Tế Ðàn",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn11.16_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Opfer spenden ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn11.16_translation-en-sujato",
+        "segmented": true,
+        "title": "Sponsoring Sacrifice ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn11.16_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn11.16_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Davanje ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit-sivak",
+        "publication_date": "2018",
+        "id": "bn_sn11.16_indragupta-bangish-ajit-sivak",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Wilhelm Geiger",
+        "author_short": "Geiger",
+        "author_uid": "geiger",
+        "publication_date": "1925",
+        "id": "de_sn11.16_geiger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "publication_date": "2000",
+        "id": "en_sn11.16_bodhi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn11.16_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn11.16_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn11.16_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2016",
+        "id": "no_sn11.16_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn11.16_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn11.16_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn11.16_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn11.16_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Tổ Chức Lễ Tế Ðàn"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn11.16_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "csp1ed12.235, csp2ed12.235, ms12S1_1649, msdiv262, sya15.342,ms12S1_1650,ms12S1_1651, pts-vp-pli2ed1.501,dr15.324, ms12S1_1652, ndp12.235",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn11.16",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Yajamānasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato",
+    "bodhi"
+  ]
+}

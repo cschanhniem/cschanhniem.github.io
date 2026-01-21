@@ -1,0 +1,338 @@
+{
+  "root_text": {
+    "uid": "sn9.6",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Anuruddha.",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "With Nāgadatta ",
+      "uid": "sn9.7"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "With Ānanda ",
+      "uid": "sn9.5"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn9.6' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 9: Tương Ưng Rừng</li>\n</ul>\n<h1>9.6. <i lang='pli' translate='no'>Anuruddha</i>.</h1>\n</header>\n<p><a class='pts' id='S.i.200' href='#S.i.200'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> Một thời Tôn giả <i lang='pli' translate='no'>Anuruddha</i> trú ở giữa dân chúng <i lang='pli' translate='no'>Kosala</i>, tại một khu rừng.</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> Rồi một Thiên nữ ở chúng <i lang='pli' translate='no'>Tāvatiṁsa</i>, tên là Jàlinii, đời trước là vợ của Tôn giả <i lang='pli' translate='no'>Anuruddha</i>, đi đến Tôn giả <i lang='pli' translate='no'>Anuruddha</i>.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Sau khi đến, vị ấy nói lên bài kệ với Tôn giả <i lang='pli' translate='no'>Anuruddha</i>:</p>\n<blockquote class='gatha'>\n<p>Hãy hướng tâm tư Ông,<br>\nVào đời trước của Ông,<br>\nGiữa Tam thập tam thiên,<br>\nMọi ái dục thành tựu,<br>\nVà Ông được chói sáng,<br>\nGiữa Thiên nữ đoanh vây.</p>\n<span class='speaker'><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> (<i lang='pli' translate='no'>Anuruddha</i>):</span>\n<p>Bất hạnh thay Thiên nữ,<br>\nHọ kiên trú thân kiến,<br>\nCũng bất hạnh, họ sanh,<br>\nBị Thiên nữ chinh phục.</p>\n<span class='speaker'><a class='ref vi-n' id='vi-n5' href='#vi-n5'>Vi-n 5</a> (Jàlinii):</span>\n<p>Họ chưa biết hạnh phúc,<br>\nChưa thấy Dandana,<br>\nTrú xứ các Thiền nhơn,<br>\nDanh xưng giới Tam thập.</p>\n<p><a class='ref vi-n' id='vi-n6' href='#vi-n6'>Vi-n 6</a> (<i lang='pli' translate='no'>Anuruddha</i>):<br>\nKẻ ngu, Bà không biết,<br>\nLời nói bậc La-hán,<br>\nMọi hành là vô thường,<br>\nPhải chịu luật sanh diệt,<br>\nChúng sanh rồi chúng diệt,<br>\nNhiếp chúng là an lạc.<br>\nHiện nay đối với ta,<br>\nKhông còn chỗ trú xứ,<br>\nTrên cảnh giới chư Thiên,<br>\nÔi này Jàlinì!<br>\nÐường sanh tử đứt đoạn,<br>\nNay tái sanh không còn.</p>\n</blockquote>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn9.6",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Anuruddha.",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "With Nāgadatta ",
+      "uid": "sn9.7"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "With Ānanda ",
+      "uid": "sn9.5"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn9.6' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 9: Tương Ưng Rừng</li>\n</ul>\n<h1>9.6. <i lang='pli' translate='no'>Anuruddha</i>.</h1>\n</header>\n<p><a class='pts' id='S.i.200' href='#S.i.200'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> Một thời Tôn giả <i lang='pli' translate='no'>Anuruddha</i> trú ở giữa dân chúng <i lang='pli' translate='no'>Kosala</i>, tại một khu rừng.</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> Rồi một Thiên nữ ở chúng <i lang='pli' translate='no'>Tāvatiṁsa</i>, tên là Jàlinii, đời trước là vợ của Tôn giả <i lang='pli' translate='no'>Anuruddha</i>, đi đến Tôn giả <i lang='pli' translate='no'>Anuruddha</i>.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Sau khi đến, vị ấy nói lên bài kệ với Tôn giả <i lang='pli' translate='no'>Anuruddha</i>:</p>\n<blockquote class='gatha'>\n<p>Hãy hướng tâm tư Ông,<br>\nVào đời trước của Ông,<br>\nGiữa Tam thập tam thiên,<br>\nMọi ái dục thành tựu,<br>\nVà Ông được chói sáng,<br>\nGiữa Thiên nữ đoanh vây.</p>\n<span class='speaker'><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> (<i lang='pli' translate='no'>Anuruddha</i>):</span>\n<p>Bất hạnh thay Thiên nữ,<br>\nHọ kiên trú thân kiến,<br>\nCũng bất hạnh, họ sanh,<br>\nBị Thiên nữ chinh phục.</p>\n<span class='speaker'><a class='ref vi-n' id='vi-n5' href='#vi-n5'>Vi-n 5</a> (Jàlinii):</span>\n<p>Họ chưa biết hạnh phúc,<br>\nChưa thấy Dandana,<br>\nTrú xứ các Thiền nhơn,<br>\nDanh xưng giới Tam thập.</p>\n<p><a class='ref vi-n' id='vi-n6' href='#vi-n6'>Vi-n 6</a> (<i lang='pli' translate='no'>Anuruddha</i>):<br>\nKẻ ngu, Bà không biết,<br>\nLời nói bậc La-hán,<br>\nMọi hành là vô thường,<br>\nPhải chịu luật sanh diệt,<br>\nChúng sanh rồi chúng diệt,<br>\nNhiếp chúng là an lạc.<br>\nHiện nay đối với ta,<br>\nKhông còn chỗ trú xứ,<br>\nTrên cảnh giới chư Thiên,<br>\nÔi này Jàlinì!<br>\nÐường sanh tử đứt đoạn,<br>\nNay tái sanh không còn.</p>\n</blockquote>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 9.6",
+    "volpages": "PTS (1st ed) SN i 200",
+    "alt_volpages": " PTS (2nd ed) 1.431, PTS (2nd ed) 1.432",
+    "uid": "sn9.6",
+    "blurb": "A former partner of Venerable Anuruddha, now a deity named Jālinī, tries to tempt him with heavenly pleasures. But he has seen a higher happiness.",
+    "difficulty": null,
+    "original_title": "Anuruddhasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Anuruddha.",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn9.6_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Anuruddha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn9.6_translation-en-sujato",
+        "segmented": true,
+        "title": "With Anuruddha ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn9.6_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn9.6_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Anuruddha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit-sivak",
+        "publication_date": "2018",
+        "id": "bn_sn9.6_indragupta-bangish-ajit-sivak",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_sn9.6_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Wilhelm Geiger",
+        "author_short": "Geiger",
+        "author_uid": "geiger",
+        "publication_date": "1925",
+        "id": "de_sn9.6_geiger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2011",
+        "id": "es_sn9.6_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn9.6_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": "1999",
+        "id": "it_sn9.6_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn9.6_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn9.6_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2016",
+        "id": "no_sn9.6_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn9.6_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn9.6_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn9.6_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn9.6_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Anuruddha."
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn9.6_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "cck15.260, csp1ed12.202, csp2ed12.202, ms12S1_1402, msdiv226,ms12S1_1403, pts-vp-pli2ed1.431,bj13.358, ms12S1_1404, vri23.232,ms12S1_1405, sya15.295,dr15.278, ms12S1_1406,ms12S1_1407, pts-vp-pli2ed1.432",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn9.6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Anuruddhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}
