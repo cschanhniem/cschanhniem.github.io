@@ -65,7 +65,7 @@ function PageLoader() {
 
 function App() {
   return (
-    <Router basename="/nhapluu">
+    <Router basename="/">
       <ThemeProvider>
         <ToastProvider>
           <AuthProvider>

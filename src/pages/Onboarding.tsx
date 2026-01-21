@@ -138,7 +138,7 @@ export function Onboarding() {
                         href="#"
                         onClick={(e) => {
                             e.preventDefault()
-                            window.open('/nhapluu/quy-tac', '_blank')
+                            window.open('/quy-tac', '_blank')
                         }}
                         className="block text-center text-sm text-primary hover:underline cursor-pointer"
                     >

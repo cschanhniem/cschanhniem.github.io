@@ -16,7 +16,7 @@ function getGitHash(): string {
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/nhapluu',
+  base: '/',
   plugins: [
     react(),
     tailwindcss(),
@@ -30,8 +30,8 @@ export default defineConfig({
         theme_color: '#E6A23C',
         background_color: '#FAFAFA',
         display: 'standalone',
-        scope: '/nhapluu/',
-        start_url: '/nhapluu/',
+        scope: '/',
+        start_url: '/',
         icons: [
           {
             src: 'pwa-192x192.png',

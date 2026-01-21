@@ -9,8 +9,8 @@ import { ChevronLeft, Type, Minus, Plus, Bookmark, ExternalLink } from 'lucide-r
 import type { NikayaLanguage, NikayaVersionType, SCSuttaplex } from '@/types/nikaya'
 import { NIKAYA_LANGUAGES, NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getSuttaMetadata } from '@/lib/suttacentralApi'
+import { getLocalSuttaText, hasLocalJson } from '@/lib/suttacentralLocal'
 import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-improved'
-import { getOriginalTranslation, hasOriginalTranslation } from '@/data/nikaya-original'
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
 import { NikayaComparisonView } from '@/components/NikayaComparisonView'
 import { useAppState } from '@/hooks/useAppState'
@@ -88,8 +88,8 @@ export function NikayaDetail() {
                 for (const lang of supportedLangs) {
                     const langInfo = NIKAYA_LANGUAGES[lang]
 
-                    // Check if original version available locally first, then SuttaCentral
-                    const hasLocalOriginal = hasOriginalTranslation(suttaId, lang)
+                    // Check if original version available locally (JSON or nikaya-original)
+                    const hasLocalOriginal = hasLocalJson(suttaId, lang)
                     const scTranslation = data.translations.find(
                         t => t.lang === lang && t.author_uid === langInfo.originalAuthorUid
                     )
@@ -129,15 +129,15 @@ export function NikayaDetail() {
         if (!suttaId) return ''
 
         if (type === 'improved') {
-            // Get from local improved data
+            // Get from local improved data (markdown)
             const improved = getImprovedTranslation(suttaId, lang)
             return improved?.content || '*Bản dịch cải tiến đang được phát triển...*'
         }
 
-        // Get original from local data first
-        const original = getOriginalTranslation(suttaId, lang)
-        if (original?.content) {
-            return original.content
+        // Get original from local JSON data first
+        const localText = getLocalSuttaText(suttaId, lang)
+        if (localText) {
+            return localText
         }
 
         // Fallback message if not available locally
