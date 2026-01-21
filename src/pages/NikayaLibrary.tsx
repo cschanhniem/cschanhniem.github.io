@@ -8,146 +8,91 @@ import type { NikayaCollection, NikayaSuttaInfo } from '@/types/nikaya'
 import { NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getAvailableImproved } from '@/data/nikaya-improved'
 
-// Initial suttas list - will be expanded as translations are added
-const INITIAL_SUTTAS: NikayaSuttaInfo[] = [
-    {
-        id: 'mn10',
-        code: 'MN 10',
-        titlePali: 'Satipaṭṭhāna Sutta',
-        titleVi: 'Kinh Niệm Xứ',
-        titleEn: 'Mindfulness Meditation',
-        collection: 'mn',
-        blurb: 'The seventh factor of the noble eightfold path, mindfulness meditation.',
-        difficulty: 2
-    },
-    {
-        id: 'dn22',
-        code: 'DN 22',
-        titlePali: 'Mahāsatipaṭṭhāna Sutta',
-        titleVi: 'Kinh Đại Niệm Xứ',
-        titleEn: 'The Great Discourse on Mindfulness',
-        collection: 'dn',
-        blurb: 'Extended version of the mindfulness meditation discourse with Four Noble Truths.',
-        difficulty: 2
-    },
-    {
-        id: 'mn118',
-        code: 'MN 118',
-        titlePali: 'Ānāpānasati Sutta',
-        titleVi: 'Kinh Quán Niệm Hơi Thở',
-        titleEn: 'Mindfulness of Breathing',
-        collection: 'mn',
-        blurb: 'Complete instructions on breath meditation and its relation to the awakening factors.',
-        difficulty: 2
-    },
-    {
-        id: 'sn56.11',
-        code: 'SN 56.11',
-        titlePali: 'Dhammacakkappavattana Sutta',
-        titleVi: 'Kinh Chuyển Pháp Luân',
-        titleEn: 'Setting in Motion the Wheel of Dhamma',
-        collection: 'sn',
-        blurb: 'The Buddha\'s first teaching after enlightenment, introducing the Four Noble Truths.',
-        difficulty: 1
-    },
-    {
-        id: 'mn2',
-        code: 'MN 2',
-        titlePali: 'Sabbāsava Sutta',
-        titleVi: 'Kinh Tất Cả Lậu Hoặc',
-        titleEn: 'All the Taints',
-        collection: 'mn',
-        blurb: 'Seven methods for eliminating mental defilements.',
-        difficulty: 2
-    },
-    {
-        id: 'dn16',
-        code: 'DN 16',
-        titlePali: 'Mahāparinibbāna Sutta',
-        titleVi: 'Kinh Đại Bát Niết Bàn',
-        titleEn: 'The Great Discourse on the Buddha\'s Passing',
-        collection: 'dn',
-        blurb: 'The Buddha\'s final days and last teachings.',
-        difficulty: 2
-    },
-    {
-        id: 'sn22.59',
-        code: 'SN 22.59',
-        titlePali: 'Anattalakkhaṇa Sutta',
-        titleVi: 'Kinh Vô Ngã Tướng',
-        titleEn: 'The Characteristic of Non-Self',
-        collection: 'sn',
-        blurb: 'The discourse on non-self, given to the first five monks.',
-        difficulty: 2
-    },
-    {
-        id: 'an3.65',
-        code: 'AN 3.65',
-        titlePali: 'Kālāma Sutta',
-        titleVi: 'Kinh Kālāma',
-        titleEn: 'To the Kālāmas',
-        collection: 'an',
-        blurb: 'The Buddha\'s teaching on free inquiry and not accepting things based on tradition alone.',
-        difficulty: 1
-    },
-    {
-        id: 'mn9',
-        code: 'MN 9',
-        titlePali: 'Sammādiṭṭhi Sutta',
-        titleVi: 'Kinh Chánh Kiến',
-        titleEn: 'Right View',
-        collection: 'mn',
-        blurb: 'Ven. Sāriputta explains right view through various Buddhist concepts.',
-        difficulty: 2
-    },
-    {
-        id: 'dn31',
-        code: 'DN 31',
-        titlePali: 'Sigālovāda Sutta',
-        titleVi: 'Kinh Giáo Huấn Singala',
-        titleEn: 'Advice to Sigālaka',
-        collection: 'dn',
-        blurb: 'The Buddha\'s advice on lay ethics and social relationships.',
-        difficulty: 1
-    }
-]
-
 export function NikayaLibrary() {
-    const [searchTerm, setSearchTerm] = useState('')
+    // Data Loading State
+    const [loading, setLoading] = useState(true)
+    const [suttas, setSuttas] = useState<NikayaSuttaInfo[]>([])
+
+    // Search & Filter State
+    const [searchQuery, setSearchQuery] = useState('')
     const [selectedCollection, setSelectedCollection] = useState<NikayaCollection | 'all'>('all')
-    const [suttas, setSuttas] = useState<NikayaSuttaInfo[]>(INITIAL_SUTTAS)
+    const [showImprovedOnly, setShowImprovedOnly] = useState(false)
+
+    // Fetch suttas index on mount
+    useEffect(() => {
+        const fetchIndex = async () => {
+            try {
+                const res = await fetch('/data/suttacentral-json/nikaya_index.json')
+                if (!res.ok) throw new Error('Failed to load index')
+                const data = await res.json()
+
+                // Map index data to NikayaSuttaInfo
+                const mappedSuttas: NikayaSuttaInfo[] = data.map((item: any) => {
+                    // Formatting code: mn10 -> MN 10
+                    const match = item.id.match(/([a-z]+)(\d+.*)/i)
+                    const code = match ? `${match[1].toUpperCase()} ${match[2]}` : item.id.toUpperCase()
+
+                    return {
+                        id: item.id,
+                        code,
+                        titlePali: item.paliTitle || '',
+                        titleVi: item.title,
+                        titleEn: '', // Not in index yet
+                        collection: item.collection,
+                        blurb: item.blurb,
+                        difficulty: item.difficulty || 1 // default difficulty
+                    }
+                })
+
+                setSuttas(mappedSuttas)
+            } catch (e) {
+                console.error('Failed to load sutta index:', e)
+                // Fallback or retry?
+            } finally {
+                setLoading(false)
+            }
+        }
+
+        fetchIndex()
+    }, [])
+
+    // Check for improved translations and add to suttas
+    const suttasWithImprovedInfo = suttas.map(sutta => ({
+        ...sutta,
+        hasImproved: {
+            vi: getAvailableImproved(sutta.id).includes('vi'),
+            en: getAvailableImproved(sutta.id).includes('en'),
+            zh: getAvailableImproved(sutta.id).includes('zh'),
+            es: getAvailableImproved(sutta.id).includes('es')
+        }
+    }))
 
     // Filter suttas based on search and collection
-    const filteredSuttas = suttas.filter(sutta => {
+    const filteredSuttas = suttasWithImprovedInfo.filter(sutta => {
         const matchesSearch =
-            sutta.titlePali.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            sutta.titleVi?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            sutta.titleEn?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            sutta.code.toLowerCase().includes(searchTerm.toLowerCase())
+            (sutta.titlePali || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+            (sutta.titleVi || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+            (sutta.titleEn || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+            sutta.code.toLowerCase().includes(searchQuery.toLowerCase())
 
         const matchesCollection = selectedCollection === 'all' || sutta.collection === selectedCollection
+        const matchesImprovedOnly = !showImprovedOnly || sutta.hasImproved?.vi
 
-        return matchesSearch && matchesCollection
+        return matchesSearch && matchesCollection && matchesImprovedOnly
     })
-
-    // Check for improved translations
-    useEffect(() => {
-        const updatedSuttas = suttas.map(sutta => ({
-            ...sutta,
-            hasImproved: {
-                vi: getAvailableImproved(sutta.id).includes('vi'),
-                en: getAvailableImproved(sutta.id).includes('en'),
-                zh: getAvailableImproved(sutta.id).includes('zh'),
-                es: getAvailableImproved(sutta.id).includes('es')
-            }
-        }))
-        setSuttas(updatedSuttas)
-    }, [])
 
     const difficultyLabels = {
         1: 'Sơ cấp',
         2: 'Trung cấp',
         3: 'Cao cấp'
+    }
+
+    if (loading) {
+        return (
+            <div className="container mx-auto px-4 py-8 max-w-7xl flex items-center justify-center min-h-[50vh]">
+                <div className="text-muted-foreground animate-pulse">Đang tải danh sách kinh...</div>
+            </div>
+        )
     }
 
     return (
@@ -189,8 +134,8 @@ export function NikayaLibrary() {
                         </h3>
                         <input
                             type="text"
-                            value={searchTerm}
-                            onChange={(e) => setSearchTerm(e.target.value)}
+                            value={searchQuery}
+                            onChange={(e) => setSearchQuery(e.target.value)}
                             placeholder="Tên kinh, mã số..."
                             className="w-full px-3 py-2 bg-background border border-input rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
                         />
@@ -206,8 +151,8 @@ export function NikayaLibrary() {
                             <button
                                 onClick={() => setSelectedCollection('all')}
                                 className={`w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${selectedCollection === 'all'
-                                        ? 'bg-primary text-primary-foreground'
-                                        : 'text-muted-foreground hover:bg-muted'
+                                    ? 'bg-primary text-primary-foreground'
+                                    : 'text-muted-foreground hover:bg-muted'
                                     }`}
                             >
                                 Tất cả
@@ -217,13 +162,25 @@ export function NikayaLibrary() {
                                     key={key}
                                     onClick={() => setSelectedCollection(key)}
                                     className={`w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${selectedCollection === key
-                                            ? 'bg-primary text-primary-foreground'
-                                            : 'text-muted-foreground hover:bg-muted'
+                                        ? 'bg-primary text-primary-foreground'
+                                        : 'text-muted-foreground hover:bg-muted'
                                         }`}
                                 >
                                     {NIKAYA_COLLECTIONS[key].vi} ({key.toUpperCase()})
                                 </button>
                             ))}
+                        </div>
+
+                        <div className="mt-4 pt-4 border-t border-border">
+                            <label className="flex items-center space-x-2 cursor-pointer hover:opacity-80 transition-opacity">
+                                <input
+                                    type="checkbox"
+                                    checked={showImprovedOnly}
+                                    onChange={(e) => setShowImprovedOnly(e.target.checked)}
+                                    className="rounded border-input text-primary focus:ring-primary h-4 w-4"
+                                />
+                                <span className="text-sm font-medium text-foreground">Chỉ hiện bản cải tiến 2026</span>
+                            </label>
                         </div>
                     </div>
 
@@ -238,7 +195,10 @@ export function NikayaLibrary() {
                             <div className="flex justify-between">
                                 <span className="text-muted-foreground">Có bản cải tiến</span>
                                 <span className="font-medium text-primary">
-                                    {suttas.filter(s => s.hasImproved?.vi).length}
+                                    {suttas.filter(s => {
+                                        const improved = getAvailableImproved(s.id);
+                                        return improved.includes('vi')
+                                    }).length}
                                 </span>
                             </div>
                         </div>
@@ -268,9 +228,9 @@ export function NikayaLibrary() {
                                             <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
                                                 {NIKAYA_COLLECTIONS[sutta.collection].vi}
                                             </span>
-                                            {sutta.difficulty && (
+                                            {sutta.difficulty && difficultyLabels[sutta.difficulty as 1 | 2 | 3] && (
                                                 <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
-                                                    {difficultyLabels[sutta.difficulty]}
+                                                    {difficultyLabels[sutta.difficulty as 1 | 2 | 3]}
                                                 </span>
                                             )}
                                             {sutta.hasImproved?.vi && (
@@ -297,7 +257,7 @@ export function NikayaLibrary() {
                                         <div className="flex items-center gap-3 mt-3 text-xs text-muted-foreground">
                                             <span className="flex items-center gap-1">
                                                 <Globe className="h-3 w-3" />
-                                                VI, EN, ZH, ES
+                                                VI, EN
                                             </span>
                                         </div>
                                     </div>

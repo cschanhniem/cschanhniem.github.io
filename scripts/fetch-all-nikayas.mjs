@@ -10,6 +10,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -213,9 +214,64 @@ async function generateManifest() {
     console.log(`Manifest saved to ${manifestPath}`);
 }
 
+// KN Fetching Utilities
+async function fetchNumericRange(prefix, start, end, collection) {
+    for (let i = start; i <= end; i++) {
+        await processSutta(`${prefix}${i}`, collection);
+        await new Promise(r => setTimeout(r, DELAY_MS));
+    }
+}
+
+async function fetchChapterSuttas(prefix, chapters, suttasPerChapter, collection) {
+    for (let c = 1; c <= chapters; c++) {
+        for (let s = 1; s <= suttasPerChapter; s++) {
+            await processSutta(`${prefix}${c}.${s}`, collection);
+            await new Promise(r => setTimeout(r, DELAY_MS));
+        }
+    }
+}
+
+async function fetchKN() {
+    console.log('\nFetching Khuddaka Nikaya (KN)...');
+    const knCollectionName = 'kn';
+    ensureDir(path.join(DATA_DIR, knCollectionName));
+
+    // 1. Khuddakapatha (Kp 1-9)
+    console.log('Fetching Khuddakapatha (Kp)...');
+    await fetchNumericRange('kp', 1, 9, knCollectionName);
+
+    // 2. Dhammapada (Dhp 1-423 verses)
+    console.log('Fetching Dhammapada (Dhp)...');
+    await fetchNumericRange('dhp', 1, 423, knCollectionName);
+
+    // 3. Udana (Ud 1.1 - 8.10)
+    console.log('Fetching Udana (Ud)...');
+    await fetchChapterSuttas('ud', 8, 10, knCollectionName);
+
+    // 4. Itivuttaka (Iti 1-112)
+    console.log('Fetching Itivuttaka (Iti)...');
+    await fetchNumericRange('iti', 1, 112, knCollectionName);
+
+    // 5. Sutta Nipata (Snp 1.1 - 5.xx)
+    console.log('Fetching Sutta Nipata (Snp)...');
+    // Chapters: 1 (12), 2 (14), 3 (12), 4 (16), 5 (16)
+    const snpCounts = [12, 14, 12, 16, 16];
+    for (let c = 1; c <= 5; c++) {
+        for (let s = 1; s <= snpCounts[c - 1]; s++) {
+            await processSutta(`snp${c}.${s}`, knCollectionName);
+            await new Promise(r => setTimeout(r, DELAY_MS));
+        }
+    }
+}
+
 async function main() {
     const args = process.argv.slice(2);
-    const target = args[0] || 'all';
+    const target = args[0];
+
+    if (!target) {
+        console.log('Usage: node fetch-all-nikayas.mjs <dn|mn|sn|an|kn|all|scan>');
+        process.exit(1);
+    }
 
     if (target === 'scan') {
         await generateManifest();
@@ -226,9 +282,19 @@ async function main() {
     if (target === 'mn' || target === 'all') await fetchMN();
     if (target === 'sn' || target === 'all') await fetchSN();
     if (target === 'an' || target === 'all') await fetchAN();
+    if (target === 'kn' || target === 'all') await fetchKN();
 
     await generateManifest();
-    console.log('\nAll downloads complete!');
+
+    console.log('\nGenerating detailed index for library...');
+    try {
+        execSync('node scripts/generate-nikaya-index.mjs', { stdio: 'inherit', cwd: process.cwd() });
+        console.log('Detailed index generated.');
+    } catch (e) {
+        console.error('Failed to generate detailed index:', e.message);
+    }
+
+    console.log('\nDownloads complete!');
 }
 
 main().catch(console.error);
