@@ -10,10 +10,12 @@ const OUTPUT_FILE = path.join(DATA_DIR, 'nikaya_index.json');
 
 // Helper to sort sutta IDs (dn1, dn2, dn10...)
 const sortSuttaIds = (a, b) => {
+    if (!a.id || !b.id) return 0;
     const splitA = a.id.match(/([a-z]+)(\d+)(\.*.*)/);
     const splitB = b.id.match(/([a-z]+)(\d+)(\.*.*)/);
 
     if (!splitA || !splitB) return a.id.localeCompare(b.id);
+    // ... existing logic
 
     const scriptA = splitA[1];
     const numA = parseFloat(splitA[2] + (splitA[3] || ''));
@@ -32,7 +34,7 @@ async function main() {
         return;
     }
 
-    const collections = ['dn', 'mn', 'sn', 'an'];
+    const collections = ['dn', 'mn', 'sn', 'an', 'kn'];
     const index = [];
     const processedIds = new Set();
 
@@ -72,7 +74,7 @@ async function main() {
                         // Strategy 1: suttaplex
                         if (content.suttaplex) {
                             metadata = {
-                                id: content.suttaplex.uid,
+                                id: content.suttaplex.uid || id, // Fallback to filename ID
                                 title: content.suttaplex.translated_title || content.suttaplex.original_title,
                                 paliTitle: content.suttaplex.original_title,
                                 blurb: content.suttaplex.blurb,
