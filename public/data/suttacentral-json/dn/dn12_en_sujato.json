@@ -1,0 +1,392 @@
+{
+  "root_text": {
+    "uid": "dn12",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Lohiccasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Kevaddha ",
+      "uid": "dn11"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Three Knowledges ",
+      "uid": "dn13"
+    }
+  },
+  "translation": {
+    "uid": "dn12",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Lohicca ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kevaddha ",
+      "uid": "dn11"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Three Knowledges ",
+      "uid": "dn13"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "DN 12",
+    "volpages": " PTS 1.224, PTS 1.225, PTS 1.226, PTS 1.227, PTS 1.228, PTS 1.229, PTS 1.231, PTS 1.232, PTS 1.233, PTS 1.234",
+    "alt_volpages": null,
+    "uid": "dn12",
+    "blurb": "A brahmin has fallen into the idea that there is no point in trying to offer spiritual help to others. The Buddha goes to see him, and persuades him of the genuine benefits of spiritual teaching.",
+    "difficulty": 2,
+    "original_title": "Lohiccasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Lohicca ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "dn12_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Lohicca ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "dn12_translation-en-sujato",
+        "segmented": true,
+        "title": "With Lohicca ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "dn12_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2022",
+        "id": "dn12_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Razgovor sa Lohiććom ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "Bhikkhu Shilabhadra",
+        "author_short": "Shilabhadra",
+        "author_uid": "shilabhadra",
+        "publication_date": null,
+        "id": "bn_dn12_shilabhadra",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+        "author_short": "Kusalagnana…",
+        "author_uid": "kusalagnana-maitrimurti-traetow",
+        "publication_date": null,
+        "id": "de_dn12_kusalagnana-maitrimurti-traetow",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "has_comment": false,
+        "id": "en_dn12_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1998",
+        "segmented": false,
+        "volpage": null,
+        "title": "Lohicca"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2007",
+        "id": "fr_dn12_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "he",
+        "lang_name": "עִבְֿרִיתּ",
+        "is_root": false,
+        "author": "Shai Schwartz",
+        "author_short": "Schwartz",
+        "author_uid": "schwartz",
+        "publication_date": "2014",
+        "id": "he_dn12_schwartz",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": "1936",
+        "id": "hi_dn12_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_dn12_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_dn12_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_dn12_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "H.V. Srirangaraj",
+        "author_short": "Srirangaraj",
+        "author_uid": "srirangaraj",
+        "publication_date": "2012",
+        "id": "kan_dn12_srirangaraj",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_dn12_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_dn12_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_dn12_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_dn12_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_dn12_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_dn12_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_dn12_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 42,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj7.540, cck9.287, csp1ed6.214, csp2ed6.214, dr9.305, km15.221, mc9.225, ms6D_865, msdiv501, ndp6.191, pts-cs1, pts-vp-pli1.224, sya9.284, vri1.205,km15.222, ms6D_866, msdiv502, pts-cs2,cck9.288, dr9.306, ms6D_867, msdiv503, pts-cs3, pts-vp-pli1.225, sya9.285,csp1ed6.215, csp2ed6.215, km15.223, mc9.226, ms6D_868, msdiv504, pts-cs4, vri1.206,bj7.542, km15.224, ms6D_869, msdiv505, ndp6.192, pts-cs5,cck9.289, dr9.307, km15.225, ms6D_870, msdiv506, pts-cs6, pts-vp-pli1.226, sya9.286,csp1ed6.216, csp2ed6.216, ms6D_871, msdiv507, pts-cs7,cck9.290, dr9.308, km15.226, mc9.227, ms6D_872, msdiv508, ndp6.193, sya9.287, vri1.207,pts-cs8,bj7.544, km15.227, ms6D_873, pts-cs9, pts-vp-pli1.227,cck9.291, csp1ed6.217, csp2ed6.217, dr9.309, km15.228, ms6D_874, msdiv509, sya9.288,pts-cs10,dr9.310, km15.229, mc9.228, ms6D_875, ndp6.194, vri1.208,bj7.546, km15.230, ms6D_876, msdiv510, pts-cs11,cck9.292, dr9.311, ms6D_877, pts-vp-pli1.228,cck9.293, csp1ed6.218, csp2ed6.218, km15.231, km15.232, mc9.229, ms6D_878, msdiv511, ndp6.195, pts-cs12, sya9.289, vri1.209,pts-cs13,bj7.548, cck9.294, dr9.312, km15.233, km15.234, ms6D_879, msdiv512, pts-cs14, pts-vp-pli1.229, sya9.290,pts-cs15,csp1ed6.219, csp2ed6.219, dr9.313, km15.235, km15.236, mc9.230, ms6D_880, msdiv513, ndp6.196, pts-cs16, sya9.291, vri1.210,bj7.550, cck9.295, csp1ed6.220, csp2ed6.220, dr9.314, km15.237, ms6D_881, msdiv514, pts-cs17, pts-vp-pli1.231, sya9.292,bj7.552, cck9.296, dr9.315, km15.238, km15.239, mc9.231, ms6D_882, msdiv515, ndp6.197, pts-cs18, pts-vp-pli1.232, sya9.293, vri1.211,km15.240, ms6D_883, msdiv516, pts-cs19,bj7.566, csp1ed6.221, csp2ed6.221, dr9.316, ms6D_884, pts-cs20-55, pts-vp-pli1.233,bj7.572, bj7.574,bj7.576, bj7.578, cck9.297, km15.241, mc9.232, ms6D_885, pts-cs56-62, sya9.294, vri1.212,ms6D_886, pts-cs63-77,bj7.592, ms6D_887, ndp6.198, pts-vp-pli1.234,dr9.317, km15.242, ms6D_888, msdiv517, pts-cs78, vri1.213",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "dn12",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Lohiccasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "dn12",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Lohicca ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "thanissaro"
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "root_text": {
+    "uid": "dn26",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Cakkavattisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Lion’s Roar at Udumbarikā’s Monastery ",
+      "uid": "dn25"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Origin of the World ",
+      "uid": "dn27"
+    }
+  },
+  "translation": {
+    "uid": "dn26",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Wheel-Turning Monarch ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Lion’s Roar at Udumbarikā’s Monastery ",
+      "uid": "dn25"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Origin of the World ",
+      "uid": "dn27"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "DN 26",
+    "volpages": " PTS 3.58, PTS 3.59, PTS 3.60, PTS 3.61, PTS 3.62, PTS 3.63, PTS 3.64, PTS 3.65, PTS 3.66, PTS 3.67, PTS 3.68, PTS 3.69, PTS 3.70, PTS 3.71, PTS 3.72, PTS 3.73, PTS 3.74, PTS 3.75, PTS 3.76, PTS 3.77, PTS 3.78, PTS 3.79",
+    "alt_volpages": null,
+    "uid": "dn26",
+    "blurb": "In illustration of his dictum that one should rely on oneself, the Buddha gives a detailed account of the fall of a kingly lineage of the past, and the subsequent degeneration of society. This process, however, is not over, as the Buddha predicts that eventually society will fall into utter chaos. But far in the future, another Buddha, Metteyya, will arise in a time of peace and plenty.",
+    "difficulty": 2,
+    "original_title": "Cakkavattisutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Wheel-Turning Monarch ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "dn26_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Der Rad-drehende Herrscher ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "dn26_translation-en-sujato",
+        "segmented": true,
+        "title": "The Wheel-Turning Monarch ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "dn26_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2022",
+        "id": "dn26_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "O vladaru koji pokreće točak istine ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "Bhikkhu Shilabhadra",
+        "author_short": "Shilabhadra",
+        "author_uid": "shilabhadra",
+        "publication_date": null,
+        "id": "bn_dn26_shilabhadra",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+        "author_short": "Kusalagnana…",
+        "author_uid": "kusalagnana-maitrimurti-traetow",
+        "publication_date": null,
+        "id": "de_dn26_kusalagnana-maitrimurti-traetow",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. R. Otto Franke",
+        "author_short": "Franke",
+        "author_uid": "franke",
+        "publication_date": "1913",
+        "id": "de_dn26_franke",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "T.W. & C.A.F. Rhys Davids",
+        "author_short": "Rhys Davids",
+        "author_uid": "tw-caf_rhysdavids",
+        "has_comment": false,
+        "id": "en_dn26_tw-caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1921",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Lion-roar on the Turning of the Wheel"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "1995",
+        "id": "es_dn26_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2007",
+        "id": "fr_dn26_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "he",
+        "lang_name": "עִבְֿרִיתּ",
+        "is_root": false,
+        "author": "Shai Schwartz",
+        "author_short": "Schwartz",
+        "author_uid": "schwartz",
+        "publication_date": "2014",
+        "id": "he_dn26_schwartz",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": "1936",
+        "id": "hi_dn26_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_dn26_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_dn26_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_dn26_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "H.V. Srirangaraj",
+        "author_short": "Srirangaraj",
+        "author_uid": "srirangaraj",
+        "publication_date": "2012",
+        "id": "kan_dn26_srirangaraj",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_dn26_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_dn26_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2006",
+        "id": "pt_dn26_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_dn26_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_dn26_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_dn26_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_dn26_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj9.96, cck11.63, csp1ed8.48, csp2ed8.48, dr11.62, ms8D_183, msdiv80, ndp8.46, pts-cs1, pts-vp-pli3.58, sya11.62, vri3.42,ms8D_184,ms8D_185,bj9.98, cck11.64, dr11.63, ms8D_186, msdiv81, pts-cs2, pts-vp-pli3.59, sya11.63, vri3.43,cck11.65, csp1ed8.49, csp2ed8.49, ms8D_187, msdiv82, ndp8.47, pts-cs3, pts-vp-pli3.60, sya11.64,bj9.100, dr11.64, ms8D_188, msdiv83,cck11.66, csp1ed8.50, csp2ed8.50, ms8D_189, ndp8.48, pts-cs4, vri3.44,bj9.102, cck11.67, dr11.65, ms8D_190, msdiv84, pts-cs5, pts-vp-pli3.61, sya11.65,bj9.104, csp1ed8.51, csp2ed8.51, dr11.66, ms8D_191, msdiv85, pts-vp-pli3.62, sya11.66, vri3.45,ms8D_192, ndp8.49, pts-cs6,cck11.68, dr11.67, ms8D_193, sya11.67,bj9.106, cck11.69, csp1ed8.52, csp2ed8.52, ms8D_194, msdiv86, pts-cs7, pts-vp-pli3.63,dr11.68, ms8D_195, msdiv87, ndp8.50, sya11.68, vri3.46,ms8D_196,cck11.70, csp1ed8.53, csp2ed8.53, dr11.69, ms8D_197, msdiv88, pts-cs8, pts-vp-pli3.64, sya11.69,bj9.108, ms8D_198, msdiv89, ndp8.51, vri3.47,cck11.71, ms8D_199,dr11.70, ms8D_200, msdiv90, pts-cs9, sya11.70,csp1ed8.54, csp2ed8.54, ms8D_201, pts-vp-pli3.65,bj9.110, cck11.72, dr11.71, ms8D_202, msdiv91, ndp8.52, pts-cs10, pts-vp-pli3.66, sya11.71, vri3.48,cck11.73, csp1ed8.55, csp2ed8.55, dr11.72, ms8D_203, ndp8.53, pts-cs11, sya11.72,bj9.112, cck11.74, csp1ed8.56, csp2ed8.56, dr11.73, ms8D_204, msdiv92, pts-cs12, pts-vp-pli3.67, sya11.73, vri3.49,cck11.75, ms8D_205, msdiv93, ndp8.54, pts-cs13, pts-vp-pli3.68,dr11.74, ms8D_206, msdiv94, pts-cs14, sya11.74,bj9.114, cck11.76, ms8D_207, vri3.50,csp1ed8.57, csp2ed8.57, dr11.75, ms8D_208, msdiv95, pts-cs15, pts-vp-pli3.69,ms8D_209, ndp8.55, sya11.75,ms8D_210, msdiv96, pts-cs16,cck11.77, ms8D_211, pts-cs17,csp1ed8.58, csp2ed8.58, ms8D_212, msdiv97, vri3.51,bj9.116, dr11.76, ms8D_213, msdiv98, pts-vp-pli3.70, sya11.76,ms8D_214, msdiv99,cck11.78, ms8D_215, msdiv100, ndp8.56,ms8D_216, msdiv101,dr11.77, ms8D_217, sya11.77,bj9.118, cck11.79, csp1ed8.59, csp2ed8.59, ms8D_218, msdiv102, pts-cs18, pts-vp-pli3.71, vri3.52,dr11.78, ms8D_219, msdiv103, ndp8.57, pts-cs19, sya11.78,cck11.80, csp1ed8.60, csp2ed8.60, ms8D_220, pts-vp-pli3.72,dr11.79, ms8D_221, pts-cs20, sya11.79, vri3.53,bj9.120, cck11.81, ms8D_222, ndp8.58, pts-vp-pli3.73,csp1ed8.61, csp2ed8.61, ms8D_223, msdiv104, pts-cs21, sya11.80,cck11.82, dr11.80, ms8D_224,bj9.122, ms8D_225, msdiv105, pts-vp-pli3.74, vri3.54,cck11.83, csp1ed8.62, csp2ed8.62, dr11.81, ms8D_226, ndp8.59, pts-cs22, sya11.81,bj9.124, bj9.126, bj9.128, dr11.82, ms8D_227, pts-vp-pli3.75, sya11.82, vri3.55,pts-cs23,bj9.130, cck11.84, csp1ed8.63, csp2ed8.63, dr11.83, ms8D_228, msdiv106, ndp8.60, sya11.83,pts-cs24,cck11.85, ms8D_229, msdiv107, pts-cs25, pts-vp-pli3.76, sya11.84, vri3.56,bj9.132, cck11.86, csp1ed8.64, csp2ed8.64, dr11.84, ms8D_230, msdiv108, ndp8.61, pts-cs26, pts-vp-pli3.77,ms8D_231, msdiv109, pts-cs27, sya11.85,dr11.85, ms8D_232, msdiv110, pts-cs28,cck11.87, ms8D_233, vri3.57,bj9.134, csp1ed8.65, csp2ed8.65, ms8D_234, ndp8.62, pts-vp-pli3.78,ms8D_235,cck11.88, dr11.86, ms8D_236, sya11.86,ms8D_237, vri3.58,ms8D_238, pts-vp-pli3.79,ms8D_239",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "dn26",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Cakkavattisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "dn26",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Wheel-Turning Monarch ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "tw-caf_rhysdavids"
+  ]
+}

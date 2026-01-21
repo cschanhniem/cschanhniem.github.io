@@ -17,6 +17,23 @@ This is a long-term project to re-translate the entire Pali Canon (Nikaya) into 
 
 ---
 
+### 1. Data Storage Strategy
+We use a hybrid approach to handle different translation versions:
+
+*   **Original Translations** (e.g., Thích Minh Châu, Bhikkhu Sujato):
+    *   **Source**: SuttaCentral API.
+    *   **Method**: Bulk fetch using `scripts/fetch-all-nikayas.mjs`.
+    *   **Storage**: Cached in `public/data/suttacentral-json/{collection}/` to avoid bundle bloat.
+    *   **Access**: Fetched at runtime via `fetch()` using an `available.json` manifest for availability checks.
+    *   **Format**: Raw JSON preserving SuttaCentral's structure. Vietnamese (HTML), English (Segmented).
+    *   **Reasoning**: Ensures authenticity, preserves original formatting (HTML), and avoids CORS issues at runtime.
+
+*   **Improved Translations** (e.g., NhậpLưu 2026):
+    *   **Source**: Created by our team.
+    *   **Method**: Manually authored in `src/data/nikaya-improved/`.
+    *   **Format**: TypeScript files exporting Markdown strings.
+    *   **Reasoning**: Allows for flexible editing, modern formatting, and easy integration with React components.
+
 ## Supported Languages & Versions
 
 | Language       | Original Version               | Improved Version | Status    |

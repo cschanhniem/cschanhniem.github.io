@@ -1,0 +1,402 @@
+{
+  "root_text": {
+    "uid": "mn129",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Bālapaṇḍitasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Corruptions ",
+      "uid": "mn128"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Messengers of the Gods ",
+      "uid": "mn130"
+    }
+  },
+  "translation": {
+    "uid": "mn129",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Foolish and the Astute ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Corruptions ",
+      "uid": "mn128"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Messengers of the Gods ",
+      "uid": "mn130"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "MN 129",
+    "volpages": " PTS 3.163, PTS 3.164, PTS 3.165, PTS 3.166, PTS 3.167, PTS 3.168, PTS 3.169, PTS 3.170, PTS 3.171, PTS 3.172, PTS 3.173, PTS 3.174, PTS 3.175, PTS 3.176, PTS 3.177, PTS 3.178",
+    "alt_volpages": null,
+    "uid": "mn129",
+    "blurb": "A fool suffers both in this life and the next, while the astute benefits in both respects.",
+    "difficulty": 2,
+    "original_title": "Bālapaṇḍitasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Foolish and the Astute ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "mn129_translation-en-sujato",
+        "segmented": true,
+        "title": "The Foolish and the Astute ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Giovanni Zappa",
+        "author_short": "giovannizappa",
+        "author_uid": "giovannizappa",
+        "publication_date": "2025",
+        "id": "mn129_translation-it-giovannizappa",
+        "segmented": true,
+        "title": "Il discorso sullo stolto e l’astuto ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "mn129_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2023",
+        "id": "mn129_translation-ru-sv",
+        "segmented": true,
+        "title": "Глупцы и мудрецы ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বিনয়েন্দ্রনাথ চৌধুরী",
+        "author_short": "চৌধুরী",
+        "author_uid": "chowdhury",
+        "publication_date": null,
+        "id": "bn_mn129_chowdhury",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Mettiko Bhikkhu",
+        "author_short": "Mettiko",
+        "author_uid": "mettiko",
+        "publication_date": "2001",
+        "id": "de_mn129_mettiko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": null,
+        "id": "es_mn129_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2010",
+        "id": "fr_mn129_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": null,
+        "id": "hi_mn129_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_mn129_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+        "author_short": "Lorenzo …",
+        "author_uid": "lorenzo-morniroli-federici",
+        "publication_date": "2007",
+        "id": "it_mn129_lorenzo-morniroli-federici",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_mn129_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_mn129_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_mn129_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2008",
+        "id": "pt_mn129_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2016",
+        "id": "ru_mn129_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_mn129_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Bojan Božič",
+        "author_short": "Božič",
+        "author_uid": "bojan",
+        "publication_date": "2023",
+        "id": "sl_mn129_bojan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2014",
+        "id": "sr_mn129_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_mn129_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_mn129_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_mn129_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 27,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj12.360, cck14.290, ms11M_672, msdiv246, ndp11.233, nya1, pts-vp-pli3.163, sya14.311, vri14.203,csp1ed11.202, csp2ed11.202, ms11M_673, nya2,nya3,cck14.291, dr13.284, ms11M_674, sya14.312,bj12.362, csp1ed11.203, csp2ed11.203, dr13.285, ms11M_675, msdiv247, ndp11.234, nya4, pts-vp-pli3.164, sya14.313, vri14.204,cck14.292, dr13.286, ms11M_676, msdiv248, ndp11.235, nya5, pts-vp-pli3.165,bj12.364, cck14.293, ms11M_677, nya6, sya14.314, vri14.205,nya7,csp1ed11.204, csp2ed11.204, dr13.287, ms11M_678, msdiv249, ndp11.236, pts-vp-pli3.166, sya14.315,nya8,cck14.294, ms11M_679, msdiv250, nya9,bj12.366, cck14.295, csp1ed11.205, csp2ed11.205, dr13.288, ms11M_680, ndp11.237, nya10, pts-vp-pli3.167, sya14.316, vri14.206,nya11,nya12,nya13,nya14,nya15,nya16,ms11M_681,ms11M_682, sya14.317,dr13.289, ms11M_683, nya17,bj12.368, ms11M_684, msdiv251, nya18, vri14.207,cck14.296, csp1ed11.206, csp2ed11.206, ms11M_685, ndp11.238, nya19, pts-vp-pli3.168, sya14.318,dr13.290, ms11M_686, nya20,cck14.297, ms11M_687, nya21,csp1ed11.207, csp2ed11.207, dr13.291, ms11M_688, ndp11.239, nya22, pts-vp-pli3.169, sya14.319, vri14.208,bj12.370, ms11M_689, nya23,cck14.298, ms11M_690, msdiv252, ndp11.240, nya24, sya14.320,csp1ed11.208, csp2ed11.208, dr13.292, ms11M_691, nya25, pts-vp-pli3.170, vri14.209,cck14.299, ms11M_692, nya26, sya14.321,bj12.372, cck14.300, csp1ed11.209, csp2ed11.209, dr13.293, ms11M_693, msdiv253, ndp11.241, nya27, pts-vp-pli3.171, sya14.322,nya28,cck14.301, dr13.294, ms11M_694, msdiv254, ndp11.242, nya29, sya14.323, vri14.210,cck14.302, csp1ed11.210, csp2ed11.210, dr13.295, ms11M_695, msdiv255, nya30, sya14.324, vri14.211,bj12.374, ms11M_696, nya31, pts-vp-pli3.172,nya32,csp1ed11.211, csp2ed11.211, dr13.296, ms11M_697, msdiv256, ndp11.243, sya14.325,nya33,nya34,cck14.303, dr13.297, ms11M_698, nya35, pts-vp-pli3.173, vri14.212,bj12.376, ms11M_699, msdiv257, ndp11.244, sya14.326,cck14.304, csp1ed11.212, csp2ed11.212, ms11M_700,dr13.298, ms11M_701,ms11M_702, msdiv258, nya36, pts-vp-pli3.174, sya14.327, vri14.213,cck14.305, ms11M_703, ndp11.245, nya37,csp1ed11.213, csp2ed11.213, dr13.299, ms11M_704, nya38, sya14.328,bj12.378, cck14.306, ms11M_705, ndp11.246, nya39, pts-vp-pli3.175, sya14.329, vri14.214,csp1ed11.214, csp2ed11.214, dr13.300, ms11M_706, nya40,cck14.307, ms11M_707, nya41, pts-vp-pli3.176, sya14.330,dr13.301, ms11M_708, msdiv259, ndp11.247, nya42,bj12.380, ms11M_709, nya43, vri14.215,ms11M_710, nya44,cck14.308, ms11M_711, nya45, sya14.331,csp1ed11.215, csp2ed11.215, dr13.302, ms11M_712, pts-vp-pli3.177,ms11M_713, ndp11.248, nya46,cck14.309, ms11M_714, msdiv260, nya47, sya14.332, vri14.216,bj12.382, csp1ed11.216, csp2ed11.216, dr13.303, ms11M_715, ndp11.249, nya48, pts-vp-pli3.178, sya14.333,nya49,ms11M_716",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "mn129",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Bālapaṇḍitasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "mn129",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Foolish and the Astute ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

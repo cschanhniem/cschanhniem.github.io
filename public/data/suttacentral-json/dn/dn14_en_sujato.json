@@ -1,0 +1,418 @@
+{
+  "root_text": {
+    "uid": "dn14",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Mahāpadānasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Three Knowledges ",
+      "uid": "dn13"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Great Discourse on Causation ",
+      "uid": "dn15"
+    }
+  },
+  "translation": {
+    "uid": "dn14",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Great Discourse on Traces Left Behind ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Three Knowledges ",
+      "uid": "dn13"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Great Discourse on Causation ",
+      "uid": "dn15"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "DN 14",
+    "volpages": " PTS 2.1, PTS 2.2, PTS 2.3, PTS 2.4, PTS 2.5, PTS 2.6, PTS 2.7, PTS 2.8, PTS 2.9, PTS 2.10, PTS 2.11, PTS 2.12, PTS 2.13, PTS 2.14, PTS 2.15, PTS 2.16, PTS 2.17, PTS 2.18, PTS 2.19, PTS 2.20, PTS 2.21, PTS 2.22, PTS 2.23, PTS 2.24, PTS 2.25, PTS 2.26, PTS 2.27, PTS 2.28, PTS 2.29, PTS 2.30, PTS 2.31, PTS 2.32, PTS 2.33, PTS 2.34, PTS 2.35, PTS 2.36, PTS 2.37, PTS 2.38, PTS 2.39, PTS 2.40, PTS 2.41, PTS 2.42, PTS 2.43, PTS 2.44, PTS 2.45, PTS 2.46, PTS 2.47, PTS 2.48, PTS 2.49, PTS 2.50, PTS 2.51, PTS 2.52, PTS 2.53, PTS 2.54",
+    "alt_volpages": null,
+    "uid": "dn14",
+    "blurb": "The Buddha teaches about the six Buddhas of the past, and tells a lengthy account of one of those, Vipassī.",
+    "difficulty": 2,
+    "original_title": "Mahāpadānasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Great Discourse on Traces Left Behind ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "dn14_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Die große Lehrrede über hinterlassene Spuren ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "dn14_translation-en-sujato",
+        "segmented": true,
+        "title": "The Great Discourse on Traces Left Behind ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "dn14_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2022",
+        "id": "dn14_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Govor o velikom podvigu ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "Bhikkhu Shilabhadra",
+        "author_short": "Shilabhadra",
+        "author_uid": "shilabhadra",
+        "publication_date": null,
+        "id": "bn_dn14_shilabhadra",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+        "author_short": "Kusalagnana…",
+        "author_uid": "kusalagnana-maitrimurti-traetow",
+        "publication_date": null,
+        "id": "de_dn14_kusalagnana-maitrimurti-traetow",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "T.W. & C.A.F. Rhys Davids",
+        "author_short": "Rhys Davids",
+        "author_uid": "tw-caf_rhysdavids",
+        "has_comment": false,
+        "id": "en_dn14_tw-caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1910",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Sublime Story"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "1995",
+        "id": "es_dn14_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2007",
+        "id": "fr_dn14_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "he",
+        "lang_name": "עִבְֿרִיתּ",
+        "is_root": false,
+        "author": "Shai Schwartz",
+        "author_short": "Schwartz",
+        "author_uid": "schwartz",
+        "publication_date": "2014",
+        "id": "he_dn14_schwartz",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": "1936",
+        "id": "hi_dn14_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_dn14_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_dn14_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_dn14_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "H.V. Srirangaraj",
+        "author_short": "Srirangaraj",
+        "author_uid": "srirangaraj",
+        "publication_date": "2012",
+        "id": "kan_dn14_srirangaraj",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_dn14_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_dn14_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_dn14_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2015",
+        "id": "ru_dn14_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_dn14_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_dn14_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_dn14_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_dn14_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 104,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj8.2, cck10.1, csp1ed7.1, csp2ed7.1, dr10.1, mc10.1, ms7D_2, msdiv1, ndp7.3, pts-cs1.1, pts-vp-pli2.1, sya10.1, vri2.1,cck10.2, ms7D_3, msdiv2, pts-cs1.2, vri2.2,dr10.2, ms7D_4, pts-vp-pli2.2, sya10.2,bj8.4, csp1ed7.2, csp2ed7.2, mc10.2, ms7D_5, msdiv3, ndp7.4, pts-cs1.3,cck10.3, ms7D_6, msdiv4, pts-cs1.4,dr10.3, ms7D_7, msdiv5, pts-cs1.5, pts-vp-pli2.3, sya10.3, vri2.3,bj8.6, cck10.4, csp1ed7.3, csp2ed7.3, mc10.3, ms7D_8, msdiv6, ndp7.5, pts-cs1.6,dr10.4, ms7D_9, msdiv7, pts-cs1.7, pts-vp-pli2.4, sya10.4,cck10.5, ms7D_10, msdiv8, pts-cs1.8,csp1ed7.4, csp2ed7.4, dr10.5, mc10.4, ms7D_11, msdiv9, ndp7.6, pts-cs1.9, pts-vp-pli2.5, sya10.5, vri2.4,bj8.8, cck10.6, ms7D_12, msdiv10, pts-cs1.10,ms7D_13, sya10.6,csp1ed7.5, csp2ed7.5, ms7D_14,cck10.7, dr10.6, mc10.5, ms7D_15, vri2.5,ms7D_16, ndp7.7, pts-vp-pli2.6,ms7D_17,ms7D_18, sya10.7,bj8.10, cck10.8, csp1ed7.6, csp2ed7.6, dr10.7, ms7D_19, msdiv11, pts-cs1.11,mc10.6, ms7D_20, msdiv12, pts-cs1.12, pts-vp-pli2.7,ms7D_21, sya10.8, vri2.6,ms7D_22, ndp7.8,cck10.9, ms7D_23,dr10.8, ms7D_24,csp1ed7.7, csp2ed7.7, ms7D_25,mc10.7, ms7D_26, sya10.9,bj8.12, cck10.10, dr10.9, ms7D_27, msdiv13, pts-cs1.13, pts-vp-pli2.8, vri2.7,cck10.11, csp1ed7.8, csp2ed7.8, mc10.8, ms7D_28, ndp7.9, pts-vp-pli2.9, sya10.10,dr10.10, ms7D_29, msdiv14, pts-cs1.14,bj8.14, cck10.12, csp1ed7.9, csp2ed7.9, dr10.11, mc10.9, ms7D_30, ndp7.10, pts-vp-pli2.10, sya10.11, vri2.8,cck10.13, ms7D_31, msdiv15, pts-cs1.15, sya10.12,bj8.16, ms7D_32, ndp7.11, pts-vp-pli2.11, vri2.9,cck10.14, csp1ed7.10, csp2ed7.10, dr10.12, mc10.10, ms7D_33, msdiv16, pts-cs1.16, pts-vp-pli2.12, sya10.13,ms7D_34, msdiv17, pts-cs1.17,bj8.18, cck10.15, dr10.13, ms7D_35, msdiv18, ndp7.12, sya10.14, vri2.10,csp1ed7.11, csp2ed7.11, mc10.11, ms7D_36, msdiv19,ms7D_37, msdiv20, pts-cs1.18, pts-vp-pli2.13,cck10.16, dr10.14, ms7D_38, msdiv21, pts-cs1.19,ms7D_39, msdiv22, pts-cs1.20, sya10.15,cck10.17, csp1ed7.12, csp2ed7.12, dr10.15, mc10.12, ms7D_40, msdiv23, ndp7.13, pts-cs1.21, pts-vp-pli2.14, vri2.11,bj8.20, ms7D_41, msdiv24, pts-cs1.22,ms7D_42, msdiv25, pts-cs1.23, sya10.16,ms7D_43, msdiv26, pts-cs1.24,ms7D_44, msdiv27, pts-cs1.25,cck10.18, ms7D_45, msdiv28, pts-cs1.26,csp1ed7.13, csp2ed7.13, dr10.16, mc10.13, ms7D_46, msdiv29, pts-cs1.27, pts-vp-pli2.15, sya10.17,ms7D_47, msdiv30, pts-cs1.28, vri2.12,bj8.22, cck10.19, ms7D_48, msdiv31, ndp7.14, pts-cs1.29,dr10.17, mc10.14, ms7D_49, msdiv32, pts-cs1.30, sya10.18,cck10.20, csp1ed7.14, csp2ed7.14, dr10.18, ms7D_50, msdiv33, ndp7.15, pts-cs1.31, pts-vp-pli2.16, sya10.19, vri2.13,bj8.24,cck10.21, mc10.15, ms7D_51, msdiv34, pts-cs1.32, pts-vp-pli2.17,ms7D_52, msdiv35,csp1ed7.15, csp2ed7.15, dr10.19, ms7D_53,ms7D_54, sya10.20,ms7D_55,ms7D_56,ms7D_57,ms7D_58,cck10.22, ms7D_59,bj8.26, ms7D_60,ms7D_61, vri2.14,ms7D_62,ms7D_63, pts-vp-pli2.18,mc10.16, ms7D_64,ms7D_65,dr10.20, ms7D_66,ms7D_67,ms7D_68, sya10.21,ms7D_69,cck10.23, ms7D_70, ndp7.16,csp1ed7.16, csp2ed7.16, ms7D_71,ms7D_72,ms7D_73,ms7D_74,ms7D_75,ms7D_76,ms7D_77,bj8.28, ms7D_78,ms7D_79,dr10.21, ms7D_80,ms7D_81,mc10.17, ms7D_82, pts-vp-pli2.19,ms7D_83, sya10.22, vri2.15,cck10.24, csp1ed7.17, csp2ed7.17, ms7D_84, msdiv36, pts-cs1.33,cck10.25, dr10.22, mc10.18, ms7D_85, msdiv37, ndp7.17, pts-vp-pli2.20, sya10.23,pts-cs1.34,bj8.30, ms7D_86, msdiv38, pts-cs1.35,ms7D_87, msdiv39, pts-cs1.36, vri2.16,dr10.23, ms7D_88, msdiv40, pts-cs1.37,cck10.26, csp1ed7.18, csp2ed7.18, ms7D_89, msdiv41, pts-vp-pli2.21, sya10.24,ms7D_90, msdiv42, pts-cs1.38,bj8.32, dr10.24, mc10.19, ms7D_92, msdiv43, ndp7.18, pts-cs2.1, vri2.17,cck10.27, csp1ed7.19, csp2ed7.19, dr10.25, ms7D_93, msdiv44, pts-cs2.2, pts-vp-pli2.22, sya10.25,bj8.34, cck10.28, dr10.26, mc10.20, ms7D_94, msdiv45, ndp7.19, pts-cs2.3, pts-vp-pli2.23, sya10.26,ms7D_95, vri2.18,csp1ed7.20, csp2ed7.20, ms7D_96, msdiv46, pts-cs2.4,cck10.29, ms7D_97,ms7D_98,pts-cs2.5,bj8.36, cck10.30, dr10.27, mc10.21, ms7D_99, msdiv47, ndp7.20, pts-cs2.6, pts-vp-pli2.24, sya10.27,cck10.31, csp1ed7.21, csp2ed7.21, dr10.28, mc10.22, ms7D_100, msdiv48, ndp7.21, pts-cs2.7, pts-vp-pli2.25, sya10.28, vri2.19,bj8.38, dr10.29, ms7D_101, msdiv49, pts-cs2.8, sya10.29,ms7D_102, pts-cs2.9,bj8.40, cck10.32, cck10.33, csp1ed7.22, csp2ed7.22, dr10.30, mc10.23, ms7D_103, msdiv50, ndp7.22, pts-cs2.10, pts-vp-pli2.26, sya10.30, vri2.20,bj8.42, cck10.34, csp1ed7.23, csp2ed7.23, dr10.31, dr10.32, mc10.24, ms7D_104, msdiv51, ndp7.23, pts-cs2.11, pts-vp-pli2.27, sya10.31, vri2.21,cck10.35, ms7D_105, msdiv52, pts-cs2.12, pts-vp-pli2.28, sya10.32,csp1ed7.24, csp2ed7.24, dr10.33, ms7D_106, pts-cs2.13,bj8.44, cck10.36, dr10.34, mc10.25, ms7D_107, msdiv53, ndp7.24, pts-cs2.14, pts-vp-pli2.29, sya10.33, vri2.22,cck10.37, csp1ed7.25, csp2ed7.25, ms7D_108, msdiv54, pts-cs2.15, sya10.34,dr10.35, mc10.26, ms7D_109, msdiv55, ndp7.25, pts-cs2.16, pts-vp-pli2.30, vri2.23,ms7D_110,cck10.38, csp1ed7.26, csp2ed7.26, ms7D_111, msdiv56, pts-cs2.17, sya10.35,bj8.46, dr10.36, mc10.27, ms7D_112, msdiv57, pts-cs2.18, pts-vp-pli2.31,ms7D_113,ms7D_114, ndp7.26, vri2.24,cck10.39, ms7D_115,dr10.37, ms7D_116, sya10.36,csp1ed7.27, csp2ed7.27, ms7D_117,ms7D_118, pts-vp-pli2.32,mc10.28, ms7D_119,bj8.48, cck10.40, ms7D_120, vri2.25,ms7D_121, sya10.37,dr10.38, ms7D_122, ndp7.27,cck10.41, csp1ed7.28, csp2ed7.28, ms7D_123, msdiv58, pts-cs2.19, pts-vp-pli2.33,mc10.29, ms7D_124, msdiv59,ms7D_125, msdiv60, pts-cs2.20, sya10.38,dr10.39, ms7D_126, vri2.26,bj8.50, cck10.42, ms7D_127,csp1ed7.29, csp2ed7.29, ms7D_128, ndp7.28,ms7D_129, pts-vp-pli2.34,dr10.40, mc10.30, ms7D_130, sya10.39,ms7D_131,cck10.43, ms7D_132, vri2.27,bj8.52, ms7D_133,csp1ed7.30, csp2ed7.30, ms7D_134,cck10.44, dr10.41, mc10.31, ms7D_135, msdiv61, ndp7.29, pts-cs2.21, pts-vp-pli2.35, sya10.40,ms7D_136, msdiv62,ms7D_137, msdiv63, pts-cs2.22, vri2.28,bj8.54, cck10.45, csp1ed7.31, csp2ed7.31, dr10.42, mc10.32, ms7D_139, msdiv64, pts-cs3.1, pts-vp-pli2.36, sya10.41,ms7D_140, msdiv65, ndp7.30, pts-cs3.2,ms7D_141,ms7D_142,ms7D_143, vri2.29,cck10.46, csp1ed7.32, csp2ed7.32, dr10.43, ms7D_144, msdiv66, pts-vp-pli2.37, sya10.42,pts-cs3.3,bj8.56, cck10.47, mc10.33, ms7D_145, msdiv67, ndp7.31, pts-cs3.4, pts-vp-pli2.38, sya10.43,dr10.44, ms7D_146,ms7D_147,ms7D_148, vri2.30,ms7D_149, msdiv68, pts-cs3.5,bj8.58, cck10.48, csp1ed7.33, csp2ed7.33, dr10.45, mc10.34, ms7D_150, msdiv69, pts-cs3.6, pts-vp-pli2.39, sya10.44,ms7D_151, msdiv70, ndp7.32, pts-cs3.7,cck10.49, ms7D_152, vri2.31,mc10.35, ms7D_153, sya10.45,csp1ed7.34, csp2ed7.34, ms7D_154, msdiv71,dr10.46, ms7D_155,ms7D_156, pts-vp-pli2.40,bj8.60, cck10.50, ms7D_157, msdiv72, ndp7.33, pts-cs3.8, sya10.46,csp1ed7.35, csp2ed7.35, dr10.47, mc10.36, ms7D_158, msdiv73, pts-cs3.9, vri2.32,cck10.51, ms7D_159, msdiv74, pts-cs3.10, pts-vp-pli2.41, sya10.47,dr10.48, mc10.37, ms7D_160, msdiv75, ndp7.34, pts-cs3.11,bj8.62, cck10.52, csp1ed7.36, csp2ed7.36, ms7D_161, msdiv76, pts-cs3.12, pts-vp-pli2.42, vri2.33,ms7D_162, msdiv77, pts-cs3.13, sya10.48,bj8.64, cck10.53, dr10.49, mc10.38, ms7D_163, msdiv78, ndp7.35, pts-cs3.14, pts-vp-pli2.43, sya10.49,cck10.54, csp1ed7.37, csp2ed7.37, dr10.50, ms7D_164, msdiv79, pts-cs3.15, vri2.34,ms7D_165, msdiv80, sya10.50,mc10.39, ms7D_166, msdiv81, pts-cs3.17, pts-vp-pli2.44,bj8.66, cck10.55, csp1ed7.38, csp2ed7.38, dr10.51, ms7D_167, msdiv82, ndp7.36, pts-cs3.18,ms7D_168, msdiv83, pts-cs3.19, sya10.51, vri2.35,cck10.56, dr10.52, mc10.40, ms7D_169, msdiv84, pts-cs3.20, pts-vp-pli2.45,csp1ed7.39, csp2ed7.39, ms7D_170, msdiv85, pts-cs3.21, sya10.52,bj8.68, cck10.57, dr10.53, ms7D_171, msdiv86, ndp7.37, pts-cs3.22, pts-vp-pli2.46, vri2.36,cck10.58, csp1ed7.40, csp2ed7.40, dr10.54, mc10.41, ms7D_172, msdiv87, pts-cs3.23, pts-vp-pli2.47, sya10.53,bj8.70, cck10.59, mc10.42, ms7D_173, msdiv88, ndp7.38, pts-cs3.24, sya10.54, vri2.37,cck10.60, csp1ed7.41, csp2ed7.41, dr10.55, ms7D_174, pts-cs3.25, pts-vp-pli2.48, sya10.55,bj8.72, ms7D_175, pts-cs3.26,cck10.61, dr10.56, mc10.43, ms7D_176, msdiv89, ndp7.39, pts-cs3.27, pts-vp-pli2.49, sya10.56, vri2.38,csp1ed7.42, csp2ed7.42, ms7D_177, msdiv90, pts-cs3.28,cck10.62, dr10.57, ms7D_178, sya10.57,ms7D_179,mc10.44, ms7D_180, pts-vp-pli2.50,bj8.74, cck10.63, cck10.64, csp1ed7.43, csp2ed7.43, dr10.58, mc10.45, ms7D_181, msdiv91, ndp7.40, pts-cs3.29, pts-vp-pli2.51, sya10.58, sya10.59, vri2.39,bj8.76, cck10.65, csp1ed7.44, csp2ed7.44, dr10.59, dr10.60, mc10.46, ms7D_182, ndp7.41, pts-cs3.30, pts-vp-pli2.52, sya10.60, vri2.40,cck10.66, ms7D_183, msdiv92, pts-cs3.31, sya10.61,bj8.78, cck10.67, cck10.68, csp1ed7.45, csp2ed7.45, dr10.61, dr10.62, mc10.47, ms7D_184, ndp7.42, pts-vp-pli2.53, sya10.62, vri2.41,cck10.69, csp1ed7.46, csp2ed7.46, dr10.63, mc10.48, ms7D_185, msdiv93, ndp7.43, pts-cs3.32, sya10.63,ms7D_186, msdiv94, pts-cs3.33, pts-vp-pli2.54, vri2.42,ms7D_187, sya10.64,ms7D_188",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "dn14",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Mahāpadānasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "dn14",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Great Discourse on Traces Left Behind ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "tw-caf_rhysdavids"
+  ]
+}

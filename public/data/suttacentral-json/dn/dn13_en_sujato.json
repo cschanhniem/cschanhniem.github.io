@@ -1,0 +1,405 @@
+{
+  "root_text": {
+    "uid": "dn13",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Tevijjasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Lohicca ",
+      "uid": "dn12"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Great Discourse on Traces Left Behind ",
+      "uid": "dn14"
+    }
+  },
+  "translation": {
+    "uid": "dn13",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Three Knowledges ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Lohicca ",
+      "uid": "dn12"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Great Discourse on Traces Left Behind ",
+      "uid": "dn14"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "DN 13",
+    "volpages": " PTS 1.235, PTS 1.236, PTS 1.237, PTS 1.238, PTS 1.239, PTS 1.240, PTS 1.241, PTS 1.242, PTS 1.243, PTS 1.244, PTS 1.245, PTS 1.246, PTS 1.247, PTS 1.248, PTS 1.249, PTS 1.250, PTS 1.251, PTS 1.252, PTS 1.253",
+    "alt_volpages": null,
+    "uid": "dn13",
+    "blurb": "A number of brahmins are discussing the true path to Brahmā. Contesting the claims to authority based on the Vedas, the Buddha insists that only personal experience can lead to the truth.",
+    "difficulty": 2,
+    "original_title": "Tevijjasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Three Knowledges ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "dn13_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "In den drei Veden bewandert ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "dn13_translation-en-sujato",
+        "segmented": true,
+        "title": "The Three Knowledges ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "dn13_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2022",
+        "id": "dn13_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Tri znanja ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "Bhikkhu Shilabhadra",
+        "author_short": "Shilabhadra",
+        "author_uid": "shilabhadra",
+        "publication_date": null,
+        "id": "bn_dn13_shilabhadra",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+        "author_short": "Kusalagnana…",
+        "author_uid": "kusalagnana-maitrimurti-traetow",
+        "publication_date": null,
+        "id": "de_dn13_kusalagnana-maitrimurti-traetow",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. R. Otto Franke",
+        "author_short": "Franke",
+        "author_uid": "franke",
+        "publication_date": "1913",
+        "id": "de_dn13_franke",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "T.W. Rhys Davids",
+        "author_short": "T.W. Rhys Davids",
+        "author_uid": "tw_rhysdavids",
+        "has_comment": false,
+        "id": "en_dn13_tw_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1899",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Three Knowledges"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2007",
+        "id": "fr_dn13_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "he",
+        "lang_name": "עִבְֿרִיתּ",
+        "is_root": false,
+        "author": "Shai Schwartz",
+        "author_short": "Schwartz",
+        "author_uid": "schwartz",
+        "publication_date": "2014",
+        "id": "he_dn13_schwartz",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": "1936",
+        "id": "hi_dn13_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_dn13_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_dn13_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_dn13_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "H.V. Srirangaraj",
+        "author_short": "Srirangaraj",
+        "author_uid": "srirangaraj",
+        "publication_date": "2012",
+        "id": "kan_dn13_srirangaraj",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_dn13_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_dn13_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_dn13_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_dn13_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_dn13_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_dn13_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_dn13_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 51,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj7.594, cck9.298, csp1ed6.222, csp2ed6.222, dr9.318, km15.243, mc9.233, ms6D_890, msdiv518, ndp6.199, pts-cs1, pts-vp-pli1.235, sya9.295, vri1.214,ms6D_891, msdiv519, pts-cs2,dr9.319, km15.244, ms6D_892, msdiv520, pts-cs3, pts-vp-pli1.236,pts-cs4,pts-cs5,pts-cs6,cck9.299, csp1ed6.223, csp2ed6.223, km15.245, mc9.234, ms6D_893, msdiv521, pts-cs7, sya9.296, vri1.215,bj7.596, dr9.320, km15.246, km15.247, ms6D_894, msdiv522, ndp6.200, pts-cs8,cck9.300, ms6D_895, msdiv523, pts-cs9, pts-vp-pli1.237, sya9.297,km15.248, ms6D_896, msdiv524, pts-cs10,csp1ed6.224, csp2ed6.224, dr9.321, mc9.235, ms6D_897, vri1.216,bj7.598, ms6D_898, msdiv525, ndp6.201, pts-cs11,km15.249, ms6D_899, pts-cs12, pts-vp-pli1.238, sya9.298,cck9.301, ms6D_900,dr9.322, ms6D_901,km15.250, ms6D_902,mc9.236, ms6D_903, msdiv526, pts-cs13,bj7.600, cck9.302, csp1ed6.225, csp2ed6.225, dr9.323, dr9.324, km15.251, km15.252, km15.253, ms6D_904, msdiv527, ndp6.202, pts-cs14, pts-vp-pli1.239, sya9.299, vri1.217,ms6D_905, msdiv528,ms6D_906, pts-cs15,cck9.303, km15.254, mc9.237, ms6D_907, msdiv529, pts-vp-pli1.240, sya9.300,csp1ed6.226, csp2ed6.226, dr9.325, ms6D_908, msdiv530, pts-cs16,ms6D_909, vri1.218,bj7.602, km15.255, ms6D_910, msdiv531, ndp6.203, pts-cs17,cck9.304, km15.256, ms6D_911, pts-cs18, sya9.301,csp1ed6.227, csp2ed6.227, dr9.326, km15.257, mc9.238, ms6D_912, msdiv532, pts-vp-pli1.241,ms6D_913, msdiv533, sya9.302, vri1.219,cck9.305, dr9.327, km15.258, ms6D_914,bj7.604, ms6D_915, msdiv534, ndp6.204, pts-cs19,km15.259, mc9.239, ms6D_916, pts-vp-pli1.242,dr9.328, ms6D_917, msdiv535,csp1ed6.228, csp2ed6.228, ms6D_918, msdiv536, pts-cs20, vri1.220,ms6D_919, msdiv537, ndp6.205,ms6D_920, pts-vp-pli1.243,bj7.606, cck9.306, csp1ed6.229, csp2ed6.229, dr9.329, km15.260, mc9.240, ms6D_921, msdiv538, pts-cs21, sya9.303,ms6D_922, pts-cs22,ms6D_923, msdiv539,cck9.307, dr9.330, km15.261, km15.262, ms6D_924, msdiv540, pts-vp-pli1.244, sya9.304, vri1.221,ms6D_925, msdiv541, ndp6.206,csp1ed6.230, csp2ed6.230, ms6D_926, pts-cs23,km15.263, mc9.241, ms6D_927, msdiv542, pts-cs24,bj7.608, dr9.331, ms6D_928, msdiv543,cck9.308, km15.264, ms6D_929, msdiv544, pts-cs25, sya9.305, vri1.222,ms6D_930, pts-vp-pli1.245,ms6D_931, msdiv545, pts-cs26,dr9.332, ms6D_932,csp1ed6.231, csp2ed6.231, km15.265, mc9.242, ms6D_933, msdiv546, ndp6.207, pts-cs27,cck9.309, km15.266, ms6D_934, pts-vp-pli1.246, sya9.306,pts-cs28,bj7.610, dr9.333, ms6D_935, msdiv547, pts-cs29, vri1.223,ms6D_936,km15.267, ms6D_937, msdiv548, pts-cs30,cck9.310, csp1ed6.232, csp2ed6.232, dr9.334, mc9.243, ms6D_938, msdiv549, ndp6.208, pts-vp-pli1.247, sya9.307,bj7.612, dr9.335, km15.268, ms6D_939, msdiv550, pts-cs31,km15.269, ms6D_940, pts-cs32, vri1.224,cck9.311, dr9.336, km15.270, ms6D_941, msdiv551, ndp6.209, pts-cs33, pts-vp-pli1.248, sya9.308,pts-cs34,bj7.614, csp1ed6.233, csp2ed6.233, km15.271, mc9.244, ms6D_942, pts-cs35,pts-cs36,ms6D_943, msdiv552,cck9.312, dr9.337, km15.272, ms6D_944, msdiv553, pts-cs37, sya9.309,bj7.616, ms6D_945, msdiv554, ndp6.210, pts-vp-pli1.249, vri1.225,dr9.338, km15.273, mc9.245, ms6D_946, pts-cs38,csp1ed6.234, csp2ed6.234, ms6D_947, msdiv555, pts-cs39, sya9.310,cck9.313, km15.274, ms6D_948, msdiv556, pts-cs40-75, pts-vp-pli1.250,dr9.339, ms6D_949, pts-cs76, pts-vp-pli1.251, vri1.226,km15.275, ms6D_950, pts-cs77,mc9.246, ms6D_951, ndp6.211, pts-cs78, sya9.311,cck9.314, csp1ed6.235, csp2ed6.235, km15.276, ms6D_952, pts-cs79,dr9.340, km15.277, ms6D_953, msdiv557, pts-cs80,bj7.640, ms6D_954, ndp6.212, pts-cs81, pts-vp-pli1.252,bj7.642, cck9.315, dr9.341, km15.278, ms6D_955, msdiv558, sya9.312, vri1.227,csp1ed6.236, csp2ed6.236, km15.279, mc9.247, ms6D_956, msdiv559, pts-cs82,ms6D_960, pts-vp-pli1.253",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "dn13",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Tevijjasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "dn13",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Three Knowledges ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "tw_rhysdavids"
+  ]
+}

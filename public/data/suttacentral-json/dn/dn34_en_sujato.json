@@ -1,0 +1,405 @@
+{
+  "root_text": {
+    "uid": "dn34",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Dasuttarasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Reciting in Concert ",
+      "uid": "dn33"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": ""
+    }
+  },
+  "translation": {
+    "uid": "dn34",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Up to Ten ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Reciting in Concert ",
+      "uid": "dn33"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": ""
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "DN 34",
+    "volpages": " PTS 3.272, PTS 3.273, PTS 3.274, PTS 3.275, PTS 3.276, PTS 3.277, PTS 3.278, PTS 3.279, PTS 3.280, PTS 3.281, PTS 3.282, PTS 3.283, PTS 3.284, PTS 3.285, PTS 3.286, PTS 3.287, PTS 3.288, PTS 3.289, PTS 3.290, PTS 3.291, PTS 3.292, PTS 3.293",
+    "alt_volpages": null,
+    "uid": "dn34",
+    "blurb": "This is similar to the previous, but with a different manner of exposition. These two discourses anticipate some of the methods of the Abhidhamma.",
+    "difficulty": 3,
+    "original_title": "Dasuttarasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Up to Ten ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "dn34_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Bis zehn aufwärts ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "dn34_translation-en-sujato",
+        "segmented": true,
+        "title": "Up to Ten ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "dn34_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2022",
+        "id": "dn34_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Od jedan do deset ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "Bhikkhu Shilabhadra",
+        "author_short": "Shilabhadra",
+        "author_uid": "shilabhadra",
+        "publication_date": null,
+        "id": "bn_dn34_shilabhadra",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Štěpán Chromovský",
+        "author_short": "Chromovský",
+        "author_uid": "chromovsky",
+        "publication_date": null,
+        "id": "cs_dn34_chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+        "author_short": "Kusalagnana…",
+        "author_uid": "kusalagnana-maitrimurti-traetow",
+        "publication_date": null,
+        "id": "de_dn34_kusalagnana-maitrimurti-traetow",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "T.W. & C.A.F. Rhys Davids",
+        "author_short": "Rhys Davids",
+        "author_uid": "tw-caf_rhysdavids",
+        "has_comment": false,
+        "id": "en_dn34_tw-caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1921",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Tenfold Series"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2007",
+        "id": "fr_dn34_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "he",
+        "lang_name": "עִבְֿרִיתּ",
+        "is_root": false,
+        "author": "Shai Schwartz",
+        "author_short": "Schwartz",
+        "author_uid": "schwartz",
+        "publication_date": "2014",
+        "id": "he_dn34_schwartz",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": "1936",
+        "id": "hi_dn34_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_dn34_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_dn34_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_dn34_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "H.V. Srirangaraj",
+        "author_short": "Srirangaraj",
+        "author_uid": "srirangaraj",
+        "publication_date": "2012",
+        "id": "kan_dn34_srirangaraj",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_dn34_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_dn34_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2006",
+        "id": "pt_dn34_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_dn34_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_dn34_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_dn34_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_dn34_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 80,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj9.468, cck11.278, csp1ed8.227, csp2ed8.227, dr11.306, ms8D_1132, msdiv350, ndp8.210, pts-cs1.1, pts-vp-pli3.272, sya11.288, vri3.217,ms8D_1133,ms8D_1135, msdiv351, pts-cs1.2,ms8D_1136,ms8D_1137,ms8D_1138, vri3.218,bj9.470, ms8D_1139, pts-vp-pli3.273, sya11.289,cck11.279, dr11.307, ms8D_1140,ms8D_1141,csp1ed8.228, csp2ed8.228, ms8D_1142,ms8D_1143, ndp8.211,ms8D_1144,ms8D_1145,ms8D_1146,ms8D_1148, msdiv352, pts-cs1.3, sya11.290, vri3.219,dr11.308, ms8D_1149,cck11.280, ms8D_1150,bj9.472, ms8D_1151,ms8D_1152, pts-vp-pli3.274,ms8D_1153,ms8D_1154,csp1ed8.229, csp2ed8.229, ms8D_1155,ms8D_1156,ms8D_1157, ndp8.212,ms8D_1158, sya11.291,ms8D_1159, vri3.220,cck11.281, dr11.309, ms8D_1161, msdiv353, pts-cs1.4,bj9.474, ms8D_1162,ms8D_1163,ms8D_1164, pts-vp-pli3.275,ms8D_1165,ms8D_1166, sya11.292,csp1ed8.230, csp2ed8.230, ms8D_1167,cck11.282, dr11.310, ms8D_1168,ms8D_1169, ndp8.213, vri3.221,ms8D_1170,ms8D_1171,bj9.476, ms8D_1172, pts-vp-pli3.276,dr11.311, ms8D_1174, msdiv354, pts-cs1.5, sya11.293,ms8D_1175,cck11.283, csp1ed8.231, csp2ed8.231, ms8D_1176,ms8D_1177, vri3.222,ms8D_1178, sya11.294,ms8D_1179,dr11.312, ms8D_1180,bj9.478, ms8D_1181, ndp8.214, pts-vp-pli3.277,cck11.284, ms8D_1182,ms8D_1183,ms8D_1184, sya11.295,csp1ed8.232, csp2ed8.232, ms8D_1185,dr11.313, ms8D_1187, msdiv355, pts-cs1.6, vri3.223,cck11.285, ms8D_1188,bj9.480, ms8D_1189, pts-vp-pli3.278, sya11.296,dr11.314, ms8D_1190, ndp8.215,ms8D_1191,cck11.286, csp1ed8.233, csp2ed8.233, dr11.315, ms8D_1192, sya11.297, vri3.224,ms8D_1193,bj9.482, ms8D_1194, ndp8.216,cck11.287, ms8D_1195, sya11.298,csp1ed8.234, csp2ed8.234, dr11.316, ms8D_1196,ms8D_1197, vri3.225,bj9.484, cck11.288, ms8D_1198, sya11.299,dr11.317, ms8D_1199, ndp8.217, pts-vp-pli3.279,cck11.289, csp1ed8.235, csp2ed8.235, ms8D_1200,bj9.486, dr11.318, ms8D_1201, sya11.300, vri3.226,ms8D_1202,cck11.290, csp1ed8.236, csp2ed8.236, dr11.319, ms8D_1203, ndp8.218, sya11.301,bj9.488, cck11.291, ms8D_1204, vri3.227,dr11.320, ms8D_1205, sya11.302,ms8D_1206,ms8D_1208, msdiv356, pts-cs1.7,csp1ed8.237, csp2ed8.237, ms8D_1209, ndp8.219, pts-vp-pli3.280,bj9.490, ms8D_1210,dr11.321, ms8D_1211,cck11.292, ms8D_1212, sya11.303,ms8D_1213, vri3.228,ms8D_1214,dr11.322, ms8D_1215,ms8D_1216,bj9.492, cck11.293, ms8D_1217,csp1ed8.238, csp2ed8.238, ms8D_1218, sya11.304,ms8D_1219, ndp8.220,cck11.294, dr11.323, ms8D_1220, vri3.229,bj9.494, ms8D_1221, sya11.305,dr11.324, ms8D_1222,cck11.295, csp1ed8.239, csp2ed8.239, ms8D_1223, sya11.306,dr11.325, ms8D_1224, ndp8.221,bj9.496, cck11.296, ms8D_1225, sya11.307, vri3.230,dr11.326, ms8D_1226, pts-vp-pli3.281,ms8D_1227,cck11.297, csp1ed8.240, csp2ed8.240, ms8D_1228, sya11.308,ms8D_1229, ndp8.222,cck11.298, dr11.327, ms8D_1230, sya11.309, vri3.231,ms8D_1231,cck11.299, dr11.328, ms8D_1232, sya11.310,ms8D_1233,bj9.498, ms8D_1234,dr11.329, ms8D_1236, msdiv357, pts-cs1.8, pts-vp-pli3.282,ms8D_1237,csp1ed8.241, csp2ed8.241, ms8D_1238, sya11.311,cck11.300, ms8D_1239,ms8D_1240, vri3.232,ms8D_1241, ndp8.223,dr11.330, ms8D_1242,ms8D_1243,bj9.500, ms8D_1244,ms8D_1245,ms8D_1246, sya11.312,cck11.301, csp1ed8.242, csp2ed8.242, ms8D_1247,dr11.331, ms8D_1248,ms8D_1249, pts-vp-pli3.283, vri3.233,ms8D_1250,bj9.502, cck11.302, ms8D_1251, ndp8.224, sya11.313,dr11.332, ms8D_1252,csp1ed8.243, csp2ed8.243, ms8D_1253,ms8D_1254, sya11.314,cck11.303, ms8D_1255, pts-vp-pli3.284, vri3.234,dr11.333, ms8D_1256,bj9.504, ms8D_1257,ms8D_1258, sya11.315,ms8D_1259, ndp8.225,cck11.304, dr11.334, ms8D_1262, msdiv358, pts-cs2.1,csp1ed8.244, csp2ed8.244, ms8D_1263, pts-vp-pli3.285, vri3.235,cck11.305, ms8D_1264, sya11.316,bj9.506, dr11.335, ms8D_1265,ms8D_1266, ndp8.226,csp1ed8.245, csp2ed8.245, ms8D_1267, sya11.317,cck11.306, ms8D_1268, pts-vp-pli3.286, vri3.236,dr11.336, ms8D_1269,bj9.508, ms8D_1270, sya11.318,ms8D_1271,ms8D_1272, ndp8.227,cck11.307, csp1ed8.246, csp2ed8.246, dr11.337, ms8D_1273, pts-vp-pli3.287,ms8D_1274, vri3.237,bj9.510, ms8D_1275, sya11.319,ms8D_1276,dr11.338, ms8D_1277,cck11.308, ms8D_1278,csp1ed8.247, csp2ed8.247, ms8D_1279, ndp8.228, sya11.320,ms8D_1280, vri3.238,cck11.309, dr11.339, ms8D_1281,bj9.512, ms8D_1282, sya11.321,ms8D_1283,ms8D_1284,cck11.310, dr11.340, ms8D_1285, ndp8.229,csp1ed8.248, csp2ed8.248, ms8D_1286, sya11.322, vri3.239,bj9.514, ms8D_1287,cck11.311, dr11.341, ms8D_1288, sya11.323,ms8D_1289,ms8D_1290,cck11.312, csp1ed8.249, csp2ed8.249, dr11.342, ms8D_1291, ndp8.230,bj9.516, ms8D_1292, sya11.324, vri3.240,ms8D_1293,ms8D_1294,cck11.313, ms8D_1295,dr11.343, ms8D_1296, sya11.325,ms8D_1297,bj9.518, cck11.314, csp1ed8.250, csp2ed8.250, ms8D_1298, ndp8.231, vri3.241,ms8D_1299, sya11.326,dr11.344, ms8D_1300,ms8D_1301,ms8D_1302,ms8D_1303,bj9.520, cck11.315, csp1ed8.251, csp2ed8.251, dr11.345, ms8D_1304, sya11.327,ms8D_1305, ndp8.232, vri3.242,cck11.316, ms8D_1306,ms8D_1307, pts-vp-pli3.288, sya11.328,ms8D_1308,ms8D_1309,bj9.522, dr11.346, ms8D_1310,csp1ed8.252, csp2ed8.252, ms8D_1311,ms8D_1312, vri3.243,ms8D_1313,ms8D_1314, ndp8.233,ms8D_1315,cck11.317, ms8D_1317, msdiv359, pts-cs2.2,dr11.347, ms8D_1318, sya11.329,bj9.524, ms8D_1319,ms8D_1320, vri3.244,csp1ed8.253, csp2ed8.253, ms8D_1321,ms8D_1322,cck11.318, ms8D_1323, sya11.330,dr11.348, ms8D_1324,ms8D_1325, ndp8.234,ms8D_1326,ms8D_1327,bj9.526, ms8D_1328,dr11.349, ms8D_1329, pts-vp-pli3.289, vri3.245,cck11.319, csp1ed8.254, csp2ed8.254, ms8D_1330, sya11.331,cck11.320, dr11.350, ms8D_1331, ndp8.235, sya11.332,bj9.528, ms8D_1332,ms8D_1333, pts-vp-pli3.290, vri3.246,cck11.321, csp1ed8.255, csp2ed8.255, dr11.351, ms8D_1334, sya11.333,bj9.530, cck11.322, ms8D_1335, ndp8.236, sya11.334,dr11.352, ms8D_1336,ms8D_1338, msdiv360, pts-cs2.3, vri3.247,ms8D_1339,cck11.323, csp1ed8.256, csp2ed8.256, dr11.353, ms8D_1340, sya11.335,bj9.532, ms8D_1341,ms8D_1342,ms8D_1343,ms8D_1344,dr11.354, ms8D_1345, ndp8.237, sya11.336,cck11.324, ms8D_1346, vri3.248,bj9.534, ms8D_1347,ms8D_1348,csp1ed8.257, csp2ed8.257, dr11.355, ms8D_1349, sya11.337,cck11.325, ms8D_1350,ms8D_1351,ms8D_1352, ndp8.238,bj9.536, ms8D_1353, pts-vp-pli3.291, vri3.249,dr11.356, ms8D_1354, sya11.338,cck11.326, csp1ed8.258, csp2ed8.258, ms8D_1355,ms8D_1356,ms8D_1357,ms8D_1358,bj9.538, dr11.357, ms8D_1359, ndp8.239, sya11.339, vri3.250,cck11.327, ms8D_1360,csp1ed8.259, csp2ed8.259, ms8D_1361,ms8D_1362,ms8D_1363,dr11.358, ms8D_1364, sya11.340,bj9.540, ms8D_1365,bj9.542, cck11.328, cck11.329, csp1ed8.260, csp2ed8.260, dr11.359, dr11.360, ms8D_1366, ndp8.240, sya11.341, sya11.342, vri3.251,ms8D_1367, pts-vp-pli3.292,bj9.544, cck11.330, ms8D_1368,dr11.361, ms8D_1372, pts-vp-pli3.293, vri3.252,ms8D_1373, sya11.343",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "dn34",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Dasuttarasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "dn34",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Up to Ten ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "tw-caf_rhysdavids"
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "root_text": {
+    "uid": "mn94",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Ghoṭamukhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Assalāyana ",
+      "uid": "mn93"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Caṅkī ",
+      "uid": "mn95"
+    }
+  },
+  "translation": {
+    "uid": "mn94",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Ghoṭamukha ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Assalāyana ",
+      "uid": "mn93"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Caṅkī ",
+      "uid": "mn95"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "MN 94",
+    "volpages": " PTS 2.158, PTS 2.159, PTS 2.160, PTS 2.161, PTS 2.162, PTS 2.163",
+    "alt_volpages": null,
+    "uid": "mn94",
+    "blurb": "A brahmin denies that there is such a thing as a principled renunciate life, but Venerable Udena persuades him otherwise.",
+    "difficulty": 2,
+    "original_title": "Ghoṭamukhasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Ghoṭamukha ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "mn94_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Ghoṭamukha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "mn94_translation-en-sujato",
+        "segmented": true,
+        "title": "With Ghoṭamukha ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Giovanni Zappa",
+        "author_short": "giovannizappa",
+        "author_uid": "giovannizappa",
+        "publication_date": "2025",
+        "id": "mn94_translation-it-giovannizappa",
+        "segmented": true,
+        "title": "Il discorso con Ghoṭamukha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "mn94_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2023",
+        "id": "mn94_translation-ru-sv",
+        "segmented": true,
+        "title": "К Гхотамукхе ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ধর্মাধার মহাস্থবির",
+        "author_short": "ধর্মাধার",
+        "author_uid": "mahasthavya",
+        "publication_date": null,
+        "id": "bn_mn94_mahasthavya",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Mettiko Bhikkhu",
+        "author_short": "Mettiko",
+        "author_uid": "mettiko",
+        "publication_date": "2001",
+        "id": "de_mn94_mettiko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Nyanamoli Thera",
+        "author_short": "Nyanamoli",
+        "author_uid": "nyanamoli-thera",
+        "has_comment": false,
+        "id": "en_mn94_nyanamoli-thera",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1977",
+        "segmented": false,
+        "volpage": null,
+        "title": "To Ghoṭamukha"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2010",
+        "id": "fr_mn94_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": null,
+        "id": "hi_mn94_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_mn94_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+        "author_short": "Lorenzo …",
+        "author_uid": "lorenzo-morniroli-federici",
+        "publication_date": "2007",
+        "id": "it_mn94_lorenzo-morniroli-federici",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_mn94_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "Molakalmuru Srinivasamurthy",
+        "author_short": "srinivasamurthy",
+        "author_uid": "srinivasamurthy",
+        "publication_date": "2012",
+        "id": "kan_mn94_srinivasamurthy",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_mn94_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_mn94_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2006",
+        "id": "pt_mn94_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2015",
+        "id": "ru_mn94_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_mn94_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Bojan Božič",
+        "author_short": "Božič",
+        "author_uid": "bojan",
+        "publication_date": "2023",
+        "id": "sl_mn94_bojan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2014",
+        "id": "sr_mn94_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_mn94_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_mn94_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_mn94_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 63,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj11.628, cck13.555, ms10M_1268, msdiv412, ndp10.414, nya1, pts-vp-pli2.158, sya13.573, vri13.372,nya2,cck13.556, csp1ed10.365, csp2ed10.365, dr13.524, ms10M_1269, ndp10.415, nya3, pts-vp-pli2.159, sya13.574, vri13.373,nya4,bj11.630, dr13.525, ms10M_1270, msdiv413, nya5, sya13.575,cck13.557, csp1ed10.366, csp2ed10.366, ms10M_1271, ndp10.416,cck13.558, dr13.526, ms10M_1272, nya6, pts-vp-pli2.160, sya13.576, vri13.374,bj11.632, ms10M_1273, msdiv414, nya7,cck13.559, csp1ed10.367, csp2ed10.367, dr13.527, ms10M_1274, ndp10.417, sya13.577,ms10M_1275, pts-vp-pli2.161,ms10M_1276, nya8, sya13.578, vri13.375,nya9,bj11.634, cck13.560, cck13.561, csp1ed10.368, csp2ed10.368, dr13.528, dr13.529, ms10M_1277, msdiv415, ndp10.418, ndp10.419, nya10, pts-vp-pli2.162, sya13.579, vri13.376,ms10M_1278, msdiv416, nya11,bj11.636, cck13.562, csp1ed10.369, csp2ed10.369, dr13.530, ms10M_1279, msdiv417, ndp10.420, nya12, sya13.580, sya13.581,bj11.638, cck13.563, csp1ed10.370, csp2ed10.370, dr13.531, ms10M_1280, msdiv418, nya13, sya13.582, vri13.377,nya14,nya15,ms10M_1281, nya16,cck13.564, ms10M_1282,ms10M_1283,ms10M_1284, ndp10.421,dr13.532, ms10M_1285, vri13.378,csp1ed10.371, csp2ed10.371, ms10M_1286,cck13.565, ms10M_1287, sya13.583,dr13.533, ms10M_1288, nya17,cck13.566, csp1ed10.372, csp2ed10.372, ms10M_1289, msdiv419, ndp10.422, nya18, sya13.584, vri13.379,bj11.640, ms10M_1290, nya19,dr13.534, ms10M_1291, ndp10.423, nya20, sya13.585,nya21,cck13.567, csp1ed10.373, csp2ed10.373, dr13.535, ms10M_1292, nya22,nya23,nya24,nya25,cck13.568, ms10M_1293, msdiv420, nya26, sya13.586, vri13.380,bj11.642, dr13.536, ms10M_1294, ndp10.424, nya27, sya13.587,cck13.569, csp1ed10.374, csp2ed10.374, ms10M_1295, nya28, vri13.381,nya29,ms10M_1296, nya30, sya13.588,cck13.570, dr13.537, ms10M_1297, msdiv421, ndp10.425, nya31,nya32,bj11.644, csp1ed10.375, csp2ed10.375, ms10M_1298, pts-vp-pli2.163, sya13.589,cck13.571, dr13.538, ms10M_1299, ndp10.426, vri13.382,nya33,ms10M_1300, sya13.590",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "mn94",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Ghoṭamukhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "mn94",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Ghoṭamukha ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "nyanamoli-thera"
+  ]
+}

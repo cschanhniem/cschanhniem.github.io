@@ -9,7 +9,7 @@ import { ChevronLeft, Type, Minus, Plus, Bookmark, ExternalLink } from 'lucide-r
 import type { NikayaLanguage, NikayaVersionType, SCSuttaplex } from '@/types/nikaya'
 import { NIKAYA_LANGUAGES, NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getSuttaMetadata } from '@/lib/suttacentralApi'
-import { getLocalSuttaText, hasLocalJson } from '@/lib/suttacentralLocal'
+import { fetchLocalSuttaHtml, hasLocalJson, initLocalData } from '@/lib/suttacentralLocal'
 import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-improved'
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
 import { NikayaComparisonView } from '@/components/NikayaComparisonView'
@@ -33,6 +33,12 @@ export function NikayaDetail() {
     const [metadata, setMetadata] = useState<SCSuttaplex | null>(null)
     const [loading, setLoading] = useState(true)
     const [error, setError] = useState<string | null>(null)
+    const [manifestReady, setManifestReady] = useState(false)
+
+    // Initialize local data manifest
+    useEffect(() => {
+        initLocalData().then(() => setManifestReady(true))
+    }, [])
 
     // Version state
     const [selectedVersion, setSelectedVersion] = useState<{ lang: NikayaLanguage; type: NikayaVersionType }>({
@@ -88,7 +94,7 @@ export function NikayaDetail() {
                 for (const lang of supportedLangs) {
                     const langInfo = NIKAYA_LANGUAGES[lang]
 
-                    // Check if original version available locally (JSON or nikaya-original)
+                    // Check if original version available locally (JSON)
                     const hasLocalOriginal = hasLocalJson(suttaId, lang)
                     const scTranslation = data.translations.find(
                         t => t.lang === lang && t.author_uid === langInfo.originalAuthorUid
@@ -119,7 +125,7 @@ export function NikayaDetail() {
         }
 
         fetchMetadata()
-    }, [suttaId])
+    }, [suttaId, manifestReady])
 
     // Fetch content when version changes
     const fetchContent = useCallback(async (
@@ -134,10 +140,10 @@ export function NikayaDetail() {
             return improved?.content || '*Bản dịch cải tiến đang được phát triển...*'
         }
 
-        // Get original from local JSON data first
-        const localText = getLocalSuttaText(suttaId, lang)
-        if (localText) {
-            return localText
+        // Get original from local JSON data first (HTML)
+        const localHtml = await fetchLocalSuttaHtml(suttaId, lang)
+        if (localHtml) {
+            return localHtml
         }
 
         // Fallback message if not available locally
@@ -383,9 +389,13 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
                 ) : (
                     <div className="bg-card rounded-lg border border-border p-6">
                         <article className={proseClasses}>
-                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                                {primaryContent}
-                            </ReactMarkdown>
+                            {selectedVersion.type === 'original' ? (
+                                <div dangerouslySetInnerHTML={{ __html: primaryContent }} />
+                            ) : (
+                                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                                    {primaryContent}
+                                </ReactMarkdown>
+                            )}
                         </article>
                     </div>
                 )}

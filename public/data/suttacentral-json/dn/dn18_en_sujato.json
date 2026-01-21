@@ -1,0 +1,392 @@
+{
+  "root_text": {
+    "uid": "dn18",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Janavasabhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "King Mahāsudassana ",
+      "uid": "dn17"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Great Steward ",
+      "uid": "dn19"
+    }
+  },
+  "translation": {
+    "uid": "dn18",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Janavasabha ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "King Mahāsudassana ",
+      "uid": "dn17"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Great Steward ",
+      "uid": "dn19"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "DN 18",
+    "volpages": " PTS 2.200, PTS 2.201, PTS 2.202, PTS 2.204, PTS 2.205, PTS 2.206, PTS 2.207, PTS 2.208, PTS 2.209, PTS 2.210, PTS 2.211, PTS 2.212, PTS 2.213, PTS 2.214, PTS 2.215, PTS 2.216, PTS 2.217, PTS 2.218, PTS 2.219",
+    "alt_volpages": null,
+    "uid": "dn18",
+    "blurb": "Beginning with an account of the fates of disciples who had recently passed away, the scene shifts to a discussion of Dhamma held by the gods.",
+    "difficulty": 2,
+    "original_title": "Janavasabhasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Janavasabha ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "dn18_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Janavasabha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "dn18_translation-en-sujato",
+        "segmented": true,
+        "title": "With Janavasabha ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "dn18_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2022",
+        "id": "dn18_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Govor o Đanavasabhi ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "Bhikkhu Shilabhadra",
+        "author_short": "Shilabhadra",
+        "author_uid": "shilabhadra",
+        "publication_date": null,
+        "id": "bn_dn18_shilabhadra",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Thalpawila Kusalagnana, Dr. Mudagamuwe Maithrimurthi, Thomas Trätow",
+        "author_short": "Kusalagnana…",
+        "author_uid": "kusalagnana-maitrimurti-traetow",
+        "publication_date": null,
+        "id": "de_dn18_kusalagnana-maitrimurti-traetow",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "T.W. Rhys Davids",
+        "author_short": "T.W. Rhys Davids",
+        "author_uid": "tw_rhysdavids",
+        "has_comment": false,
+        "id": "en_dn18_tw_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1910",
+        "segmented": false,
+        "volpage": null,
+        "title": "With Janavasabha"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2007",
+        "id": "fr_dn18_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "he",
+        "lang_name": "עִבְֿרִיתּ",
+        "is_root": false,
+        "author": "Shai Schwartz",
+        "author_short": "Schwartz",
+        "author_uid": "schwartz",
+        "publication_date": "2014",
+        "id": "he_dn18_schwartz",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": "1936",
+        "id": "hi_dn18_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_dn18_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_dn18_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_dn18_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "kan",
+        "lang_name": "ಕನ್ನಡ",
+        "is_root": false,
+        "author": "H.V. Srirangaraj",
+        "author_short": "Srirangaraj",
+        "author_uid": "srirangaraj",
+        "publication_date": "2012",
+        "id": "kan_dn18_srirangaraj",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_dn18_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_dn18_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2008",
+        "id": "pt_dn18_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_dn18_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_dn18_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_dn18_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_dn18_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj8.306, cck10.244, csp1ed7.162, csp2ed7.162, dr10.229, mc10.172, ms7D_596, msdiv273, ndp7.151, pts-cs1, pts-vp-pli2.200, sya10.229, vri2.148,cck10.245, csp1ed7.163, csp2ed7.163, dr10.230, mc10.173, ms7D_597, msdiv274, pts-cs2, pts-vp-pli2.201, sya10.230, vri2.149,bj8.308, cck10.246, ms7D_598, msdiv275, ndp7.152, pts-cs3, sya10.231,bj8.310, cck10.247, csp1ed7.164, csp2ed7.164, dr10.231, dr10.232, mc10.174, ms7D_599, msdiv276, ndp7.153, pts-cs4, pts-vp-pli2.202, sya10.232, vri2.150,bj8.312, cck10.248, cck10.249, csp1ed7.165, csp2ed7.165, dr10.233, mc10.175, ms7D_600, msdiv277, ndp7.154, pts-cs5, pts-vp-pli2.204, sya10.233, sya10.234, vri2.151,pts-cs6,cck10.250, csp1ed7.166, csp2ed7.166, dr10.234, mc10.176, ms7D_601, msdiv278, pts-cs7, pts-vp-pli2.205,bj8.314, ms7D_602, msdiv279, pts-cs8, sya10.235,ms7D_603, ndp7.155, pts-cs9,cck10.251, dr10.235, ms7D_604, msdiv280, vri2.152,csp1ed7.167, csp2ed7.167, mc10.177, ms7D_605, pts-vp-pli2.206, sya10.236,pts-cs10,ms7D_606,ms7D_607, msdiv281,bj8.316, cck10.252, dr10.236, ms7D_608, ndp7.156, pts-vp-pli2.207, sya10.237,pts-cs11,bj8.318, cck10.253, csp1ed7.168, csp2ed7.168, dr10.237, mc10.178, ms7D_609, msdiv282, pts-cs12, pts-vp-pli2.208, sya10.238, vri2.153,pts-cs13,ms7D_610,ms7D_611,cck10.254, mc10.179, ms7D_612, ndp7.157,csp1ed7.169, csp2ed7.169, dr10.238, ms7D_613,ms7D_614, pts-vp-pli2.209, sya10.239, vri2.154,pts-cs14,ms7D_615,bj8.320, cck10.255, ms7D_616, msdiv283, pts-cs15,ms7D_617,csp1ed7.170, csp2ed7.170, dr10.239, mc10.180, ms7D_618, msdiv284, pts-cs16, pts-vp-pli2.210,cck10.256, ms7D_619, ndp7.158, pts-cs17, sya10.240, vri2.155,bj8.322, dr10.240, mc10.181, ms7D_620, pts-vp-pli2.211, sya10.241,pts-cs18,cck10.257, csp1ed7.171, csp2ed7.171, ms7D_621,ms7D_622,ms7D_623,ms7D_624, vri2.156,dr10.241, ms7D_625, msdiv285, ndp7.159, pts-cs19, sya10.242,cck10.258, mc10.182, ms7D_626, pts-cs20, pts-vp-pli2.212,bj8.324, csp1ed7.172, csp2ed7.172, ms7D_627, msdiv286, pts-cs21,ms7D_628,ms7D_629, sya10.243,cck10.259, dr10.242, ms7D_630, ndp7.160, pts-cs22, pts-vp-pli2.213, vri2.157,mc10.183, ms7D_631, msdiv287,bj8.326, cck10.260, csp1ed7.173, csp2ed7.173, dr10.243, ms7D_632, pts-vp-pli2.214, sya10.244,pts-cs23,cck10.261, dr10.244, mc10.184, ms7D_633, msdiv288, ndp7.161, sya10.245, vri2.158,csp1ed7.174, csp2ed7.174, ms7D_634, pts-cs24, pts-vp-pli2.215,bj8.328, cck10.262, cck10.263, dr10.245, mc10.185, ms7D_635, ndp7.162, pts-cs25, pts-vp-pli2.216, sya10.246, sya10.247, vri2.159,pts-cs26,bj8.330, cck10.264, csp1ed7.175, csp2ed7.175, dr10.246, mc10.186, ms7D_636, msdiv289, sya10.248,pts-cs27,cck10.265, csp1ed7.176, csp2ed7.176, dr10.247, mc10.187, ms7D_637, msdiv290, ndp7.163, pts-vp-pli2.217, sya10.249, vri2.160,bj8.332, dr10.248, ms7D_638, pts-vp-pli2.218,ms7D_639,cck10.266, mc10.188, ms7D_640, msdiv291, pts-cs28, sya10.250, vri2.161,csp1ed7.177, csp2ed7.177, ms7D_641, msdiv292, ndp7.164, pts-cs29, pts-vp-pli2.219,cck10.267, dr10.249, ms7D_642, sya10.251",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "dn18",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Janavasabhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "dn18",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Janavasabha ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "tw_rhysdavids"
+  ]
+}

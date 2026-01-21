@@ -1,0 +1,402 @@
+{
+  "root_text": {
+    "uid": "mn124",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Bākulasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Incredible and Amazing ",
+      "uid": "mn123"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Level of the Tamed ",
+      "uid": "mn125"
+    }
+  },
+  "translation": {
+    "uid": "mn124",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Bakkula ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Incredible and Amazing ",
+      "uid": "mn123"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Level of the Tamed ",
+      "uid": "mn125"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "MN 124",
+    "volpages": " PTS 3.125, PTS 3.126, PTS 3.127, PTS 3.128",
+    "alt_volpages": null,
+    "uid": "mn124",
+    "blurb": "Venerable Bakkula, regarded as the healthiest of the mendicants, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha’s death.",
+    "difficulty": 2,
+    "original_title": "Bākulasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Bakkula ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "mn124_translation-en-sujato",
+        "segmented": true,
+        "title": "With Bakkula ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Giovanni Zappa",
+        "author_short": "giovannizappa",
+        "author_uid": "giovannizappa",
+        "publication_date": "2025",
+        "id": "mn124_translation-it-giovannizappa",
+        "segmented": true,
+        "title": "Il discorso su Bakkula ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "mn124_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2023",
+        "id": "mn124_translation-ru-sv",
+        "segmented": true,
+        "title": "Бакула сутта ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বিনয়েন্দ্রনাথ চৌধুরী",
+        "author_short": "চৌধুরী",
+        "author_uid": "chowdhury",
+        "publication_date": null,
+        "id": "bn_mn124_chowdhury",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Mettiko Bhikkhu",
+        "author_short": "Mettiko",
+        "author_uid": "mettiko",
+        "publication_date": "2001",
+        "id": "de_mn124_mettiko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": null,
+        "id": "es_mn124_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2010",
+        "id": "fr_mn124_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": null,
+        "id": "hi_mn124_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_mn124_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+        "author_short": "Lorenzo …",
+        "author_uid": "lorenzo-morniroli-federici",
+        "publication_date": "2007",
+        "id": "it_mn124_lorenzo-morniroli-federici",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_mn124_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_mn124_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_mn124_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2004",
+        "id": "pt_mn124_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2015",
+        "id": "ru_mn124_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_mn124_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Bojan Božič",
+        "author_short": "Božič",
+        "author_uid": "bojan",
+        "publication_date": "2023",
+        "id": "sl_mn124_bojan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2014",
+        "id": "sr_mn124_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_mn124_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_mn124_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_mn124_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj12.296, cck14.239, csp1ed11.166, csp2ed11.166, dr13.233, ms11M_559, msdiv209, ndp11.190, nya1, pts-vp-pli3.125, sya14.255, vri14.167,nya2,ms11M_560, nya3,ms11M_561, msdiv210,dr13.234, ms11M_562, ndp11.191, nya4-5, sya14.256,cck14.240, ms11M_563, nya6,csp1ed11.167, csp2ed11.167, ms11M_564, nya7-8, vri14.168,bj12.298, ms11M_565, msdiv211, nya9, pts-vp-pli3.126,ms11M_566, nya10,bj12.300, cck14.241, dr13.235, ms11M_567, ndp11.192, nya11-15, pts-vp-pli3.127, sya14.257,nya16-19,nya20-25,nya26-29,nya30-36,csp1ed11.168, csp2ed11.168, dr13.236, ms11M_568, nya37, vri14.169,ms11M_569, nya38, sya14.258,cck14.242, ms11M_570, msdiv212, ndp11.193, nya39,bj12.302, dr13.237, ms11M_571, nya40,ms11M_572, nya41, pts-vp-pli3.128, sya14.259",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "mn124",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Bākulasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "mn124",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Bakkula ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

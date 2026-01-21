@@ -1,0 +1,418 @@
+{
+  "root_text": {
+    "uid": "mn137",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Saḷāyatanavibhaṅgasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Longer Analysis of Deeds ",
+      "uid": "mn136"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "A Summary Recital and its Analysis ",
+      "uid": "mn138"
+    }
+  },
+  "translation": {
+    "uid": "mn137",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Analysis of the Six Sense Fields ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Analysis of Deeds ",
+      "uid": "mn136"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Summary Recital and its Analysis ",
+      "uid": "mn138"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "MN 137",
+    "volpages": " PTS 3.216, PTS 3.217, PTS 3.218, PTS 3.219, PTS 3.220, PTS 3.221, PTS 3.222",
+    "alt_volpages": null,
+    "uid": "mn137",
+    "blurb": "A detailed analysis of the six senses and the relation to emotional and cognitive processes.",
+    "difficulty": 3,
+    "original_title": "Saḷāyatanavibhaṅgasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Analysis of the Six Sense Fields ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "mn137_translation-en-sujato",
+        "segmented": true,
+        "title": "The Analysis of the Six Sense Fields ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Giovanni Zappa",
+        "author_short": "giovannizappa",
+        "author_uid": "giovannizappa",
+        "publication_date": "2025",
+        "id": "mn137_translation-it-giovannizappa",
+        "segmented": true,
+        "title": "Il discorso sull’analisi dei sei campi sensoriali ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "mn137_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2023",
+        "id": "mn137_translation-ru-sv",
+        "segmented": true,
+        "title": "Разъяснение шести сфер  ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বিনয়েন্দ্রনাথ চৌধুরী",
+        "author_short": "চৌধুরী",
+        "author_uid": "chowdhury",
+        "publication_date": null,
+        "id": "bn_mn137_chowdhury",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Mettiko Bhikkhu",
+        "author_short": "Mettiko",
+        "author_uid": "mettiko",
+        "publication_date": "2001",
+        "id": "de_mn137_mettiko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Suddhāso Bhikkhu",
+        "author_short": "Suddhāso",
+        "author_uid": "suddhaso",
+        "has_comment": false,
+        "id": "en_mn137_suddhaso",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2020",
+        "segmented": false,
+        "volpage": null,
+        "title": "Analysis of the Six Sense-Domains"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": null,
+        "id": "es_mn137_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2010",
+        "id": "fr_mn137_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": null,
+        "id": "hi_mn137_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Fenyvesi Róbert",
+        "author_short": "Fenyvesi",
+        "author_uid": "fenyvesi",
+        "publication_date": "2009",
+        "id": "hu_mn137_fenyvesi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_mn137_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+        "author_short": "Lorenzo …",
+        "author_uid": "lorenzo-morniroli-federici",
+        "publication_date": "2007",
+        "id": "it_mn137_lorenzo-morniroli-federici",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_mn137_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_mn137_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_mn137_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_mn137_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_mn137_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_mn137_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Bojan Božič",
+        "author_short": "Božič",
+        "author_uid": "bojan",
+        "publication_date": "2023",
+        "id": "sl_mn137_bojan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_mn137_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_mn137_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_mn137_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj12.458, ms11M_920, msdiv304, ndp11.297, nya1, sya14.400, vri14.264,nya2,csp1ed11.259, csp2ed11.259, ms11M_921, nya3, pts-vp-pli3.216,cck14.368, dr13.364, ms11M_922, msdiv305, nya4,ms11M_923, nya5, sya14.401,ms11M_924, ndp11.298, nya6,ms11M_925, nya7, vri14.265,bj12.460, cck14.369, dr13.365, ms11M_926, nya8, pts-vp-pli3.217,csp1ed11.260, csp2ed11.260, ms11M_927, msdiv306, ndp11.299, nya9, sya14.402,nya10,cck14.370, dr13.366, ms11M_928, nya11, pts-vp-pli3.218, sya14.403, vri14.266,bj12.462, csp1ed11.261, csp2ed11.261, ms11M_929, msdiv307, nya12,cck14.371, dr13.367, ms11M_930, ndp11.300, nya13, pts-vp-pli3.219, sya14.404,cck14.372, dr13.368, ms11M_931, msdiv308, nya14, sya14.405, vri14.267,bj12.464, csp1ed11.262, csp2ed11.262, ms11M_932, ndp11.301, nya15,ms11M_933, msdiv309, nya16, pts-vp-pli3.220, sya14.406,ms11M_934,cck14.373, dr13.369, ms11M_935, vri14.268,ms11M_936,ms11M_937,bj12.466, csp1ed11.263, csp2ed11.263, ms11M_938, msdiv310, ndp11.302, nya17, sya14.407,nya18,nya19,ms11M_939, nya20,cck14.374, dr13.370, ms11M_940, pts-vp-pli3.221,ms11M_941, msdiv311, nya21, sya14.408, vri14.269,nya22,csp1ed11.264, csp2ed11.264, dr13.371, ms11M_942, ndp11.303, nya23,bj12.468, cck14.375, ms11M_943, nya24, pts-vp-pli3.222, sya14.409,cck14.376, csp1ed11.265, csp2ed11.265, dr13.372, ms11M_944, msdiv312, ndp11.304, nya25, sya14.410, vri14.270,nya26,nya27,nya28,ms11M_945",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "mn137",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Saḷāyatanavibhaṅgasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "mn137",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Analysis of the Six Sense Fields ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "suddhaso"
+  ]
+}

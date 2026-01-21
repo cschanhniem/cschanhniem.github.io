@@ -1,0 +1,432 @@
+{
+  "root_text": {
+    "uid": "mn115",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Bahudhātukasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "What Should and Should Not Be Cultivated ",
+      "uid": "mn114"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "At Isigili ",
+      "uid": "mn116"
+    }
+  },
+  "translation": {
+    "uid": "mn115",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Many Elements ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "What Should and Should Not Be Cultivated ",
+      "uid": "mn114"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At Isigili ",
+      "uid": "mn116"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "MN 115",
+    "volpages": " PTS 3.62, PTS 3.63, PTS 3.64, PTS 3.65, PTS 3.66, PTS 3.67",
+    "alt_volpages": null,
+    "uid": "mn115",
+    "blurb": "Beginning by praising a wise person, the Buddha goes on to explain that one becomes wise by inquiring into the elements, sense fields, dependent origination, and what is possible and impossible.",
+    "difficulty": 3,
+    "original_title": "Bahudhātukasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Many Elements ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "mn115_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Viele Elemente ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "mn115_translation-en-sujato",
+        "segmented": true,
+        "title": "Many Elements ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Giovanni Zappa",
+        "author_short": "giovannizappa",
+        "author_uid": "giovannizappa",
+        "publication_date": "2025",
+        "id": "mn115_translation-it-giovannizappa",
+        "segmented": true,
+        "title": "Il discorso sui vari elementi ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "mn115_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2023",
+        "id": "mn115_translation-ru-sv",
+        "segmented": true,
+        "title": "Многие виды элементов ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বিনয়েন্দ্রনাথ চৌধুরী",
+        "author_short": "চৌধুরী",
+        "author_uid": "chowdhury",
+        "publication_date": null,
+        "id": "bn_mn115_chowdhury",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Mettiko Bhikkhu",
+        "author_short": "Mettiko",
+        "author_uid": "mettiko",
+        "publication_date": "2001",
+        "id": "de_mn115_mettiko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Nyanamoli Thera",
+        "author_short": "Nyanamoli",
+        "author_uid": "nyanamoli-thera",
+        "has_comment": false,
+        "id": "en_mn115_nyanamoli-thera",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1977",
+        "segmented": false,
+        "volpage": null,
+        "title": "Many Sorts of Elements"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": null,
+        "id": "es_mn115_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Môhan Wijayaratna",
+        "author_short": "wijayaratna",
+        "author_uid": "wijayaratna",
+        "publication_date": "2010",
+        "id": "fr_mn115_wijayaratna",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hi",
+        "lang_name": "हिन्दी",
+        "is_root": false,
+        "author": "Rahul Sankrityayan",
+        "author_short": "Sankrityayan",
+        "author_uid": "sankrityayan",
+        "publication_date": null,
+        "id": "hi_mn115_sankrityayan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_mn115_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "De Lorenzo, Pier Antonio Morniroli, Enrico Federici",
+        "author_short": "Lorenzo …",
+        "author_uid": "lorenzo-morniroli-federici",
+        "publication_date": "2007",
+        "id": "it_mn115_lorenzo-morniroli-federici",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_mn115_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_mn115_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2013",
+        "id": "no_mn115_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_mn115_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2015",
+        "id": "ru_mn115_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_mn115_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Bojan Božič",
+        "author_short": "Božič",
+        "author_uid": "bojan",
+        "publication_date": "2023",
+        "id": "sl_mn115_bojan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2014",
+        "id": "sr_mn115_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_mn115_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_mn115_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_mn115_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 17,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj12.194, cck14.157, dr13.151, ms11M_348, msdiv124, ndp11.124, nya1, sya14.166, vri14.108,csp1ed11.107, csp2ed11.107, ms11M_349, nya2,cck14.158, dr13.152, ms11M_350, ndp11.125, nya3, pts-vp-pli3.62, sya14.167,ms11M_351, msdiv125, nya4, vri14.109,bj12.196, csp1ed11.108, csp2ed11.108, ms11M_352, nya5,cck14.159, ms11M_353, nya6, sya14.168,dr13.153, ms11M_354, ndp11.126, nya7, pts-vp-pli3.63,ms11M_355, nya8,ms11M_356, nya9, vri14.110,ms11M_357, msdiv126, nya10, sya14.169,bj12.198, cck14.160, csp1ed11.109, csp2ed11.109, dr13.154, ms11M_358, ndp11.127, nya11, pts-vp-pli3.64, sya14.170,cck14.161, dr13.155, ms11M_359, msdiv127, nya12, vri14.111,bj12.200, cck14.162, csp1ed11.110, csp2ed11.110, ms11M_360, msdiv128, ndp11.128, nya13, pts-vp-pli3.65, sya14.171,dr13.156, ms11M_361, msdiv129, nya14,bj12.202, cck14.163, csp1ed11.111, csp2ed11.111, ms11M_362, msdiv130, ndp11.129, nya15, pts-vp-pli3.66, sya14.172, vri14.112,dr13.157, ms11M_363, msdiv131, nya16, sya14.173,nya17,bj12.204, cck14.164, csp1ed11.112, csp2ed11.112, dr13.158, ms11M_364, ndp11.130, nya18, pts-vp-pli3.67, sya14.174, vri14.113,nya19,cck14.165, ms11M_365, msdiv132, nya20,ms11M_366",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "mn115",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Bahudhātukasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "mn115",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Many Elements ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "nyanamoli-thera"
+  ]
+}

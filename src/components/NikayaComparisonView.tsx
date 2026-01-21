@@ -140,9 +140,13 @@ export function NikayaComparisonView({
                         className="flex-1 p-4 overflow-y-auto max-h-[70vh]"
                     >
                         <article className={proseClasses}>
-                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                                {leftContent || '*Đang tải...*'}
-                            </ReactMarkdown>
+                            {leftVersion.type === 'original' ? (
+                                <div dangerouslySetInnerHTML={{ __html: leftContent || '<i>Đang tải...</i>' }} />
+                            ) : (
+                                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                                    {leftContent || '*Đang tải...*'}
+                                </ReactMarkdown>
+                            )}
                         </article>
                     </div>
                 </div>
@@ -157,9 +161,13 @@ export function NikayaComparisonView({
                         className="flex-1 p-4 overflow-y-auto max-h-[70vh]"
                     >
                         <article className={proseClasses}>
-                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                                {rightContent || '*Đang tải...*'}
-                            </ReactMarkdown>
+                            {rightVersion.type === 'original' ? (
+                                <div dangerouslySetInnerHTML={{ __html: rightContent || '<i>Đang tải...</i>' }} />
+                            ) : (
+                                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                                    {rightContent || '*Đang tải...*'}
+                                </ReactMarkdown>
+                            )}
                         </article>
                     </div>
                 </div>
