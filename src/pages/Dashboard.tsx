@@ -2,8 +2,9 @@ import { useState, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
+import { useAuth } from '@/contexts/AuthContext'
 import { Button } from '@/components/ui/button'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download, BookOpen, ArrowRight, BookText } from 'lucide-react'
 import { WeeklyChart } from '@/components/charts/WeeklyChart'
 import { HeatmapCalendar } from '@/components/charts/HeatmapCalendar'
@@ -17,6 +18,8 @@ interface ReadingProgress {
 
 export function Dashboard() {
   const { t } = useTranslation()
+  const navigate = useNavigate()
+  const { isAuthenticated } = useAuth()
   const { state, getStats } = useAppState()
   const { points, checkIns, doCheckIn, hasCheckedInToday, getTodayCheckIn } = useCheckIn()
   const stats = getStats()
@@ -68,12 +71,25 @@ export function Dashboard() {
   }, [])
 
   const handleCheckIn = () => {
+    if (!isAuthenticated) {
+      navigate('/auth')
+      return
+    }
+
     const result = doCheckIn(null, 30) // Solo check-in for 30 mins
     if (result.success) {
       setCheckInMessage(result.message || t('dashboard.checkInSuccess'))
       setTimeout(() => setCheckInMessage(null), 3000)
     } else {
       setCheckInMessage(result.message || t('dashboard.alreadyCheckedIn'))
+    }
+  }
+
+  // Handle protected route navigation
+  const handleProtectedAction = (e: React.MouseEvent, path: string) => {
+    if (!isAuthenticated) {
+      e.preventDefault()
+      navigate('/auth')
     }
   }
 
@@ -189,6 +205,7 @@ export function Dashboard() {
           <div className="mb-8">
             <Link
               to={`/kinh-tang/${sutta.id}`}
+              onClick={(e) => handleProtectedAction(e, `/kinh-tang/${sutta.id}`)}
               className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow group"
             >
               <div className="flex items-center justify-between">
@@ -246,13 +263,13 @@ export function Dashboard() {
                 {t('dashboard.quickActions.findSangha')}
               </Button>
             </Link>
-            <Link to="/thien-dinh">
+            <Link to="/thien-dinh" onClick={(e) => handleProtectedAction(e, '/thien-dinh')}>
               <Button className="w-full justify-start" variant="outline">
                 <Timer className="mr-2 h-4 w-4" />
                 {t('dashboard.quickActions.startMeditation')}
               </Button>
             </Link>
-            <Link to="/nhat-ky">
+            <Link to="/nhat-ky" onClick={(e) => handleProtectedAction(e, '/nhat-ky')}>
               <Button className="w-full justify-start" variant="outline">
                 <BookText className="mr-2 h-4 w-4" />
                 {t('dashboard.quickActions.insightJournal')}

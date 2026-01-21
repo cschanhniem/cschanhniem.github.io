@@ -82,6 +82,7 @@ function App() {
                         <main>
                           <Routes>
                             {/* Public Routes */}
+                            <Route path="/" element={<Dashboard />} />
                             <Route path="/tim-sangha" element={<FindSangha />} />
                             <Route path="/quy-tac" element={<CodeOfConduct />} />
 
@@ -91,14 +92,6 @@ function App() {
                             <Route path="/cong-dong" element={<Community />} />
 
                             {/* Protected Routes */}
-                            <Route
-                              path="/"
-                              element={
-                                <ProtectedRoute>
-                                  <Dashboard />
-                                </ProtectedRoute>
-                              }
-                            />
                             <Route
                               path="/thien-dinh"
                               element={
