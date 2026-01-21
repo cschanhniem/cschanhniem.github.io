@@ -1,0 +1,392 @@
+{
+  "root_text": {
+    "uid": "sn2.23",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Serīsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Khema ",
+      "uid": "sn2.22"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Ghaṭīkāra ",
+      "uid": "sn2.24"
+    }
+  },
+  "translation": {
+    "uid": "sn2.23",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Serī ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Khema ",
+      "uid": "sn2.22"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ghaṭīkāra ",
+      "uid": "sn2.24"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 2.23",
+    "volpages": " PTS (1st ed) 1.58, PTS (1st ed) 1.59",
+    "alt_volpages": " PTS (2nd ed) 1.133, PTS (2nd ed) 1.134, PTS (2nd ed) 1.135, PTS (2nd ed) 1.136, PTS (2nd ed) 1.137",
+    "uid": "sn2.23",
+    "blurb": "The deity Serī speaks of how everyone loves food., to which the Buddha responds with verses in praise of giving. Serī speaks of his own generosity in a past life.",
+    "difficulty": null,
+    "original_title": "Serīsutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Serī ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn2.23_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Serī ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn2.23_translation-en-sujato",
+        "segmented": true,
+        "title": "With Serī ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Giovanni Zappa",
+        "author_short": "giovannizappa",
+        "author_uid": "giovannizappa",
+        "publication_date": "2025",
+        "id": "sn2.23_translation-it-giovannizappa",
+        "segmented": true,
+        "title": "Il discorso con Serī ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn2.23_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Laera et al.",
+        "author_short": "laera",
+        "author_uid": "laera",
+        "publication_date": null,
+        "id": "sn2.23_translation-pt-laera-quaresma",
+        "segmented": true,
+        "title": "Com Seri",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2024",
+        "id": "sn2.23_translation-ru-sv",
+        "segmented": true,
+        "title": "Сери ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn2.23_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Serī ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit-sivak",
+        "publication_date": "2018",
+        "id": "bn_sn2.23_indragupta-bangish-ajit-sivak",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_sn2.23_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Wilhelm Geiger",
+        "author_short": "Geiger",
+        "author_uid": "geiger",
+        "publication_date": "1925",
+        "id": "de_sn2.23_geiger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2015",
+        "id": "es_sn2.23_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn2.23_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_sn2.23_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn2.23_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn2.23_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2015",
+        "id": "no_sn2.23_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2015",
+        "id": "ru_sn2.23_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn2.23_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn2.23_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn2.23_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn2.23_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 17,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms12S1_494, msdiv104,csp1ed12.57, csp2ed12.57, dr15.78, ms12S1_495, pts-vp-pli2ed1.133,ms12S1_496,ms12S1_497, ndp12.56,ms12S1_498, pts-vp-pli1ed1.58,bj13.112, cck15.78, ms12S1_499,ms12S1_500, pts-vp-pli2ed1.134,dr15.79, ms12S1_501, sya15.83,cck15.79, csp1ed12.58, csp2ed12.58, ms12S1_502, pts-vp-pli2ed1.135, vri23.72,ms12S1_503, ndp12.57, pts-vp-pli1ed1.59, sya15.84,cck15.80, dr15.80, ms12S1_504, pts-vp-pli2ed1.136,bj13.114, ms12S1_505, pts-vp-pli2ed1.137, vri23.73,ms12S1_506, sya15.85,ms12S1_507",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn2.23",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Serīsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn2.23",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Serī ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

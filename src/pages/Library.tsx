@@ -74,10 +74,10 @@ export function Library() {
                   `}
                 >
                   {collection === 'all' ? 'Tất cả' :
-                   collection === 'DN' ? 'Trường Bộ (DN)' :
-                   collection === 'MN' ? 'Trung Bộ (MN)' :
-                   collection === 'SN' ? 'Tương Ưng Bộ (SN)' :
-                   collection === 'AN' ? 'Tăng Chi Bộ (AN)' : 'Tiểu Bộ (KN)'}
+                    collection === 'DN' ? 'Trường Bộ (DN)' :
+                      collection === 'MN' ? 'Trung Bộ (MN)' :
+                        collection === 'SN' ? 'Tương Ưng Bộ (SN)' :
+                          collection === 'AN' ? 'Tăng Chi Bộ (AN)' : 'Tiểu Bộ (KN)'}
                 </button>
               ))}
             </div>
@@ -123,60 +123,60 @@ export function Library() {
 
         {/* Suttas List */}
         <div className="md:col-span-2">
-            <div className="space-y-3">
-              {filteredSuttas.length === 0 ? (
-                <div className="bg-card rounded-lg border border-border p-8 text-center">
-                  <BookOpen className="h-12 w-12 text-muted-foreground mx-auto mb-3" />
-                  <p className="text-muted-foreground">Không tìm thấy kinh nào phù hợp</p>
-                </div>
-              ) : (
-                filteredSuttas.map((sutta) => (
-                  <Link
-                    key={sutta.id}
-                    to={`/kinh-tang/${sutta.id}`}
-                    className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow"
-                  >
-                    <div className="flex items-start justify-between">
-                      <div className="flex-1">
-                        <div className="flex items-center gap-2 mb-2">
-                          <span className="text-sm font-semibold text-primary">
-                            {sutta.code}
-                          </span>
-                          <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
-                            {difficultyLabels[sutta.difficulty]}
-                          </span>
-                          {state.bookmarkedSuttas.includes(sutta.id) && (
-                            <Bookmark className="h-3 w-3 fill-primary text-primary" />
-                          )}
-                        </div>
-                        <h3 className="text-lg font-semibold text-foreground mb-1">
-                          {sutta.title}
-                        </h3>
-                        {sutta.titlePali && (
-                          <p className="text-sm text-muted-foreground italic font-serif mb-2">
-                            {sutta.titlePali}
-                          </p>
+          <div className="space-y-3">
+            {filteredSuttas.length === 0 ? (
+              <div className="bg-card rounded-lg border border-border p-8 text-center">
+                <BookOpen className="h-12 w-12 text-muted-foreground mx-auto mb-3" />
+                <p className="text-muted-foreground">Không tìm thấy kinh nào phù hợp</p>
+              </div>
+            ) : (
+              filteredSuttas.map((sutta) => (
+                <Link
+                  key={sutta.id}
+                  to={`/phap-bao/${sutta.id}`}
+                  className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow"
+                >
+                  <div className="flex items-start justify-between">
+                    <div className="flex-1">
+                      <div className="flex items-center gap-2 mb-2">
+                        <span className="text-sm font-semibold text-primary">
+                          {sutta.code}
+                        </span>
+                        <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
+                          {difficultyLabels[sutta.difficulty]}
+                        </span>
+                        {state.bookmarkedSuttas.includes(sutta.id) && (
+                          <Bookmark className="h-3 w-3 fill-primary text-primary" />
                         )}
-                        <p className="text-sm text-muted-foreground line-clamp-2">
-                          {sutta.summary}
-                        </p>
-                        <div className="flex flex-wrap gap-2 mt-2">
-                          {sutta.themes.slice(0, 3).map((theme) => (
-                            <span
-                              key={theme}
-                              className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded"
-                            >
-                              {theme}
-                            </span>
-                          ))}
-                        </div>
                       </div>
-                      <ChevronRight className="h-5 w-5 text-muted-foreground ml-4 flex-shrink-0" />
+                      <h3 className="text-lg font-semibold text-foreground mb-1">
+                        {sutta.title}
+                      </h3>
+                      {sutta.titlePali && (
+                        <p className="text-sm text-muted-foreground italic font-serif mb-2">
+                          {sutta.titlePali}
+                        </p>
+                      )}
+                      <p className="text-sm text-muted-foreground line-clamp-2">
+                        {sutta.summary}
+                      </p>
+                      <div className="flex flex-wrap gap-2 mt-2">
+                        {sutta.themes.slice(0, 3).map((theme) => (
+                          <span
+                            key={theme}
+                            className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded"
+                          >
+                            {theme}
+                          </span>
+                        ))}
+                      </div>
                     </div>
-                  </Link>
-                ))
-              )}
-            </div>
+                    <ChevronRight className="h-5 w-5 text-muted-foreground ml-4 flex-shrink-0" />
+                  </div>
+                </Link>
+              ))
+            )}
+          </div>
         </div>
       </div>
     </div>

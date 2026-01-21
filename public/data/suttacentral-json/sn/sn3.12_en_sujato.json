@@ -1,0 +1,364 @@
+{
+  "root_text": {
+    "uid": "sn3.12",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Pañcarājasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Seven Matted-Hair Ascetics ",
+      "uid": "sn3.11"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "A Bucketful of Rice ",
+      "uid": "sn3.13"
+    }
+  },
+  "translation": {
+    "uid": "sn3.12",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Five Kings ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Seven Matted-Hair Ascetics ",
+      "uid": "sn3.11"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Bucketful of Rice ",
+      "uid": "sn3.13"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 3.12",
+    "volpages": " PTS (1st ed) 1.80, PTS (1st ed) 1.81",
+    "alt_volpages": " PTS (2nd ed) 1.182, PTS (2nd ed) 1.183, PTS (2nd ed) 1.184, PTS (2nd ed) 1.185",
+    "uid": "sn3.12",
+    "blurb": "Five kings including Pasenadi are enjoying themselves and wonder which of the senses affords the highest pleasure. They ask the Buddha, who replies that it is subjective, depending on a persons preferences. Inspired, the laymen Candanaṅgalika offers a verse in praise of the Buddha.",
+    "difficulty": null,
+    "original_title": "Pañcarājasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Five Kings ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn3.12_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Fünf Könige ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn3.12_translation-en-sujato",
+        "segmented": true,
+        "title": "Five Kings ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn3.12_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2024",
+        "id": "sn3.12_translation-ru-sv",
+        "segmented": true,
+        "title": "Пять царей ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn3.12_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Pet kraljeva ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit-sivak",
+        "publication_date": "2018",
+        "id": "bn_sn3.12_indragupta-bangish-ajit-sivak",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_sn3.12_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Wilhelm Geiger",
+        "author_short": "Geiger",
+        "author_uid": "geiger",
+        "publication_date": "1925",
+        "id": "de_sn3.12_geiger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2015",
+        "id": "es_sn3.12_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn3.12_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_sn3.12_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn3.12_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn3.12_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2015",
+        "id": "no_sn3.12_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn3.12_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn3.12_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn3.12_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn3.12_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn3.12_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj13.150, csp1ed12.80, csp2ed12.80, ms12S1_640, msdiv123, ndp12.79, pts-vp-pli1ed1.80, pts-vp-pli2ed1.182, vri23.97,cck15.110, dr15.110, ms12S1_641,ms12S1_642, sya15.117,cck15.111, ms12S1_643, pts-vp-pli2ed1.183,csp1ed12.81, csp2ed12.81, ms12S1_644, vri23.98,ms12S1_645, ndp12.80,ms12S1_646, pts-vp-pli2ed1.184,dr15.111, ms12S1_647, pts-vp-pli1ed1.81, sya15.118,ms12S1_648,ms12S1_649,bj13.152, ms12S1_650, vri23.99,cck15.112, csp1ed12.82, csp2ed12.82, ms12S1_651, pts-vp-pli2ed1.185",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn3.12",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Pañcarājasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn3.12",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Five Kings ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

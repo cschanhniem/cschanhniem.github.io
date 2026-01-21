@@ -38,7 +38,15 @@ async function fetchSuttaData(suttaId, authorUid, lang) {
             console.error(`Failed to fetch ${suttaId}/${authorUid}: ${response.status}`);
             return { status: response.status };
         }
-        return { status: 200, data: await response.json() };
+        const data = await response.json();
+
+        // Validate content: SuttaCentral API returns 200 even for non-existent IDs sometimes
+        if (!data || !data.suttaplex || !data.suttaplex.uid) {
+            // console.log(`Invalid data for ${suttaId}`);
+            return { status: 404 };
+        }
+
+        return { status: 200, data };
     } catch (error) {
         console.error(`Error fetching ${suttaId}:`, error.message);
         return { status: 500 };

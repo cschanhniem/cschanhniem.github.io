@@ -204,8 +204,7 @@ export function Dashboard() {
         return (
           <div className="mb-8">
             <Link
-              to={`/kinh-tang/${sutta.id}`}
-              onClick={(e) => handleProtectedAction(e, `/kinh-tang/${sutta.id}`)}
+              to={`/phap-bao/${sutta.id}`}
               className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow group"
             >
               <div className="flex items-center justify-between">

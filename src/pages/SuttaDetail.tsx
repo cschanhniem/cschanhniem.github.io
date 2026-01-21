@@ -79,7 +79,7 @@ export function SuttaDetail() {
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-foreground mb-4">{t('library.notFound')}</h1>
-          <Link to="/kinh-tang" className="text-primary hover:underline">
+          <Link to="/phap-bao" className="text-primary hover:underline">
             ← {t('library.backToLibrary')}
           </Link>
         </div>
@@ -134,7 +134,7 @@ export function SuttaDetail() {
       </div>
 
       <button
-        onClick={() => navigate('/kinh-tang')}
+        onClick={() => navigate('/phap-bao')}
         className="flex items-center gap-2 text-primary hover:underline mb-6 print:hidden"
       >
         <ChevronLeft className="h-4 w-4" />
@@ -296,7 +296,7 @@ export function SuttaDetail() {
       {/* Bottom Navigation */}
       <div className="mt-8 flex justify-between print:hidden">
         <button
-          onClick={() => navigate('/kinh-tang')}
+          onClick={() => navigate('/phap-bao')}
           className="flex items-center gap-2 text-primary hover:underline"
         >
           <ChevronLeft className="h-4 w-4" />

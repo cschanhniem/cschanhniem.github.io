@@ -91,6 +91,11 @@ function App() {
                             <Route path="/nikaya/:suttaId" element={<NikayaDetail />} />
                             <Route path="/cong-dong" element={<Community />} />
 
+                            {/* Dhamma Library - Public */}
+                            <Route path="/phap-bao" element={<DhammaLibrary />} />
+                            <Route path="/phap-bao/:suttaId" element={<SuttaDetail />} />
+                            <Route path="/giao-phap/:teachingId" element={<TeachingDetail />} />
+
                             {/* Protected Routes */}
                             <Route
                               path="/thien-dinh"
@@ -105,30 +110,6 @@ function App() {
                               element={
                                 <ProtectedRoute>
                                   <WakefulRelaxation />
-                                </ProtectedRoute>
-                              }
-                            />
-                            <Route
-                              path="/phap-bao"
-                              element={
-                                <ProtectedRoute>
-                                  <DhammaLibrary />
-                                </ProtectedRoute>
-                              }
-                            />
-                            <Route
-                              path="/kinh-tang/:suttaId"
-                              element={
-                                <ProtectedRoute>
-                                  <SuttaDetail />
-                                </ProtectedRoute>
-                              }
-                            />
-                            <Route
-                              path="/giao-phap/:teachingId"
-                              element={
-                                <ProtectedRoute>
-                                  <TeachingDetail />
                                 </ProtectedRoute>
                               }
                             />

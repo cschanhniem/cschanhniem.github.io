@@ -98,7 +98,7 @@ export function Bookmarks() {
             >
               <div className="flex items-start justify-between">
                 <Link
-                  to={`/kinh-tang/${sutta.id}`}
+                  to={`/phap-bao/${sutta.id}`}
                   className="flex-1"
                 >
                   <div className="flex items-center gap-2 mb-2">
@@ -142,7 +142,7 @@ export function Bookmarks() {
                   >
                     <BookmarkX className="h-5 w-5" />
                   </button>
-                  <Link to={`/kinh-tang/${sutta.id}`}>
+                  <Link to={`/phap-bao/${sutta.id}`}>
                     <ChevronRight className="h-5 w-5 text-muted-foreground" />
                   </Link>
                 </div>

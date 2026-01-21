@@ -179,7 +179,7 @@ export function DhammaLibrary() {
                                 filteredSuttas.map((sutta) => (
                                     <Link
                                         key={sutta.id}
-                                        to={`/kinh-tang/${sutta.id}`}
+                                        to={`/phap-bao/${sutta.id}`}
                                         className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow"
                                     >
                                         <div className="flex items-start justify-between">

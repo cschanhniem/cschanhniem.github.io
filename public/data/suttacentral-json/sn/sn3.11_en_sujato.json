@@ -1,0 +1,390 @@
+{
+  "root_text": {
+    "uid": "sn3.11",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sattajaṭilasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Shackles ",
+      "uid": "sn3.10"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Five Kings ",
+      "uid": "sn3.12"
+    }
+  },
+  "translation": {
+    "uid": "sn3.11",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Seven Matted-Hair Ascetics ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Shackles ",
+      "uid": "sn3.10"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Kings ",
+      "uid": "sn3.12"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 3.11",
+    "volpages": " PTS (1st ed) 1.78, PTS (1st ed) 1.79",
+    "alt_volpages": " PTS (2nd ed) 1.177, PTS (2nd ed) 1.178, PTS (2nd ed) 1.179, PTS (2nd ed) 1.180, PTS (2nd ed) 1.181",
+    "uid": "sn3.11",
+    "blurb": "A diverse group of ascetics passes by, and Pasenadi asks the Buddha if any of them are perfected ones. The Buddha says it is not easy for one such as Pasenadi to judge the spiritual achievements of others. Pasenadi reveals that the men are, in fact, his spies.",
+    "difficulty": null,
+    "original_title": "Sattajaṭilasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Seven Matted-Hair Ascetics ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn3.11_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Sieben Filzhaarasketen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn3.11_translation-en-sujato",
+        "segmented": true,
+        "title": "Seven Matted-Hair Ascetics ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn3.11_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2024",
+        "id": "sn3.11_translation-ru-sv",
+        "segmented": true,
+        "title": "Семь джатил ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn3.11_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Sedam asketa sa punđom ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit-sivak",
+        "publication_date": "2018",
+        "id": "bn_sn3.11_indragupta-bangish-ajit-sivak",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_sn3.11_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Wilhelm Geiger",
+        "author_short": "Geiger",
+        "author_uid": "geiger",
+        "publication_date": "1925",
+        "id": "de_sn3.11_geiger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2015",
+        "id": "es_sn3.11_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Claude Le Ninan, Chandhana Le Ninan",
+        "author_short": "leninan",
+        "author_uid": "leninan",
+        "publication_date": "2023",
+        "id": "fr_sn3.11_leninan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn3.11_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_sn3.11_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn3.11_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn3.11_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2015",
+        "id": "no_sn3.11_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_sn3.11_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn3.11_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn3.11_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn3.11_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn3.11_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn3.11_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "cck15.107, dr15.107, ms12S1_630, msdiv122, sya15.113, vri23.95,csp1ed12.78, csp2ed12.78, ms12S1_631, ndp12.77, pts-vp-pli1ed1.78, pts-vp-pli2ed1.177,cck15.108, dr15.108, ms12S1_632, pts-vp-pli2ed1.178, sya15.114,ms12S1_633,bj13.148, ms12S1_634, pts-vp-pli1ed1.79, pts-vp-pli2ed1.179, sya15.115,csp1ed12.79, csp2ed12.79, ms12S1_635, ndp12.78, pts-vp-pli2ed1.180, vri23.96,cck15.109, ms12S1_636,dr15.109, ms12S1_637,ms12S1_638, pts-vp-pli2ed1.181,ms12S1_639, sya15.116",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn3.11",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sattajaṭilasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn3.11",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Seven Matted-Hair Ascetics ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}
