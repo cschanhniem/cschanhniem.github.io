@@ -18,6 +18,10 @@ export function NikayaLibrary() {
     const [selectedCollection, setSelectedCollection] = useState<NikayaCollection | 'all'>('all')
     const [showImprovedOnly, setShowImprovedOnly] = useState(false)
 
+    // Pagination State
+    const [currentPage, setCurrentPage] = useState(1)
+    const ITEMS_PER_PAGE = 20
+
     // Fetch suttas index on mount
     useEffect(() => {
         const fetchIndex = async () => {
@@ -67,6 +71,11 @@ export function NikayaLibrary() {
         }
     }))
 
+    // Reset page when filters change
+    useEffect(() => {
+        setCurrentPage(1)
+    }, [searchQuery, selectedCollection, showImprovedOnly])
+
     // Filter suttas based on search and collection
     const filteredSuttas = suttasWithImprovedInfo.filter(sutta => {
         const matchesSearch =
@@ -80,6 +89,11 @@ export function NikayaLibrary() {
 
         return matchesSearch && matchesCollection && matchesImprovedOnly
     })
+
+    // Pagination
+    const totalPages = Math.ceil(filteredSuttas.length / ITEMS_PER_PAGE)
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE
+    const paginatedSuttas = filteredSuttas.slice(startIndex, startIndex + ITEMS_PER_PAGE)
 
     const difficultyLabels = {
         1: 'Sơ cấp',
@@ -213,58 +227,102 @@ export function NikayaLibrary() {
                             <p className="text-muted-foreground">Không tìm thấy kinh nào phù hợp</p>
                         </div>
                     ) : (
-                        filteredSuttas.map((sutta) => (
-                            <Link
-                                key={sutta.id}
-                                to={`/nikaya/${sutta.id}`}
-                                className="block bg-card rounded-lg border border-border p-4 hover:shadow-md hover:border-primary/30 transition-all"
-                            >
-                                <div className="flex items-start justify-between">
-                                    <div className="flex-1">
-                                        <div className="flex items-center gap-2 mb-2 flex-wrap">
-                                            <span className="text-sm font-bold text-primary">
-                                                {sutta.code}
-                                            </span>
-                                            <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
-                                                {NIKAYA_COLLECTIONS[sutta.collection].vi}
-                                            </span>
-                                            {sutta.difficulty && difficultyLabels[sutta.difficulty as 1 | 2 | 3] && (
+                        <>
+                            {/* Results count */}
+                            <div className="text-sm text-muted-foreground mb-2">
+                                Hiển thị {startIndex + 1}-{Math.min(startIndex + ITEMS_PER_PAGE, filteredSuttas.length)} / {filteredSuttas.length} kinh
+                            </div>
+
+                            {paginatedSuttas.map((sutta) => (
+                                <Link
+                                    key={sutta.id}
+                                    to={`/nikaya/${sutta.id}`}
+                                    className="block bg-card rounded-lg border border-border p-4 hover:shadow-md hover:border-primary/30 transition-all"
+                                >
+                                    <div className="flex items-start justify-between">
+                                        <div className="flex-1">
+                                            <div className="flex items-center gap-2 mb-2 flex-wrap">
+                                                <span className="text-sm font-bold text-primary">
+                                                    {sutta.code}
+                                                </span>
                                                 <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
-                                                    {difficultyLabels[sutta.difficulty as 1 | 2 | 3]}
+                                                    {NIKAYA_COLLECTIONS[sutta.collection].vi}
                                                 </span>
-                                            )}
-                                            {sutta.hasImproved?.vi && (
-                                                <span className="flex items-center gap-1 px-2 py-0.5 bg-primary/10 text-primary text-xs rounded">
-                                                    <Sparkles className="h-3 w-3" />
-                                                    Bản 2026
-                                                </span>
-                                            )}
-                                        </div>
+                                                {sutta.difficulty && difficultyLabels[sutta.difficulty as 1 | 2 | 3] && (
+                                                    <span className="px-2 py-0.5 bg-muted text-muted-foreground text-xs rounded">
+                                                        {difficultyLabels[sutta.difficulty as 1 | 2 | 3]}
+                                                    </span>
+                                                )}
+                                                {sutta.hasImproved?.vi && (
+                                                    <span className="flex items-center gap-1 px-2 py-0.5 bg-primary/10 text-primary text-xs rounded">
+                                                        <Sparkles className="h-3 w-3" />
+                                                        Bản 2026
+                                                    </span>
+                                                )}
+                                            </div>
 
-                                        <h3 className="text-lg font-semibold text-foreground mb-1">
-                                            {sutta.titleVi}
-                                        </h3>
-                                        <p className="text-sm text-muted-foreground italic font-serif mb-2">
-                                            {sutta.titlePali}
-                                        </p>
-                                        {sutta.blurb && (
-                                            <p className="text-sm text-muted-foreground line-clamp-2">
-                                                {sutta.blurb}
+                                            <h3 className="text-lg font-semibold text-foreground mb-1">
+                                                {sutta.titleVi}
+                                            </h3>
+                                            <p className="text-sm text-muted-foreground italic font-serif mb-2">
+                                                {sutta.titlePali}
                                             </p>
-                                        )}
+                                            {sutta.blurb && (
+                                                <p className="text-sm text-muted-foreground line-clamp-2">
+                                                    {sutta.blurb}
+                                                </p>
+                                            )}
 
-                                        {/* Available versions indicator */}
-                                        <div className="flex items-center gap-3 mt-3 text-xs text-muted-foreground">
-                                            <span className="flex items-center gap-1">
-                                                <Globe className="h-3 w-3" />
-                                                VI, EN
-                                            </span>
+                                            {/* Available versions indicator */}
+                                            <div className="flex items-center gap-3 mt-3 text-xs text-muted-foreground">
+                                                <span className="flex items-center gap-1">
+                                                    <Globe className="h-3 w-3" />
+                                                    VI, EN
+                                                </span>
+                                            </div>
                                         </div>
+                                        <ChevronRight className="h-5 w-5 text-muted-foreground ml-4 flex-shrink-0" />
                                     </div>
-                                    <ChevronRight className="h-5 w-5 text-muted-foreground ml-4 flex-shrink-0" />
+                                </Link>
+                            ))}
+
+                            {/* Pagination Controls */}
+                            {totalPages > 1 && (
+                                <div className="flex items-center justify-center gap-2 mt-6 pt-4 border-t border-border">
+                                    <button
+                                        onClick={() => setCurrentPage(1)}
+                                        disabled={currentPage === 1}
+                                        className="px-3 py-2 text-sm rounded-md bg-muted text-muted-foreground hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+                                    >
+                                        ««
+                                    </button>
+                                    <button
+                                        onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                                        disabled={currentPage === 1}
+                                        className="px-3 py-2 text-sm rounded-md bg-muted text-muted-foreground hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+                                    >
+                                        ‹ Trước
+                                    </button>
+                                    <span className="px-4 py-2 text-sm font-medium">
+                                        Trang {currentPage} / {totalPages}
+                                    </span>
+                                    <button
+                                        onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                                        disabled={currentPage === totalPages}
+                                        className="px-3 py-2 text-sm rounded-md bg-muted text-muted-foreground hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+                                    >
+                                        Tiếp ›
+                                    </button>
+                                    <button
+                                        onClick={() => setCurrentPage(totalPages)}
+                                        disabled={currentPage === totalPages}
+                                        className="px-3 py-2 text-sm rounded-md bg-muted text-muted-foreground hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+                                    >
+                                        »»
+                                    </button>
                                 </div>
-                            </Link>
-                        ))
+                            )}
+                        </>
                     )}
                 </div>
             </div>

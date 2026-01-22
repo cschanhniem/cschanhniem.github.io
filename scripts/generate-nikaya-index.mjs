@@ -61,6 +61,10 @@ async function main() {
         });
 
         for (const id in suttas) {
+            // Skip if already processed (avoid duplicates)
+            if (processedIds.has(id)) continue;
+            processedIds.add(id);
+
             // Read Vietnamese file first, then English
             let metadata = null;
             const langs = ['vi', 'en'];
@@ -73,8 +77,16 @@ async function main() {
                         // Try to extract metadata
                         // Strategy 1: suttaplex
                         if (content.suttaplex) {
+                            const suttaId = content.suttaplex.uid || id;
+                            // Also check suttaplex uid for duplicates
+                            if (processedIds.has(suttaId) && suttaId !== id) {
+                                metadata = null; // Skip this duplicate
+                                break;
+                            }
+                            processedIds.add(suttaId);
+                            
                             metadata = {
-                                id: content.suttaplex.uid || id, // Fallback to filename ID
+                                id: suttaId,
                                 title: content.suttaplex.translated_title || content.suttaplex.original_title,
                                 paliTitle: content.suttaplex.original_title,
                                 blurb: content.suttaplex.blurb,
