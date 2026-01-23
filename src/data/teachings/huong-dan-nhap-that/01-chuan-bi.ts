@@ -13,6 +13,7 @@ Một chiến binh không ra trận tay không. Để khóa nhập thất đạt
 
 Đừng đợi đến ngày nhập thất mới bắt đầu ngồi thiền. Hãy "làm nóng" ngay từ bây giờ.
 *   **Tuần 1-2:** Thiết lập thói quen ngồi 30 phút mỗi sáng. Làm quen với việc ghi nhận "Phồng - Xẹp".
+    *   *Mẹo cho người mới:* Nếu chưa nhận ra được Phồng/Xẹp, hãy thử **đếm hơi thở từ 1-10** để làm dịu tâm. Khi tâm đã bớt tán loạn, chuyển sang quan sát Phồng/Xẹp.
 *   **Tuần 3-4:** Tăng thời lượng lên 45-60 phút. Tập sống chánh niệm trong cả việc ăn uống và đi lại. Đọc kỹ về những khó khăn (Dark Night) để không bỡ ngỡ khi chúng đến.
 
 ## 2. Sắp Xếp Đời Sống (Logistics)

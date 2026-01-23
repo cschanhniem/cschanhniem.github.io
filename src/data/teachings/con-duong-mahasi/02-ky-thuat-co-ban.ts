@@ -45,6 +45,32 @@ Chúng ta dùng chuyển động **Phồng - Xẹp** làm mỏ neo chính. Tại
 
 Đừng điều khiển hơi thở! Hãy để nó tự nhiên như nó vốn là. Bạn chỉ là người quan sát khách quan (Observer), không phải người điều khiển (Controller).
 
+## 3.1. Dành Cho Người Mới: Đếm Hơi Thở (Sổ Tức Quan)
+
+Nếu bạn là người mới bắt đầu và thấy khó nhận ra sự Phồng/Xẹp của bụng, hoặc tâm quá tán loạn không thể tập trung, hãy dùng phương pháp **Đếm Hơi Thở (Gaṇanā)**. Đây là kỹ thuật được các bậc thầy xưa khuyên dùng như "cửa ngõ" để thuần phục tâm.
+
+### Cách Thực Hành
+
+1.  **Đếm từ 1 đến 10:**
+    *   Khi thở ra, đếm "1". Khi thở vào, chỉ biết.
+    *   Khi thở ra tiếp, đếm "2"... Cứ như vậy đến "10".
+    *   Đến 10 thì quay lại từ 1. Lặp đi lặp lại.
+
+2.  **Quy tắc từ Thanh Tịnh Đạo (Visuddhimagga):**
+    *   Không đếm ít hơn 5 (tâm sẽ hồi hộp như nhốt bò trong chuồng hẹp).
+    *   Không đếm quá 10 (tâm sẽ chạy theo con số thay vì hơi thở).
+
+3.  **Phương pháp tăng dần (tuỳ chọn):**
+    *   Tuần 1: Đếm 1-5, rồi lặp lại.
+    *   Tuần 2: Đếm 1-6, rồi lặp lại.
+    *   Tiếp tục tăng dần đến 1-10.
+
+### Khi Nào Bỏ Đếm?
+
+Khi tâm đã bớt tán loạn và bạn cảm nhận được sự chuyển động Phồng/Xẹp một cách rõ ràng hơn, hãy bỏ việc đếm và chuyển sang quan sát trực tiếp như hướng dẫn ở trên. Việc đếm chỉ là **phương tiện tạm thời**, không phải đích đến.
+
+> **Nguồn kinh điển:** Phương pháp đếm hơi thở được hệ thống hóa trong *Thanh Tịnh Đạo* (Chương VIII) của Ngài Phật Âm và *Lục Diệu Pháp Môn* của Thiền sư Trí Khải. Trong *Câu-xá Luận*, "Sổ" (đếm) là bước đầu tiên trong Lục diệu pháp môn.
+
 ## 4. Nghệ Thuật Ứng Phó Với "Khách Không Mời"
 
 Tâm bạn chắc chắn sẽ phóng đi. Đừng bực bội! Đó là bản chất tự nhiên của tâm (*Vô ngã*).
