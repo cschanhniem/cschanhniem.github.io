@@ -4,6 +4,7 @@ import nhatKyThien from './01-nhat-ky-thien'
 import hrv from './02-theo-doi-hrv'
 import eeg from './03-eeg-neurofeedback'
 import danhGiaTienDo from './04-danh-gia-tien-do'
+import bangTuSoiKietSu from './05-bang-tu-soi-kiet-su'
 
 export const congCuDanhGia: Teaching = {
     id: 'cong-cu-danh-gia',
@@ -18,7 +19,8 @@ export const congCuDanhGia: Teaching = {
         nhatKyThien,
         hrv,
         eeg,
-        danhGiaTienDo
+        danhGiaTienDo,
+        bangTuSoiKietSu
     ]
 }
 
