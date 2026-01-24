@@ -14,6 +14,7 @@ import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-im
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
 import { NikayaComparisonView } from '@/components/NikayaComparisonView'
 import { useAppState } from '@/hooks/useAppState'
+import { useKatexCSS } from '@/hooks/useKatexCSS'
 import { usePageMeta } from '@/lib/seo'
 import { useTranslation } from 'react-i18next'
 import { trackEvent } from '@/lib/analytics'
@@ -31,6 +32,7 @@ export function NikayaDetail() {
     const { suttaId } = useParams<{ suttaId: string }>()
     const navigate = useNavigate()
     const { state, toggleBookmark } = useAppState()
+    useKatexCSS()
     const contentRef = useRef<HTMLDivElement>(null)
 
     // Sutta metadata

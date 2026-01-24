@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, lazy, Suspense } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
@@ -6,8 +6,10 @@ import { useAuth } from '@/contexts/AuthContext'
 import { Button } from '@/components/ui/button'
 import { Link, useNavigate } from 'react-router-dom'
 import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download, BookOpen, ArrowRight, BookText } from 'lucide-react'
-import { WeeklyChart } from '@/components/charts/WeeklyChart'
-import { HeatmapCalendar } from '@/components/charts/HeatmapCalendar'
+
+// Lazy load charts to reduce initial bundle size
+const WeeklyChart = lazy(() => import('@/components/charts/WeeklyChart').then(m => ({ default: m.WeeklyChart })))
+const HeatmapCalendar = lazy(() => import('@/components/charts/HeatmapCalendar').then(m => ({ default: m.HeatmapCalendar })))
 import { suttas } from '@/data/suttas/index'
 import { BodhiGarden } from '@/components/growth/BodhiGarden'
 import { OneMinuteDhamma } from '@/components/growth/OneMinuteDhamma'
@@ -269,8 +271,12 @@ export function Dashboard() {
 
       {/* Charts Section */}
       <div className="grid md:grid-cols-2 gap-6 mb-8">
-        <WeeklyChart sessions={state.meditationSessions} checkIns={checkIns} />
-        <HeatmapCalendar sessions={state.meditationSessions} checkIns={checkIns} />
+        <Suspense fallback={<div className="h-64 bg-muted/50 rounded-lg animate-pulse" />}>
+          <WeeklyChart sessions={state.meditationSessions} checkIns={checkIns} />
+        </Suspense>
+        <Suspense fallback={<div className="h-64 bg-muted/50 rounded-lg animate-pulse" />}>
+          <HeatmapCalendar sessions={state.meditationSessions} checkIns={checkIns} />
+        </Suspense>
       </div>
 
       {/* Growth Highlights */}

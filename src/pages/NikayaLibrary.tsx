@@ -61,7 +61,7 @@ export function NikayaLibrary() {
                         titleEn: '', // Not in index yet
                         collection: item.collection,
                         blurb: item.blurb,
-                        difficulty: item.difficulty || 1 // default difficulty
+                        difficulty: (item.difficulty || 1) as 1 | 2 | 3 // default difficulty
                     }
                 })
 

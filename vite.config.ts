@@ -80,17 +80,20 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: {
-          // Vendor chunks - split large dependencies
+          // Core React ecosystem
           'vendor-react': ['react', 'react-dom', 'react-router-dom'],
+          // UI components
           'vendor-ui': ['lucide-react', '@radix-ui/react-slot', 'class-variance-authority', 'clsx', 'tailwind-merge'],
-          // Suttas data is likely large - separate chunk
-          'data-suttas': [
-            './src/data/suttas/index.ts',
-          ],
+          // Heavy charting library (lazy loaded in Dashboard)
+          'vendor-charts': ['recharts'],
+          // Print functionality (lazy loaded)
+          'vendor-print': ['react-to-print'],
+          // Suttas data
+          'data-suttas': ['./src/data/suttas/index.ts'],
         },
       },
     },
-    // Increase warning limit slightly while we optimize
-    chunkSizeWarningLimit: 600,
+    // Lower threshold after optimizations
+    chunkSizeWarningLimit: 500,
   },
 })

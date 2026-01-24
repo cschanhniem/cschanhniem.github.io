@@ -1,5 +1,5 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
-import { useState, useEffect, useRef, useCallback } from 'react'
+import { useState, useEffect, useRef, useCallback, lazy, Suspense } from 'react'
 import { useTranslation } from 'react-i18next'
 import { suttas } from '@/data/suttas/index'
 import ReactMarkdown from 'react-markdown'
@@ -8,7 +8,10 @@ import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
 import { ChevronLeft, Bookmark, Type, Minus, Plus, Columns, FileText } from 'lucide-react'
 import { useAppState } from '@/hooks/useAppState'
-import { PrintButton } from '@/components/PrintButton'
+import { useKatexCSS } from '@/hooks/useKatexCSS'
+
+// Lazy load PrintButton to reduce initial bundle size
+const PrintButton = lazy(() => import('@/components/PrintButton').then(m => ({ default: m.PrintButton })))
 import { DhammaShareCard } from '@/components/growth/DhammaShareCard'
 import { usePageMeta } from '@/lib/seo'
 import { trackEvent } from '@/lib/analytics'
@@ -27,6 +30,7 @@ export function SuttaDetail() {
   const navigate = useNavigate()
   const { t } = useTranslation()
   const { state, toggleBookmark } = useAppState()
+  useKatexCSS()
   const [shareQuote, setShareQuote] = useState('')
   const [hasTrackedRead, setHasTrackedRead] = useState(false)
 
@@ -287,7 +291,9 @@ export function SuttaDetail() {
 
             {/* Print & Progress */}
             <div className="flex items-center gap-4">
-              <PrintButton contentRef={printRef} title={sutta.title} />
+              <Suspense fallback={<div className="w-8 h-8" />}>
+                <PrintButton contentRef={printRef} title={sutta.title} />
+              </Suspense>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <span>{t('library.progress')}: {Math.round(progress)}%</span>
               </div>

@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useAppState } from '@/hooks/useAppState'
 import { suttas } from '@/data/suttas/index'
-import { teachings } from '@/data/teachings/index'
+import { teachingMetadata } from '@/data/teachings/metadata'
 import { BookOpen, Bookmark, Search, ChevronRight, GraduationCap, ScrollText } from 'lucide-react'
 import { usePageMeta } from '@/lib/seo'
 import { useTranslation } from 'react-i18next'
@@ -29,7 +29,7 @@ export function DhammaLibrary() {
         return matchesSearch && matchesCollection && matchesDifficulty
     })
 
-    const filteredTeachings = teachings.filter((teaching) => {
+    const filteredTeachings = teachingMetadata.filter((teaching) => {
         const matchesSearch =
             teaching.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
             teaching.author.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -97,7 +97,7 @@ export function DhammaLibrary() {
           `}
                 >
                     <GraduationCap className="h-4 w-4" />
-                    Giáo Pháp ({teachings.length})
+                    Giáo Pháp ({teachingMetadata.length})
                 </button>
             </div>
 

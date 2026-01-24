@@ -1,41 +1,101 @@
-import { useRef } from 'react'
+import { useRef, lazy, Suspense, useState, useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { teachings } from '@/data/teachings/index'
-import { ArrowLeft, User, BookOpen } from 'lucide-react'
+import { teachingMetadata } from '@/data/teachings/metadata'
+import type { Teaching } from '@/types'
+import { ArrowLeft, User, BookOpen, Loader2 } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
-import { PrintButton } from '@/components/PrintButton'
+
+// Lazy load PrintButton to reduce initial bundle size
+const PrintButton = lazy(() => import('@/components/PrintButton').then(m => ({ default: m.PrintButton })))
+import { useKatexCSS } from '@/hooks/useKatexCSS'
 import { usePageMeta } from '@/lib/seo'
 import { useTranslation } from 'react-i18next'
+
+// Dynamic import map for teachings
+const teachingImports: Record<string, () => Promise<{ default: Teaching }>> = {
+    'tien-trinh-minh-sat': () => import('@/data/teachings/tien-trinh-minh-sat'),
+    'con-duong-mahasi': () => import('@/data/teachings/con-duong-mahasi'),
+    'huong-dan-nhap-that': () => import('@/data/teachings/huong-dan-nhap-that'),
+    'lo-trinh-du-luu': () => import('@/data/teachings/lo-trinh-du-luu'),
+    '37-pham-tro-dao': () => import('@/data/teachings/37-pham-tro-dao'),
+    'vi-dieu-phap-ung-dung': () => import('@/data/teachings/vi-dieu-phap-ung-dung'),
+    'tu-dieu-de-duyen-khoi': () => import('@/data/teachings/tu-dieu-de-duyen-khoi'),
+    'tu-vo-luong-tam': () => import('@/data/teachings/tu-vo-luong-tam'),
+    'nhan-qua-luan-hoi': () => import('@/data/teachings/nhan-qua-luan-hoi'),
+    'muoi-ba-la-mat': () => import('@/data/teachings/muoi-ba-la-mat'),
+    'kho-tang-phap-so': () => import('@/data/teachings/kho-tang-phap-so'),
+    'thien-bao-ho': () => import('@/data/teachings/thien-bao-ho'),
+    'van-dap-tinh-hoa': () => import('@/data/teachings/van-dap-tinh-hoa'),
+    'guong-sang-thanh-tang': () => import('@/data/teachings/guong-sang-thanh-tang'),
+    'dinh-hoc-tinh-hoa': () => import('@/data/teachings/dinh-hoc-tinh-hoa'),
+    'tam-gioi-vu-tru-quan': () => import('@/data/teachings/tam-gioi-vu-tru-quan'),
+    'tinh-hoa-kinh-dien': () => import('@/data/teachings/tinh-hoa-kinh-dien'),
+    'chanh-niem-hang-ngay': () => import('@/data/teachings/chanh-niem-hang-ngay'),
+    'dao-doi': () => import('@/data/teachings/dao-doi'),
+    'trang-thai-thien-sau': () => import('@/data/teachings/trang-thai-thien-sau'),
+    'cong-cu-danh-gia': () => import('@/data/teachings/cong-cu-danh-gia'),
+    'nhu-ly-tac-y': () => import('@/data/teachings/nhu-ly-tac-y'),
+    'thien-tri-thuc': () => import('@/data/teachings/thien-tri-thuc'),
+    'samvega': () => import('@/data/teachings/samvega'),
+    'muoi-kiet-su': () => import('@/data/teachings/muoi-kiet-su'),
+    'sotapatti-samyutta': () => import('@/data/teachings/sotapatti-samyutta'),
+    'anupubbikatha': () => import('@/data/teachings/anupubbikatha'),
+    'dong-hanh-tu-tap': () => import('@/data/teachings/dong-hanh-tu-tap'),
+}
 
 export function TeachingDetail() {
     const { t } = useTranslation()
     const { teachingId } = useParams<{ teachingId: string }>()
     const printRef = useRef<HTMLDivElement>(null)
-    const teaching = teachings.find((t) => t.id === teachingId)
+    useKatexCSS()
+
+    // Get metadata for SEO (available immediately)
+    const metadata = teachingMetadata.find((t) => t.id === teachingId)
+
+    // Load full teaching content dynamically
+    const [teaching, setTeaching] = useState<Teaching | null>(null)
+    const [loading, setLoading] = useState(true)
+
+    useEffect(() => {
+        if (!teachingId || !teachingImports[teachingId]) {
+            setLoading(false)
+            return
+        }
+
+        setLoading(true)
+        teachingImports[teachingId]()
+            .then((module) => {
+                setTeaching(module.default)
+                setLoading(false)
+            })
+            .catch(() => {
+                setLoading(false)
+            })
+    }, [teachingId])
 
     usePageMeta({
-        title: teaching ? teaching.title : t('library.notFound'),
-        description: teaching?.summary || t('library.metaDescription'),
-        url: teaching ? `/giao-phap/${teaching.id}` : undefined,
-        jsonLd: teaching
+        title: metadata ? metadata.title : t('library.notFound'),
+        description: metadata?.summary || t('library.metaDescription'),
+        url: metadata ? `/giao-phap/${metadata.id}` : undefined,
+        jsonLd: metadata
             ? {
                 '@context': 'https://schema.org',
                 '@type': 'Article',
-                headline: teaching.title,
-                description: teaching.summary,
+                headline: metadata.title,
+                description: metadata.summary,
                 author: {
                     '@type': 'Person',
-                    name: teaching.author
+                    name: metadata.author
                 }
             }
             : undefined,
-        jsonLdId: teaching ? `teaching-${teaching.id}` : 'teaching-missing'
+        jsonLdId: metadata ? `teaching-${metadata.id}` : 'teaching-missing'
     })
 
-    if (!teaching) {
+    if (!metadata) {
         return (
             <div className="container mx-auto px-4 py-8 max-w-4xl">
                 <div className="bg-card rounded-lg border border-border p-8 text-center">
@@ -81,51 +141,53 @@ export function TeachingDetail() {
                     Quay lại Kho Tàng Pháp Bảo
                 </Link>
 
-                <PrintButton contentRef={printRef} title={teaching.title} />
+                <Suspense fallback={<div className="w-8 h-8" />}>
+                    <PrintButton contentRef={printRef} title={metadata.title} />
+                </Suspense>
             </div>
 
             {/* Printable Content Wrapper */}
             <div ref={printRef} className="print:p-4">
-                {/* Header */}
+                {/* Header - Use metadata for instant display */}
                 <div className="bg-card rounded-lg border border-border p-6 mb-6 print:border-none print:shadow-none print:p-0">
                     <div className="flex flex-wrap items-center gap-2 mb-3">
                         <span className="px-3 py-1 bg-primary/10 text-primary text-sm rounded-full font-medium print:border print:border-gray-200">
-                            {typeLabels[teaching.type]}
+                            {typeLabels[metadata.type]}
                         </span>
                         <span className="px-3 py-1 bg-muted text-muted-foreground text-sm rounded-full print:border print:border-gray-200">
-                            {difficultyLabels[teaching.difficulty]}
+                            {difficultyLabels[metadata.difficulty]}
                         </span>
                     </div>
 
                     <h1 className="text-3xl font-bold text-foreground mb-2">
-                        {teaching.title}
+                        {metadata.title}
                     </h1>
 
-                    {teaching.titlePali && (
+                    {metadata.titlePali && (
                         <p className="text-lg text-muted-foreground italic font-serif mb-4">
-                            {teaching.titlePali}
+                            {metadata.titlePali}
                         </p>
                     )}
 
                     <div className="flex flex-wrap gap-4 text-sm text-muted-foreground">
                         <div className="flex items-center gap-2">
                             <User className="h-4 w-4" />
-                            <span>{teaching.author}</span>
+                            <span>{metadata.author}</span>
                         </div>
-                        {teaching.translator && (
+                        {metadata.translator && (
                             <div className="flex items-center gap-2">
                                 <BookOpen className="h-4 w-4" />
-                                <span>Dịch giả: {teaching.translator}</span>
+                                <span>Dịch giả: {metadata.translator}</span>
                             </div>
                         )}
                     </div>
 
                     <p className="mt-4 text-muted-foreground">
-                        {teaching.summary}
+                        {metadata.summary}
                     </p>
 
                     <div className="flex flex-wrap gap-2 mt-4 print:hidden">
-                        {teaching.themes.map((theme) => (
+                        {metadata.themes.map((theme) => (
                             <span
                                 key={theme}
                                 className="px-2 py-1 bg-muted text-muted-foreground text-xs rounded"
@@ -136,9 +198,14 @@ export function TeachingDetail() {
                     </div>
                 </div>
 
-                {/* Content */}
+                {/* Content - Dynamically loaded */}
                 <div className="bg-card rounded-lg border border-border p-6 print:border-none print:shadow-none print:p-0">
-                    {teaching.chapters && teaching.chapters.length > 0 ? (
+                    {loading ? (
+                        <div className="flex flex-col items-center justify-center py-12">
+                            <Loader2 className="h-8 w-8 text-primary animate-spin mb-4" />
+                            <p className="text-muted-foreground">Đang tải nội dung...</p>
+                        </div>
+                    ) : teaching?.chapters && teaching.chapters.length > 0 ? (
                         <>
                             {/* Table of Contents - Hide on print to save paper? Or keep? Keeping for now but maybe styled simpler */}
                             <div className="mb-12 p-6 bg-muted/30 rounded-lg border border-border/50 print:border print:bg-gray-50">
