@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import type { CheckIn, UserPoints } from '@/types/leader'
+import { trackEvent } from '@/lib/analytics'
 
 const CHECKINS_KEY = 'monkmode_checkins'
 const POINTS_KEY = 'monkmode_points'
@@ -137,6 +138,8 @@ export function useCheckIn() {
             longestStreak: Math.max(newStreak, points.longestStreak),
             badges: newBadges
         })
+
+        trackEvent('complete_checkin', { duration, streak: newStreak, type: newCheckIn.type })
 
         return {
             success: true,

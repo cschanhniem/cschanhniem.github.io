@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback, useRef } from 'react'
 import type { AppState, MeditationSession, PreceptsRecord, ProgramProgress, InsightEntry } from '@/types'
 import { useAuth } from '@/contexts/AuthContext'
 import { syncData } from '@/lib/api'
+import { trackEvent } from '@/lib/analytics'
 
 const STORAGE_KEY = 'nhapluu-app-state'
 
@@ -121,6 +122,7 @@ export function useAppState() {
       }))
     }
     setState(prev => ({ ...prev, programProgress: newProgress }))
+    trackEvent('start_program', { program: '90_day' })
   }
 
   const markDayComplete = (date: string) => {
@@ -147,6 +149,7 @@ export function useAppState() {
         }
       }
     })
+    trackEvent('complete_day', { program: '90_day', date })
   }
 
   // Insights

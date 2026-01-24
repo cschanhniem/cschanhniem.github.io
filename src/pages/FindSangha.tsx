@@ -3,11 +3,19 @@ import { MapPin, Clock, Users, Navigation, Award, AlertCircle } from 'lucide-rea
 import { Button } from '@/components/ui/button'
 import { mockNodes, formatDistance } from '@/data/mockNodes'
 import type { PracticeNode } from '@/types/leader'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 export function FindSangha() {
+    const { t } = useTranslation()
     const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null)
     const [locationError, setLocationError] = useState<string | null>(null)
     const [isLoading, setIsLoading] = useState(false)
+
+    usePageMeta({
+        title: t('findSangha.metaTitle'),
+        description: t('findSangha.metaDescription')
+    })
 
     // Default to HCMC center if no location
     const defaultLocation = { lat: 10.7769, lng: 106.6895 }

@@ -24,6 +24,11 @@ const WakefulRelaxation = lazy(() => import('@/pages/WakefulRelaxation').then(m 
 const Bookmarks = lazy(() => import('@/pages/Bookmarks').then(m => ({ default: m.Bookmarks })))
 const InsightJournal = lazy(() => import('@/pages/InsightJournal').then(m => ({ default: m.InsightJournal })))
 const Auth = lazy(() => import('@/pages/Auth'))
+const FoundationPath = lazy(() => import('@/pages/FoundationPath').then(m => ({ default: m.FoundationPath })))
+const SanghaCircles = lazy(() => import('@/pages/SanghaCircles').then(m => ({ default: m.SanghaCircles })))
+const Retreats = lazy(() => import('@/pages/Retreats').then(m => ({ default: m.Retreats })))
+const TranslationStudio = lazy(() => import('@/pages/TranslationStudio').then(m => ({ default: m.TranslationStudio })))
+const Mentorship = lazy(() => import('@/pages/Mentorship').then(m => ({ default: m.Mentorship })))
 
 // Nikaya Translation Project - Public pages
 const NikayaLibrary = lazy(() => import('@/pages/NikayaLibrary').then(m => ({ default: m.NikayaLibrary })))
@@ -83,6 +88,11 @@ function App() {
                           <Routes>
                             {/* Public Routes */}
                             <Route path="/" element={<Dashboard />} />
+                            <Route path="/lo-trinh-7-ngay" element={<FoundationPath />} />
+                            <Route path="/sangha-circles" element={<SanghaCircles />} />
+                            <Route path="/retreats" element={<Retreats />} />
+                            <Route path="/translation-studio" element={<TranslationStudio />} />
+                            <Route path="/mentorship" element={<Mentorship />} />
                             <Route path="/tim-sangha" element={<FindSangha />} />
                             <Route path="/quy-tac" element={<CodeOfConduct />} />
 
@@ -154,4 +164,3 @@ function App() {
 }
 
 export default App
-

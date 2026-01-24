@@ -30,6 +30,8 @@
     "error": "Có lỗi xảy ra. Vui lòng thử lại."
   },
   "dashboard": {
+    "metaTitle": "Trang chủ",
+    "metaDescription": "Theo dõi thiền tập, giữ giới, đọc kinh và phát triển chánh niệm mỗi ngày.",
     "title": "Tỉnh Thức Mỗi Ngày",
     "subtitle": "Stream Entry Community • Công nghệ vị nhân sinh",
     "welcome": "Chào mừng trở lại",
@@ -53,6 +55,7 @@
     },
     "quickActions": {
       "title": "Hành Động Nhanh",
+      "foundationPath": "Lộ Trình 7 Ngày",
       "findSangha": "Tìm Sangha Gần Bạn",
       "startMeditation": "Bắt đầu ngồi thiền",
       "insightJournal": "Nhật Ký Tuệ Giác",
@@ -186,11 +189,17 @@
     }
   },
   "journal": {
+    "metaTitle": "Nhật ký tuệ giác",
+    "metaDescription": "Ghi lại chiêm nghiệm, tuệ giác và tiến trình tu tập theo thời gian.",
     "title": "Nhật Ký Tuệ Giác",
     "subtitle": "Ghi lại những tuệ giác, hiểu biết và chiêm nghiệm trong quá trình tu tập",
     "searchPlaceholder": "Tìm kiếm ghi chép...",
     "addEntry": "Thêm Ghi Chép Mới",
     "newEntry": "Ghi Chép Mới",
+    "views": {
+      "list": "Danh sách",
+      "timeline": "Dòng thời gian"
+    },
     "contemplations": {
       "all": "Tất cả",
       "general": "Tổng quát",
@@ -236,6 +245,8 @@
     "noResults": "Không tìm thấy kinh nào phù hợp"
   },
   "library": {
+    "metaTitle": "Pháp Bảo",
+    "metaDescription": "Kho tàng kinh điển và giáo pháp chọn lọc cho hành giả thực hành.",
     "title": "Kinh Tạng",
     "subtitle": "Kho tàng Pháp Bảo - Sutta Piṭaka",
     "search": "Tìm kiếm kinh...",
@@ -259,6 +270,278 @@
     "singleView": "Đơn",
     "parallelView": "Song ngữ",
     "progress": "Tiến độ"
+  },
+  "nikaya": {
+    "metaTitle": "Kinh Điển Pāli",
+    "metaDescription": "Thư viện Nikāya với bản dịch gốc và bản cải tiến."
+  },
+  "community": {
+    "metaTitle": "Cộng đồng",
+    "metaDescription": "Kalyāṇamitta 4.0: kết nối bạn tu, nhóm thực hành, sự kiện và đóng góp.",
+    "title": "Cộng Đồng Tu Tập",
+    "subtitle": "Kalyāṇamitta 4.0 - Thiện tri thức trong thời đại số",
+    "discord": {
+      "title": "Tham Gia Cộng Đồng Discord",
+      "description": "Kết nối với đạo hữu, chia sẻ kinh nghiệm tu tập, hỏi đáp về Pháp và nhận hỗ trợ từ cộng đồng Nhập Lưu",
+      "cta": "Tham Gia Discord",
+      "points": {
+        "study": "Thảo luận kinh điển và pháp tu",
+        "practice": "Chia sẻ kinh nghiệm thiền định",
+        "pali": "Nhóm học Pāli cơ bản",
+        "support": "Hỗ trợ kỹ thuật và góp ý phát triển"
+      }
+    },
+    "resources": {
+      "circles": {
+        "title": "Sangha Circles",
+        "description": "Nhóm thực hành nhỏ 5–15 người, check-in tuần"
+      },
+      "retreats": {
+        "title": "Retreat & Meetup",
+        "description": "Lịch khóa tu và sự kiện cộng đồng"
+      },
+      "mentorship": {
+        "title": "Kalyāṇamitta Mentorship",
+        "description": "Kết nối mentor–mentee theo nhu cầu tu tập"
+      },
+      "translation": {
+        "title": "Translation Studio",
+        "description": "Đóng góp bản dịch, chú giải, và duyệt chất lượng"
+      }
+    }
+  },
+  "findSangha": {
+    "metaTitle": "Tìm Sangha",
+    "metaDescription": "Tìm nhóm thực hành và địa điểm thiền gần bạn."
+  },
+  "codeOfConduct": {
+    "metaTitle": "Hiến chương thành viên",
+    "metaDescription": "Nguyên tắc cộng đồng và quy tắc ứng xử của Nhập Lưu."
+  },
+  "onboarding": {
+    "metaTitle": "Chào mừng",
+    "metaDescription": "Bắt đầu hành trình tu tập với Nhập Lưu."
+  },
+  "growth": {
+    "oneMinute": {
+      "label": "One-Minute Dhamma",
+      "listen": "Nghe 60s",
+      "stop": "Dừng",
+      "readMore": "Đọc đầy đủ"
+    },
+    "shareCard": {
+      "label": "Thẻ chia sẻ Pháp",
+      "download": "Tải ảnh",
+      "copy": "Sao chép",
+      "share": "Chia sẻ"
+    },
+    "bodhiGarden": {
+      "label": "Bodhi Garden",
+      "practiceDays": "{count} ngày thực hành",
+      "nextMilestone": "Mốc kế tiếp: {count} ngày",
+      "currentStreak": "Chuỗi hiện tại",
+      "share": "Chia sẻ mốc",
+      "milestoneQuote": "Chuỗi {count} ngày chánh niệm — Nhập Lưu",
+      "milestoneSource": "Bodhi Garden",
+      "milestoneTitle": "Hành trình tu tập",
+      "stages": {
+        "seed": { "title": "Hạt giống", "description": "Bắt đầu gieo hạt chánh niệm mỗi ngày." },
+        "sprout": { "title": "Mầm non", "description": "Đã có nhịp thực hành ổn định." },
+        "sapling": { "title": "Cây non", "description": "Định hình thói quen tỉnh thức." },
+        "tree": { "title": "Cây vững", "description": "Thực hành ngày càng bền vững." },
+        "bodhi": { "title": "Bồ‑đề", "description": "Nền tảng vững chắc cho tuệ giác." }
+      }
+    },
+    "foundation": {
+      "metaTitle": "Lộ trình 7 ngày",
+      "metaDescription": "Onboarding thực hành 7 ngày: thiền, giữ giới và đọc kinh.",
+      "title": "Lộ Trình 7 Ngày",
+      "subtitle": "Bảy ngày thiết lập nhịp tu tập bền vững",
+      "intro": "Bắt đầu hành trình bằng các nhiệm vụ đơn giản, rõ ràng, mỗi ngày một bước.",
+      "start": "Bắt đầu ngay",
+      "currentDay": "Ngày hiện tại",
+      "dayLabel": "Ngày {day}",
+      "markComplete": "Hoàn thành",
+      "completed": "Đã xong",
+      "reset": "Bắt đầu lại",
+      "days": [
+        {
+          "day": 1,
+          "title": "Bắt đầu với Chánh Niệm",
+          "focus": "Thiết lập thời gian ngồi thiền tối thiểu 10 phút",
+          "tasks": [
+            "Ngồi thiền 10 phút (theo dõi hơi thở)",
+            "Ghi nhận 1 điều biết ơn",
+            "Đọc 1 đoạn kinh ngắn"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Giữ Giới và Ổn Định",
+          "focus": "Thực tập 5 giới trong ngày",
+          "tasks": [
+            "Check-in 5 giới",
+            "Thiền 10-15 phút",
+            "Ghi lại 1 khoảnh khắc tỉnh thức"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Quán Thân",
+          "focus": "Nhận diện cảm giác thân thể",
+          "tasks": [
+            "Thiền quán thân 15 phút",
+            "Đi bộ chánh niệm 10 phút",
+            "Đọc 1 sutta về thân"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Quán Thọ",
+          "focus": "Nhận biết cảm thọ (dễ chịu/khó chịu/trung tính)",
+          "tasks": [
+            "Thiền quán thọ 15 phút",
+            "Ghi 1 cảm thọ nổi bật trong ngày",
+            "Thực tập “dừng lại – thở – thấy”"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Quán Tâm",
+          "focus": "Ghi nhận trạng thái tâm",
+          "tasks": [
+            "Thiền quán tâm 20 phút",
+            "Viết 3 dòng về tâm trạng trong ngày",
+            "Giảm 1 thói quen gây xao lãng"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Quán Pháp",
+          "focus": "Quan sát vô thường trong trải nghiệm",
+          "tasks": [
+            "Thiền quán vô thường 20 phút",
+            "Đọc 1 đoạn kinh về vô thường",
+            "Ghi 1 điều thay đổi trong ngày"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Kết nối & Định hướng",
+          "focus": "Tổng kết và thiết lập nhịp tu tập",
+          "tasks": [
+            "Thiền 20-30 phút",
+            "Xem lại 7 ngày và ghi 3 bài học",
+            "Đặt mục tiêu 14 ngày tiếp theo"
+          ]
+        }
+      ]
+    },
+    "circles": {
+      "metaTitle": "Sangha Circles",
+      "metaDescription": "Nhóm thực hành nhỏ, đồng hành và duy trì kỷ luật.",
+      "title": "Sangha Circles",
+      "subtitle": "Nhóm thực hành 5-15 người, check-in tuần và mục tiêu chung",
+      "search": "Tìm theo tên hoặc địa điểm...",
+      "create": "Tạo nhóm",
+      "join": "Tham gia",
+      "full": "Đã đầy",
+      "joined": "Đã tham gia",
+      "language": "Ngôn ngữ",
+      "form": {
+        "name": "Tên nhóm",
+        "location": "Địa điểm",
+        "schedule": "Lịch sinh hoạt",
+        "focus": "Chủ đề (phân tách bằng dấu phẩy)",
+        "description": "Mô tả ngắn",
+        "submit": "Tạo nhóm"
+      }
+    },
+    "retreats": {
+      "metaTitle": "Retreat & Meetup",
+      "metaDescription": "Danh sách khóa tu và sự kiện cộng đồng.",
+      "title": "Retreat & Meetup",
+      "subtitle": "Các khóa tu, pháp thoại và sự kiện tu tập sắp tới",
+      "create": "Đăng sự kiện",
+      "visit": "Xem chi tiết",
+      "filters": {
+        "all": "Tất cả",
+        "retreat": "Khóa tu",
+        "meetup": "Gặp mặt",
+        "online": "Online"
+      },
+      "form": {
+        "title": "Tên sự kiện",
+        "location": "Địa điểm",
+        "tradition": "Truyền thống",
+        "organizer": "Đơn vị tổ chức",
+        "link": "Website",
+        "description": "Mô tả ngắn",
+        "submit": "Đăng sự kiện"
+      }
+    },
+    "translation": {
+      "metaTitle": "Translation Studio",
+      "metaDescription": "Đóng góp bản dịch và ghi chú cho kinh điển.",
+      "title": "Translation Studio",
+      "subtitle": "Cùng nhau cải tiến bản dịch kinh điển",
+      "newSubmission": "Bản dịch mới",
+      "mySubmissions": "Bản dịch của tôi",
+      "submit": "Gửi duyệt",
+      "approve": "Duyệt",
+      "reject": "Từ chối",
+      "enableReview": "Bật chế độ duyệt",
+      "disableReview": "Tắt chế độ duyệt",
+      "reviewPanel": "Review Panel",
+      "noPending": "Không có bản dịch chờ duyệt",
+      "status": {
+        "draft": "Nháp",
+        "submitted": "Chờ duyệt",
+        "approved": "Đã duyệt",
+        "rejected": "Từ chối"
+      },
+      "form": {
+        "suttaId": "Mã kinh (ví dụ: mn10)",
+        "content": "Nội dung bản dịch",
+        "notes": "Ghi chú",
+        "saveDraft": "Lưu nháp",
+        "vi": "Tiếng Việt",
+        "en": "English"
+      }
+    },
+    "mentorship": {
+      "metaTitle": "Kalyāṇamitta Mentorship",
+      "metaDescription": "Kết nối mentor và mentee theo nhu cầu thực hành.",
+      "title": "Kalyāṇamitta Mentorship",
+      "subtitle": "Kết nối người đồng hành có kinh nghiệm",
+      "create": "Tạo hồ sơ",
+      "filters": {
+        "all": "Tất cả",
+        "mentor": "Mentor",
+        "mentee": "Mentee"
+      },
+      "role": {
+        "mentor": "Mentor",
+        "mentee": "Mentee"
+      },
+      "form": {
+        "name": "Tên",
+        "mentor": "Tôi muốn hướng dẫn",
+        "mentee": "Tôi muốn được hướng dẫn",
+        "location": "Khu vực",
+        "languages": "Ngôn ngữ (phân tách bằng dấu phẩy)",
+        "practiceYears": "Số năm thực hành",
+        "availability": "Thời gian phù hợp",
+        "focusAreas": "Lĩnh vực quan tâm",
+        "bio": "Giới thiệu ngắn",
+        "submit": "Lưu hồ sơ"
+      },
+      "location": "Địa điểm",
+      "languages": "Ngôn ngữ",
+      "practiceYears": "Năm thực hành",
+      "availability": "Thời gian",
+      "unknown": "Chưa rõ"
+    }
   },
   "theme": {
     "light": "Chế độ sáng",

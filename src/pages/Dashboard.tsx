@@ -9,6 +9,10 @@ import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Downlo
 import { WeeklyChart } from '@/components/charts/WeeklyChart'
 import { HeatmapCalendar } from '@/components/charts/HeatmapCalendar'
 import { suttas } from '@/data/suttas/index'
+import { BodhiGarden } from '@/components/growth/BodhiGarden'
+import { OneMinuteDhamma } from '@/components/growth/OneMinuteDhamma'
+import { DhammaShareCard } from '@/components/growth/DhammaShareCard'
+import { usePageMeta } from '@/lib/seo'
 
 interface ReadingProgress {
   suttaId: string
@@ -24,10 +28,29 @@ export function Dashboard() {
   const { points, checkIns, doCheckIn, hasCheckedInToday, getTodayCheckIn } = useCheckIn()
   const stats = getStats()
   const [checkInMessage, setCheckInMessage] = useState<string | null>(null)
+  const [showMilestoneShare, setShowMilestoneShare] = useState(false)
 
   const checkedInToday = hasCheckedInToday()
   const todayCheckIn = getTodayCheckIn()
   const [lastReadSutta, setLastReadSutta] = useState<ReadingProgress | null>(null)
+
+  usePageMeta({
+    title: t('dashboard.metaTitle'),
+    description: t('dashboard.metaDescription')
+  })
+
+  const practiceDays = (() => {
+    const days = new Set<string>()
+    checkIns.forEach(checkIn => {
+      const date = new Date(checkIn.date).toISOString().split('T')[0]
+      days.add(date)
+    })
+    state.meditationSessions.forEach(session => {
+      const date = session.date.split('T')[0]
+      days.add(date)
+    })
+    return days.size
+  })()
 
   // Get last read sutta from localStorage
   useEffect(() => {
@@ -250,12 +273,37 @@ export function Dashboard() {
         <HeatmapCalendar sessions={state.meditationSessions} checkIns={checkIns} />
       </div>
 
+      {/* Growth Highlights */}
+      <div className="grid md:grid-cols-2 gap-6 mb-8">
+        <div className="space-y-4">
+          <BodhiGarden
+            practiceDays={practiceDays}
+            currentStreak={points.currentStreak}
+            onShare={() => setShowMilestoneShare(true)}
+          />
+          {showMilestoneShare && (
+            <DhammaShareCard
+              quote={t('growth.bodhiGarden.milestoneQuote', { count: points.currentStreak })}
+              source={t('growth.bodhiGarden.milestoneSource')}
+              title={t('growth.bodhiGarden.milestoneTitle')}
+            />
+          )}
+        </div>
+        <OneMinuteDhamma />
+      </div>
+
       {/* Main Content Grid */}
       <div className="grid md:grid-cols-2 gap-6">
         {/* Quick Actions */}
         <div className="bg-card rounded-lg border border-border p-6">
           <h2 className="text-xl font-semibold text-foreground mb-4">{t('dashboard.quickActions.title')}</h2>
           <div className="space-y-3">
+            <Link to="/lo-trinh-7-ngay">
+              <Button className="w-full justify-start" variant="outline">
+                <Sparkles className="mr-2 h-4 w-4" />
+                {t('dashboard.quickActions.foundationPath')}
+              </Button>
+            </Link>
             <Link to="/tim-sangha">
               <Button className="w-full justify-start bg-primary text-primary-foreground" size="lg">
                 <MapPin className="mr-2 h-5 w-5" />

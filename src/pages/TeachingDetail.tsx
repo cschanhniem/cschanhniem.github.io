@@ -7,11 +7,33 @@ import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
 import { PrintButton } from '@/components/PrintButton'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 export function TeachingDetail() {
+    const { t } = useTranslation()
     const { teachingId } = useParams<{ teachingId: string }>()
     const printRef = useRef<HTMLDivElement>(null)
     const teaching = teachings.find((t) => t.id === teachingId)
+
+    usePageMeta({
+        title: teaching ? teaching.title : t('library.notFound'),
+        description: teaching?.summary || t('library.metaDescription'),
+        url: teaching ? `/giao-phap/${teaching.id}` : undefined,
+        jsonLd: teaching
+            ? {
+                '@context': 'https://schema.org',
+                '@type': 'Article',
+                headline: teaching.title,
+                description: teaching.summary,
+                author: {
+                    '@type': 'Person',
+                    name: teaching.author
+                }
+            }
+            : undefined,
+        jsonLdId: teaching ? `teaching-${teaching.id}` : 'teaching-missing'
+    })
 
     if (!teaching) {
         return (

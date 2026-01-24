@@ -9,6 +9,9 @@ import rehypeKatex from 'rehype-katex'
 import { ChevronLeft, Bookmark, Type, Minus, Plus, Columns, FileText } from 'lucide-react'
 import { useAppState } from '@/hooks/useAppState'
 import { PrintButton } from '@/components/PrintButton'
+import { DhammaShareCard } from '@/components/growth/DhammaShareCard'
+import { usePageMeta } from '@/lib/seo'
+import { trackEvent } from '@/lib/analytics'
 
 type FontSize = 'small' | 'medium' | 'large'
 type ViewMode = 'single' | 'parallel'
@@ -24,6 +27,8 @@ export function SuttaDetail() {
   const navigate = useNavigate()
   const { t } = useTranslation()
   const { state, toggleBookmark } = useAppState()
+  const [shareQuote, setShareQuote] = useState('')
+  const [hasTrackedRead, setHasTrackedRead] = useState(false)
 
   // Reading settings
   const [fontSize, setFontSize] = useState<FontSize>(() => {
@@ -65,7 +70,12 @@ export function SuttaDetail() {
     setProgress(newProgress)
     localStorage.setItem(progressKey, newProgress.toString())
     localStorage.setItem(lastReadKey, Date.now().toString())
-  }, [progressKey, lastReadKey])
+
+    if (!hasTrackedRead && newProgress >= 80 && suttaId) {
+      setHasTrackedRead(true)
+      trackEvent('read_sutta', { suttaId, progress: Math.round(newProgress) })
+    }
+  }, [progressKey, lastReadKey, hasTrackedRead, suttaId])
 
   useEffect(() => {
     window.addEventListener('scroll', handleScroll)
@@ -73,6 +83,31 @@ export function SuttaDetail() {
   }, [handleScroll])
 
   const sutta = suttas.find((s) => s.id === suttaId)
+
+  usePageMeta({
+    title: sutta ? sutta.title : t('library.notFound'),
+    description: sutta?.summary || t('library.metaDescription'),
+    url: sutta ? `/phap-bao/${sutta.id}` : undefined,
+    jsonLd: sutta
+      ? {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: sutta.title,
+        description: sutta.summary,
+        author: {
+          '@type': 'Organization',
+          name: 'NhapLuu'
+        }
+      }
+      : undefined,
+    jsonLdId: sutta ? `sutta-${sutta.id}` : 'sutta-missing'
+  })
+
+  useEffect(() => {
+    if (sutta) {
+      setShareQuote(sutta.summary)
+    }
+  }, [suttaId])
 
   if (!sutta) {
     return (
@@ -186,6 +221,14 @@ export function SuttaDetail() {
 
           <div className="bg-muted p-4 rounded-md mb-6 print:bg-gray-50 print:text-black">
             <p className="text-foreground font-medium">{sutta.summary}</p>
+          </div>
+
+          <div className="mb-6 print:hidden">
+            <DhammaShareCard
+              quote={shareQuote}
+              source={`${sutta.code} • ${sutta.title}`}
+              onQuoteChange={setShareQuote}
+            />
           </div>
 
           {/* Reading Controls */}

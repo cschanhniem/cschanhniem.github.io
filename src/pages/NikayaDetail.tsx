@@ -14,6 +14,9 @@ import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-im
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
 import { NikayaComparisonView } from '@/components/NikayaComparisonView'
 import { useAppState } from '@/hooks/useAppState'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
+import { trackEvent } from '@/lib/analytics'
 
 type FontSize = 'small' | 'medium' | 'large'
 
@@ -24,6 +27,7 @@ const fontSizeClasses = {
 }
 
 export function NikayaDetail() {
+    const { t } = useTranslation()
     const { suttaId } = useParams<{ suttaId: string }>()
     const navigate = useNavigate()
     const { state, toggleBookmark } = useAppState()
@@ -62,6 +66,7 @@ export function NikayaDetail() {
         return (saved as FontSize) || 'medium'
     })
     const [progress, setProgress] = useState(0)
+    const [hasTrackedRead, setHasTrackedRead] = useState(false)
 
     // Available versions
     const [availableVersions, setAvailableVersions] = useState<{
@@ -70,6 +75,22 @@ export function NikayaDetail() {
         author: string
         available: boolean
     }[]>([])
+
+    usePageMeta({
+        title: metadata ? metadata.title : t('nikaya.metaTitle'),
+        description: metadata?.blurb || t('nikaya.metaDescription'),
+        url: suttaId ? `/nikaya/${suttaId}` : undefined,
+        jsonLd: metadata
+            ? {
+                '@context': 'https://schema.org',
+                '@type': 'Article',
+                headline: metadata.title,
+                description: metadata.blurb,
+                url: `/nikaya/${metadata.uid}`
+            }
+            : undefined,
+        jsonLdId: suttaId ? `nikaya-${suttaId}` : 'nikaya-detail'
+    })
 
     // Fetch sutta metadata
     useEffect(() => {
@@ -182,7 +203,11 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
         const scrollHeight = element.scrollHeight - window.innerHeight
         const newProgress = Math.min(100, Math.max(0, (scrollTop / scrollHeight) * 100))
         setProgress(newProgress)
-    }, [])
+        if (!hasTrackedRead && newProgress >= 80 && suttaId) {
+            setHasTrackedRead(true)
+            trackEvent('read_sutta', { suttaId, progress: Math.round(newProgress), source: 'nikaya' })
+        }
+    }, [hasTrackedRead, suttaId])
 
     useEffect(() => {
         window.addEventListener('scroll', handleScroll)

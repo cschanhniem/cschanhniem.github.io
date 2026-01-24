@@ -1,6 +1,13 @@
 import { Shield, Ban, DollarSign, Sparkles, Heart, Scale, Volume2, Users, Phone } from 'lucide-react'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 export function CodeOfConduct() {
+    const { t } = useTranslation()
+    usePageMeta({
+        title: t('codeOfConduct.metaTitle'),
+        description: t('codeOfConduct.metaDescription')
+    })
     return (
         <div className="container mx-auto px-4 py-8 max-w-4xl">
             {/* Header */}

@@ -2,18 +2,26 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Check, Shield, Ban, DollarSign, Sparkles } from 'lucide-react'
 import { Button } from '@/components/ui/button'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 export function Onboarding() {
     const navigate = useNavigate()
+    const { t } = useTranslation()
     const [accepted, setAccepted] = useState(false)
     const [confirmed, setConfirmed] = useState(false)
+
+    usePageMeta({
+        title: t('onboarding.metaTitle'),
+        description: t('onboarding.metaDescription')
+    })
 
     const handleProceed = () => {
         if (accepted && confirmed) {
             // Store acceptance in localStorage
             localStorage.setItem('codeOfConductAccepted', new Date().toISOString())
             localStorage.setItem('onboardingComplete', 'true')
-            navigate('/')
+            navigate('/lo-trinh-7-ngay')
         }
     }
 

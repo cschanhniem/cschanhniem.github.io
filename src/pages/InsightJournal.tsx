@@ -12,8 +12,11 @@ import {
   Sparkles,
   Leaf,
   Heart,
-  CircleDot
+  CircleDot,
+  List,
+  CalendarDays
 } from 'lucide-react'
+import { usePageMeta } from '@/lib/seo'
 
 type ContemplationType = 'anicca' | 'dukkha' | 'anatta' | 'general'
 
@@ -31,6 +34,12 @@ export function InsightJournal() {
   const [filterType, setFilterType] = useState<ContemplationType | 'all'>('all')
   const [isAdding, setIsAdding] = useState(false)
   const [expandedId, setExpandedId] = useState<string | null>(null)
+  const [viewMode, setViewMode] = useState<'list' | 'timeline'>('list')
+
+  usePageMeta({
+    title: t('journal.metaTitle'),
+    description: t('journal.metaDescription')
+  })
 
   // Form state
   const [formTitle, setFormTitle] = useState('')
@@ -46,6 +55,14 @@ export function InsightJournal() {
     const matchesType = filterType === 'all' || entry.contemplation === filterType
     return matchesSearch && matchesType
   })
+
+  const groupedEntries = filteredEntries.reduce((acc, entry) => {
+    const date = new Date(entry.date)
+    const key = date.toLocaleDateString('vi-VN', { year: 'numeric', month: 'long' })
+    if (!acc[key]) acc[key] = []
+    acc[key].push(entry)
+    return acc
+  }, {} as Record<string, typeof filteredEntries>)
 
   const handleAddEntry = () => {
     if (!formContent.trim()) return
@@ -100,8 +117,8 @@ export function InsightJournal() {
       </div>
 
       {/* Search and Filter */}
-      <div className="flex flex-col sm:flex-row gap-4 mb-6">
-        <div className="relative flex-1">
+      <div className="flex flex-col gap-4 mb-6">
+        <div className="relative">
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
           <input
             type="text"
@@ -111,21 +128,43 @@ export function InsightJournal() {
             className="w-full pl-10 pr-3 py-2 bg-background border border-input rounded-lg text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
           />
         </div>
-        <div className="flex gap-2">
-          {(['all', 'anicca', 'dukkha', 'anatta', 'general'] as const).map((type) => (
+        <div className="flex flex-wrap gap-2 items-center justify-between">
+          <div className="flex flex-wrap gap-2">
+            {(['all', 'anicca', 'dukkha', 'anatta', 'general'] as const).map((type) => (
+              <button
+                key={type}
+                onClick={() => setFilterType(type)}
+                className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors flex items-center gap-1 ${
+                  filterType === type
+                    ? 'bg-primary text-primary-foreground'
+                    : 'bg-muted text-muted-foreground hover:bg-muted/80'
+                }`}
+              >
+                {type !== 'all' && contemplationIcons[type]}
+                {t(`journal.contemplations.${type}`)}
+              </button>
+            ))}
+          </div>
+          <div className="flex gap-2">
             <button
-              key={type}
-              onClick={() => setFilterType(type)}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors flex items-center gap-1 ${
-                filterType === type
-                  ? 'bg-primary text-primary-foreground'
-                  : 'bg-muted text-muted-foreground hover:bg-muted/80'
+              onClick={() => setViewMode('list')}
+              className={`px-3 py-2 rounded-lg text-sm font-medium flex items-center gap-2 ${
+                viewMode === 'list' ? 'bg-primary text-primary-foreground' : 'bg-muted text-muted-foreground'
               }`}
             >
-              {type !== 'all' && contemplationIcons[type]}
-              {t(`journal.contemplations.${type}`)}
+              <List className="h-4 w-4" />
+              {t('journal.views.list')}
             </button>
-          ))}
+            <button
+              onClick={() => setViewMode('timeline')}
+              className={`px-3 py-2 rounded-lg text-sm font-medium flex items-center gap-2 ${
+                viewMode === 'timeline' ? 'bg-primary text-primary-foreground' : 'bg-muted text-muted-foreground'
+              }`}
+            >
+              <CalendarDays className="h-4 w-4" />
+              {t('journal.views.timeline')}
+            </button>
+          </div>
         </div>
       </div>
 
@@ -245,7 +284,7 @@ export function InsightJournal() {
               : t('journal.tryDifferentSearch')}
           </p>
         </div>
-      ) : (
+      ) : viewMode === 'list' ? (
         <div className="space-y-4">
           {filteredEntries.map((entry) => (
             <div
@@ -282,9 +321,7 @@ export function InsightJournal() {
                 </div>
               </div>
 
-              <p className={`text-foreground whitespace-pre-wrap ${
-                expandedId === entry.id ? '' : 'line-clamp-3'
-              }`}>
+              <p className={`text-foreground whitespace-pre-wrap ${expandedId === entry.id ? '' : 'line-clamp-3'}`}>
                 {entry.content}
               </p>
 
@@ -309,6 +346,30 @@ export function InsightJournal() {
                   ))}
                 </div>
               )}
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div className="space-y-6">
+          {Object.entries(groupedEntries).map(([month, entries]) => (
+            <div key={month} className="bg-card rounded-lg border border-border p-5">
+              <h3 className="text-lg font-semibold text-foreground mb-4">{month}</h3>
+              <div className="space-y-4">
+                {entries.map(entry => (
+                  <div key={entry.id} className="border-l-2 border-primary/30 pl-4">
+                    <div className="flex items-center gap-2 text-xs text-muted-foreground mb-1">
+                      {entry.contemplation && contemplationIcons[entry.contemplation]}
+                      {formatDate(entry.date)}
+                    </div>
+                    <p className="text-sm text-foreground font-medium mb-1">
+                      {entry.title || t(`journal.contemplations.${entry.contemplation || 'general'}`)}
+                    </p>
+                    <p className="text-sm text-muted-foreground line-clamp-2">
+                      {entry.content}
+                    </p>
+                  </div>
+                ))}
+              </div>
             </div>
           ))}
         </div>

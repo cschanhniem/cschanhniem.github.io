@@ -30,6 +30,8 @@
     "error": "An error occurred. Please try again."
   },
   "dashboard": {
+    "metaTitle": "Home",
+    "metaDescription": "Track meditation, precepts, readings, and mindful progress every day.",
     "title": "Mindful Every Day",
     "subtitle": "Stream Entry Community • Technology for Humanity",
     "welcome": "Welcome back",
@@ -53,6 +55,7 @@
     },
     "quickActions": {
       "title": "Quick Actions",
+      "foundationPath": "7‑Day Path",
       "findSangha": "Find Sangha Near You",
       "startMeditation": "Start Meditation",
       "insightJournal": "Insight Journal",
@@ -186,11 +189,17 @@
     }
   },
   "journal": {
+    "metaTitle": "Insight Journal",
+    "metaDescription": "Capture insights and track your contemplations over time.",
     "title": "Insight Journal",
     "subtitle": "Record your insights, understanding and contemplations during practice",
     "searchPlaceholder": "Search entries...",
     "addEntry": "Add New Entry",
     "newEntry": "New Entry",
+    "views": {
+      "list": "List",
+      "timeline": "Timeline"
+    },
     "contemplations": {
       "all": "All",
       "general": "General",
@@ -236,6 +245,8 @@
     "noResults": "No matching suttas found"
   },
   "library": {
+    "metaTitle": "Dhamma Library",
+    "metaDescription": "Curated suttas and teachings for serious practice.",
     "title": "Sutta Library",
     "subtitle": "Treasury of Dhamma - Sutta Piṭaka",
     "search": "Search suttas...",
@@ -259,6 +270,278 @@
     "singleView": "Single",
     "parallelView": "Parallel",
     "progress": "Progress"
+  },
+  "nikaya": {
+    "metaTitle": "Pali Canon",
+    "metaDescription": "Nikāya library with original and improved translations."
+  },
+  "community": {
+    "metaTitle": "Community",
+    "metaDescription": "Kalyāṇamitta 4.0: circles, events, mentorship, and contributions.",
+    "title": "Practice Community",
+    "subtitle": "Kalyāṇamitta 4.0 - Noble friends in the digital age",
+    "discord": {
+      "title": "Join the Discord Community",
+      "description": "Connect with practitioners, discuss Dhamma, and get support from the NhapLuu community.",
+      "cta": "Join Discord",
+      "points": {
+        "study": "Discuss suttas and practice",
+        "practice": "Share meditation experience",
+        "pali": "Basic Pāli study group",
+        "support": "Technical support and feedback"
+      }
+    },
+    "resources": {
+      "circles": {
+        "title": "Sangha Circles",
+        "description": "Small groups of 5-15 with weekly check-ins"
+      },
+      "retreats": {
+        "title": "Retreat & Meetup",
+        "description": "Upcoming retreats and community events"
+      },
+      "mentorship": {
+        "title": "Kalyāṇamitta Mentorship",
+        "description": "Connect mentor-mentee based on practice needs"
+      },
+      "translation": {
+        "title": "Translation Studio",
+        "description": "Contribute translations and review quality"
+      }
+    }
+  },
+  "findSangha": {
+    "metaTitle": "Find Sangha",
+    "metaDescription": "Find nearby practice groups and locations."
+  },
+  "codeOfConduct": {
+    "metaTitle": "Community Guidelines",
+    "metaDescription": "Community principles and code of conduct."
+  },
+  "onboarding": {
+    "metaTitle": "Welcome",
+    "metaDescription": "Begin your practice journey with NhapLuu."
+  },
+  "growth": {
+    "oneMinute": {
+      "label": "One-Minute Dhamma",
+      "listen": "Listen 60s",
+      "stop": "Stop",
+      "readMore": "Read more"
+    },
+    "shareCard": {
+      "label": "Dhamma Share Card",
+      "download": "Download",
+      "copy": "Copy",
+      "share": "Share"
+    },
+    "bodhiGarden": {
+      "label": "Bodhi Garden",
+      "practiceDays": "{count} practice days",
+      "nextMilestone": "Next milestone: {count} days",
+      "currentStreak": "Current streak",
+      "share": "Share milestone",
+      "milestoneQuote": "{count} mindful days - NhapLuu",
+      "milestoneSource": "Bodhi Garden",
+      "milestoneTitle": "Practice journey",
+      "stages": {
+        "seed": { "title": "Seed", "description": "Planting daily mindfulness." },
+        "sprout": { "title": "Sprout", "description": "Early consistency is forming." },
+        "sapling": { "title": "Sapling", "description": "Habits are taking root." },
+        "tree": { "title": "Tree", "description": "Practice is growing steady." },
+        "bodhi": { "title": "Bodhi", "description": "A strong base for insight." }
+      }
+    },
+    "foundation": {
+      "metaTitle": "7-Day Path",
+      "metaDescription": "A 7-day onboarding path for meditation, precepts, and sutta reading.",
+      "title": "7-Day Foundation Path",
+      "subtitle": "Seven days to establish a steady practice",
+      "intro": "Start with simple, clear tasks - one step per day.",
+      "start": "Start now",
+      "currentDay": "Current day",
+      "dayLabel": "Day {day}",
+      "markComplete": "Complete",
+      "completed": "Done",
+      "reset": "Restart",
+      "days": [
+        {
+          "day": 1,
+          "title": "Begin with Mindfulness",
+          "focus": "Set a minimum 10-minute sitting practice",
+          "tasks": [
+            "Meditate 10 minutes (breath awareness)",
+            "Note one thing you are grateful for",
+            "Read a short sutta passage"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Precepts and Stability",
+          "focus": "Keep the five precepts today",
+          "tasks": [
+            "Check-in for the five precepts",
+            "Meditate 10-15 minutes",
+            "Write down one mindful moment"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Contemplation of the Body",
+          "focus": "Notice bodily sensations",
+          "tasks": [
+            "Body contemplation for 15 minutes",
+            "Walking meditation for 10 minutes",
+            "Read one body-related sutta"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Contemplation of Feelings",
+          "focus": "Observe pleasant, unpleasant, and neutral feelings",
+          "tasks": [
+            "Feeling contemplation for 15 minutes",
+            "Note one dominant feeling today",
+            "Practice \"pause - breathe - notice\""
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Contemplation of Mind",
+          "focus": "Notice mental states",
+          "tasks": [
+            "Mind contemplation for 20 minutes",
+            "Write three lines about your mind state",
+            "Reduce one distracting habit"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Contemplation of Dhamma",
+          "focus": "See impermanence in experience",
+          "tasks": [
+            "Impermanence contemplation for 20 minutes",
+            "Read a short sutta on impermanence",
+            "Note one change you observed today"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Reflect and Commit",
+          "focus": "Review and set the next rhythm",
+          "tasks": [
+            "Meditate 20-30 minutes",
+            "Review 7 days and note 3 learnings",
+            "Set a 14-day goal"
+          ]
+        }
+      ]
+    },
+    "circles": {
+      "metaTitle": "Sangha Circles",
+      "metaDescription": "Small practice groups to sustain discipline.",
+      "title": "Sangha Circles",
+      "subtitle": "Groups of 5-15 with weekly check-ins and shared goals",
+      "search": "Search by name or location...",
+      "create": "Create circle",
+      "join": "Join",
+      "full": "Full",
+      "joined": "Joined",
+      "language": "Language",
+      "form": {
+        "name": "Circle name",
+        "location": "Location",
+        "schedule": "Schedule",
+        "focus": "Focus areas (comma separated)",
+        "description": "Short description",
+        "submit": "Create circle"
+      }
+    },
+    "retreats": {
+      "metaTitle": "Retreat & Meetup",
+      "metaDescription": "Upcoming retreats and community events.",
+      "title": "Retreat & Meetup",
+      "subtitle": "Retreats, talks, and practice gatherings",
+      "create": "Post event",
+      "visit": "Visit",
+      "filters": {
+        "all": "All",
+        "retreat": "Retreat",
+        "meetup": "Meetup",
+        "online": "Online"
+      },
+      "form": {
+        "title": "Event title",
+        "location": "Location",
+        "tradition": "Tradition",
+        "organizer": "Organizer",
+        "link": "Website",
+        "description": "Short description",
+        "submit": "Post event"
+      }
+    },
+    "translation": {
+      "metaTitle": "Translation Studio",
+      "metaDescription": "Contribute translations and notes for the canon.",
+      "title": "Translation Studio",
+      "subtitle": "Collaborate on improved translations",
+      "newSubmission": "New submission",
+      "mySubmissions": "My submissions",
+      "submit": "Submit for review",
+      "approve": "Approve",
+      "reject": "Reject",
+      "enableReview": "Enable review",
+      "disableReview": "Disable review",
+      "reviewPanel": "Review Panel",
+      "noPending": "No pending submissions",
+      "status": {
+        "draft": "Draft",
+        "submitted": "Pending",
+        "approved": "Approved",
+        "rejected": "Rejected"
+      },
+      "form": {
+        "suttaId": "Sutta ID (e.g., mn10)",
+        "content": "Translation content",
+        "notes": "Notes",
+        "saveDraft": "Save draft",
+        "vi": "Vietnamese",
+        "en": "English"
+      }
+    },
+    "mentorship": {
+      "metaTitle": "Kalyāṇamitta Mentorship",
+      "metaDescription": "Connect mentors and mentees based on practice needs.",
+      "title": "Kalyāṇamitta Mentorship",
+      "subtitle": "Find a practitioner to walk with you",
+      "create": "Create profile",
+      "filters": {
+        "all": "All",
+        "mentor": "Mentor",
+        "mentee": "Mentee"
+      },
+      "role": {
+        "mentor": "Mentor",
+        "mentee": "Mentee"
+      },
+      "form": {
+        "name": "Name",
+        "mentor": "I want to mentor",
+        "mentee": "I want a mentor",
+        "location": "Location",
+        "languages": "Languages (comma separated)",
+        "practiceYears": "Years of practice",
+        "availability": "Availability",
+        "focusAreas": "Focus areas",
+        "bio": "Short bio",
+        "submit": "Save profile"
+      },
+      "location": "Location",
+      "languages": "Languages",
+      "practiceYears": "Practice years",
+      "availability": "Availability",
+      "unknown": "Unknown"
+    }
   },
   "theme": {
     "light": "Light mode",

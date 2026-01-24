@@ -4,10 +4,13 @@ import { useAppState } from '@/hooks/useAppState'
 import { suttas } from '@/data/suttas/index'
 import { teachings } from '@/data/teachings/index'
 import { BookOpen, Bookmark, Search, ChevronRight, GraduationCap, ScrollText } from 'lucide-react'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 type TabType = 'suttas' | 'teachings'
 
 export function DhammaLibrary() {
+    const { t } = useTranslation()
     const { state } = useAppState()
     const [searchTerm, setSearchTerm] = useState('')
     const [activeTab, setActiveTab] = useState<TabType>('suttas')
@@ -51,6 +54,11 @@ export function DhammaLibrary() {
         foundation: 'Nền tảng',
         practical: 'Thực hành đời sống'
     }
+
+    usePageMeta({
+        title: t('library.metaTitle'),
+        description: t('library.metaDescription')
+    })
 
     return (
         <div className="container mx-auto px-4 py-8 max-w-7xl">

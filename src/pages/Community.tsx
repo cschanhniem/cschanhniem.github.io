@@ -1,6 +1,14 @@
-import { Users, MessageCircle, Calendar, BookOpen, Heart, ExternalLink } from 'lucide-react'
+import { Users, MessageCircle, Calendar, Heart, ExternalLink, Sparkles } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 export function Community() {
+  const { t } = useTranslation()
+  usePageMeta({
+    title: t('community.metaTitle'),
+    description: t('community.metaDescription')
+  })
   const resources = [
     {
       title: 'Discord - Cộng Đồng Nhập Lưu',
@@ -10,22 +18,28 @@ export function Community() {
       isExternal: true
     },
     {
-      title: 'Nhóm Thiền Online',
-      description: 'Các buổi ngồi thiền chung trực tuyến cùng cộng đồng (sắp ra mắt)',
+      title: t('community.resources.circles.title'),
+      description: t('community.resources.circles.description'),
       icon: Users,
-      link: '#'
+      link: '/sangha-circles'
     },
     {
-      title: 'Lịch Sự Kiện',
-      description: 'Các khóa tu, pháp thoại và hoạt động Phật giáo (sắp ra mắt)',
+      title: t('community.resources.retreats.title'),
+      description: t('community.resources.retreats.description'),
       icon: Calendar,
-      link: '#'
+      link: '/retreats'
     },
     {
-      title: 'Thư Viện Pháp Âm',
-      description: 'Nghe pháp thoại từ các thiền sư uy tín (sắp ra mắt)',
-      icon: BookOpen,
-      link: '#'
+      title: t('community.resources.mentorship.title'),
+      description: t('community.resources.mentorship.description'),
+      icon: Heart,
+      link: '/mentorship'
+    },
+    {
+      title: t('community.resources.translation.title'),
+      description: t('community.resources.translation.description'),
+      icon: Sparkles,
+      link: '/translation-studio'
     }
   ]
 
@@ -89,10 +103,10 @@ export function Community() {
     <div className="container mx-auto px-4 py-8 max-w-6xl">
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-foreground mb-2">
-          Cộng Đồng Tu Tập
+          {t('community.title')}
         </h1>
         <p className="text-muted-foreground">
-          Kalyāṇamitta 4.0 - Thiện tri thức trong thời đại số
+          {t('community.subtitle')}
         </p>
       </div>
 
@@ -101,16 +115,16 @@ export function Community() {
         <div className="flex items-center justify-between flex-wrap gap-4">
           <div className="flex-1">
             <h2 className="text-2xl font-bold text-foreground mb-2">
-              Tham Gia Cộng Đồng Discord
+              {t('community.discord.title')}
             </h2>
             <p className="text-muted-foreground mb-4">
-              Kết nối với đạo hữu, chia sẻ kinh nghiệm tu tập, hỏi đáp về Pháp và nhận hỗ trợ từ cộng đồng Nhập Lưu
+              {t('community.discord.description')}
             </p>
             <ul className="text-sm text-muted-foreground space-y-1 mb-4">
-              <li>✓ Thảo luận kinh điển và pháp tu</li>
-              <li>✓ Chia sẻ kinh nghiệm thiền định</li>
-              <li>✓ Nhóm học Pāli cơ bản</li>
-              <li>✓ Hỗ trợ kỹ thuật và góp ý phát triển</li>
+              <li>✓ {t('community.discord.points.study')}</li>
+              <li>✓ {t('community.discord.points.practice')}</li>
+              <li>✓ {t('community.discord.points.pali')}</li>
+              <li>✓ {t('community.discord.points.support')}</li>
             </ul>
             <a
               href="https://discord.gg/FWgScmadrg"
@@ -119,7 +133,7 @@ export function Community() {
               className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-medium"
             >
               <MessageCircle className="h-5 w-5" />
-              Tham Gia Discord
+              {t('community.discord.cta')}
               <ExternalLink className="h-4 w-4" />
             </a>
           </div>
@@ -165,12 +179,13 @@ export function Community() {
           }
 
           return (
-            <div
+            <Link
               key={resource.title}
-              className="bg-card rounded-lg border border-border p-6 hover:shadow-md transition-shadow cursor-not-allowed opacity-60"
+              to={resource.link}
+              className="bg-card rounded-lg border border-border p-6 hover:shadow-md transition-shadow block"
             >
               {content}
-            </div>
+            </Link>
           )
         })}
       </div>

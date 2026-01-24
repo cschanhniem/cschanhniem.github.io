@@ -7,8 +7,11 @@ import { Search, BookOpen, Globe, Sparkles, ChevronRight, Filter } from 'lucide-
 import type { NikayaCollection, NikayaSuttaInfo } from '@/types/nikaya'
 import { NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getAvailableImproved } from '@/data/nikaya-improved'
+import { usePageMeta } from '@/lib/seo'
+import { useTranslation } from 'react-i18next'
 
 export function NikayaLibrary() {
+    const { t } = useTranslation()
     // Data Loading State
     const [loading, setLoading] = useState(true)
     const [suttas, setSuttas] = useState<NikayaSuttaInfo[]>([])
@@ -21,6 +24,11 @@ export function NikayaLibrary() {
     // Pagination State
     const [currentPage, setCurrentPage] = useState(1)
     const ITEMS_PER_PAGE = 20
+
+    usePageMeta({
+        title: t('nikaya.metaTitle'),
+        description: t('nikaya.metaDescription')
+    })
 
     // Fetch suttas index on mount
     useEffect(() => {
