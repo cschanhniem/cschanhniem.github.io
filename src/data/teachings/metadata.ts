@@ -119,6 +119,16 @@ export const teachingMetadata: TeachingMetadata[] = [
         difficulty: 'advanced',
     },
     {
+        id: 'huong-dan-vao-cac-tang-thien',
+        title: 'Hướng Dẫn Đi Vào Các Tầng Thiền',
+        author: 'Leigh Brasington',
+        translator: 'Ban biên tập Nhập Lưu',
+        summary: 'Bản hướng dẫn ngắn, rõ, và thực hành trực tiếp về cách nuôi cận định, chuyển sang cảm giác dễ chịu, và để sơ thiền khởi sinh mà không gượng ép.',
+        type: 'guide',
+        themes: ['jhāna', 'sơ thiền', 'cận định', 'anapanasati', 'định học'],
+        difficulty: 'advanced',
+    },
+    {
         id: 'phan-tich-cac-tang-thien',
         title: 'Khảo Luận Về Các Tầng Thiền',
         titlePali: 'A Critical Analysis of the Jhānas',

@@ -31,6 +31,7 @@ const teachingImports: Record<string, () => Promise<{ default: Teaching }>> = {
     'van-dap-tinh-hoa': () => import('@/data/teachings/van-dap-tinh-hoa'),
     'guong-sang-thanh-tang': () => import('@/data/teachings/guong-sang-thanh-tang'),
     'dinh-hoc-tinh-hoa': () => import('@/data/teachings/dinh-hoc-tinh-hoa'),
+    'huong-dan-vao-cac-tang-thien': () => import('@/data/teachings/huong-dan-vao-cac-tang-thien'),
     'phan-tich-cac-tang-thien': () => import('@/data/teachings/phan-tich-cac-tang-thien'),
     'tam-gioi-vu-tru-quan': () => import('@/data/teachings/tam-gioi-vu-tru-quan'),
     'tinh-hoa-kinh-dien': () => import('@/data/teachings/tinh-hoa-kinh-dien'),
