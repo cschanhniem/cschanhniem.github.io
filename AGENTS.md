@@ -19,6 +19,12 @@ Backend (optional):
 - `cd backend && npm run dev` — local Workers
 - `cd backend && npm run deploy` — deploy Workers
 
+## Deployment Reality
+- Frontend is published by GitHub Pages from this repo's `main` branch via `.github/workflows/deploy.yml`.
+- The current git remote points at `git@github.com:cschanhniem/cschanhniem.github.io.git`, so `main` publishes the root Pages site, not a project subpath build.
+- Vite `base` is `/`, which matches the current Pages setup.
+- Static teaching additions like long-form books do not require a backend deploy unless API behavior changed.
+
 ## Repo Map
 - `src/pages/` — route-level screens
 - `src/components/` — feature + layout components
@@ -26,7 +32,11 @@ Backend (optional):
 - `src/hooks/` — app hooks (`useAppState`, `useCheckIn`)
 - `src/contexts/` — auth/theme providers
 - `src/data/` + `public/data/` — sutta + Nikaya content
+- `src/content/teachings/` — long-form manuscript markdown sources
+- `public/teachings/` — appendix charts, scanned tables, static teaching assets
+- `scripts/` — ingestion utilities and one-off content pipelines
 - `design-system.md` + `src/index.css` — design tokens
+- `SKILL.md` — manuscript ingestion workflow with diagrams
 
 ## UI + UX Conventions
 - Use Tailwind + semantic tokens (`bg-card`, `text-foreground`, etc.).
@@ -44,6 +54,43 @@ Backend (optional):
   `localStorage` under `nhapluu-app-state`.
 - Prefer `useAppState` actions over ad-hoc localStorage writes.
 - Reading progress uses `nhapluu_progress_*` keys; keep consistent.
+
+## Long-Form Content
+- Prefer chapterized markdown in `src/content/teachings/<slug>/`.
+- Keep the site bridge thin: a teaching module should map metadata plus ordered chapter imports.
+- When appendix OCR is visibly broken, preserve the source layout as images under `public/teachings/<slug>/`.
+- For manuscript ingestion or translation work, read `SKILL.md` before changing the pipeline.
+- When a Vietnamese chapter is not yet publication-grade, let the teaching module fall back to English instead of shipping weak prose.
+
+## Book Pipeline Map
+
+```mermaid
+stateDiagram-v2
+    [*] --> Extracted
+    Extracted --> Cleaned
+    Cleaned --> Chapterized
+    Chapterized --> Registered
+    Registered --> Built
+    Built --> Published
+    Registered --> Cleaned: structure mismatch
+    Built --> Registered: route or metadata defect
+```
+
+```mermaid
+sequenceDiagram
+    participant PDF
+    participant Script
+    participant Content
+    participant TeachingModule
+    participant Pages
+
+    PDF->>Script: source manuscript
+    Script->>Content: English markdown chapters
+    Script->>Content: appendix image assets
+    Content->>TeachingModule: vi chapter if ready, else en fallback
+    TeachingModule->>Pages: metadata + lazy route import
+    Pages->>Pages: build on main push
+```
 
 ## Routing + Navigation
 - Add routes in `src/App.tsx`.

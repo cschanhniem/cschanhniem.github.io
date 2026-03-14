@@ -13,6 +13,7 @@ import thienBaoHo from './thien-bao-ho'
 import vanDapTinhHoa from './van-dap-tinh-hoa'
 import guongSangThanhTang from './guong-sang-thanh-tang'
 import dinhHocTinhHoa from './dinh-hoc-tinh-hoa'
+import phanTichCacTangThien from './phan-tich-cac-tang-thien'
 import tamGioiVuTruQuan from './tam-gioi-vu-tru-quan'
 import tinhHoaKinhDien from './tinh-hoa-kinh-dien'
 import chanhNiemHangNgay from './chanh-niem-hang-ngay'
@@ -44,6 +45,7 @@ export const teachings = [
 
     // === PRACTICE ===
     dinhHocTinhHoa,       // Samadhi (Concentration)
+    phanTichCacTangThien, // Academic Jhana Study
     trangThaiThienSau,    // Deep Meditation States
     thienBaoHo,           // Protection (Paritta)
     vanDapTinhHoa,        // Dialogue (Q&A)
@@ -84,6 +86,7 @@ export {
     vanDapTinhHoa,
     guongSangThanhTang,
     dinhHocTinhHoa,
+    phanTichCacTangThien,
     tamGioiVuTruQuan,
     tinhHoaKinhDien,
     khoTangPhapSo,

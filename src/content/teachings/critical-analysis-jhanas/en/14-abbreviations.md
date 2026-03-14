@@ -1,0 +1,35 @@
+- AN. The Aṅguttara Nikāya
+- AN.A. The Aṅguttara Nikāya ALLhakatha (ManorathapūraKi)
+- AN.T. The Aṅguttara Nikāya Ṭīkā (Sāratthamañjūsā)
+- BD. The Book of the Discipline
+- BMTP. Buddhist Meditation in Theory and Practice
+- Dhp. The Dhammapada
+- Dhs. The Dhammasaṅgaṇi
+- Dhs.A. The Dhammasaṅgaṇi Aṭṭhakathā (ALLhasālinī)
+- DN. The Dīgha Nikāya
+- DN.A. The Dīgha Nikāya Aṭṭhakathā (SumaPgala Vilāsini)
+- DN.T. The Dīgha Nikāya Ṭīkā
+- Dial. Dialogues of the Buddha
+- GS. The Book of the Gradual Saying
+- KS. The Book of the Kindred Sayings
+- Milp. The Milindapañha
+- MLS. The Middle Length Sayings
+- MN. The Majjhima Nikāya
+- MN.A. The Majjhima Nikāya Aṭṭhakathā (Papañcasūdani)
+- MN.T. The Majjhima Nikāya Ṭīkā
+- PI. Progress of Insight
+- PP. Path of Purification
+- Psy. Ethics. Buddhist Psychological Ethics
+- Pts. The Paṭisambhidāmagga
+- Pts.A. The Paṭisambhidāmagga Aṭṭhakathā (Saddhammappakāsinī)
+- Pug.P. The Dhātukathā Puggalapaññattipāli
+- QKM. The Questions of King Milinda
+- SN. The Saṃyutta Nikāya
+- SN.A. The Saṃyutta Nikāya Aṭṭhakathā (Sāratthapakāsanī)
+- SN.T. The Saṃyutta Nikāya Ṭīkā
+- Vibh. The Vibhaṅga
+- Vimv.T. The Vimativinodani Ṭīkā (SamantapāsādikāLīkā)
+- Vinp. The Vinaya PiṭakaM
+- Vin.A. The VinayaLLhakathā (Samantapāsādikā)
+- Vism. The Visuddhimagga
+- Vism.T. The Visuddhimagga Mahā Ṭīkā (Paramatthamañjūsā).

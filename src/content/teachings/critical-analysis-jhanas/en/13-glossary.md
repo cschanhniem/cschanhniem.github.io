@@ -1,0 +1,367 @@
+- Abhijjamāna unbroken
+- Abhiññā direct knowledge
+- Abyāpajja free from trouble
+- Ādesanā manifestation
+- Adhicitta higher consciousness
+- Adhipaññā higher wisdom
+- Adhisīla higher morality
+- Ādīnava danger, unsatisfactoriness
+- Adukkhamasukha neither-pain-nor-pleasure
+- Āhāra nutriment
+- Ajjhupekkhana equanimity
+- Akallatā indisposition
+- Akammaññatā unwieldiness
+- AkaKiLLha the highest realm
+- Ākāraparivitakka reflection on reason
+- Ākāravatī rational
+- Ākāsānañcāyatana the base of boundless space
+- Ākiñcaññāyatana the base of nothingness
+- Akusala unwholesome
+- Amanasikāra non-attention
+- Anāgāmi non-returner
+- AnāgataMsañāKa knowledge of the future
+- Anaññātaññassāmitindriya the faculty of ‘I shall know the unknown’
+- Ananta unbounded
+- Ānāpānasati mindfulness of breathing
+- Anattā selfless, non-self
+- APga factor
+- Anicca impermanent
+- Animitta signless
+- Aññātavindriya the faculty of the completion of final knowledge
+- Aññindriya the faculty of final knowledge
+- Anubhavana experiencing
+- Anuloma conformity
+- Anupādisesanibbānadhātu the nibbāna element without residue
+- Anupassanā contemplation
+- Anupāyamanasikāra inexpedient reflection, reflection on wrong track
+- AnupubbasaPkhāranirodha the gradual cessation of formation
+- Anusāsana education or instruction
+- Anussati recollection
+- Apacayagāmi leading to demolition
+- Aparihāniya invincible
+- Aparisesa without remainder
+- Apāyabhūmi the plane of misery
+- Apilāpanatā not floating away
+- Appamānābha the realm of infinite luster
+- Appamānasubha the realm of infinite aura
+- Appanā absorption
+- Appanihita desireless
+- Arahat a perfectly enlightened individual (untranslated)
+- Ārambhadhātu element of effort
+- ĀrammaKa object
+- Ariya noble; a noble one
+- Āruppa immaterial state
+- Arūpāvacarabhūmi immaterial sphere
+- AsaPkhata unconditioned
+- AsaPkheyya incalculable
+- Asaññasatta the realm of non-percipient beings
+- Asāraka coreless
+- Āsava canker
+- ĀsavakkhayañāKa knowledge of the destruction of the cankers
+- Assāda gratification
+- Asubha foulness
+- Asurakāya the host of titans
+- Atappa the serene realm
+- Atītabhavaṅga past moment of life continuum
+- Attanodhammatāya by one’s own nature
+- Aṭṭhakathā commentaries
+- Āvajjana adverting
+- Aveccappasāda confidence born of understanding
+- Āvībhāva appearance
+- Aviha the durable realm
+- Avijjā ignorance
+- Bala power
+- Bhaṅga dissolution
+- Bhava existence, becoming
+- Bhāvanā development
+- Bhavaṅga life continuum
+- Bhavaṅgupaccheda cutting off or arrest of the passive consciousness
+- Bhaya fear, fearful, terror
+- Bhūmi plane, realm
+- Bojjhaṅga enlightenment factor
+- Brahmapārisajja retinue of Brahma
+- Brahmavihāra divine abiding
+- Byāpāda ill will
+- Candimā moon
+- CaraKa conduct
+- Carita temperament
+- Cātummahārājika the realm of the four great kings
+- Cetasika mental factor
+- CetopariyañāKa the knowledge of others’ mind
+- Cetovimutti liberation of mind
+- Chanda zeal
+- Citta mind, consciousness
+- Cittavīthi active process of consciousness
+- CutūpapātañāKa the knowledge of passing away and rebirth of beings
+- Dassana vision
+- Dhamma [1] doctrine, truth; [2] mental object, phenomena
+- Dhammacchando desire for dhamma
+- Dhammānusāri truth-devotee
+- Dhātumanasikāra reflection on the modes of materiality
+- Dibbacakkhu the divine eye
+- Dibbasotadhātu the divine ear-element
+- Dibbavihāra heavenly dwelling
+- DiLLhadhammanibbāna nibbāna here and now
+- DiLLhi. views, wrong views
+- DiLLhippatta attained to understanding
+- Domanassa grief
+- Dosa hatred
+- Ekaggatā one-pointedness (of mind)
+- Ekodibhāva unification (of mind)
+- Gantha bodily ties
+- Garuka weighty
+- Gotrabhū change-of-lineage
+- Hadayarūpa the matter of the heart
+- Iddhi wonder or marvel
+- IddhividhañāKa knowledge of the modes of supernormal powers
+- Indriya faculty
+- IndriyasammattapaLipādana balancing the spiritual faculties
+- IndriyasaMvara the restraint of the senses
+- Jhāna states of absorption in meditation [untranslated]
+- Jhānaṅga jhana factor
+- Jhānakkantika skipping alternate jhanas
+- Jhāyati thinks
+- Kalāpasammasana comprehension by groups
+- KalyāKamitta good friend
+- Kāma sense pleasure; sensual desire
+- Kāmacchanda sensual desire
+- KāmapariSāha the fever of sensuality
+- Kāmapariyesanā the search for sensual gratification
+- Kamati travels
+- Kāmāvacara sense sphere
+- Kamma volitional action [untranslated]
+- Kāmūpādāna clinging to sense pleasure
+- KasiKa a device used as an object of concentration [untranslated]
+- KasiKukkantika skipping alternate kasina
+- Kattukamyatā desire to accomplish some aim
+- Kāya body
+- Kāyasakkhi body-witness
+- Kāyaviveka bodily seclusion
+- Khandha aggregates
+- KhaKika momentary
+- Khaya destruction
+- Khuddika minor
+- Kilesa defilement
+- Kukkucca worry
+- Kusala wholesome
+- Kusalacittassekaggatā wholesome one-pointedness of mind
+- LakkhaKa characteristics
+- LakkhaKūpanijjhāna the contemplation of the characteristics of phenomena
+- Lobha greed
+- Lokiya mundane
+- Lokuttara supramundane
+- Magga path
+- Mahāpurisavitakka thoughts of a great man
+- Māna conceit
+- Manodvāra mind door
+- ManomayiddhiñāKa knowledge of the mind-created body
+- Manussaloka the human world
+- Micchāsamādhi wrong concentration
+- Middha torpor
+- Moha delusion
+- Nāma mentality
+- Nāmarūpa mentality-materiality
+- ÑāKa knowledge
+- Nevasaññānāsaññāyatana the base of neither perception nor non-perception
+- Nibbāna [untranslated]
+- Nibbidā dispassion
+- Niggaha restraining
+- Nikkamadhātu element of exertion
+- NimittavaUUhana extension of sign
+- NimmāKarati rejoicing in one’s own creation
+- Nirāmisasukha spiritual happiness
+- Niraya woeful state
+- Nirodha cessation
+- Nirujjhati ceases
+- NīvaraKa hindrance
+- Niyyānika emancipating
+- Ogha floods
+- Okkantika showering
+- Orambhāgiva pertaining to the lower worlds
+- PaccattaM within oneself (within themselves)
+- PaccavekkhaKa reviewing
+- PaccayaLLhāna objective station
+- Paccekabuddha individual or silent Buddha [untranslated]
+- PaccupaLLhāna manifestation
+- Pāda basis
+- Pādakajjhāna basic jhana
+- Paggaha exerting the mind
+- Pahāna abandonment
+- Pahānaṅga factors of abandonment
+- Pajānana the act of understanding
+- Pakkhapātita partiality
+- Pakkhi bird
+- Palibodha impediment
+- PallaPka sitting cross-legged
+- Pāmojja gladness
+- Pañca five
+- PāKi hand
+- Paññā wisdom
+- Paññatti a conceptual entity
+- Paññāvimutta liberated by wisdom
+- Paññāvimutti liberation by wisdom
+- Papañca impediments
+- Parakkamadhātu element of striving
+- Paranimmitavasavatti the realm of gods who lord over the creations of others
+- Pariggaha discerning
+- Parikammanimitta preliminary sign
+- Parikammasamādhi preliminary concentration
+- Parikkhāra requisites
+- Parimajjati strokes
+- Parimasati touches
+- Parinibbāna final nibbāna
+- Pariññā full understanding
+- Parittābha the realm of minor luster
+- Parittasubha the realm of minor aura
+- Parivitakka reflection
+- Pariyāyena figuratively
+- Passaddhi tranquility
+- PaLibhāganimitta counterpart sign
+- PaLigha aversion
+- PiLihāriya wonder
+- PaLiloma reverse order
+- PaLisaMvedeti experiences
+- Pavivekasukha happiness born of seclusion from sense pleasures and the hindrances
+- Pettivisaya the sphere of tormented spirits or “hungry ghosts”
+- Phala fruit, fruition
+- PharaKa pervading
+- Phassa contact
+- Pīti rapture
+- Pubbaṅgama forerunner
+- PubbenivāsānussatiñāKa the knowledge of recollecting previous lives
+- Puggala individual
+- Puggalajjhāsaya inclination of individuals
+- Purecārika precursor
+- Puthujjana the ordinary man
+- Rāga lust
+- Rasa function
+- Rūpa material form
+- Rūpāvacara fine material sphere
+- SabbacittasādhāraKa universal concomitant of consciousness
+- Sabhāva the true nature
+- Sacchikiriya realization
+- Saddhā faith
+- Saddhānusārī faith-devotee
+- Saddhāpadānāni foundations of faith
+- Saddhāvimutta liberated by faith
+- Sakadāgāmi Once-returner
+- SakkāyadiLLhi personality-view
+- SakuKa bird
+- Samādhi concentration
+- Samādhikkhandha group of concentration
+- Samannāgataṅgāni factors of possession
+- Samantapāsādikā completely inspiring
+- Samāpatti attainment
+- Samatha serenity
+- Samathayānika one who makes serenity his vehicle
+- Samatikkama having surmounted
+- SaMkappa intention
+- Sammā right
+- Sammasana comprehension
+- Sammasitajjhāna comprehended jhana
+- SampahaPsana encouraging
+- Sampajañña discernment
+- Sampasādana confidence
+- SaMsāra the round of repeated becoming
+- Samucchedappahāna abandonment by eradication
+- SaMvara restraint
+- SaMvatteti exercises
+- SaMyojana fetter
+- SandiLLhikanibbāna immediately visible nibbāna
+- Sañjānana the mode of perceiving
+- SaPkantika transposition
+- SaPkappa intention
+- SaMkhāra [1] formation, [2] mental formation, [3] volitional formation
+- Saññā perception
+- SantuLLhi contentment
+- Sati mindfulness
+- SatipaLLhāna foundation of mindfulness
+- SayambhūñāKa self-evolved wisdom
+- Setughāta breaking the bridge
+- Sikkhā training
+- Sīla morality
+- Sīlabbataparāmāsa clinging to rites and rituals
+- Sobhana beautiful
+- Somanassa joy
+- Sotāpanna stream-enterer
+- Sotāpatti stream-entry
+- SubhakiKha the realm of steady aura
+- Suddhāvāsa the pure abode
+- Sugatibhūmi plane of happiness
+- Sukha happiness, pleasure, pleasant
+- Sukkhavipassaka dry insight worker
+- Suññātā voidness
+- Suriya sun
+- TadaPganibbāna factor of nibbāna
+- Takkavīthi reasoning
+- Tatramajjhattatā specific neutrality
+- TāvatiMsa the realm of the thirty-three gods
+- Tevijja triple knowledge
+- Thīna sloth
+- Xhīti presence
+- Ṭīkā subcommentary
+- Tiracchānayoni animal kingdom
+- Tirobhāva disappearance
+- TirokuUUaM through walls
+- Tiro-pabbataM through mountains
+- Tiro-pākāraM through enclosures
+- Tisso sikkhā three trainings
+- Tunhībhāva silence
+- Ubbega uplifting
+- Ubhatobhāgavimutta liberated in both ways
+- Udaka water
+- Udayabbaya rise and fall
+- Uddhacca restlessness
+- Uddhambhāgiya pertaining to the higher worlds
+- Uggahanimitta learning sign
+- Ummujja-nimujjaM dive in and out
+- Upacāra access
+- Upacārasamādhi access concentration
+- Upādāna clinging
+- Upadhiviveka seclusion from the substance
+- Upakkilesa impediment, corruption
+- Upanijjhāna contemplation
+- Upekkhā equanimity
+- Uppāda arising
+- Uttarati rises up
+- VacīsaPkhāra activity of speech
+- Vasitā mastery
+- Vatthukāma objective sense pleasure
+- Vavassagga renunciation
+- Vavatthāpana definition
+- Vedanā feeling
+- Vedayita being felt
+- Veditabba to be realized
+- Vicāra sustained thought
+- Vicaya investigation
+- Vicikicchā doubt
+- VihiMsā vitakka thought of harming
+- Vijānana mode of cognizing
+- Vijjā knowledge
+- VijjācaraKasampanna endowed with knowledge and conduct
+- Vikkhambhanaviveka seclusion by suppression
+- Vikkhambanappahāna abandoning by way of suppression
+- Vikubbana transformation
+- VīmaMsa inquiry
+- Vimokkha (Vimokha) liberation
+- Vimokkhamukha gateway to liberation
+- Vimutti emancipation
+- Vimuttirasa taste of freedom
+- Vinipāta the downfall
+- VinīvaraKacitta the mind devoid of the hindrances
+- ViññāKa consciousness
+- ViññāKañcāyatana base of boundless consciousness
+- ViYYu the wise
+- Vipāka result
+- Vipassanā insight
+- Vipassanāyānika one who makes (bare) insight his vehicle
+- Viriya energy
+- Visuddhi purification
+- Vitakka applied thought
+- Viveka seclusion
+- VuLLhāna emergence
+- Yāna vehicle
+- YathākammūpagañāKa knowledge of faring according to kamma
+- Yoga bonds
+- Yogin meditator
+- Yonisomanasikāra wise consideration

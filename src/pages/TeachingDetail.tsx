@@ -31,6 +31,7 @@ const teachingImports: Record<string, () => Promise<{ default: Teaching }>> = {
     'van-dap-tinh-hoa': () => import('@/data/teachings/van-dap-tinh-hoa'),
     'guong-sang-thanh-tang': () => import('@/data/teachings/guong-sang-thanh-tang'),
     'dinh-hoc-tinh-hoa': () => import('@/data/teachings/dinh-hoc-tinh-hoa'),
+    'phan-tich-cac-tang-thien': () => import('@/data/teachings/phan-tich-cac-tang-thien'),
     'tam-gioi-vu-tru-quan': () => import('@/data/teachings/tam-gioi-vu-tru-quan'),
     'tinh-hoa-kinh-dien': () => import('@/data/teachings/tinh-hoa-kinh-dien'),
     'chanh-niem-hang-ngay': () => import('@/data/teachings/chanh-niem-hang-ngay'),
@@ -257,6 +258,13 @@ export function TeachingDetail() {
                                                     ),
                                                     li: ({ children }) => (
                                                         <li className="text-foreground/90">{children}</li>
+                                                    ),
+                                                    img: ({ src, alt }) => (
+                                                        <img
+                                                            src={src}
+                                                            alt={alt ?? ''}
+                                                            className="w-full rounded-lg border border-border/60 shadow-sm"
+                                                        />
                                                     ),
                                                     blockquote: ({ children }) => (
                                                         <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground my-4">
