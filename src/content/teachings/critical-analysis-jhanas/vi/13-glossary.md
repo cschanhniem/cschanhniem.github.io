@@ -1,0 +1,365 @@
+- Abhijjamāna: không đứt đoạn
+- Abhiññā: thắng trí, tri kiến cao hơn
+- Abyāpajja: không phiền hại, không khổ não
+- Ādesanā: sự biểu lộ, sự hiển hiện
+- Adhicitta: tâm cao hơn, phần tu học về định
+- Adhipaññā: tuệ cao hơn
+- Adhisīla: giới cao hơn
+- Ādīnava: hiểm họa, mặt nguy hại, tính bất toại nguyện
+- Adukkhamasukha: không khổ không lạc
+- Āhāra: dưỡng chất, thực dưỡng, điều kiện nuôi sống
+- Ajjhupekkhana: nhìn với tâm xả, quân bình
+- Akallatā: bất an, không khỏe khoắn
+- Akammaññatā: khó sử dụng, không nhu nhuyễn
+- Akaṇiṭṭha: cõi cao nhất
+- Ākāraparivitakka: suy xét theo phương diện, suy lý theo dấu hiệu
+- Ākāravatī: có lý do, có căn cứ
+- Ākāsānañcāyatana: không vô biên xứ
+- Ākiñcaññāyatana: vô sở hữu xứ
+- Akusala: bất thiện
+- Amanasikāra: không tác ý, không để tâm
+- Anāgāmi: Bất lai
+- Anāgataṃsañāṇa: trí biết vị lai
+- Anaññātaññassāmitindriya: căn “sẽ biết điều chưa biết”
+- Ananta: vô biên
+- Ānāpānasati: niệm hơi thở
+- Anattā: vô ngã
+- Aṅga: chi, yếu tố
+- Anicca: vô thường
+- Animitta: vô tướng
+- Aññātavindriya: căn viên mãn tri kiến tối hậu
+- Aññindriya: căn tri kiến tối hậu
+- Anubhavana: kinh nghiệm, cảm nhận
+- Anuloma: thuận thứ, tùy thuận
+- Anupādisesanibbānadhātu: Niết-bàn giới vô dư y
+- Anupassanā: quán sát
+- Anupāyamanasikāra: tác ý sai đường, quán chiếu không khéo
+- Anupubbasaṅkhāranirodha: sự diệt dần của các hành
+- Anusāsana: giáo giới, chỉ dạy
+- Anussati: tùy niệm, sự hồi tưởng có chánh niệm
+- Apacayagāmi: dẫn đến đoạn giảm, dẫn đến tháo dỡ vòng hữu
+- Aparihāniya: bất thoái, không suy giảm
+- Aparisesa: không dư sót
+- Apāyabhūmi: cõi khổ
+- Apilāpanatā: không trôi dạt
+- Appamānābha: cõi vô lượng quang
+- Appamānasubha: cõi vô lượng tịnh
+- Appanā: an chỉ, an trú toàn phần
+- Appanihita: vô nguyện
+- Arahat: A-la-hán
+- Ārambhadhātu: yếu tố khởi lực
+- Ārammaṇa: đối tượng
+- Ariya: Thánh, cao quý
+- Āruppa: vô sắc, cảnh giới vô sắc
+- Arūpāvacarabhūmi: cõi vô sắc
+- Asaṅkhata: vô vi, không bị tạo tác
+- Asaṅkheyya: không thể tính kể
+- Asaññasatta: cõi vô tưởng hữu tình
+- Asāraka: không lõi, không thực chất
+- Āsava: lậu hoặc
+- Āsavakkhayañāṇa: trí đoạn tận lậu hoặc
+- Assāda: vị ngọt, sự thỏa thích
+- Asubha: bất tịnh
+- Asurakāya: chúng A-tu-la
+- Atappa: cõi vô nhiệt, an tĩnh
+- Atītabhavaṅga: hữu phần quá khứ
+- Attanodhammatāya: do chính bản tính của nó
+- Aṭṭhakathā: chú giải
+- Āvajjana: hướng tâm, tác ý hướng đến
+- Aveccappasāda: tịnh tín do hiểu biết
+- Āvībhāva: sự hiện ra
+- Aviha: cõi vô phiền
+- Avijjā: vô minh
+- Bala: lực
+- Bhaṅga: hoại diệt, tan rã
+- Bhava: hữu, hiện hữu, trở thành
+- Bhāvanā: tu tập, phát triển
+- Bhavaṅga: hữu phần
+- Bhavaṅgupaccheda: sự cắt đứt dòng hữu phần
+- Bhaya: nỗi sợ, tính đáng sợ
+- Bhūmi: địa, cõi, tầng
+- Bojjhaṅga: giác chi
+- Brahmapārisajja: cõi Phạm chúng thiên
+- Brahmavihāra: phạm trú
+- Byāpāda: sân, ác ý
+- Candimā: mặt trăng
+- Caraṇa: hạnh, nết sống, hạnh kiểm
+- Carita: căn tánh, khí chất
+- Cātummahārājika: cõi Tứ Đại Thiên Vương
+- Cetasika: tâm sở
+- Cetopariyañāṇa: tha tâm trí
+- Cetovimutti: tâm giải thoát
+- Chanda: dục, ý muốn, nhiệt tâm
+- Citta: tâm, tâm thức
+- Cittavīthi: lộ trình tâm
+- Cutūpapātañāṇa: trí biết sự chết và tái sinh của chúng sinh
+- Dassana: thấy, tri kiến
+- Dhamma: pháp; chân lý; hiện tượng; đối tượng của tâm
+- Dhammacchando: ước muốn đối với pháp
+- Dhammānusāri: pháp hành
+- Dhātumanasikāra: quán sát các đại, tác ý về chất liệu
+- Dibbacakkhu: thiên nhãn
+- Dibbasotadhātu: thiên nhĩ giới
+- Dibbavihāra: thiên trú
+- Diṭṭhadhammanibbāna: Niết-bàn hiện tại
+- Diṭṭhi: kiến, tà kiến
+- Diṭṭhippatta: kiến chí, đạt đến chánh kiến
+- Domanassa: ưu, buồn bực
+- Dosa: sân, ghét
+- Ekaggatā: nhất tâm
+- Ekodibhāva: sự hợp nhất của tâm
+- Gantha: hệ phược, ràng buộc
+- Garuka: trọng, nặng
+- Gotrabhū: chuyển tánh, chuyển dòng
+- Hadayarūpa: sắc pháp của tim
+- Iddhi: thần túc, năng lực siêu thường
+- Iddhividhañāṇa: trí biết các loại thần thông
+- Indriya: căn
+- Indriyasamattapaṭipādana: làm cho các căn quân bình
+- Indriyasaṃvara: hộ trì các căn
+- Jhāna: tầng thiền, an chỉ
+- Jhānaṅga: thiền chi
+- Jhānakkantika: vượt cách tầng thiền
+- Jhāyati: thiền tư, đốt cháy
+- Kalāpasammasana: quán sát theo nhóm, quán tụ
+- Kalyāṇamitta: thiện hữu tri thức
+- Kāma: dục, khoái lạc giác quan
+- Kāmacchanda: dục tham
+- Kāmapariḷāha: cơn sốt của dục
+- Kāmapariyesanā: sự truy cầu dục lạc
+- Kamati: đi, di chuyển
+- Kāmāvacara: dục giới
+- Kamma: nghiệp
+- Kāmūpādāna: chấp thủ dục
+- Kasiṇa: biến xứ
+- Kasiṇukkantika: vượt cách đề mục biến xứ
+- Kattukamyatā: ý muốn thành tựu một mục tiêu
+- Kāya: thân
+- Kāyasakkhi: thân chứng
+- Kāyaviveka: thân viễn ly
+- Khandha: uẩn
+- Khaṇika: sát-na, khoảnh khắc
+- Khaya: tận diệt, hao mòn
+- Khuddika: nhỏ, vi tế
+- Kilesa: phiền não
+- Kukkucca: hối quá, bứt rứt
+- Kusala: thiện
+- Kusalacittassekaggatā: nhất tâm của thiện tâm
+- Lakkhaṇa: tướng, đặc tính
+- Lakkhaṇūpanijjhāna: quán chiếu đặc tính các pháp
+- Lobha: tham
+- Lokiya: thế gian
+- Lokuttara: siêu thế
+- Magga: đạo
+- Mahāpurisavitakka: những tư tưởng của bậc đại nhân
+- Māna: ngã mạn
+- Manodvāra: ý môn
+- Manomayiddhiñāṇa: trí về thân do ý sinh
+- Manussaloka: cõi người
+- Micchāsamādhi: tà định
+- Middha: thụy miên
+- Moha: si
+- Nāma: danh, phần tâm lý
+- Nāmarūpa: danh sắc
+- Ñāṇa: trí, tri kiến
+- Nevasaññānāsaññāyatana: phi tưởng phi phi tưởng xứ
+- Nibbāna: Niết-bàn
+- Nibbidā: nhàm chán ly tham, yếm ly
+- Niggaha: chế ngự
+- Nikkamadhātu: yếu tố xuất lực
+- Nimittavaḍḍhana: mở rộng tướng
+- Nimmāṇarati: cõi trời Hóa lạc
+- Nirāmisasukha: lạc không còn mùi vị ngũ dục, lạc tinh thần
+- Niraya: địa ngục
+- Nirodha: diệt
+- Nirujjhati: chấm dứt, tắt lịm
+- Nīvaraṇa: triền cái
+- Niyyānika: đưa ra khỏi, giải thoát
+- Ogha: bộc lưu
+- Okkantika: trút xuống thành đợt, ào ạt
+- Orambhāgiya: thuộc phần thấp, thuộc hạ phần
+- Paccattaṃ: tự mình, nơi chính mình
+- Paccavekkhaṇa: phản quán, xét lại
+- Paccayaṭṭhāna: chỗ làm duyên, nền điều kiện
+- Paccekabuddha: Độc giác Phật
+- Paccupaṭṭhāna: sự hiện hành, mặt biểu hiện
+- Pāda: nền, chân, căn bản
+- Pādakajjhāna: thiền làm nền
+- Paggaha: nâng đỡ, thúc tâm lên
+- Pahāna: đoạn trừ
+- Pahānaṅga: các yếu tố đoạn trừ
+- Pajānana: sự hiểu biết đúng
+- Pakkhapātita: thiên lệch
+- Pakkhi: chim
+- Palibodha: chướng ngại, vướng bận
+- Pallaṅka: ngồi kiết già, tréo chân
+- Pāmojja: hân hoan, hoan hỷ dịu
+- Pañca: năm
+- Pāṇi: bàn tay
+- Paññā: tuệ
+- Paññatti: khái niệm, giả danh
+- Paññāvimutta: tuệ giải thoát
+- Paññāvimutti: sự giải thoát nhờ tuệ
+- Papañca: hý luận, sự lan man làm chướng ngại tâm
+- Parakkamadhātu: yếu tố dũng lực, nỗ lực tiến tới
+- Paranimmitavasavatti: cõi trời Tha hóa tự tại
+- Pariggaha: nắm bắt, nhận định phân biệt
+- Parikammanimitta: sơ tướng, tướng chuẩn bị
+- Parikammasamādhi: định chuẩn bị
+- Parikkhāra: trợ cụ, tư lương, điều kiện hỗ trợ
+- Parimajjati: chà xát, vuốt
+- Parimasati: chạm, sờ
+- Parinibbāna: bát Niết-bàn, Niết-bàn hoàn toàn
+- Pariññā: liễu tri, hiểu biết trọn vẹn
+- Parittābha: cõi trời Thiểu quang
+- Parittasubha: cõi trời Thiểu tịnh
+- Parivitakka: suy tư, nghiền ngẫm
+- Pariyāyena: theo nghĩa ước lệ, theo cách nói
+- Passaddhi: khinh an, an tĩnh
+- Paṭibhāganimitta: ảnh tượng đối trị
+- Paṭigha: đối kháng, phản ứng va chạm
+- Paṭiloma: ngược thứ tự
+- Paṭisaṃvedeti: cảm nghiệm, trực nhận
+- Pavivekasukha: lạc do viễn ly dục và triền cái
+- Pettivisaya: cảnh giới ngạ quỷ
+- Phala: quả
+- Pharaṇa: sự thấm khắp, bao trùm
+- Phassa: xúc
+- Pīti: hỷ
+- Pubbaṅgama: đi trước, tiền đạo
+- Pubbenivāsānussatiñāṇa: túc mạng trí
+- Puggala: cá nhân, người
+- Puggalajjhāsaya: khuynh hướng của mỗi người
+- Purecārika: đi trước, mở đường
+- Puthujjana: phàm phu
+- Rāga: ái nhiễm, tham ái
+- Rasa: chức năng, tác dụng
+- Rūpa: sắc
+- Rūpāvacara: sắc giới
+- Sabbacittasādhāraṇa: tâm sở phổ thông cho mọi tâm
+- Sabhāva: tự tánh, bản chất riêng
+- Sacchikiriya: chứng ngộ, hiện chứng
+- Saddhā: tín
+- Saddhānusārī: tín hành
+- Saddhāpadānāni: nền tảng của tín
+- Saddhāvimutta: tín giải thoát
+- Sakadāgāmi: Nhất lai
+- Sakkāyadiṭṭhi: thân kiến
+- Sakuṇa: chim
+- Samādhi: định
+- Samādhikkhandha: nhóm pháp thuộc định
+- Samannāgataṅgāni: các yếu tố hiện diện, các chi đi kèm
+- Samantapāsādikā: làm phát sinh sự kính tín trọn vẹn
+- Samāpatti: chứng đắc, nhập định
+- Samatha: chỉ, an chỉ, an tịnh
+- Samathayānika: người lấy chỉ làm cỗ xe
+- Samatikkama: vượt qua
+- Saṅkappa: tư duy, chủ ý, ý hướng
+- Sammā: chánh
+- Sammasana: quán xét, tổng quán
+- Sammasitajjhāna: tầng thiền được đem ra quán sát
+- Sampahaṃsana: khích lệ, làm phấn chấn
+- Sampajañña: tỉnh giác, tri tỉnh
+- Sampasādana: tịnh tín, trong sáng nội tâm
+- Saṃsāra: luân hồi
+- Samucchedappahāna: đoạn trừ bằng tận diệt
+- Saṃvara: phòng hộ, chế ngự
+- Saṃvatteti: dẫn đến, làm thành
+- Saṃyojana: kiết sử
+- Sandiṭṭhikanibbāna: Niết-bàn thấy được trong hiện tại
+- Sañjānana: sự nhận biết, tri giác hóa
+- Saṅkantika: chuyển đổi, hoán chuyển
+- Saṅkhāra: hành; các pháp hữu vi; hành nghiệp; tâm hành
+- Saññā: tưởng, tri giác
+- Santuṭṭhi: tri túc
+- Sati: niệm
+- Satipaṭṭhāna: niệm xứ
+- Sayambhūñāṇa: trí tự phát khởi
+- Setughāta: phá cầu, cắt nhịp nối sang hữu
+- Sikkhā: học, sự huấn luyện
+- Sīla: giới
+- Sīlabbataparāmāsa: chấp thủ giới cấm nghi thức
+- Sobhana: đẹp, thiện mỹ
+- Somanassa: hỷ thọ, tâm vui
+- Sotāpanna: Dự lưu
+- Sotāpatti: Dự lưu quả, dự lưu
+- Subhakiṇha: cõi Biến tịnh
+- Suddhāvāsa: năm cõi Tịnh cư
+- Sugatibhūmi: cõi lành
+- Sukha: lạc, an vui, cảm giác dễ chịu
+- Sukkhavipassaka: người thuần quán, quán khô
+- Suññatā: tánh không, rỗng không
+- Suriya: mặt trời
+- Tadaṅganibbāna: sự lắng dịu từng phần như Niết-bàn theo từng yếu tố
+- Takkavīthi: lộ trình lý luận
+- Tatramajjhattatā: trung tính quân bình, xả đặc biệt của tâm sở đẹp
+- Tāvatiṃsa: cõi trời Ba Mươi Ba
+- Tevijjā: tam minh
+- Thīna: hôn trầm
+- Ṭhiti: trụ, giai đoạn tồn tại
+- Ṭīkā: sớ giải, phụ chú
+- Tiracchānayoni: súc sinh giới
+- Tirobhāva: biến mất, ẩn đi
+- Tirokuṭṭaṃ: đi xuyên tường
+- Tiro-pabbataṃ: đi xuyên núi
+- Tiro-pākāraṃ: đi xuyên hàng rào, tường bao
+- Tisso sikkhā: ba môn học, tam học
+- Tuṇhībhāva: tịch lặng, im bặt
+- Ubbega: hỷ bồng bột, hỷ nâng bổng
+- Ubhatobhāgavimutta: câu phần giải thoát
+- Udaka: nước
+- Udayabbaya: sinh và diệt
+- Uddhacca: trạo cử
+- Uddhambhāgiya: thuộc phần cao, thượng phần
+- Uggahanimitta: thủ tướng, ảnh tượng mới nắm được
+- Ummujja-nimujjaṃ: lặn lên lặn xuống
+- Upacāra: cận hành, cận kề
+- Upacārasamādhi: cận định
+- Upādāna: thủ, chấp thủ
+- Upadhiviveka: viễn ly khỏi phần hữu còn chấp nắm
+- Upakkilesa: cấu uế, tạp nhiễm
+- Upanijjhāna: quán chiếu sâu, áp sát để thấy
+- Upekkhā: xả
+- Uppāda: sinh khởi
+- Uttarati: vượt lên, trồi lên
+- Vacīsaṅkhāra: hành của lời nói
+- Vasitā: tự tại, làm chủ
+- Vatthukāma: dục lạc theo nghĩa đối tượng
+- Vavassagga: xả ly, buông bỏ
+- Vavatthāpana: xác định, định nghĩa
+- Vedanā: thọ
+- Vedayita: điều được cảm thọ
+- Veditabba: điều cần được chứng biết
+- Vicāra: tứ
+- Vicaya: trạch pháp, dò xét
+- Vicikicchā: nghi
+- Vihiṃsā vitakka: ý nghĩ hại người, tư duy bạo hại
+- Vijānana: cách biết, sự nhận thức
+- Vijjā: minh, tri thức
+- Vijjācaraṇasampanna: minh hạnh túc
+- Vikkhambhanaviveka: viễn ly nhờ đè nén
+- Vikkhambanappahāna: đoạn trừ bằng cách chế phục
+- Vikubbana: biến hóa, chuyển hóa hình dạng
+- Vīmaṃsā: tư sát, truy cứu
+- Vimokkha (Vimokha): giải thoát
+- Vimokkhamukha: cửa giải thoát
+- Vimutti: giải thoát
+- Vimuttirasa: vị giải thoát
+- Vinipāta: đọa xứ, sa đọa
+- Vinīvaraṇacitta: tâm không còn triền cái
+- Viññāṇa: thức
+- Viññāṇañcāyatana: thức vô biên xứ
+- Viññū: bậc trí, người có trí
+- Vipāka: quả, dị thục
+- Vipassanā: minh sát
+- Vipassanāyānika: người lấy minh sát làm cỗ xe
+- Viriya: tinh tấn
+- Visuddhi: thanh tịnh
+- Vitakka: tầm
+- Viveka: viễn ly
+- Vuṭṭhāna: xuất khởi, ra khỏi, vượt lên
+- Yāna: cỗ xe, con đường chuyên chở
+- Yathākammūpagañāṇa: trí biết đi theo nghiệp
+- Yoga: ách, trói buộc
+- Yogin: hành giả thiền
+- Yonisomanasikāra: tác ý như lý

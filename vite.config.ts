@@ -14,6 +14,38 @@ function getGitHash(): string {
   }
 }
 
+function getManualChunk(id: string): string | undefined {
+  const normalizedId = id.replace(/\\/g, '/')
+
+  if (normalizedId.includes('/node_modules/react/')
+    || normalizedId.includes('/node_modules/react-dom/')
+    || normalizedId.includes('/node_modules/react-router-dom/')) {
+    return 'vendor-react'
+  }
+
+  if (normalizedId.includes('/node_modules/lucide-react/')
+    || normalizedId.includes('/node_modules/@radix-ui/react-slot/')
+    || normalizedId.includes('/node_modules/class-variance-authority/')
+    || normalizedId.includes('/node_modules/clsx/')
+    || normalizedId.includes('/node_modules/tailwind-merge/')) {
+    return 'vendor-ui'
+  }
+
+  if (normalizedId.includes('/node_modules/recharts/')) {
+    return 'vendor-charts'
+  }
+
+  if (normalizedId.includes('/node_modules/react-to-print/')) {
+    return 'vendor-print'
+  }
+
+  if (normalizedId.endsWith('/src/data/suttas/index.ts')) {
+    return 'data-suttas'
+  }
+
+  return undefined
+}
+
 // https://vite.dev/config/
 export default defineConfig({
   base: '/',
@@ -79,18 +111,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          // Core React ecosystem
-          'vendor-react': ['react', 'react-dom', 'react-router-dom'],
-          // UI components
-          'vendor-ui': ['lucide-react', '@radix-ui/react-slot', 'class-variance-authority', 'clsx', 'tailwind-merge'],
-          // Heavy charting library (lazy loaded in Dashboard)
-          'vendor-charts': ['recharts'],
-          // Print functionality (lazy loaded)
-          'vendor-print': ['react-to-print'],
-          // Suttas data
-          'data-suttas': ['./src/data/suttas/index.ts'],
-        },
+        manualChunks: getManualChunk,
       },
     },
     // Lower threshold after optimizations

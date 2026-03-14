@@ -4,7 +4,7 @@
 
 ## Project Snapshot
 - **App**: NhapLuu (Stream Entry practice companion)
-- **Frontend**: React 19 + TypeScript + Vite + Tailwind v4 + shadcn/ui
+- **Frontend**: React 19 + TypeScript + Vite 8 + Tailwind v4 + shadcn/ui
 - **i18n**: `react-i18next` with `src/locales/vi` + `src/locales/en`
 - **Backend**: Cloudflare Workers + D1 in `backend/`
 - **Routing**: `react-router-dom` in `src/App.tsx`
@@ -24,6 +24,13 @@ Backend (optional):
 - The current git remote points at `git@github.com:cschanhniem/cschanhniem.github.io.git`, so `main` publishes the root Pages site, not a project subpath build.
 - Vite `base` is `/`, which matches the current Pages setup.
 - Static teaching additions like long-form books do not require a backend deploy unless API behavior changed.
+
+## Frontend Build Notes
+- Vite 8 uses Rolldown-backed production builds. Treat missing imports and stale chunk config as real build defects, not soft warnings.
+- Keep `build.rollupOptions.output.manualChunks` function-based in `vite.config.ts`. The older object-map form no longer matches the stricter Vite 8 typing used here.
+- `recharts@3.6.0` expects `react-is` as a peer dependency. Keep `react-is` installed explicitly or chart-heavy routes can fail only at production build time.
+- `vite-plugin-pwa@1.2.0` and `@tailwindcss/vite@4.x` currently build successfully here, but their npm peer ranges lag behind Vite 8. Re-check upstream support before assuming the warning surface is closed.
+- `.npmrc` currently sets `legacy-peer-deps=true` so clean installs keep working while those peer ranges are behind. Remove it once upstream packages officially support Vite 8.
 
 ## Repo Map
 - `src/pages/` — route-level screens
@@ -74,6 +81,38 @@ stateDiagram-v2
     Built --> Published
     Registered --> Cleaned: structure mismatch
     Built --> Registered: route or metadata defect
+```
+
+## Frontend Build Pipeline
+
+```mermaid
+stateDiagram-v2
+    [*] --> DependenciesResolved
+    DependenciesResolved --> TypecheckClean
+    TypecheckClean --> Bundling
+    Bundling --> PWAGenerated
+    PWAGenerated --> BuildReady
+    DependenciesResolved --> DependenciesResolved: install missing peer
+    Bundling --> DependenciesResolved: unresolved import
+    Bundling --> TypecheckClean: config typing mismatch
+```
+
+```mermaid
+sequenceDiagram
+    participant Agent
+    participant PackageJSON
+    participant ViteConfig
+    participant Vite8
+    participant PWA
+    participant Dist
+
+    Agent->>PackageJSON: upgrade vite + plugin-react
+    Agent->>PackageJSON: add missing peer deps
+    Agent->>ViteConfig: keep function-based manual chunks
+    PackageJSON->>Vite8: install dependency graph
+    ViteConfig->>Vite8: bundling rules
+    Vite8->>PWA: emit compiled assets
+    PWA->>Dist: generate service worker + manifest
 ```
 
 ```mermaid

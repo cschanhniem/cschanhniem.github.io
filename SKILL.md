@@ -102,6 +102,7 @@ flowchart LR
 - Treat the English markdown as the canonical extracted source.
 - If the Vietnamese chapter is not yet elegant, doctrinally precise, and readable aloud, do not force publication. Let the module fall back to English.
 - For this repo, a content-only release normally means frontend publish only.
+- Site verification now runs on Vite 8. Keep `manualChunks` function-based in `vite.config.ts`, and if chart routes fail under production bundling, confirm `react-is` is installed for `recharts`.
 
 ## Review Checklist
 

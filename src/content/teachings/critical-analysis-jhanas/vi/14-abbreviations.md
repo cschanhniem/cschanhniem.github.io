@@ -1,0 +1,35 @@
+- `AN.` Aṅguttara Nikāya (Tăng Chi Bộ)
+- `AN.A.` Aṅguttara Nikāya Aṭṭhakathā (Chú giải Tăng Chi Bộ, *Manorathapūraṇī*)
+- `AN.T.` Aṅguttara Nikāya Ṭīkā (Phụ chú giải Tăng Chi Bộ, *Sāratthamañjūsā*)
+- `BD.` *The Book of the Discipline* (Sách về Giới luật)
+- `BMTP.` *Buddhist Meditation in Theory and Practice* (Thiền Phật giáo trong lý thuyết và thực hành)
+- `Dhp.` *The Dhammapada* (Pháp Cú)
+- `Dhs.` *The Dhammasaṅgaṇi*
+- `Dhs.A.` Dhammasaṅgaṇi Aṭṭhakathā (Chú giải *Dhammasaṅgaṇi*, *Aṭṭhasālinī*)
+- `DN.` Dīgha Nikāya (Trường Bộ)
+- `DN.A.` Dīgha Nikāya Aṭṭhakathā (Chú giải Trường Bộ, *Sumaṅgala Vilāsinī*)
+- `DN.T.` Dīgha Nikāya Ṭīkā (Phụ chú giải Trường Bộ)
+- `Dial.` *Dialogues of the Buddha* (Những đối thoại của Đức Phật)
+- `GS.` *The Book of the Gradual Sayings* (Bản dịch Anh của Tăng Chi Bộ)
+- `KS.` *The Book of the Kindred Sayings* (Bản dịch Anh của Tương Ưng Bộ)
+- `Milp.` *The Milindapañha* (Mi-tiên vấn đáp)
+- `MLS.` *The Middle Length Sayings* (Bản dịch Anh của Trung Bộ)
+- `MN.` Majjhima Nikāya (Trung Bộ)
+- `MN.A.` Majjhima Nikāya Aṭṭhakathā (Chú giải Trung Bộ, *Papañcasūdanī*)
+- `MN.T.` Majjhima Nikāya Ṭīkā (Phụ chú giải Trung Bộ)
+- `PI.` *Progress of Insight* (Tiến trình minh sát)
+- `PP.` *Path of Purification* (Con đường thanh tịnh)
+- `Psy. Ethics.` *Buddhist Psychological Ethics* (Đạo đức học tâm lý Phật giáo)
+- `Pts.` *Paṭisambhidāmagga*
+- `Pts.A.` Paṭisambhidāmagga Aṭṭhakathā (Chú giải *Paṭisambhidāmagga*, *Saddhammappakāsinī*)
+- `Pug.P.` *Dhātukathā Puggalapaññattipāli*
+- `QKM.` *The Questions of King Milinda* (Những câu hỏi của vua Milinda)
+- `SN.` Saṃyutta Nikāya (Tương Ưng Bộ)
+- `SN.A.` Saṃyutta Nikāya Aṭṭhakathā (Chú giải Tương Ưng Bộ, *Sāratthapakāsanī*)
+- `SN.T.` Saṃyutta Nikāya Ṭīkā (Phụ chú giải Tương Ưng Bộ)
+- `Vibh.` *Vibhaṅga*
+- `Vimv.T.` *Vimativinodanī Ṭīkā* (*Samantapāsādikāṭīkā*)
+- `Vinp.` *Vinaya Piṭaka*
+- `Vin.A.` *Vinaya Aṭṭhakathā* (Chú giải Luật tạng, *Samantapāsādikā*)
+- `Vism.` *Visuddhimagga*
+- `Vism.T.` *Visuddhimagga Mahā Ṭīkā* (*Paramatthamañjūsā*)
