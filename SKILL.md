@@ -28,6 +28,64 @@ Use this workflow when a source PDF is long, citation-heavy, or contains tables 
 9. Verify build output and inspect the public page.
 10. Publish the frontend by pushing `main` when the route is stable.
 
+## Short-Form Translation Release
+
+Use this lighter branch when the source is a retreat handout, a short essay, or a single translated talk that does not need OCR repair or appendix preservation.
+
+1. Segment the piece into 3 to 6 markdown chapters if the source has natural shifts.
+2. Store the text under `src/content/teachings/<slug>/vi/`.
+3. Build a thin manifest bridge in `src/data/teachings/<slug>/index.ts`.
+4. Register metadata in `src/data/teachings/metadata.ts`.
+5. Add the slug to the lazy import map in `src/pages/TeachingDetail.tsx`.
+6. Write a release log in the repo-root `tasks/` folder with source note and route target.
+7. Run `npm run build` and `npm run lint` before calling the route ready.
+
+### State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> SourceReviewed
+    SourceReviewed --> Chapterized
+    Chapterized --> ModuleWired
+    ModuleWired --> MetadataRegistered
+    MetadataRegistered --> RouteVerified
+    RouteVerified --> ReleaseLogged
+    ReleaseLogged --> ReadyToPublish
+    RouteVerified --> ModuleWired: import or chapter mismatch
+    RouteVerified --> MetadataRegistered: summary or theme defect
+```
+
+### Sequence
+
+```mermaid
+sequenceDiagram
+    participant Source
+    participant Markdown
+    participant Module
+    participant Metadata
+    participant Route
+    participant TaskLog
+
+    Source->>Markdown: translated, segmented chapters
+    Markdown->>Module: ordered raw imports
+    Module->>Metadata: title, summary, author, themes
+    Metadata->>Route: slug becomes loadable
+    Route->>TaskLog: route target and release notes
+```
+
+### Data Flow
+
+```mermaid
+flowchart LR
+    A[Short source text] --> B[Markdown chapters]
+    B --> C[Teaching module]
+    C --> D[Metadata registry]
+    C --> E[TeachingDetail lazy import]
+    D --> F[DhammaLibrary listing]
+    E --> G[Teaching route]
+    G --> H[Task log and release verification]
+```
+
 ## State Machine
 
 ```mermaid
