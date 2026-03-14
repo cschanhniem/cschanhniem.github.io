@@ -154,6 +154,7 @@ flowchart LR
 ## Practical Rules
 
 - Never trust automatic footnote placement on biography or front-matter pages. Only annotate numbers that actually exist as page footnotes.
+- Run a dedicated front-matter QA pass. Cover pages, title pages, and library stamps often OCR into duplicated headings, isolated capitals, and other debris that must be rewritten into clean editorial prose before publication.
 - Do not flatten tables or diagrams into broken prose. Preserve them as images with short textual summaries.
 - Keep chapter files stable across reruns by using explicit numeric prefixes in filenames.
 - Protect Pāli doctrinal vocabulary when translating. A bad translation of a key term is worse than leaving the term in transliteration.
@@ -161,6 +162,7 @@ flowchart LR
 - If the Vietnamese chapter is not yet elegant, doctrinally precise, and readable aloud, do not force publication. Let the module fall back to English.
 - For this repo, a content-only release normally means frontend publish only.
 - Site verification now runs on Vite 8. Keep `manualChunks` function-based in `vite.config.ts`, and if chart routes fail under production bundling, confirm `react-is` is installed for `recharts`.
+- During route QA, inspect the page chrome as well as the manuscript body. Mis-scoped i18n keys such as `t('common.exportPdf')` can surface raw keys even when the content itself is clean.
 
 ## Review Checklist
 

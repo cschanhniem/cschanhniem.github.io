@@ -131,9 +131,9 @@ export const teachingMetadata: TeachingMetadata[] = [
     {
         id: 'phan-tich-cac-tang-thien',
         title: 'Khảo Luận Về Các Tầng Thiền',
-        titlePali: 'A Critical Analysis of the Jhānas',
+        titlePali: 'A Critical Analysis of the Jhānas in Theravāda Buddhist Meditation',
         author: 'Bhante Henepola Gunaratana',
-        translator: 'Bản dịch nội bộ Nhập Lưu, đang hiệu đính',
+        translator: 'Bản dịch nội bộ Nhập Lưu',
         summary: 'Một khảo luận học thuật công phu về vai trò của Jhāna trong con đường tu Theravāda, đi từ năm triền cái, bốn tầng thiền, các trạng thái vô sắc, cho đến quan hệ giữa định, tuệ và Thánh đạo.',
         themes: ['jhāna', 'thiền định', 'triền cái', 'định-tuệ', 'theravāda'],
         difficulty: 'advanced',

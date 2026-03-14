@@ -22,8 +22,8 @@ export function PrintButton({ contentRef, title, className = '' }: PrintButtonPr
         <button
             onClick={() => handlePrint()}
             className={`p-2 hover:bg-muted rounded-md transition-colors text-muted-foreground hover:text-foreground ${className}`}
-            title={t('common.exportPdf') || 'Xuất PDF'}
-            aria-label={t('common.exportPdf') || 'Xuất PDF'}
+            title={t('exportPdf') || 'Xuất PDF'}
+            aria-label={t('exportPdf') || 'Xuất PDF'}
         >
             <Printer className="h-5 w-5" />
         </button>

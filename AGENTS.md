@@ -55,6 +55,7 @@ Backend (optional):
 - All user-facing strings should go through `useTranslation()`.
 - Update both `src/locales/vi/common.json` and `src/locales/en/common.json`.
 - Avoid hard-coded Vietnamese/English strings in components.
+- `common` is the default namespace in this repo. Use bare keys like `t('exportPdf')`, not dotted keys like `t('common.exportPdf')`, or the raw key can leak into the UI.
 
 ## State + Data
 - Core state is managed in `useAppState()` and persisted to
@@ -66,6 +67,7 @@ Backend (optional):
 - Prefer chapterized markdown in `src/content/teachings/<slug>/`.
 - Keep the site bridge thin: a teaching module should map metadata plus ordered chapter imports.
 - When appendix OCR is visibly broken, preserve the source layout as images under `public/teachings/<slug>/`.
+- Treat scanned front matter as its own cleanup pass. If the cover or copyright pages OCR into split capitals, repeated headings, or library stamps, rewrite that section into concise editorial markdown instead of shipping the raw extraction.
 - For manuscript ingestion or translation work, read `SKILL.md` before changing the pipeline.
 - When a Vietnamese chapter is not yet publication-grade, let the teaching module fall back to English instead of shipping weak prose.
 - For short translated essays or retreat handouts, still prefer markdown chapters under `src/content/teachings/<slug>/vi/` over giant inline TypeScript strings.

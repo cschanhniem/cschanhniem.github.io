@@ -1,79 +1,23 @@
-## A Critical Analysis
+## Phân Tích Phê Bình Về Các Tầng Thiền
 
-## A Critical Analysis
+## Trong Thiền Học Theravāda
 
-## of the Jhanas
+**Tác giả:** Bhante Henepola Gunaratana
 
-## of the Jhanas
+**Nguyên tác:** *A Critical Analysis of the Jhānas in Theravāda Buddhist Meditation*
 
-## in Theravada Buddhist Meditation
+**Xuất xứ:** Luận án tiến sĩ triết học, The American University, Washington, D.C., 1980
 
-## Henepola Gunaratana
+**Ấn bản điện tử:** Buddha Dharma Education Association Inc.
 
-## e
+## Lời đề tặng
 
-## DHAN
+> Tác phẩm này được tác giả kính dâng lên cha mẹ và các bậc thầy của mình.
 
-## D
+## Vài nét về tác giả
 
-## E
+Bhante Henepola Gunaratana sinh năm 1927 tại một ngôi làng nhỏ ở Sri Lanka và xuất gia từ năm mười hai tuổi. Năm 1947, khi tròn hai mươi tuổi, ngài thọ đại giới tại Kandy.
 
-## U T
+Năm 1968, theo lời thỉnh mời của Sasana Sevaka Society, ngài sang Hoa Kỳ để đảm nhiệm cương vị Tổng Thư ký Danh dự của Buddhist Vihara Society tại Washington, D.C. Song song với đời sống tu học, ngài theo đuổi con đường học thuật và lần lượt hoàn tất bằng cử nhân, thạc sĩ, rồi tiến sĩ triết học tại The American University.
 
-'
-
-## B S
-
-## Y
-
-## B R
-
-## O A
-
-## O R
-
-## K LIB
-
-## E-mail: bdea@buddhanet.net
-
-## Web site: www.buddhanet.net
-
-## Buddha Dharma Education Association Inc.
-
-## A Critical Analysis of the Jhãnas
-
-## in Theravãda Buddhist Meditation
-
-## by
-
-## Henepola Gunaratana
-
-## submitted to the
-
-## Faculty of the College of Arts and Science
-
-## of the American University
-
-## in Partial Fulfillment of
-
-## the Requirements for the Degree
-
-## of
-
-## Doctor of Philosophy
-
-## in
-
-## Philosophy
-
-1980
-
-The American University
-
-Washington, D.C. 20016
-
-## THE AMERICAN UNIVERSITY LIBRARY
-
-## This book is dedicated to my dear parents and teachers.
-
-Bhante Gunaratana was born in 1927 in a small village in Sri Lanka and was ordained at the age of 12 as a Buddhist monk. At the age of 20 he was given higher ordination in Kandy in 1947. At the invitation of the Sasana Sevaka Society, Bhante Gunaratana went to the United States in 1968 to serve as Hon. General Secretary of the Buddhist Vihara Society of Washington, D.C. He has also pursued his scholarly interests by earning a B.A., an M.A., and a Ph.D. in Philosophy from The American University. He is the author of Come and See, The Path of Serenity and Insight, The Jhanas and Mindfulness In Plain English. Venerable Gunaratana is the abbot and the president of the Bhavana Society, a Forest Monastery and Retreat Centre in West Virginia, U.S.A.
+Bhante Gunaratana là tác giả của nhiều tác phẩm quen thuộc với người học Phật, trong đó có *Come and See*, *The Path of Serenity and Insight*, *The Jhānas* và *Mindfulness in Plain English*. Ngài hiện được biết đến rộng rãi như vị trụ trì và chủ tịch Bhavana Society, một tu viện rừng kiêm trung tâm nhập thất tại West Virginia, Hoa Kỳ.
