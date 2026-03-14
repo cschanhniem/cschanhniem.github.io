@@ -1,4 +1,4 @@
-import { useParams, Link, useNavigate } from 'react-router-dom'
+import { useParams, Link, useNavigate, useLocation } from 'react-router-dom'
 import { useState, useEffect, useRef, useCallback, lazy, Suspense } from 'react'
 import { useTranslation } from 'react-i18next'
 import { suttas } from '@/data/suttas/index'
@@ -15,6 +15,7 @@ const PrintButton = lazy(() => import('@/components/PrintButton').then(m => ({ d
 import { DhammaShareCard } from '@/components/growth/DhammaShareCard'
 import { usePageMeta } from '@/lib/seo'
 import { trackEvent } from '@/lib/analytics'
+import { DHAMMA_LIBRARY_SUTTAS_PATH, resolveDhammaBackPath } from '@/lib/dhamma-library'
 
 type FontSize = 'small' | 'medium' | 'large'
 type ViewMode = 'single' | 'parallel'
@@ -28,6 +29,7 @@ const fontSizeClasses: Record<FontSize, string> = {
 export function SuttaDetail() {
   const { suttaId } = useParams<{ suttaId: string }>()
   const navigate = useNavigate()
+  const location = useLocation()
   const { t } = useTranslation()
   const { state, toggleBookmark } = useAppState()
   useKatexCSS()
@@ -88,6 +90,7 @@ export function SuttaDetail() {
 
   const sutta = suttas.find((s) => s.id === suttaId)
   const suttaSummary = sutta?.summary ?? ''
+  const backPath = resolveDhammaBackPath(location.state, DHAMMA_LIBRARY_SUTTAS_PATH)
 
   usePageMeta({
     title: sutta ? sutta.title : t('library.notFound'),
@@ -119,8 +122,8 @@ export function SuttaDetail() {
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-foreground mb-4">{t('library.notFound')}</h1>
-          <Link to="/phap-bao" className="text-primary hover:underline">
-            ← {t('library.backToLibrary')}
+          <Link to={DHAMMA_LIBRARY_SUTTAS_PATH} className="text-primary hover:underline">
+            ← {t('library.backToSuttas')}
           </Link>
         </div>
       </div>
@@ -174,11 +177,11 @@ export function SuttaDetail() {
       </div>
 
       <button
-        onClick={() => navigate('/phap-bao')}
+        onClick={() => navigate(backPath)}
         className="flex items-center gap-2 text-primary hover:underline mb-6 print:hidden"
       >
         <ChevronLeft className="h-4 w-4" />
-        {t('library.backToLibrary')}
+        {t('library.backToSuttas')}
       </button>
 
       {/* Printable Wrapper */}
@@ -346,11 +349,11 @@ export function SuttaDetail() {
       {/* Bottom Navigation */}
       <div className="mt-8 flex justify-between print:hidden">
         <button
-          onClick={() => navigate('/phap-bao')}
+          onClick={() => navigate(backPath)}
           className="flex items-center gap-2 text-primary hover:underline"
         >
           <ChevronLeft className="h-4 w-4" />
-          {t('library.backToLibrary')}
+          {t('library.backToSuttas')}
         </button>
         <button
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}

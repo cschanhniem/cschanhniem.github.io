@@ -5,6 +5,7 @@ import { useAuth } from '@/contexts/AuthContext'
 import { useTheme } from '@/contexts/ThemeContext'
 import { useAppState } from '@/hooks/useAppState'
 import { Button } from '@/components/ui/button'
+import { DHAMMA_LIBRARY_SUTTAS_PATH, isDhammaLibraryRoute } from '@/lib/dhamma-library'
 
 export function Header() {
   const location = useLocation()
@@ -22,7 +23,7 @@ export function Header() {
     { name: t('nav.home'), href: '/', icon: Home },
     { name: t('nav.program'), href: '/chuong-trinh', icon: Trophy },
     { name: t('nav.practice'), href: '/thien-dinh', icon: Timer },
-    { name: 'Pháp Bảo', href: '/phap-bao', icon: BookOpen },
+    { name: 'Pháp Bảo', href: DHAMMA_LIBRARY_SUTTAS_PATH, icon: BookOpen },
     { name: 'Đồng Hành', href: '/giao-phap/dong-hanh-tu-tap', icon: Heart },
     { name: 'Kinh Điển', href: '/nikaya', icon: ScrollText },
     { name: t('nav.findSangha'), href: '/tim-sangha', icon: MapPin },
@@ -31,7 +32,15 @@ export function Header() {
   ]
 
   const isActive = (path: string) => {
-    return location.pathname === path
+    if (path === '/') {
+      return location.pathname === path
+    }
+
+    if (path === DHAMMA_LIBRARY_SUTTAS_PATH) {
+      return isDhammaLibraryRoute(location.pathname) && location.pathname !== '/giao-phap/dong-hanh-tu-tap'
+    }
+
+    return location.pathname === path || location.pathname.startsWith(`${path}/`)
   }
 
   return (

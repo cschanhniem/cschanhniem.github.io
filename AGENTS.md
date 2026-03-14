@@ -140,6 +140,8 @@ sequenceDiagram
 - Add routes in `src/App.tsx`.
 - If a page is protected, wrap it in `ProtectedRoute`.
 - Update navigation in `src/components/layout/Header.tsx` when adding top-level pages.
+- `Pháp Bảo` is split into two first-class tab routes: `/phap-bao/kinh-tang` and `/phap-bao/giao-phap`. Keep the library tabs URL-driven, not local-state-only.
+- Detail pages reached from the library should carry a `state.from` back target and fall back to the correct branch: suttas return to `/phap-bao/kinh-tang`, teachings return to `/phap-bao/giao-phap`.
 
 ## Backend Notes
 - API client lives in `src/lib/api.ts`.

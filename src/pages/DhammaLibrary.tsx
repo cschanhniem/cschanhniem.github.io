@@ -1,21 +1,25 @@
 import { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import { useAppState } from '@/hooks/useAppState'
 import { suttas } from '@/data/suttas/index'
 import { teachingMetadata } from '@/data/teachings/metadata'
 import { BookOpen, Bookmark, Search, ChevronRight, GraduationCap, ScrollText } from 'lucide-react'
 import { usePageMeta } from '@/lib/seo'
 import { useTranslation } from 'react-i18next'
-
-type TabType = 'suttas' | 'teachings'
+import {
+    DHAMMA_LIBRARY_SUTTAS_PATH,
+    DHAMMA_LIBRARY_TEACHINGS_PATH,
+    getDhammaLibrarySection,
+} from '@/lib/dhamma-library'
 
 export function DhammaLibrary() {
     const { t } = useTranslation()
+    const location = useLocation()
     const { state } = useAppState()
     const [searchTerm, setSearchTerm] = useState('')
-    const [activeTab, setActiveTab] = useState<TabType>('suttas')
     const [selectedCollection, setSelectedCollection] = useState<string>('all')
     const [selectedDifficulty, setSelectedDifficulty] = useState<string>('all')
+    const activeTab = getDhammaLibrarySection(location.pathname)
 
     const filteredSuttas = suttas.filter((sutta) => {
         const matchesSearch =
@@ -56,8 +60,9 @@ export function DhammaLibrary() {
     }
 
     usePageMeta({
-        title: t('library.metaTitle'),
-        description: t('library.metaDescription')
+        title: `${activeTab === 'suttas' ? t('library.sections.suttas.label') : t('library.sections.teachings.label')} • ${t('library.metaTitle')}`,
+        description: t('library.metaDescription'),
+        url: activeTab === 'suttas' ? DHAMMA_LIBRARY_SUTTAS_PATH : DHAMMA_LIBRARY_TEACHINGS_PATH,
     })
 
     return (
@@ -73,8 +78,8 @@ export function DhammaLibrary() {
 
             {/* Tab Navigation */}
             <div className="flex gap-2 mb-6">
-                <button
-                    onClick={() => setActiveTab('suttas')}
+                <Link
+                    to={DHAMMA_LIBRARY_SUTTAS_PATH}
                     className={`
             flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition-colors
             ${activeTab === 'suttas'
@@ -84,10 +89,10 @@ export function DhammaLibrary() {
           `}
                 >
                     <ScrollText className="h-4 w-4" />
-                    Kinh Tạng ({suttas.length})
-                </button>
-                <button
-                    onClick={() => setActiveTab('teachings')}
+                    {t('library.sections.suttas.label')} ({suttas.length})
+                </Link>
+                <Link
+                    to={DHAMMA_LIBRARY_TEACHINGS_PATH}
                     className={`
             flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition-colors
             ${activeTab === 'teachings'
@@ -97,8 +102,8 @@ export function DhammaLibrary() {
           `}
                 >
                     <GraduationCap className="h-4 w-4" />
-                    Giáo Pháp ({teachingMetadata.length})
-                </button>
+                    {t('library.sections.teachings.label')} ({teachingMetadata.length})
+                </Link>
             </div>
 
             <div className="grid md:grid-cols-3 gap-6">
@@ -112,7 +117,9 @@ export function DhammaLibrary() {
                                 type="text"
                                 value={searchTerm}
                                 onChange={(e) => setSearchTerm(e.target.value)}
-                                placeholder={activeTab === 'suttas' ? "Tìm kiếm kinh..." : "Tìm kiếm giáo pháp..."}
+                                placeholder={activeTab === 'suttas'
+                                    ? t('library.sections.suttas.searchPlaceholder')
+                                    : t('library.sections.teachings.searchPlaceholder')}
                                 className="w-full pl-10 pr-3 py-2 bg-background border border-input rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
                             />
                         </div>
@@ -188,6 +195,7 @@ export function DhammaLibrary() {
                                     <Link
                                         key={sutta.id}
                                         to={`/phap-bao/${sutta.id}`}
+                                        state={{ from: location.pathname }}
                                         className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow"
                                     >
                                         <div className="flex items-start justify-between">
@@ -243,6 +251,7 @@ export function DhammaLibrary() {
                                     <Link
                                         key={teaching.id}
                                         to={`/giao-phap/${teaching.id}`}
+                                        state={{ from: location.pathname }}
                                         className="block bg-card rounded-lg border border-border p-4 hover:shadow-md transition-shadow"
                                     >
                                         <div className="flex items-start justify-between">

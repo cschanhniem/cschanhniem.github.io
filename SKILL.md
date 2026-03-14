@@ -172,5 +172,6 @@ flowchart LR
 - Appendix pages render upright and at readable width.
 - Metadata title, summary, difficulty, and themes match the manuscript.
 - The teaching route resolves with chapter ordering intact.
+- If the teaching is surfaced from `Pháp Bảo`, confirm the back link returns to `/phap-bao/giao-phap` and not the generic library root.
 - Site build passes after wiring.
 - Pages deploy is triggered from `main`.

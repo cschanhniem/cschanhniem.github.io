@@ -250,6 +250,16 @@
     "title": "Kinh Tạng",
     "subtitle": "Kho tàng Pháp Bảo - Sutta Piṭaka",
     "search": "Tìm kiếm kinh...",
+    "sections": {
+      "suttas": {
+        "label": "Kinh Tạng",
+        "searchPlaceholder": "Tìm kiếm kinh..."
+      },
+      "teachings": {
+        "label": "Giáo Pháp",
+        "searchPlaceholder": "Tìm kiếm giáo pháp..."
+      }
+    },
     "filters": {
       "all": "Tất Cả",
       "beginner": "Sơ Cơ",
@@ -258,6 +268,8 @@
     },
     "notFound": "Không tìm thấy kinh này",
     "backToLibrary": "Quay lại Kinh Tạng",
+    "backToSuttas": "Quay lại Kinh Tạng",
+    "backToTeachings": "Quay lại Giáo Pháp",
     "backToTop": "Về đầu trang",
     "addBookmark": "Đánh dấu",
     "removeBookmark": "Bỏ đánh dấu",

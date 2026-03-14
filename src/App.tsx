@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
 import { useTranslation } from 'react-i18next'
 import { AuthProvider } from '@/contexts/AuthContext'
@@ -8,6 +8,7 @@ import { ProtectedRoute } from '@/components/ProtectedRoute'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
 import { Skeleton } from '@/components/ui/skeleton'
+import { DHAMMA_LIBRARY_SUTTAS_PATH, DHAMMA_LIBRARY_TEACHINGS_PATH } from '@/lib/dhamma-library'
 
 // Lazy load page components for code splitting
 const Dashboard = lazy(() => import('@/pages/Dashboard').then(m => ({ default: m.Dashboard })))
@@ -102,7 +103,9 @@ function App() {
                             <Route path="/cong-dong" element={<Community />} />
 
                             {/* Dhamma Library - Public */}
-                            <Route path="/phap-bao" element={<DhammaLibrary />} />
+                            <Route path="/phap-bao" element={<Navigate to={DHAMMA_LIBRARY_SUTTAS_PATH} replace />} />
+                            <Route path={DHAMMA_LIBRARY_SUTTAS_PATH} element={<DhammaLibrary />} />
+                            <Route path={DHAMMA_LIBRARY_TEACHINGS_PATH} element={<DhammaLibrary />} />
                             <Route path="/phap-bao/:suttaId" element={<SuttaDetail />} />
                             <Route path="/giao-phap/:teachingId" element={<TeachingDetail />} />
 

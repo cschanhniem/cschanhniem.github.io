@@ -250,6 +250,16 @@
     "title": "Sutta Library",
     "subtitle": "Treasury of Dhamma - Sutta Piṭaka",
     "search": "Search suttas...",
+    "sections": {
+      "suttas": {
+        "label": "Suttas",
+        "searchPlaceholder": "Search suttas..."
+      },
+      "teachings": {
+        "label": "Teachings",
+        "searchPlaceholder": "Search teachings..."
+      }
+    },
     "filters": {
       "all": "All",
       "beginner": "Beginner",
@@ -258,6 +268,8 @@
     },
     "notFound": "Sutta not found",
     "backToLibrary": "Back to Library",
+    "backToSuttas": "Back to Suttas",
+    "backToTeachings": "Back to Teachings",
     "backToTop": "Back to top",
     "addBookmark": "Bookmark",
     "removeBookmark": "Remove bookmark",

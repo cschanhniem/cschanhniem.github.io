@@ -1,5 +1,5 @@
 import { useRef, lazy, Suspense, useState, useEffect } from 'react'
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useLocation } from 'react-router-dom'
 import { teachingMetadata } from '@/data/teachings/metadata'
 import type { Teaching } from '@/types'
 import { ArrowLeft, User, BookOpen, Loader2 } from 'lucide-react'
@@ -13,6 +13,7 @@ const PrintButton = lazy(() => import('@/components/PrintButton').then(m => ({ d
 import { useKatexCSS } from '@/hooks/useKatexCSS'
 import { usePageMeta } from '@/lib/seo'
 import { useTranslation } from 'react-i18next'
+import { DHAMMA_LIBRARY_TEACHINGS_PATH, resolveDhammaBackPath } from '@/lib/dhamma-library'
 
 // Dynamic import map for teachings
 const teachingImports: Record<string, () => Promise<{ default: Teaching }>> = {
@@ -51,11 +52,13 @@ const teachingImports: Record<string, () => Promise<{ default: Teaching }>> = {
 export function TeachingDetail() {
     const { t } = useTranslation()
     const { teachingId } = useParams<{ teachingId: string }>()
+    const location = useLocation()
     const printRef = useRef<HTMLDivElement>(null)
     useKatexCSS()
 
     // Get metadata for SEO (available immediately)
     const metadata = teachingMetadata.find((t) => t.id === teachingId)
+    const backPath = resolveDhammaBackPath(location.state, DHAMMA_LIBRARY_TEACHINGS_PATH)
 
     // Load full teaching content dynamically
     const [teaching, setTeaching] = useState<Teaching | null>(null)
@@ -105,11 +108,11 @@ export function TeachingDetail() {
                     <h2 className="text-xl font-semibold text-foreground mb-2">Không tìm thấy tài liệu</h2>
                     <p className="text-muted-foreground mb-4">Tài liệu bạn đang tìm kiếm không tồn tại.</p>
                     <Link
-                        to="/phap-bao"
+                        to={DHAMMA_LIBRARY_TEACHINGS_PATH}
                         className="inline-flex items-center gap-2 text-primary hover:underline"
                     >
                         <ArrowLeft className="h-4 w-4" />
-                        Quay lại Kho Tàng Pháp Bảo
+                        {t('library.backToTeachings')}
                     </Link>
                 </div>
             </div>
@@ -136,11 +139,11 @@ export function TeachingDetail() {
             {/* Top Action Bar */}
             <div className="flex items-center justify-between mb-6">
                 <Link
-                    to="/phap-bao"
+                    to={backPath}
                     className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
                 >
                     <ArrowLeft className="h-4 w-4" />
-                    Quay lại Kho Tàng Pháp Bảo
+                    {t('library.backToTeachings')}
                 </Link>
 
                 <Suspense fallback={<div className="w-8 h-8" />}>
