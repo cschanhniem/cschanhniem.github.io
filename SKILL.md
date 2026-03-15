@@ -40,6 +40,64 @@ Use this lighter branch when the source is a retreat handout, a short essay, or 
 6. Write a release log in the repo-root `tasks/` folder with source note and route target.
 7. Run `npm run build` and `npm run lint` before calling the route ready.
 
+## Route SEO Release Checks
+
+Use this pass whenever a content release adds or changes a public route. The site now depends on a build-time SEO layer in addition to the client-side metadata hook.
+
+1. Confirm the route has a unique title, summary, and canonical path.
+2. Confirm the route family is represented in `scripts/build-seo-assets.mjs`.
+3. Run `npm run build` so the generator writes static HTML, sitemap, and robots artifacts.
+4. Inspect at least one generated file under `dist/<route>/index.html`.
+5. Verify the route appears in the appropriate child sitemap referenced by `dist/sitemap.xml` if it is public.
+6. Verify account or tool surfaces are excluded from the sitemap and carry `noindex,nofollow`.
+7. Keep the default social image crawler-safe. Use the shared `og-default.png` unless the route genuinely warrants a bespoke asset.
+
+### SEO State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> MetadataReady
+    MetadataReady --> RouteEnumerated
+    RouteEnumerated --> StaticHtmlBuilt
+    StaticHtmlBuilt --> SitemapCovered
+    SitemapCovered --> Verified
+    Verified --> ReleaseLogged
+    ReleaseLogged --> ReadyToPublish
+    StaticHtmlBuilt --> RouteEnumerated: missing namespace
+    SitemapCovered --> MetadataReady: canonical or robots defect
+```
+
+### SEO Sequence
+
+```mermaid
+sequenceDiagram
+    participant Content
+    participant Metadata
+    participant BuildScript
+    participant Dist
+    participant Verifier
+
+    Content->>Metadata: route title and summary
+    Metadata->>BuildScript: route becomes enumerable
+    BuildScript->>Dist: write static route HTML
+    BuildScript->>Dist: write sitemap and robots
+    Verifier->>Dist: inspect generated route file
+    Verifier->>Dist: inspect sitemap inclusion or exclusion
+```
+
+### SEO Data Flow
+
+```mermaid
+flowchart LR
+    A[Teaching or route metadata] --> B[scripts/build-seo-assets.mjs]
+    B --> C[dist/route/index.html]
+    B --> D[dist/sitemap.xml]
+    B --> E[dist/robots.txt]
+    C --> F[Search crawler]
+    D --> F
+    E --> F
+```
+
 ### State Machine
 
 ```mermaid
@@ -161,6 +219,7 @@ flowchart LR
 - Treat the English markdown as the canonical extracted source.
 - If the Vietnamese chapter is not yet elegant, doctrinally precise, and readable aloud, do not force publication. Let the module fall back to English.
 - For this repo, a content-only release normally means frontend publish only.
+- If a teaching grows large enough to create an oversized route chunk, prefer chapter-level `loadContent` loaders over eager raw markdown imports so the reader can hydrate progressively.
 - Site verification now runs on Vite 8. Keep `manualChunks` function-based in `vite.config.ts`, and if chart routes fail under production bundling, confirm `react-is` is installed for `recharts`.
 - During route QA, inspect the page chrome as well as the manuscript body. Mis-scoped i18n keys such as `t('common.exportPdf')` can surface raw keys even when the content itself is clean.
 
@@ -173,5 +232,6 @@ flowchart LR
 - Metadata title, summary, difficulty, and themes match the manuscript.
 - The teaching route resolves with chapter ordering intact.
 - If the teaching is surfaced from `Pháp Bảo`, confirm the back link returns to `/phap-bao/giao-phap` and not the generic library root.
+- If the route is public, confirm `dist/<route>/index.html` contains the expected canonical and JSON-LD after build.
 - Site build passes after wiring.
 - Pages deploy is triggered from `main`.

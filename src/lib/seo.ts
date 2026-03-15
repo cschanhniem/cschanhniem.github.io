@@ -1,15 +1,30 @@
 import { useEffect } from 'react'
-import { DEFAULT_OG_IMAGE, SITE_NAME, SITE_URL } from '@/lib/site'
+import {
+  DEFAULT_OG_IMAGE,
+  DEFAULT_OG_IMAGE_ALT,
+  DEFAULT_OG_IMAGE_HEIGHT,
+  DEFAULT_OG_IMAGE_TYPE,
+  DEFAULT_OG_IMAGE_WIDTH,
+  DEFAULT_ROBOTS,
+  SITE_LOCALE,
+  SITE_NAME,
+  SITE_URL,
+} from '@/lib/site'
+
+type JsonLdBlock = Record<string, unknown> | Record<string, unknown>[]
 
 type PageMeta = {
   title: string
   description?: string
   image?: string
+  imageAlt?: string
   url?: string
   type?: string
   canonical?: string
-  jsonLd?: Record<string, unknown>
+  jsonLd?: JsonLdBlock
   jsonLdId?: string
+  robots?: string
+  author?: string
 }
 
 function upsertMetaTag(attrs: Record<string, string>) {
@@ -34,6 +49,26 @@ function setMetaTag(name: string, content: string) {
 function setPropertyTag(property: string, content: string) {
   const tag = upsertMetaTag({ property })
   tag.setAttribute('content', content)
+}
+
+function normalizePathname(pathname: string) {
+  if (!pathname || pathname === '/') {
+    return '/'
+  }
+
+  return pathname.endsWith('/') ? pathname.slice(0, -1) : pathname
+}
+
+function resolveAbsoluteUrl(url?: string) {
+  if (!url) {
+    return `${SITE_URL}${normalizePathname(window.location.pathname)}`
+  }
+
+  if (url.startsWith('http')) {
+    return url
+  }
+
+  return `${SITE_URL}${normalizePathname(url)}`
 }
 
 function setCanonical(url: string) {
@@ -62,11 +97,14 @@ export function applyPageMeta(meta: PageMeta) {
     title,
     description,
     image = DEFAULT_OG_IMAGE,
+    imageAlt = DEFAULT_OG_IMAGE_ALT,
     url,
     type = 'website',
     canonical,
     jsonLd,
-    jsonLdId = 'page'
+    jsonLdId = 'page',
+    robots = DEFAULT_ROBOTS,
+    author,
   } = meta
 
   document.title = `${title} • ${SITE_NAME}`
@@ -77,23 +115,42 @@ export function applyPageMeta(meta: PageMeta) {
     setMetaTag('twitter:description', description)
   }
 
-  const resolvedUrl = url
-    ? (url.startsWith('http') ? url : `${SITE_URL}${url}`)
-    : `${SITE_URL}${window.location.pathname}`
+  const resolvedUrl = resolveAbsoluteUrl(url)
   const resolvedImage = image.startsWith('http') ? image : `${SITE_URL}${image}`
 
   setPropertyTag('og:title', title)
   setPropertyTag('og:type', type)
   setPropertyTag('og:url', resolvedUrl)
   setPropertyTag('og:image', resolvedImage)
+  setPropertyTag('og:image:alt', imageAlt)
+  setPropertyTag('og:image:type', DEFAULT_OG_IMAGE_TYPE)
+  setPropertyTag('og:image:width', DEFAULT_OG_IMAGE_WIDTH)
+  setPropertyTag('og:image:height', DEFAULT_OG_IMAGE_HEIGHT)
+  setPropertyTag('og:site_name', SITE_NAME)
+  setPropertyTag('og:locale', SITE_LOCALE)
   setMetaTag('twitter:card', 'summary_large_image')
   setMetaTag('twitter:title', title)
   setMetaTag('twitter:image', resolvedImage)
+  setMetaTag('twitter:image:alt', imageAlt)
+  setMetaTag('robots', robots)
+  setMetaTag('googlebot', robots)
+
+  if (author) {
+    setMetaTag('author', author)
+    setPropertyTag('article:author', author)
+  }
 
   setCanonical(canonical || resolvedUrl)
 
   if (jsonLd) {
-    setJsonLd(jsonLd, jsonLdId)
+    const normalized = Array.isArray(jsonLd) ? jsonLd : [jsonLd]
+    setJsonLd(
+      {
+        '@context': 'https://schema.org',
+        '@graph': normalized,
+      },
+      jsonLdId
+    )
   } else {
     const existing = document.head.querySelector<HTMLScriptElement>(`script[data-jsonld="${jsonLdId}"]`)
     if (existing) {
@@ -103,9 +160,9 @@ export function applyPageMeta(meta: PageMeta) {
 }
 
 export function usePageMeta(meta: PageMeta) {
-  const { title, description, image, url, type, canonical, jsonLd, jsonLdId } = meta
+  const { title, description, image, imageAlt, url, type, canonical, jsonLd, jsonLdId, robots, author } = meta
 
   useEffect(() => {
-    applyPageMeta({ title, description, image, url, type, canonical, jsonLd, jsonLdId })
-  }, [title, description, image, url, type, canonical, jsonLd, jsonLdId])
+    applyPageMeta({ title, description, image, imageAlt, url, type, canonical, jsonLd, jsonLdId, robots, author })
+  }, [title, description, image, imageAlt, url, type, canonical, jsonLd, jsonLdId, robots, author])
 }

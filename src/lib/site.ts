@@ -1,9 +1,15 @@
-export const SITE_NAME = 'NhapLuu'
+export const SITE_NAME = 'Nhập Lưu'
 export const SITE_DESCRIPTION =
-  'Nền tảng thực hành Phật giáo nguyên thủy: thiền định, giữ giới, đọc kinh, cộng đồng Kalyāṇamitta.'
-
-// Prefer env-provided URL for SEO/meta. Fallback to README public URL.
+  'Thư viện Phật pháp Nguyên thủy và nền tảng thực hành: thiền định, kinh điển Pāli, giới luật, cộng đồng Kalyāṇamitta, và lộ trình tu học có cấu trúc.'
+export const SITE_LOCALE = 'vi_VN'
+export const SITE_LANGUAGE = 'vi'
 export const SITE_URL =
-  import.meta.env.VITE_SITE_URL?.replace(/\/$/, '') || 'https://cschanhniem.github.io/nhapluu'
-
-export const DEFAULT_OG_IMAGE = '/logo.png'
+  import.meta.env.VITE_SITE_URL?.replace(/\/$/, '') || 'https://cschanhniem.github.io'
+export const SITE_LOGO = '/logo.png'
+export const DEFAULT_OG_IMAGE = '/og-default.png'
+export const DEFAULT_OG_IMAGE_ALT = 'Nhập Lưu, thư viện và nền tảng thực hành Phật pháp Nguyên thủy'
+export const DEFAULT_OG_IMAGE_TYPE = 'image/png'
+export const DEFAULT_OG_IMAGE_WIDTH = '1200'
+export const DEFAULT_OG_IMAGE_HEIGHT = '630'
+export const DEFAULT_ROBOTS = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'
+export const NOINDEX_ROBOTS = 'noindex,nofollow'

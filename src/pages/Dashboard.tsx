@@ -1,4 +1,4 @@
-import { useState, useEffect, lazy, Suspense } from 'react'
+import { useState, useEffect, lazy, Suspense, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
@@ -15,6 +15,7 @@ import { BodhiGarden } from '@/components/growth/BodhiGarden'
 import { OneMinuteDhamma } from '@/components/growth/OneMinuteDhamma'
 import { DhammaShareCard } from '@/components/growth/DhammaShareCard'
 import { usePageMeta } from '@/lib/seo'
+import { SITE_URL } from '@/lib/site'
 
 interface ReadingProgress {
   suttaId: string
@@ -31,6 +32,8 @@ export function Dashboard() {
   const stats = getStats()
   const [checkInMessage, setCheckInMessage] = useState<string | null>(null)
   const [showMilestoneShare, setShowMilestoneShare] = useState(false)
+  const [shouldLoadCharts, setShouldLoadCharts] = useState(false)
+  const chartsRef = useRef<HTMLDivElement>(null)
 
   const checkedInToday = hasCheckedInToday()
   const todayCheckIn = getTodayCheckIn()
@@ -38,7 +41,30 @@ export function Dashboard() {
 
   usePageMeta({
     title: t('dashboard.metaTitle'),
-    description: t('dashboard.metaDescription')
+    description: t('dashboard.metaDescription'),
+    url: '/',
+    jsonLd: [
+      {
+        '@type': 'WebPage',
+        '@id': `${SITE_URL}/#webpage`,
+        url: SITE_URL,
+        name: t('dashboard.metaTitle'),
+        description: t('dashboard.metaDescription'),
+        inLanguage: 'vi',
+      },
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Trang chủ',
+            item: SITE_URL,
+          },
+        ],
+      },
+    ],
+    jsonLdId: 'home'
   })
 
   const practiceDays = (() => {
@@ -94,6 +120,32 @@ export function Dashboard() {
 
     setLastReadSutta(mostRecent)
   }, [])
+
+  useEffect(() => {
+    if (shouldLoadCharts) return
+
+    const node = chartsRef.current
+    if (!node) return
+
+    if (typeof IntersectionObserver === 'undefined') {
+      setShouldLoadCharts(true)
+      return
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) {
+          setShouldLoadCharts(true)
+          observer.disconnect()
+        }
+      },
+      { rootMargin: '240px 0px' }
+    )
+
+    observer.observe(node)
+
+    return () => observer.disconnect()
+  }, [shouldLoadCharts])
 
   const handleCheckIn = () => {
     if (!isAuthenticated) {
@@ -270,13 +322,22 @@ export function Dashboard() {
       })()}
 
       {/* Charts Section */}
-      <div className="grid md:grid-cols-2 gap-6 mb-8">
-        <Suspense fallback={<div className="h-64 bg-muted/50 rounded-lg animate-pulse" />}>
-          <WeeklyChart sessions={state.meditationSessions} checkIns={checkIns} />
-        </Suspense>
-        <Suspense fallback={<div className="h-64 bg-muted/50 rounded-lg animate-pulse" />}>
-          <HeatmapCalendar sessions={state.meditationSessions} checkIns={checkIns} />
-        </Suspense>
+      <div ref={chartsRef} className="grid md:grid-cols-2 gap-6 mb-8">
+        {shouldLoadCharts ? (
+          <>
+            <Suspense fallback={<div className="h-64 bg-muted/50 rounded-lg animate-pulse" />}>
+              <WeeklyChart sessions={state.meditationSessions} checkIns={checkIns} />
+            </Suspense>
+            <Suspense fallback={<div className="h-64 bg-muted/50 rounded-lg animate-pulse" />}>
+              <HeatmapCalendar sessions={state.meditationSessions} checkIns={checkIns} />
+            </Suspense>
+          </>
+        ) : (
+          <>
+            <div className="h-64 bg-muted/50 rounded-lg animate-pulse" />
+            <div className="h-64 bg-muted/50 rounded-lg animate-pulse" />
+          </>
+        )}
       </div>
 
       {/* Growth Highlights */}

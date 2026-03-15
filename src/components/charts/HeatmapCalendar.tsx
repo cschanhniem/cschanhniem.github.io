@@ -1,5 +1,6 @@
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
+import { buildPracticeMinutesByDate } from '@/components/charts/practice-data'
 
 interface HeatmapCalendarProps {
   sessions: Array<{ date: string; duration: number }>
@@ -11,6 +12,8 @@ export function HeatmapCalendar({ sessions, checkIns }: HeatmapCalendarProps) {
 
   const data = useMemo(() => {
     const now = new Date()
+    const minutesByDate = buildPracticeMinutesByDate(sessions, checkIns)
+    const formatter = new Intl.DateTimeFormat(i18n.language === 'vi' ? 'vi-VN' : 'en-US', { month: 'short' })
     const calendar: Array<{
       date: string
       minutes: number
@@ -24,18 +27,8 @@ export function HeatmapCalendar({ sessions, checkIns }: HeatmapCalendarProps) {
       const date = new Date(now)
       date.setDate(date.getDate() - i)
       date.setHours(0, 0, 0, 0)
-      const dateStr = date.toISOString().split('T')[0]
-
-      // Sum minutes for this day
-      const sessionMinutes = sessions
-        .filter(s => s.date.split('T')[0] === dateStr)
-        .reduce((sum, s) => sum + s.duration, 0)
-
-      const checkInMinutes = checkIns
-        .filter(c => new Date(c.date).toISOString().split('T')[0] === dateStr)
-        .reduce((sum, c) => sum + c.duration, 0)
-
-      const totalMinutes = sessionMinutes + checkInMinutes
+      const dateStr = date.toISOString().slice(0, 10)
+      const totalMinutes = minutesByDate.get(dateStr) || 0
 
       // Determine intensity level
       let level: 0 | 1 | 2 | 3 | 4 = 0
@@ -48,7 +41,7 @@ export function HeatmapCalendar({ sessions, checkIns }: HeatmapCalendarProps) {
         date: dateStr,
         minutes: totalMinutes,
         level,
-        month: date.toLocaleDateString(i18n.language === 'vi' ? 'vi-VN' : 'en-US', { month: 'short' }),
+        month: formatter.format(date),
         day: date.getDate()
       })
     }

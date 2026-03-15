@@ -1,10 +1,19 @@
 import { useAppState } from '@/hooks/useAppState'
 import { Button } from '@/components/ui/button'
 import { Trophy, CheckCircle2, Circle, Calendar, Download, BookOpen } from 'lucide-react'
+import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 
 export function Program() {
   const { state, startProgram, markDayComplete } = useAppState()
   const hasStarted = state.programProgress !== null
+
+  usePageMeta({
+    title: 'Chương Trình 90 Ngày Nhập Lưu',
+    description: 'Lộ trình 90 ngày có cấu trúc dành cho hành giả muốn xây nền tảng giới, định, tuệ một cách nghiêm túc.',
+    url: '/chuong-trinh',
+    robots: NOINDEX_ROBOTS,
+  })
 
   const weeklyGoals = [
     {

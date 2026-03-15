@@ -3,9 +3,18 @@ import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
 import { ArrowRight, ArrowLeft, Wind, Activity, Brain, Heart, PlayCircle } from 'lucide-react'
 import { Link } from 'react-router-dom'
+import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 
 export function WakefulRelaxation() {
     const [activeStep, setActiveStep] = useState(0)
+
+    usePageMeta({
+        title: 'Thư Giãn Trong Tỉnh Thức',
+        description: 'Hướng dẫn thư giãn sâu nhưng vẫn giữ tỉnh thức, dùng như tài nguyên nội bộ cho hành giả.',
+        url: '/thien-dinh/thu-gian',
+        robots: NOINDEX_ROBOTS,
+    })
 
     const steps = [
         {

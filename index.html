@@ -5,17 +5,41 @@
   <meta charset="UTF-8" />
   <link rel="icon" type="image/png" href="/logo.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#E6A23C" />
   <meta name="google-adsense-account" content="ca-pub-7289937973983174">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FSSFG0MQFS"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    window.gtag = gtag;
 
-    gtag('config', 'G-FSSFG0MQFS');
+    (function () {
+      var analyticsLoaded = false;
+
+      function loadAnalytics() {
+        if (analyticsLoaded) return;
+        analyticsLoaded = true;
+
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-FSSFG0MQFS';
+        script.onload = function () {
+          gtag('js', new Date());
+          gtag('config', 'G-FSSFG0MQFS');
+        };
+        document.head.appendChild(script);
+      }
+
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(loadAnalytics, { timeout: 3000 });
+      } else {
+        window.addEventListener('load', function () {
+          window.setTimeout(loadAnalytics, 1500);
+        }, { once: true });
+      }
+    })();
   </script>
   <title>Nhập Lưu - Học Phật Pháp Nguyên Thủy</title>
+  <!-- SEO_HEAD -->
 
   <!-- GitHub Pages SPA redirect handler -->
   <script>
@@ -36,6 +60,7 @@
 
 <body>
   <div id="root"></div>
+  <!-- SEO_NOSCRIPT -->
   <script type="module" src="/src/main.tsx"></script>
 </body>
 

@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { Check, Shield, Ban, DollarSign, Sparkles } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
 
 export function Onboarding() {
@@ -13,7 +14,9 @@ export function Onboarding() {
 
     usePageMeta({
         title: t('onboarding.metaTitle'),
-        description: t('onboarding.metaDescription')
+        description: t('onboarding.metaDescription'),
+        url: '/onboarding',
+        robots: NOINDEX_ROBOTS,
     })
 
     const handleProceed = () => {

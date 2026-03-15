@@ -1,17 +1,15 @@
 import type { TeachingChapter } from '@/types'
 import type { TeachingWithChapters } from '../tien-trinh-minh-sat'
 
-const rawVietnameseChapters = import.meta.glob('../../../content/teachings/critical-analysis-jhanas/vi/*.md', {
-    eager: true,
+const vietnameseChapterLoaders = import.meta.glob('../../../content/teachings/critical-analysis-jhanas/vi/*.md', {
     query: '?raw',
     import: 'default',
-}) as Record<string, string>
+}) as Record<string, () => Promise<string>>
 
-const rawEnglishChapters = import.meta.glob('../../../content/teachings/critical-analysis-jhanas/en/*.md', {
-    eager: true,
+const englishChapterLoaders = import.meta.glob('../../../content/teachings/critical-analysis-jhanas/en/*.md', {
     query: '?raw',
     import: 'default',
-}) as Record<string, string>
+}) as Record<string, () => Promise<string>>
 
 const chapterManifest = [
     { file: '00-front-matter.md', id: 'jhana-00-front-matter', title: 'Mở đầu xuất bản' },
@@ -32,16 +30,16 @@ const chapterManifest = [
     { file: '15-selected-bibliography.md', id: 'jhana-15-bibliography', title: 'Thư mục chọn lọc' },
 ] as const
 
-function resolveChapterContent(fileName: string): string | undefined {
+function resolveChapterLoader(fileName: string): (() => Promise<string>) | undefined {
     return (
-        Object.entries(rawVietnameseChapters).find(([path]) => path.endsWith(`/${fileName}`))?.[1] ??
-        Object.entries(rawEnglishChapters).find(([path]) => path.endsWith(`/${fileName}`))?.[1]
+        Object.entries(vietnameseChapterLoaders).find(([path]) => path.endsWith(`/${fileName}`))?.[1] ??
+        Object.entries(englishChapterLoaders).find(([path]) => path.endsWith(`/${fileName}`))?.[1]
     )
 }
 
 const chapters: TeachingChapter[] = chapterManifest.flatMap((chapter, order) => {
-    const content = resolveChapterContent(chapter.file)
-    if (!content) {
+    const loadContent = resolveChapterLoader(chapter.file)
+    if (!loadContent) {
         return []
     }
 
@@ -49,7 +47,7 @@ const chapters: TeachingChapter[] = chapterManifest.flatMap((chapter, order) => 
         id: chapter.id,
         order,
         title: chapter.title,
-        content,
+        loadContent,
     }]
 })
 

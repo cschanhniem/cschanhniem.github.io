@@ -17,6 +17,7 @@ import {
   CalendarDays
 } from 'lucide-react'
 import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 
 type ContemplationType = 'anicca' | 'dukkha' | 'anatta' | 'general'
 
@@ -38,7 +39,9 @@ export function InsightJournal() {
 
   usePageMeta({
     title: t('journal.metaTitle'),
-    description: t('journal.metaDescription')
+    description: t('journal.metaDescription'),
+    url: '/nhat-ky',
+    robots: NOINDEX_ROBOTS,
   })
 
   // Form state

@@ -12,6 +12,7 @@ import rehypeKatex from 'rehype-katex'
 const PrintButton = lazy(() => import('@/components/PrintButton').then(m => ({ default: m.PrintButton })))
 import { useKatexCSS } from '@/hooks/useKatexCSS'
 import { usePageMeta } from '@/lib/seo'
+import { SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
 import { DHAMMA_LIBRARY_TEACHINGS_PATH, resolveDhammaBackPath } from '@/lib/dhamma-library'
 
@@ -49,6 +50,31 @@ const teachingImports: Record<string, () => Promise<{ default: Teaching }>> = {
     'dong-hanh-tu-tap': () => import('@/data/teachings/dong-hanh-tu-tap'),
 }
 
+async function resolveTeachingChapters(teaching: Teaching): Promise<Teaching> {
+    if (!teaching.chapters?.some((chapter) => !chapter.content && chapter.loadContent)) {
+        return teaching
+    }
+
+    const chapters = await Promise.all(
+        teaching.chapters.map(async (chapter) => {
+            if (chapter.content || !chapter.loadContent) {
+                return chapter
+            }
+
+            return {
+                ...chapter,
+                content: await chapter.loadContent(),
+                loadContent: undefined,
+            }
+        })
+    )
+
+    return {
+        ...teaching,
+        chapters,
+    }
+}
+
 export function TeachingDetail() {
     const { t } = useTranslation()
     const { teachingId } = useParams<{ teachingId: string }>()
@@ -65,6 +91,8 @@ export function TeachingDetail() {
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
+        let cancelled = false
+
         if (!teachingId || !teachingImports[teachingId]) {
             setLoading(false)
             return
@@ -72,13 +100,26 @@ export function TeachingDetail() {
 
         setLoading(true)
         teachingImports[teachingId]()
-            .then((module) => {
+            .then(async (module) => {
+                if (cancelled) return
+
                 setTeaching(module.default)
                 setLoading(false)
+
+                const hydratedTeaching = await resolveTeachingChapters(module.default)
+                if (!cancelled) {
+                    setTeaching(hydratedTeaching)
+                }
             })
             .catch(() => {
-                setLoading(false)
+                if (!cancelled) {
+                    setLoading(false)
+                }
             })
+
+        return () => {
+            cancelled = true
+        }
     }, [teachingId])
 
     usePageMeta({
@@ -86,18 +127,51 @@ export function TeachingDetail() {
         description: metadata?.summary || t('library.metaDescription'),
         url: metadata ? `/giao-phap/${metadata.id}` : undefined,
         jsonLd: metadata
-            ? {
-                '@context': 'https://schema.org',
-                '@type': 'Article',
-                headline: metadata.title,
-                description: metadata.summary,
-                author: {
-                    '@type': 'Person',
-                    name: metadata.author
-                }
-            }
+            ? [
+                {
+                    '@type': 'Article',
+                    '@id': `${SITE_URL}/giao-phap/${metadata.id}#article`,
+                    headline: metadata.title,
+                    description: metadata.summary,
+                    url: `${SITE_URL}/giao-phap/${metadata.id}`,
+                    inLanguage: 'vi',
+                    author: {
+                        '@type': 'Person',
+                        name: metadata.author,
+                    },
+                    publisher: {
+                        '@type': 'Organization',
+                        name: 'Nhập Lưu',
+                    },
+                    about: metadata.themes,
+                },
+                {
+                    '@type': 'BreadcrumbList',
+                    itemListElement: [
+                        {
+                            '@type': 'ListItem',
+                            position: 1,
+                            name: 'Trang chủ',
+                            item: SITE_URL,
+                        },
+                        {
+                            '@type': 'ListItem',
+                            position: 2,
+                            name: 'Kho Tàng Pháp Bảo',
+                            item: `${SITE_URL}${DHAMMA_LIBRARY_TEACHINGS_PATH}`,
+                        },
+                        {
+                            '@type': 'ListItem',
+                            position: 3,
+                            name: metadata.title,
+                            item: `${SITE_URL}/giao-phap/${metadata.id}`,
+                        },
+                    ],
+                },
+            ]
             : undefined,
-        jsonLdId: metadata ? `teaching-${metadata.id}` : 'teaching-missing'
+        jsonLdId: metadata ? `teaching-${metadata.id}` : 'teaching-missing',
+        author: metadata?.author,
     })
 
     if (!metadata) {
@@ -307,7 +381,7 @@ export function TeachingDetail() {
                                                     hr: () => <hr className="my-8 border-border" />,
                                                 }}
                                             >
-                                                {chapter.content}
+                                                {chapter.content || '*Đang tải nội dung...*'}
                                             </ReactMarkdown>
                                         </div>
 

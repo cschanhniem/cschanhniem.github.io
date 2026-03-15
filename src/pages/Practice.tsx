@@ -7,6 +7,8 @@ import { MeditationLogger } from '@/components/practice/MeditationLogger'
 import { Timer, BookText, CheckSquare, BrainCircuit, ArrowRight } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { Button } from '@/components/ui/button'
+import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 
 export function Practice() {
   const { t, i18n } = useTranslation()
@@ -16,6 +18,13 @@ export function Practice() {
 
   const [preceptsType, setPreceptsType] = useState<'five' | 'eight'>('five')
   const [precepts, setPrecepts] = useState<{ [key: number]: boolean }>({})
+
+  usePageMeta({
+    title: t('practice.title'),
+    description: t('practice.subtitle'),
+    url: '/thien-dinh',
+    robots: NOINDEX_ROBOTS,
+  })
 
   const preceptsList = preceptsType === 'five' ? [1, 2, 3, 4, 5] : [1, 2, 3, 4, 5, 6, 7, 8]
 

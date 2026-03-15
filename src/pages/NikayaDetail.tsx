@@ -16,6 +16,7 @@ import { NikayaComparisonView } from '@/components/NikayaComparisonView'
 import { useAppState } from '@/hooks/useAppState'
 import { useKatexCSS } from '@/hooks/useKatexCSS'
 import { usePageMeta } from '@/lib/seo'
+import { SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
 import { trackEvent } from '@/lib/analytics'
 
@@ -83,15 +84,50 @@ export function NikayaDetail() {
         description: metadata?.blurb || t('nikaya.metaDescription'),
         url: suttaId ? `/nikaya/${suttaId}` : undefined,
         jsonLd: metadata
-            ? {
-                '@context': 'https://schema.org',
-                '@type': 'Article',
-                headline: metadata.translated_title || metadata.original_title,
-                description: metadata.blurb,
-                url: `/nikaya/${metadata.uid}`
-            }
+            ? [
+                {
+                    '@type': 'Article',
+                    '@id': `${SITE_URL}/nikaya/${metadata.uid}#article`,
+                    headline: metadata.translated_title || metadata.original_title,
+                    description: metadata.blurb || t('nikaya.metaDescription'),
+                    url: `${SITE_URL}/nikaya/${metadata.uid}`,
+                    inLanguage: 'vi',
+                    author: {
+                        '@type': 'Organization',
+                        name: 'SuttaCentral / Nhập Lưu',
+                    },
+                    publisher: {
+                        '@type': 'Organization',
+                        name: 'Nhập Lưu',
+                    },
+                },
+                {
+                    '@type': 'BreadcrumbList',
+                    itemListElement: [
+                        {
+                            '@type': 'ListItem',
+                            position: 1,
+                            name: 'Trang chủ',
+                            item: SITE_URL,
+                        },
+                        {
+                            '@type': 'ListItem',
+                            position: 2,
+                            name: 'Kinh Điển Pāli',
+                            item: `${SITE_URL}/nikaya`,
+                        },
+                        {
+                            '@type': 'ListItem',
+                            position: 3,
+                            name: metadata.translated_title || metadata.original_title,
+                            item: `${SITE_URL}/nikaya/${metadata.uid}`,
+                        },
+                    ],
+                },
+            ]
             : undefined,
-        jsonLdId: suttaId ? `nikaya-${suttaId}` : 'nikaya-detail'
+        jsonLdId: suttaId ? `nikaya-${suttaId}` : 'nikaya-detail',
+        author: 'SuttaCentral / Nhập Lưu',
     })
 
     // Fetch sutta metadata

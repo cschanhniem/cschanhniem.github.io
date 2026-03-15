@@ -60,7 +60,8 @@ export interface TeachingChapter {
   order: number
   title: string
   titlePali?: string
-  content: string
+  content?: string
+  loadContent?: () => Promise<string>
 }
 
 // Teaching Data (meditation manuals, commentaries)

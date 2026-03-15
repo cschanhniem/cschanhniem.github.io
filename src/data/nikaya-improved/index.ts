@@ -2,6 +2,7 @@
 // Central index for all improved translations across languages
 
 import { viImproved, getImprovedVi } from './vi'
+import { getAvailableImprovedLanguages, normalizeSuttaId } from './availability'
 import type { ImprovedTranslation, NikayaLanguage } from '@/types/nikaya'
 
 // Get improved translation by sutta ID and language
@@ -9,7 +10,7 @@ export function getImprovedTranslation(
     suttaId: string,
     lang: NikayaLanguage
 ): ImprovedTranslation | null {
-    const normalizedId = suttaId.toLowerCase().replace(/[^a-z0-9]/g, '')
+    const normalizedId = normalizeSuttaId(suttaId)
 
     switch (lang) {
         case 'vi':
@@ -38,8 +39,7 @@ export function hasImprovedTranslation(
 
 // Get all available improved translations for a sutta
 export function getAvailableImproved(suttaId: string): NikayaLanguage[] {
-    const langs: NikayaLanguage[] = ['vi', 'en', 'zh', 'es']
-    return langs.filter(lang => hasImprovedTranslation(suttaId, lang))
+    return [...getAvailableImprovedLanguages(suttaId)]
 }
 
 // Export all translation collections

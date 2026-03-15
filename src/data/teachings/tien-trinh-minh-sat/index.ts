@@ -1,13 +1,5 @@
-import type { Teaching } from '@/types'
-
-// Chapter type for multi-part teachings
-export interface TeachingChapter {
-    id: string
-    order: number
-    title: string
-    titlePali?: string
-    content: string
-}
+import type { Teaching, TeachingChapter } from '@/types'
+export type { TeachingChapter } from '@/types'
 
 // Extended teaching with chapters
 export interface TeachingWithChapters extends Omit<Teaching, 'content'> {

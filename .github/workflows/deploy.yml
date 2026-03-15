@@ -34,6 +34,7 @@ jobs:
         run: npm run build
         env:
           VITE_API_URL: https://nhapluu-backend.4rqnf2gvxf.workers.dev
+          VITE_SITE_URL: https://cschanhniem.github.io
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

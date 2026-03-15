@@ -5,6 +5,8 @@ import { useAuth } from '@/contexts/AuthContext'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 
 export default function Auth() {
   const { t } = useTranslation()
@@ -15,6 +17,13 @@ export default function Auth() {
   const [isLoading, setIsLoading] = useState(false)
   const { login, register } = useAuth()
   const navigate = useNavigate()
+
+  usePageMeta({
+    title: isLogin ? t('auth.login') : t('auth.register'),
+    description: isLogin ? t('auth.enterEmail') : t('auth.createAccount'),
+    url: '/auth',
+    robots: NOINDEX_ROBOTS,
+  })
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()

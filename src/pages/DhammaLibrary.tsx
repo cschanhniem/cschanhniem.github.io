@@ -5,6 +5,7 @@ import { suttas } from '@/data/suttas/index'
 import { teachingMetadata } from '@/data/teachings/metadata'
 import { BookOpen, Bookmark, Search, ChevronRight, GraduationCap, ScrollText } from 'lucide-react'
 import { usePageMeta } from '@/lib/seo'
+import { SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
 import {
     DHAMMA_LIBRARY_SUTTAS_PATH,
@@ -63,6 +64,34 @@ export function DhammaLibrary() {
         title: `${activeTab === 'suttas' ? t('library.sections.suttas.label') : t('library.sections.teachings.label')} • ${t('library.metaTitle')}`,
         description: t('library.metaDescription'),
         url: activeTab === 'suttas' ? DHAMMA_LIBRARY_SUTTAS_PATH : DHAMMA_LIBRARY_TEACHINGS_PATH,
+        jsonLd: [
+            {
+                '@type': 'CollectionPage',
+                '@id': `${SITE_URL}${activeTab === 'suttas' ? DHAMMA_LIBRARY_SUTTAS_PATH : DHAMMA_LIBRARY_TEACHINGS_PATH}#webpage`,
+                url: `${SITE_URL}${activeTab === 'suttas' ? DHAMMA_LIBRARY_SUTTAS_PATH : DHAMMA_LIBRARY_TEACHINGS_PATH}`,
+                name: activeTab === 'suttas' ? t('library.sections.suttas.label') : t('library.sections.teachings.label'),
+                description: t('library.metaDescription'),
+                inLanguage: 'vi',
+            },
+            {
+                '@type': 'BreadcrumbList',
+                itemListElement: [
+                    {
+                        '@type': 'ListItem',
+                        position: 1,
+                        name: 'Trang chủ',
+                        item: SITE_URL,
+                    },
+                    {
+                        '@type': 'ListItem',
+                        position: 2,
+                        name: 'Kho Tàng Pháp Bảo',
+                        item: `${SITE_URL}${activeTab === 'suttas' ? DHAMMA_LIBRARY_SUTTAS_PATH : DHAMMA_LIBRARY_TEACHINGS_PATH}`,
+                    },
+                ],
+            },
+        ],
+        jsonLdId: `dhamma-library-${activeTab}`,
     })
 
     return (

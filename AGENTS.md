@@ -25,6 +25,23 @@ Backend (optional):
 - Vite `base` is `/`, which matches the current Pages setup.
 - Static teaching additions like long-form books do not require a backend deploy unless API behavior changed.
 
+## SEO + Crawlability
+- This app is still a client-rendered SPA at runtime, but the build now emits route-level static HTML into `dist/` via `scripts/build-seo-assets.mjs`.
+- Treat `src/lib/seo.ts` as the runtime layer and `scripts/build-seo-assets.mjs` as the crawler-facing layer. When route metadata changes, both surfaces must stay coherent.
+- `VITE_SITE_URL` must resolve to `https://cschanhniem.github.io` in production. Do not reintroduce the old `/nhapluu` subpath assumptions into canonicals, sitemaps, or robots.
+- Public indexable routes must have a generated `dist/<route>/index.html`, canonical URL, sitemap entry, and JSON-LD graph.
+- `dist/sitemap.xml` is a sitemap index. Child files are split by route family so coverage remains broad without one oversized flat file.
+- Internal or account-scoped routes must stay out of the sitemap and carry `noindex,nofollow`.
+- The default social preview asset is `public/og-default.png` at 1200x630. If you replace it, keep the dimensions crawler-safe and update the SEO constants, not scattered tags.
+- On GitHub Pages, direct deep links are fragile without static files. If you add a new public route family, wire it into the route generator or search engines will mainly see the 404 redirect shell.
+
+## Performance Hotspots
+- Keep the home route lean. Avoid heavyweight charting libraries for small dashboard visuals when plain DOM or SVG is enough.
+- Below-the-fold widgets on `/` should not trigger their lazy imports until the section is near view.
+- The Nikaya library works over a 12k-item index. Precompute searchable fields once, use deferred search input, and never call expensive lookup helpers repeatedly inside render loops.
+- For very large teachings, prefer chapter-level loaders over eager raw markdown imports. One giant `import.meta.glob(..., { eager: true })` can turn a reading route into a multi-hundred-kilobyte JS chunk.
+- When doing a speed pass, compare the emitted build chunks before and after. The production output is the truth, not intuition.
+
 ## Frontend Build Notes
 - Vite 8 uses Rolldown-backed production builds. Treat missing imports and stale chunk config as real build defects, not soft warnings.
 - Keep `build.rollupOptions.output.manualChunks` function-based in `vite.config.ts`. The older object-map form no longer matches the stricter Vite 8 typing used here.
@@ -120,6 +137,50 @@ sequenceDiagram
     PWA->>Dist: generate service worker + manifest
 ```
 
+## SEO Build Pipeline
+
+```mermaid
+stateDiagram-v2
+    [*] --> RouteInventoryKnown
+    RouteInventoryKnown --> MetaBound
+    MetaBound --> StaticHeadGenerated
+    StaticHeadGenerated --> StaticRouteWritten
+    StaticRouteWritten --> SitemapWritten
+    SitemapWritten --> RobotsWritten
+    RobotsWritten --> CrawlReady
+    StaticHeadGenerated --> MetaBound: canonical or schema defect
+    StaticRouteWritten --> RouteInventoryKnown: missing route family
+```
+
+```mermaid
+sequenceDiagram
+    participant Agent
+    participant RouteMeta
+    participant BuildScript
+    participant Dist
+    participant SearchCrawler
+
+    Agent->>RouteMeta: update page metadata and route lists
+    Agent->>BuildScript: run npm run build
+    BuildScript->>Dist: write per-route index.html files
+    BuildScript->>Dist: write sitemap.xml and robots.txt
+    SearchCrawler->>Dist: fetch canonical route HTML
+    Dist->>SearchCrawler: return head tags, JSON-LD, noscript copy
+```
+
+```mermaid
+flowchart LR
+    A[src/pages and metadata] --> B[src/lib/seo.ts]
+    A --> C[scripts/build-seo-assets.mjs]
+    C --> D[dist/route/index.html]
+    C --> E[dist/sitemap.xml]
+    C --> F[dist/robots.txt]
+    B --> G[hydrated runtime head]
+    D --> H[Crawlers and social unfurlers]
+    E --> H
+    F --> H
+```
+
 ```mermaid
 sequenceDiagram
     participant PDF
@@ -142,6 +203,7 @@ sequenceDiagram
 - Update navigation in `src/components/layout/Header.tsx` when adding top-level pages.
 - `Pháp Bảo` is split into two first-class tab routes: `/phap-bao/kinh-tang` and `/phap-bao/giao-phap`. Keep the library tabs URL-driven, not local-state-only.
 - Detail pages reached from the library should carry a `state.from` back target and fall back to the correct branch: suttas return to `/phap-bao/kinh-tang`, teachings return to `/phap-bao/giao-phap`.
+- If you add a new public route namespace, extend `scripts/build-seo-assets.mjs` so the namespace gets static HTML and sitemap coverage.
 
 ## Backend Notes
 - API client lives in `src/lib/api.ts`.

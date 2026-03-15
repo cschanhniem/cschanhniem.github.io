@@ -4,11 +4,20 @@ import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { suttas } from '@/data/suttas/index'
 import { BookOpen, Bookmark, BookmarkX, ChevronRight, Search, ArrowLeft } from 'lucide-react'
+import { usePageMeta } from '@/lib/seo'
+import { NOINDEX_ROBOTS } from '@/lib/site'
 
 export function Bookmarks() {
   const { t } = useTranslation()
   const { state, toggleBookmark } = useAppState()
   const [searchTerm, setSearchTerm] = useState('')
+
+  usePageMeta({
+    title: t('bookmarks.title'),
+    description: t('bookmarks.subtitle', { count: state.bookmarkedSuttas.length }),
+    url: '/danh-dau',
+    robots: NOINDEX_ROBOTS,
+  })
 
   // Get bookmarked suttas
   const bookmarkedSuttas = suttas.filter((sutta) =>

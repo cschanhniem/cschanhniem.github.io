@@ -14,6 +14,7 @@ import { useKatexCSS } from '@/hooks/useKatexCSS'
 const PrintButton = lazy(() => import('@/components/PrintButton').then(m => ({ default: m.PrintButton })))
 import { DhammaShareCard } from '@/components/growth/DhammaShareCard'
 import { usePageMeta } from '@/lib/seo'
+import { SITE_URL } from '@/lib/site'
 import { trackEvent } from '@/lib/analytics'
 import { DHAMMA_LIBRARY_SUTTAS_PATH, resolveDhammaBackPath } from '@/lib/dhamma-library'
 
@@ -49,6 +50,7 @@ export function SuttaDetail() {
   const printRef = useRef<HTMLDivElement>(null)
   const progressKey = `nhapluu_progress_${suttaId}`
   const lastReadKey = `nhapluu_lastread_${suttaId}`
+  const backPath = resolveDhammaBackPath(location.state, DHAMMA_LIBRARY_SUTTAS_PATH)
 
   // Save font size preference
   useEffect(() => {
@@ -90,25 +92,57 @@ export function SuttaDetail() {
 
   const sutta = suttas.find((s) => s.id === suttaId)
   const suttaSummary = sutta?.summary ?? ''
-  const backPath = resolveDhammaBackPath(location.state, DHAMMA_LIBRARY_SUTTAS_PATH)
 
   usePageMeta({
     title: sutta ? sutta.title : t('library.notFound'),
     description: sutta?.summary || t('library.metaDescription'),
     url: sutta ? `/phap-bao/${sutta.id}` : undefined,
     jsonLd: sutta
-      ? {
-        '@context': 'https://schema.org',
-        '@type': 'Article',
-        headline: sutta.title,
-        description: sutta.summary,
-        author: {
-          '@type': 'Organization',
-          name: 'NhapLuu'
-        }
-      }
+      ? [
+        {
+          '@type': 'Article',
+          '@id': `${SITE_URL}/phap-bao/${sutta.id}#article`,
+          headline: sutta.title,
+          description: sutta.summary,
+          url: `${SITE_URL}/phap-bao/${sutta.id}`,
+          inLanguage: 'vi',
+          author: {
+            '@type': 'Organization',
+            name: 'Nhập Lưu',
+          },
+          publisher: {
+            '@type': 'Organization',
+            name: 'Nhập Lưu',
+          },
+          about: sutta.themes,
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            {
+              '@type': 'ListItem',
+              position: 1,
+              name: 'Trang chủ',
+              item: SITE_URL,
+            },
+            {
+              '@type': 'ListItem',
+              position: 2,
+              name: 'Kho Tàng Pháp Bảo',
+              item: `${SITE_URL}${DHAMMA_LIBRARY_SUTTAS_PATH}`,
+            },
+            {
+              '@type': 'ListItem',
+              position: 3,
+              name: sutta.title,
+              item: `${SITE_URL}/phap-bao/${sutta.id}`,
+            },
+          ],
+        },
+      ]
       : undefined,
-    jsonLdId: sutta ? `sutta-${sutta.id}` : 'sutta-missing'
+    jsonLdId: sutta ? `sutta-${sutta.id}` : 'sutta-missing',
+    author: 'Nhập Lưu',
   })
 
   useEffect(() => {
