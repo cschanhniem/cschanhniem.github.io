@@ -221,6 +221,8 @@ flowchart LR
 - For this repo, a content-only release normally means frontend publish only.
 - If a teaching grows large enough to create an oversized route chunk, prefer chapter-level `loadContent` loaders over eager raw markdown imports so the reader can hydrate progressively.
 - Site verification now runs on Vite 8. Keep `manualChunks` function-based in `vite.config.ts`, and if chart routes fail under production bundling, confirm `react-is` is installed for `recharts`.
+- Do not reintroduce a forced `vendor-markdown` chunk for the KaTeX reader stack. On this repo, Rolldown can emit a broken `katex_min_exports` symbol when `katex` and `rehype-katex` are grouped too aggressively.
+- If math pages need lazy styling, keep `useKatexCSS` on the stylesheet-URL path. Avoid dynamic CSS module imports for `katex.min.css` unless you verify the emitted chunk graph in production.
 - During route QA, inspect the page chrome as well as the manuscript body. Mis-scoped i18n keys such as `t('common.exportPdf')` can surface raw keys even when the content itself is clean.
 
 ## Review Checklist

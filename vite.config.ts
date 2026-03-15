@@ -39,14 +39,6 @@ function getManualChunk(id: string): string | undefined {
     return 'vendor-print'
   }
 
-  if (normalizedId.includes('/node_modules/react-markdown/')
-    || normalizedId.includes('/node_modules/remark-gfm/')
-    || normalizedId.includes('/node_modules/remark-math/')
-    || normalizedId.includes('/node_modules/rehype-katex/')
-    || normalizedId.includes('/node_modules/katex/')) {
-    return 'vendor-markdown'
-  }
-
   if (normalizedId.endsWith('/src/data/suttas/index.ts')) {
     return 'data-suttas'
   }
