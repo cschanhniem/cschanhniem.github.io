@@ -1,298 +1,44 @@
 {
+  "html_text": {
+    "an5.253:0.1": "<article id='an5.253'><header><ul><li class='division'>{}</li>",
+    "an5.253:0.2": "<li>{}</li></ul>",
+    "an5.253:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.253:1.1": "<p>{}",
+    "an5.253:1.2": "{}",
+    "an5.253:1.3": "{}",
+    "an5.253:1.4": "{}</p>",
+    "an5.253:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.253",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sāmaṇerasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Who Should Give Dependence ",
-      "uid": "an5.252"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Five Kinds of Stinginess ",
-      "uid": "an5.254"
-    }
+    "an5.253:0.1": "Aṅguttara Nikāya 5.253 ",
+    "an5.253:0.2": "26. Upasampadāvagga ",
+    "an5.253:0.3": "Sāmaṇerasutta ",
+    "an5.253:1.1": "“Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo. ",
+    "an5.253:1.2": "Katamehi pañcahi? ",
+    "an5.253:1.3": "Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti; asekhena samādhikkhandhena … asekhena paññākkhandhena … asekhena vimuttikkhandhena … asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. ",
+    "an5.253:1.4": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo”ti. ",
+    "an5.253:1.5": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an5.253",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Who Should Have a Novice as Attendant ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Who Should Give Dependence ",
-      "uid": "an5.252"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Five Kinds of Stinginess ",
-      "uid": "an5.254"
-    }
+  "translation_text": {
+    "an5.253:0.1": "Numbered Discourses 5.253 ",
+    "an5.253:0.2": "26. Ordination ",
+    "an5.253:0.3": "Who Should Have a Novice as Attendant ",
+    "an5.253:1.1": "“Mendicants, a novice should attend on a mendicant with five qualities. ",
+    "an5.253:1.2": "What five? ",
+    "an5.253:1.3": "It’s a mendicant who has the entire spectrum of an adept’s ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+    "an5.253:1.4": "A novice should attend on a mendicant with these five qualities.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.253",
-    "volpages": "PTS AN iii 271",
-    "alt_volpages": null,
-    "uid": "an5.253",
-    "blurb": "Qualifications for one who should have a novice as attendant.",
-    "difficulty": null,
-    "original_title": "Sāmaṇerasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Who Should Have a Novice as Attendant ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.253_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Novize ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.253_translation-en-sujato",
-        "segmented": true,
-        "title": "Who Should Have a Novice as Attendant ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.253_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.253_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Послушник ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.253_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.253_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.253_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.253_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.253_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an5.253_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.253_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.253_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.253_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.253_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A5_1355, msdiv253, ndp17.509",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.253:1.1": "ms16A5_1355, msdiv253, ndp17.509"
   },
-  "bilara_root_text": {
-    "uid": "an5.253",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sāmaṇerasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.253",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Who Should Have a Novice as Attendant ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.253:0.1",
+    "an5.253:0.2",
+    "an5.253:0.3",
+    "an5.253:1.1",
+    "an5.253:1.2",
+    "an5.253:1.3",
+    "an5.253:1.4",
+    "an5.253:1.5"
+  ]
 }

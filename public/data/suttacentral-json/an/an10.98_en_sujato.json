@@ -1,284 +1,83 @@
 {
+  "html_text": {
+    "an10.98:0.1": "<article id='an10.98'><header><ul><li class='division'>{}</li>",
+    "an10.98:0.2": "<li>{}</li></ul>",
+    "an10.98:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.98:1.1": "<p>{}",
+    "an10.98:1.2": "{}</p>",
+    "an10.98:1.3": "<p>{}</p>",
+    "an10.98:1.4": "<p>{}</p>",
+    "an10.98:1.5": "<p>{}</p>",
+    "an10.98:1.6": "<p>{}</p>",
+    "an10.98:1.7": "<p>{}</p>",
+    "an10.98:1.8": "<p>{}</p>",
+    "an10.98:1.9": "<p>{}</p>",
+    "an10.98:1.10": "<p>{}</p>",
+    "an10.98:1.11": "<p>{}</p>",
+    "an10.98:1.12": "<p>{}</p>",
+    "an10.98:1.13": "<p>{}</p>",
+    "an10.98:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.98",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Therasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Worthy of Offerings Dedicated to the Gods ",
-      "uid": "an10.97"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Upāli ",
-      "uid": "an10.99"
-    }
+    "an10.98:0.1": "Aṅguttara Nikāya 10.98 ",
+    "an10.98:0.2": "10. Upālivagga ",
+    "an10.98:0.3": "Therasutta ",
+    "an10.98:1.1": "“Dasahi, bhikkhave, dhammehi samannāgato thero bhikkhu yassaṁ yassaṁ disāyaṁ viharati, phāsuyeva viharati. ",
+    "an10.98:1.2": "Katamehi dasahi? ",
+    "an10.98:1.3": "Thero hoti rattaññū cirapabbajito, ",
+    "an10.98:1.4": "sīlavā hoti …pe… ",
+    "an10.98:1.5": "samādāya sikkhati sikkhāpadesu, bahussuto hoti …pe… ",
+    "an10.98:1.6": "diṭṭhiyā suppaṭividdho, ubhayāni kho panassa pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, ",
+    "an10.98:1.7": "adhikaraṇasamuppādavūpasamakusalo hoti, ",
+    "an10.98:1.8": "dhammakāmo hoti piyasamudāhāro abhidhamme abhivinaye uḷārapāmojjo, ",
+    "an10.98:1.9": "santuṭṭho hoti itarītaracīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena, ",
+    "an10.98:1.10": "pāsādiko hoti abhikkantapaṭikkante susaṁvuto antaraghare nisajjāya, ",
+    "an10.98:1.11": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+    "an10.98:1.12": "āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. ",
+    "an10.98:1.13": "Imehi kho, bhikkhave, dasahi dhammehi samannāgato thero bhikkhu yassaṁ yassaṁ disāyaṁ viharati, phāsuyeva viharatī”ti. ",
+    "an10.98:1.14": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an10.98",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Senior Mendicant ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Worthy of Offerings Dedicated to the Gods ",
-      "uid": "an10.97"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Upāli ",
-      "uid": "an10.99"
-    }
+  "translation_text": {
+    "an10.98:0.1": "Numbered Discourses 10.98 ",
+    "an10.98:0.2": "10. With Upāli ",
+    "an10.98:0.3": "A Senior Mendicant ",
+    "an10.98:1.1": "“Mendicants, a senior mendicant with ten qualities lives comfortably in whatever region they live. ",
+    "an10.98:1.2": "What ten? ",
+    "an10.98:1.3": "They are long standing and have long gone forth. ",
+    "an10.98:1.4": "They’re ethical, restrained in the monastic code, conducting themselves well and resorting for alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. ",
+    "an10.98:1.5": "They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and penetrating them theoretically. ",
+    "an10.98:1.6": "Both monastic codes have been passed down to them in detail, well analyzed, well mastered, well evaluated in both the rules and accompanying material. ",
+    "an10.98:1.7": "They’re skilled in raising and settling disciplinary issues. ",
+    "an10.98:1.8": "They love the teachings and are a delight to converse with, being full of joy in the teaching and training. ",
+    "an10.98:1.9": "They’re content with any kind of robes, almsfood, lodgings, and medicines and supplies for the sick. ",
+    "an10.98:1.10": "They look impressive when going out and coming back, and are well restrained when sitting in an inhabited area. ",
+    "an10.98:1.11": "They get the four absorptions—blissful meditations in this life that belong to the higher mind—when they want, without trouble or difficulty. ",
+    "an10.98:1.12": "They realize the undefiled freedom of heart and freedom by wisdom in this very life, and they live having realized it with their own insight due to the ending of defilements. ",
+    "an10.98:1.13": "A senior mendicant with these ten qualities lives comfortably in whatever region they live.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.98",
-    "volpages": "PTS AN v 201",
-    "alt_volpages": null,
-    "uid": "an10.98",
-    "blurb": "With ten qualities, a senior mendicant is at ease wherever they live.",
-    "difficulty": null,
-    "original_title": "Therasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Senior Mendicant ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.98_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Altehrwürdige ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.98_translation-en-sujato",
-        "segmented": true,
-        "title": "A Senior Mendicant ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.98_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.98_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.98_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.98_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.98_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.98_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an10.98_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.98_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.98_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.98_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.98_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj23.362, cck24.181, csp1ed17.420, csp2ed17.420, dr24.221, ms17A10_877, msdiv98, ndp19.263, sya24.216, vri40.171",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an10.98:1.10": "abhikkantapaṭikkante → abhikkante paṭikkante (bj); abhikkantapaṭikkanto (mr) "
   },
-  "bilara_root_text": {
-    "uid": "an10.98",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Therasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.98:1.1": "bj23.362, cck24.181, csp1ed17.420, csp2ed17.420, dr24.221, ms17A10_877, msdiv98, ndp19.263, sya24.216, vri40.171"
   },
-  "bilara_translated_text": {
-    "uid": "an10.98",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Senior Mendicant ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.98:0.1",
+    "an10.98:0.2",
+    "an10.98:0.3",
+    "an10.98:1.1",
+    "an10.98:1.2",
+    "an10.98:1.3",
+    "an10.98:1.4",
+    "an10.98:1.5",
+    "an10.98:1.6",
+    "an10.98:1.7",
+    "an10.98:1.8",
+    "an10.98:1.9",
+    "an10.98:1.10",
+    "an10.98:1.11",
+    "an10.98:1.12",
+    "an10.98:1.13",
+    "an10.98:1.14"
+  ]
 }

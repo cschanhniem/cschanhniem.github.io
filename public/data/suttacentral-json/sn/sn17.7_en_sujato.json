@@ -1,311 +1,60 @@
 {
+  "comment_text": {
+    "sn17.7:1.3": "The construction parallels the previous (except the opening sentence is passive). Again, I think the Buddha is quoting a well-known curse. Compare Atharva Veda 8.3.6, where Agni is called on to smear poison on his arrow-tip and loose it at the sorcerers. Pali <i lang='pi' translate='no'>salla</i> = Sanskrit <i lang='pi' translate='no'>śalya</i> (“arrow”), while Pali <i lang='pi' translate='no'>diddha</i> = Sanskrit <i lang='pi' translate='no'>dih</i> (“smear with poison”). Thus these two adjacent Suttas reinterpret curses in adjacent sections of the Atharva Veda that invoke Indra and Agni, the two most powerful Vedic gods. "
+  },
+  "html_text": {
+    "sn17.7:0.1": "<article id='sn17.7'><header><ul><li class='division'>{}</li>",
+    "sn17.7:0.2": "<li>{}</li></ul>",
+    "sn17.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn17.7:1.1": "<p>{}</p>",
+    "sn17.7:1.2": "<p>{}</p>",
+    "sn17.7:1.3": "<p>{}</p>",
+    "sn17.7:2.1": "<p>{}</p>",
+    "sn17.7:2.2": "<p>{}",
+    "sn17.7:2.3": "{}</p>",
+    "sn17.7:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn17.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Diddhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Bolt of Lightning ",
-      "uid": "sn17.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Jackal ",
-      "uid": "sn17.8"
-    }
+    "sn17.7:0.1": "Saṁyutta Nikāya 17.7 ",
+    "sn17.7:0.2": "1. Paṭhamavagga ",
+    "sn17.7:0.3": "Diddhasutta ",
+    "sn17.7:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn17.7:1.2": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+    "sn17.7:1.3": "Kaṁ, bhikkhave, diddhagatena visallena sallena vijjhatu, sekhaṁ appattamānasaṁ lābhasakkārasiloko anupāpuṇātu. ",
+    "sn17.7:2.1": "Sallanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ. ",
+    "sn17.7:2.2": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+    "sn17.7:2.3": "evañhi vo, bhikkhave, sikkhitabban”ti. ",
+    "sn17.7:2.4": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn17.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Poisoned Arrow ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Bolt of Lightning ",
-      "uid": "sn17.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Jackal ",
-      "uid": "sn17.8"
-    }
+  "translation_text": {
+    "sn17.7:0.1": "Linked Discourses 17.7 ",
+    "sn17.7:0.2": "Chapter One ",
+    "sn17.7:0.3": "A Poisoned Arrow ",
+    "sn17.7:1.1": "At Sāvatthī. ",
+    "sn17.7:1.2": "“Possessions, honor, and popularity are grim … ",
+    "sn17.7:1.3": "Let whom be pierced by a poisoned arrow? Let possessions, honor, and popularity come to a trainee who has not achieved their heart’s desire. ",
+    "sn17.7:2.1": "‘Arrow’ is a term for possessions, honor, and popularity. ",
+    "sn17.7:2.2": "So grim are possessions, honor, and popularity. …” ",
+    "sn17.7:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 17.7",
-    "volpages": " PTS 2.230",
-    "alt_volpages": null,
-    "uid": "sn17.7",
-    "blurb": "Material possessions, honor, and praise are terrible things, like a poison dart.",
-    "difficulty": null,
-    "original_title": "Diddhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Poisoned Arrow ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn17.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein vergifteter Pfeil ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn17.7_translation-en-sujato",
-        "segmented": true,
-        "title": "A Poisoned Arrow ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn17.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn17.7_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Otrovna strela ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn17.7_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn17.7_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn17.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn17.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn17.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn17.7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn17.7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn17.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn17.7_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn17.7_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn17.7_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms12S2_1036, msdiv163, pts-vp-pli2.230,dr16.274, ms12S2_1037",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn17.7:0.3": "Diddhasutta → diddhavisallasuttaṁ (bj); diṭṭhaṁ (pts1ed, pts2ed) ",
+    "sn17.7:1.3": "diddhagatena visallena sallena → diṭṭhigatena visallena (bj); diṭṭhigatena sallena (sya-all, km); diṭṭhagatena visallena sallena (pts1ed, pts2ed); diṭṭhigatena visallena sallena (mr) | sekhaṁ → bijjhatu sekhaṁ (bj); sekkhaṁ (sya-all); taṁ sekhaṁ (pts1ed, pts2ed, mr) | anupāpuṇātu → anupāpuṇāti (pts1ed, pts2ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn17.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Diddhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn17.7:1.1": "ms12S2_1036, msdiv163, pts-vp-pli2.230",
+    "sn17.7:2.1": "dr16.274, ms12S2_1037"
   },
-  "bilara_translated_text": {
-    "uid": "sn17.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Poisoned Arrow ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn17.7:0.1",
+    "sn17.7:0.2",
+    "sn17.7:0.3",
+    "sn17.7:1.1",
+    "sn17.7:1.2",
+    "sn17.7:1.3",
+    "sn17.7:2.1",
+    "sn17.7:2.2",
+    "sn17.7:2.3",
+    "sn17.7:2.4"
+  ]
 }

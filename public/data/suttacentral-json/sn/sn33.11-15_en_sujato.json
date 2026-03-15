@@ -1,0 +1,72 @@
+{
+  "html_text": {
+    "sn33.11:0.1": "<section class='range' id='sn33.11-15'><header><ul><li class='division'>{}</li>",
+    "sn33.11:0.2": "<li>{}</li></ul>",
+    "sn33.11:0.3": "<h1 class='range-title'>{}</h1></header>",
+    "sn33.11:1.1": "<article id='sn33.11'><p>{}</p>",
+    "sn33.11:1.2": "<p>{}</p></article>",
+    "sn33.12:1.1": "<article id='sn33.12'><p>{}",
+    "sn33.12:1.2": "{}</p></article>",
+    "sn33.13:1.1": "<article id='sn33.13'><p>{}",
+    "sn33.13:1.2": "{}</p></article>",
+    "sn33.14:1.1": "<article id='sn33.14'><p>{}",
+    "sn33.14:1.2": "{}</p></article>",
+    "sn33.15:1.1": "<article id='sn33.15'><p>{}",
+    "sn33.15:1.2": "{}</p>",
+    "sn33.15:1.3": "<p class='endsutta'>{}</p></article></section>"
+  },
+  "root_text": {
+    "sn33.11:0.1": "Saṁyutta Nikāya 33.11–15 ",
+    "sn33.11:0.2": "1. Vacchagottavagga ",
+    "sn33.11:0.3": "Rūpaanabhisamayādisuttapañcaka ",
+    "sn33.11:1.1": "Sāvatthinidānaṁ. ",
+    "sn33.11:1.2": "“Rūpe kho, vaccha, anabhisamayā …pe… rūpanirodhagāminiyā paṭipadāya anabhisamayā …pe…. ",
+    "sn33.12:1.1": "Sāvatthinidānaṁ. ",
+    "sn33.12:1.2": "“Vedanāya kho, vaccha, anabhisamayā …pe…. ",
+    "sn33.13:1.1": "Sāvatthinidānaṁ. ",
+    "sn33.13:1.2": "“Saññāya kho, vaccha, anabhisamayā …pe…. ",
+    "sn33.14:1.1": "Sāvatthinidānaṁ. ",
+    "sn33.14:1.2": "“Saṅkhāresu kho, vaccha, anabhisamayā …pe…. ",
+    "sn33.15:1.1": "Sāvatthinidānaṁ. ",
+    "sn33.15:1.2": "“Viññāṇe kho, vaccha, anabhisamayā …pe…. ",
+    "sn33.15:1.3": "Pannarasamaṁ. "
+  },
+  "translation_text": {
+    "sn33.11:0.1": "Linked Discourses 33.11 ",
+    "sn33.11:0.2": "1. With Vacchagotta ",
+    "sn33.11:0.3": "Five Discourses on Not Comprehending Form, Etc. ",
+    "sn33.11:1.1": "At Sāvatthī. ",
+    "sn33.11:1.2": "“Vaccha, it is because of not comprehending form … ",
+    "sn33.12:1.1": "",
+    "sn33.12:1.2": "feeling … ",
+    "sn33.13:1.1": "",
+    "sn33.13:1.2": "perception … ",
+    "sn33.14:1.1": "",
+    "sn33.14:1.2": "choices … ",
+    "sn33.15:1.1": "",
+    "sn33.15:1.2": "consciousness …” "
+  },
+  "reference_text": {
+    "sn33.11:1.1": "csp1ed13.221, csp2ed13.221, dr17.322, ms13S3_1248, msdiv617-621",
+    "sn33.12:1.1": "ms13S3_1249",
+    "sn33.13:1.1": "bj15.528, cck17.236, ms13S3_1250, vri25.259",
+    "sn33.14:1.1": "ms13S3_1251",
+    "sn33.15:1.1": "ms13S3_1252"
+  },
+  "keys_order": [
+    "sn33.11:0.1",
+    "sn33.11:0.2",
+    "sn33.11:0.3",
+    "sn33.11:1.1",
+    "sn33.11:1.2",
+    "sn33.12:1.1",
+    "sn33.12:1.2",
+    "sn33.13:1.1",
+    "sn33.13:1.2",
+    "sn33.14:1.1",
+    "sn33.14:1.2",
+    "sn33.15:1.1",
+    "sn33.15:1.2",
+    "sn33.15:1.3"
+  ]
+}

@@ -1,326 +1,80 @@
 {
+  "html_text": {
+    "sn35.21:0.1": "<article id='sn35.21'><header><ul><li class='division'>{}</li>",
+    "sn35.21:0.2": "<li>{}</li></ul>",
+    "sn35.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.21:1.1": "<p>{}",
+    "sn35.21:1.2": "{}",
+    "sn35.21:1.3": "{}",
+    "sn35.21:1.4": "{}",
+    "sn35.21:1.5": "{}",
+    "sn35.21:1.6": "{}</p>",
+    "sn35.21:2.1": "<p>{}",
+    "sn35.21:2.2": "{}",
+    "sn35.21:2.3": "{}",
+    "sn35.21:2.4": "{}",
+    "sn35.21:2.5": "{}",
+    "sn35.21:2.6": "{}</p>",
+    "sn35.21:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamadukkhuppādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Taking Pleasure (Exterior) ",
-      "uid": "sn35.20"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Arising of Suffering (Exterior) ",
-      "uid": "sn35.22"
-    }
+    "sn35.21:0.1": "Saṁyutta Nikāya 35.21 ",
+    "sn35.21:0.2": "2. Yamakavagga ",
+    "sn35.21:0.3": "Paṭhamadukkhuppādasutta ",
+    "sn35.21:1.1": "“Yo, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. ",
+    "sn35.21:1.2": "Yo sotassa …pe… ",
+    "sn35.21:1.3": "yo ghānassa … ",
+    "sn35.21:1.4": "yo jivhāya … ",
+    "sn35.21:1.5": "yo kāyassa … ",
+    "sn35.21:1.6": "yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. ",
+    "sn35.21:2.1": "Yo ca kho, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. ",
+    "sn35.21:2.2": "Yo sotassa … ",
+    "sn35.21:2.3": "yo ghānassa … ",
+    "sn35.21:2.4": "yo jivhāya … ",
+    "sn35.21:2.5": "yo kāyassa … ",
+    "sn35.21:2.6": "yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti. ",
+    "sn35.21:2.7": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn35.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Arising of Suffering (Interior) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Taking Pleasure (Exterior) ",
-      "uid": "sn35.20"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Arising of Suffering (Exterior) ",
-      "uid": "sn35.22"
-    }
+  "translation_text": {
+    "sn35.21:0.1": "Linked Discourses 35.21 ",
+    "sn35.21:0.2": "2. Pairs ",
+    "sn35.21:0.3": "The Arising of Suffering (Interior) ",
+    "sn35.21:1.1": "“Mendicants, the arising, continuation, and manifestation and regeneration of the eye is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. ",
+    "sn35.21:1.2": "The arising, continuation, and manifestation and regeneration of the ear … ",
+    "sn35.21:1.3": "nose … ",
+    "sn35.21:1.4": "tongue … ",
+    "sn35.21:1.5": "body … ",
+    "sn35.21:1.6": "and mind is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. ",
+    "sn35.21:2.1": "The cessation, settling, and disappearance of the eye is the cessation of suffering, the settling of diseases, and the disappearance of old age and death. ",
+    "sn35.21:2.2": "The cessation, settling, and ending of the ear, ",
+    "sn35.21:2.3": "nose, ",
+    "sn35.21:2.4": "tongue, ",
+    "sn35.21:2.5": "body, ",
+    "sn35.21:2.6": "and mind is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.21",
-    "volpages": "PTS SN iv 14",
-    "alt_volpages": null,
-    "uid": "sn35.21",
-    "blurb": "The arising of the six interior sense fields is the arising of suffering.",
-    "difficulty": null,
-    "original_title": "Paṭhamadukkhuppādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Arising of Suffering (Interior) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.21_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Erscheinen von Leiden (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.21_translation-en-sujato",
-        "segmented": true,
-        "title": "The Arising of Suffering (Interior) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.21_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.21_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.21_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.21_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Arising of Suffering (1)"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn35.21_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.21_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.21_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.21_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.21_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.21_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.21_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.21_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.21_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.21_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.28, csp1ed13.247, csp2ed13.247, ms13S4_54, msdiv21, ndp14.14, vri26.13,ms13S4_55",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.21:0.3": "Paṭhamadukkhuppādasutta → uppādasuttaṁ (bj); uppādena 1 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamadukkhuppādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.21:1.1": "bj16.28, csp1ed13.247, csp2ed13.247, ms13S4_54, msdiv21, ndp14.14, vri26.13",
+    "sn35.21:2.1": "ms13S4_55"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Arising of Suffering (Interior) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.21:0.1",
+    "sn35.21:0.2",
+    "sn35.21:0.3",
+    "sn35.21:1.1",
+    "sn35.21:1.2",
+    "sn35.21:1.3",
+    "sn35.21:1.4",
+    "sn35.21:1.5",
+    "sn35.21:1.6",
+    "sn35.21:2.1",
+    "sn35.21:2.2",
+    "sn35.21:2.3",
+    "sn35.21:2.4",
+    "sn35.21:2.5",
+    "sn35.21:2.6",
+    "sn35.21:2.7"
   ]
 }

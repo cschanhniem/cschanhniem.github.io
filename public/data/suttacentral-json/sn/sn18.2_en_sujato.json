@@ -1,337 +1,83 @@
 {
+  "html_text": {
+    "sn18.2:0.1": "<article id='sn18.2'><header><ul><li class='division'>{}</li>",
+    "sn18.2:0.2": "<li>{}</li></ul>",
+    "sn18.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn18.2:1.1": "<p>{}</p>",
+    "sn18.2:1.2": "<p>{}",
+    "sn18.2:1.3": "{}</p>",
+    "sn18.2:1.4": "<p>{}",
+    "sn18.2:1.5": "{}",
+    "sn18.2:1.6": "{}",
+    "sn18.2:1.7": "{}",
+    "sn18.2:1.8": "{}",
+    "sn18.2:1.9": "{}</p>",
+    "sn18.2:1.10": "<p>{}</p>",
+    "sn18.2:1.11": "<p>{}",
+    "sn18.2:1.12": "{}",
+    "sn18.2:1.13": "{}</p>",
+    "sn18.2:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn18.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Rūpasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Eye, Etc. ",
-      "uid": "sn18.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Consciousness ",
-      "uid": "sn18.3"
-    }
+    "sn18.2:0.1": "Saṁyutta Nikāya 18.2 ",
+    "sn18.2:0.2": "1. Paṭhamavagga ",
+    "sn18.2:0.3": "Rūpasutta ",
+    "sn18.2:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn18.2:1.2": "“Taṁ kiṁ maññasi, rāhula, ",
+    "sn18.2:1.3": "rūpā niccā vā aniccā vā”ti? ",
+    "sn18.2:1.4": "“Aniccā, bhante” …pe… ",
+    "sn18.2:1.5": "saddā … ",
+    "sn18.2:1.6": "gandhā … ",
+    "sn18.2:1.7": "rasā … ",
+    "sn18.2:1.8": "phoṭṭhabbā … ",
+    "sn18.2:1.9": "dhammā niccā vā aniccā vā”ti? ",
+    "sn18.2:1.10": "“Aniccā, bhante” … ",
+    "sn18.2:1.11": "“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpesupi nibbindati … saddesupi nibbindati … gandhesupi nibbindati … rasesupi nibbindati … phoṭṭhabbesupi nibbindati … dhammesupi nibbindati; ",
+    "sn18.2:1.12": "nibbindaṁ virajjati …pe… ",
+    "sn18.2:1.13": "pajānātī”ti. ",
+    "sn18.2:1.14": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn18.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sights, Etc. ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Eye, Etc. ",
-      "uid": "sn18.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Consciousness ",
-      "uid": "sn18.3"
-    }
+  "translation_text": {
+    "sn18.2:0.1": "Linked Discourses 18.2 ",
+    "sn18.2:0.2": "Chapter One ",
+    "sn18.2:0.3": "Sights, Etc. ",
+    "sn18.2:1.1": "At Sāvatthī. ",
+    "sn18.2:1.2": "“What do you think, Rāhula? ",
+    "sn18.2:1.3": "Are sights permanent or impermanent?” ",
+    "sn18.2:1.4": "“Impermanent, sir.” … ",
+    "sn18.2:1.5": "“… sounds … ",
+    "sn18.2:1.6": "smells … ",
+    "sn18.2:1.7": "tastes … ",
+    "sn18.2:1.8": "touches … ",
+    "sn18.2:1.9": "Are ideas permanent or impermanent?” ",
+    "sn18.2:1.10": "“Impermanent, sir.” … ",
+    "sn18.2:1.11": "“Seeing this, a learned noble disciple grows disillusioned with sights, sounds, smells, tastes, touches, and ideas. ",
+    "sn18.2:1.12": "Being disillusioned, desire fades away. …” ",
+    "sn18.2:1.13": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 18.2",
-    "volpages": " PTS 2.246",
-    "alt_volpages": null,
-    "uid": "sn18.2",
-    "blurb": "The Buddha answers Rāhula’s request by teaching on the external sense objects in light of the three characteristics.",
-    "difficulty": null,
-    "original_title": "Rūpasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Sights, Etc. ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn18.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Bilder usw. ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn18.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Sights, Etc. ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn18.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn18.2_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn18.2_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn18.2_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn18.2_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn18.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn18.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn18.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn18.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn18.2_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn18.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn18.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn18.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn18.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn18.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj14.376, csp1ed12.440, csp2ed12.440, ms12S2_1116, msdiv189, pts-vp-pli2.246",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn18.2:0.3": "Rūpasutta → rūpādiārammaṇasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "sn18.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Rūpasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn18.2:1.1": "bj14.376, csp1ed12.440, csp2ed12.440, ms12S2_1116, msdiv189, pts-vp-pli2.246"
   },
-  "bilara_translated_text": {
-    "uid": "sn18.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sights, Etc. ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn18.2:0.1",
+    "sn18.2:0.2",
+    "sn18.2:0.3",
+    "sn18.2:1.1",
+    "sn18.2:1.2",
+    "sn18.2:1.3",
+    "sn18.2:1.4",
+    "sn18.2:1.5",
+    "sn18.2:1.6",
+    "sn18.2:1.7",
+    "sn18.2:1.8",
+    "sn18.2:1.9",
+    "sn18.2:1.10",
+    "sn18.2:1.11",
+    "sn18.2:1.12",
+    "sn18.2:1.13",
+    "sn18.2:1.14"
+  ]
 }

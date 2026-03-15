@@ -1,339 +1,47 @@
 {
+  "html_text": {
+    "sn46.35:0.1": "<article id='sn46.35'><header><ul><li class='division'>{}</li>",
+    "sn46.35:0.2": "<li>{}</li></ul>",
+    "sn46.35:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.35:1.1": "<p>{}</p>",
+    "sn46.35:1.2": "<p class='end'>{}</p>",
+    "sn46.35:2.0": "<h2>{}</h2>",
+    "sn46.35:2.1": "<p>{}</p>",
+    "sn46.35:2.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn46.35",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Yonisomanasikārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Not Corruptions ",
-      "uid": "sn46.34"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Growth ",
-      "uid": "sn46.36"
-    }
+    "sn46.35:0.1": "Saṁyutta Nikāya 46.35 ",
+    "sn46.35:0.2": "4. Nīvaraṇavagga ",
+    "sn46.35:0.3": "Ayonisomanasikārasutta ",
+    "sn46.35:1.1": "“Ayoniso, bhikkhave, manasikaroto anuppanno ceva kāmacchando uppajjati, uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṁvattati; anuppanno ceva byāpādo uppajjati, uppanno ca byāpādo bhiyyobhāvāya vepullāya saṁvattati; anuppannañceva thinamiddhaṁ uppajjati, uppannañca thinamiddhaṁ bhiyyobhāvāya vepullāya saṁvattati; anuppannañceva uddhaccakukkuccaṁ uppajjati, uppannañca uddhaccakukkuccaṁ bhiyyobhāvāya vepullāya saṁvattati; anuppannā ceva vicikicchā uppajjati, uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṁvattatī”ti. ",
+    "sn46.35:1.2": "Pañcamaṁ. ",
+    "sn46.35:2.0": "Yonisomanasikārasutta ",
+    "sn46.35:2.1": "“Yoniso ca kho, bhikkhave, manasikaroto anuppanno ceva satisambojjhaṅgo uppajjati, uppanno ca satisambojjhaṅgo bhāvanāpāripūriṁ gacchati …pe… anuppanno ceva upekkhāsambojjhaṅgo uppajjati, uppanno ca upekkhāsambojjhaṅgo bhāvanāpāripūriṁ gacchatī”ti. ",
+    "sn46.35:2.2": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "sn46.35",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Irrational Application of Mind ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Not Corruptions ",
-      "uid": "sn46.34"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Growth ",
-      "uid": "sn46.36"
-    }
+  "translation_text": {
+    "sn46.35:0.1": "Linked Discourses 46.35 ",
+    "sn46.35:0.2": "4. Hindrances ",
+    "sn46.35:0.3": "Irrational Application of Mind ",
+    "sn46.35:1.1": "“Mendicants, when you apply the mind irrationally, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt arise, and once arisen they increase and grow.” ",
+    "sn46.35:2.1": "“Mendicants, when you apply the mind rationally, the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity arise, and once they’ve arisen, they’re fully developed.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 46.35",
-    "volpages": " PTS 5.94",
-    "alt_volpages": null,
-    "uid": "sn46.35",
-    "blurb": "Improper attention promotes the hindrances; proper attention promotes the awakening factors.",
-    "difficulty": null,
-    "original_title": "Yonisomanasikārasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Irrational Application of Mind ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn46.35_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Oberflächlicher Gebrauch des Geistes ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn46.35_translation-en-sujato",
-        "segmented": true,
-        "title": "Irrational Application of Mind ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn46.35_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn46.35_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn46.35_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn46.35_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Careful Attention"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn46.35_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn46.35_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn46.35_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn46.35_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn46.35_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn46.35_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_sn46.35_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn46.35_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn46.35_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn46.35_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn46.35_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr19.127, ms14S5_509, msdiv216, pts-vp-pli5.94, sya19.133, vri27.115,ms14S5_511, msdiv217",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn46.35:0.3": "Ayonisomanasikārasutta → yonisosuttaṁ (bj); yoniso 1 (pts1ed) ",
+    "sn46.35:2.0": "Yonisomanasikārasutta → yonisosuttaṁ (bj); yoniso 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn46.35",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Yonisomanasikārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn46.35:1.1": "dr19.127, ms14S5_509, msdiv216, pts-vp-pli5.94, sya19.133, vri27.115",
+    "sn46.35:2.1": "ms14S5_511, msdiv217"
   },
-  "bilara_translated_text": {
-    "uid": "sn46.35",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Irrational Application of Mind ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn46.35:0.1",
+    "sn46.35:0.2",
+    "sn46.35:0.3",
+    "sn46.35:1.1",
+    "sn46.35:1.2",
+    "sn46.35:2.0",
+    "sn46.35:2.1",
+    "sn46.35:2.2"
   ]
 }

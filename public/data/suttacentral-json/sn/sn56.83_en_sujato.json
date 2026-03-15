@@ -1,297 +1,35 @@
 {
+  "html_text": {
+    "sn56.83:0.1": "<article id='sn56.83'><header><ul><li class='division'>{}</li>",
+    "sn56.83:0.2": "<li>{}</li></ul>",
+    "sn56.83:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.83:1.1": "<p>{}</p>",
+    "sn56.83:1.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.83",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Jātarūparajatasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "High Beds ",
-      "uid": "sn56.82"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Raw Grain ",
-      "uid": "sn56.84"
-    }
+    "sn56.83:0.1": "Saṁyutta Nikāya 56.83 ",
+    "sn56.83:0.2": "9. Tatiyaāmakadhaññapeyyālavagga ",
+    "sn56.83:0.3": "Jātarūparajatasutta ",
+    "sn56.83:1.1": "… “Evameva kho, bhikkhave, appakā te sattā ye jātarūparajatapaṭiggahaṇā paṭiviratā; atha kho eteva bahutarā sattā ye jātarūparajatapaṭiggahaṇā appaṭiviratā …pe…. ",
+    "sn56.83:1.2": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn56.83",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gold and Currency ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "High Beds ",
-      "uid": "sn56.82"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Raw Grain ",
-      "uid": "sn56.84"
-    }
+  "translation_text": {
+    "sn56.83:0.1": "Linked Discourses 56.83 ",
+    "sn56.83:0.2": "9. Abbreviated Texts on Raw Grain ",
+    "sn56.83:0.3": "Gold and Currency ",
+    "sn56.83:1.1": "“… the sentient beings who refrain from receiving gold and currency are few, while those who don’t refrain are many. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.83",
-    "volpages": "PTS SN v 471",
-    "alt_volpages": null,
-    "uid": "sn56.83",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Jātarūparajatasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Gold and Currency ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.83_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Gold und Zahlungsmittel ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.83_translation-en-sujato",
-        "segmented": true,
-        "title": "Gold and Currency ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.83_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.83_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.83_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.83_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.83_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.83_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.83_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn56.83_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.83_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.83_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.83_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.83_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms14S5_2486, msdiv1153",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn56.83:0.3": "Jātarūparajatasutta → jātarūpasuttaṁ (bj); rajataṁ (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn56.83",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Jātarūparajatasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.83:1.1": "ms14S5_2486, msdiv1153"
   },
-  "bilara_translated_text": {
-    "uid": "sn56.83",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gold and Currency ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn56.83:0.1",
+    "sn56.83:0.2",
+    "sn56.83:0.3",
+    "sn56.83:1.1",
+    "sn56.83:1.2"
+  ]
 }

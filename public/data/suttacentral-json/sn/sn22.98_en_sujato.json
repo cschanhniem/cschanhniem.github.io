@@ -1,339 +1,79 @@
 {
+  "html_text": {
+    "sn22.98:0.1": "<article id='sn22.98'><header><ul><li class='division'>{}</li>",
+    "sn22.98:0.2": "<li>{}</li></ul>",
+    "sn22.98:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.98:1.1": "<p>{}</p>",
+    "sn22.98:1.2": "<p>{}</p>",
+    "sn22.98:1.3": "<p>{}",
+    "sn22.98:1.4": "{}",
+    "sn22.98:1.5": "{}",
+    "sn22.98:1.6": "{}",
+    "sn22.98:1.7": "{}</p>",
+    "sn22.98:1.8": "<p>{}",
+    "sn22.98:1.9": "{}",
+    "sn22.98:1.10": "{}",
+    "sn22.98:1.11": "{}",
+    "sn22.98:1.12": "{}</p>",
+    "sn22.98:1.13": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.98",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Fingernail ",
-      "uid": "sn22.97"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Leash ",
-      "uid": "sn22.99"
-    }
+    "sn22.98:0.1": "Saṁyutta Nikāya 22.98 ",
+    "sn22.98:0.2": "10. Pupphavagga ",
+    "sn22.98:0.3": "Suddhikasutta ",
+    "sn22.98:1.1": "Sāvatthinidānaṁ. ",
+    "sn22.98:1.2": "Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn22.98:1.3": "“atthi nu kho, bhante, kiñci rūpaṁ, yaṁ rūpaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassati? ",
+    "sn22.98:1.4": "Atthi nu kho, bhante, kāci vedanā …pe… ",
+    "sn22.98:1.5": "kāci saññā … ",
+    "sn22.98:1.6": "keci saṅkhārā … ",
+    "sn22.98:1.7": "kiñci viññāṇaṁ, yaṁ viññāṇaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassatī”ti? ",
+    "sn22.98:1.8": "“Natthi kho, bhikkhu, kiñci rūpaṁ yaṁ rūpaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassati. ",
+    "sn22.98:1.9": "Natthi kho, bhikkhu, kāci vedanā … ",
+    "sn22.98:1.10": "kāci saññā … ",
+    "sn22.98:1.11": "keci saṅkhārā … ",
+    "sn22.98:1.12": "kiñci viññāṇaṁ, yaṁ viññāṇaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassatī”ti. ",
+    "sn22.98:1.13": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "sn22.98",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Fingernail ",
-      "uid": "sn22.97"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Leash ",
-      "uid": "sn22.99"
-    }
+  "translation_text": {
+    "sn22.98:0.1": "Linked Discourses 22.98 ",
+    "sn22.98:0.2": "10. Flowers ",
+    "sn22.98:0.3": "Plain Version ",
+    "sn22.98:1.1": "At Sāvatthī. ",
+    "sn22.98:1.2": "Seated to one side, that mendicant said to the Buddha: ",
+    "sn22.98:1.3": "“Sir, is there any form at all that’s permanent, everlasting, eternal, imperishable, and will last forever and ever? ",
+    "sn22.98:1.4": "Is there any feeling … ",
+    "sn22.98:1.5": "perception … ",
+    "sn22.98:1.6": "choices … ",
+    "sn22.98:1.7": "consciousness at all that’s permanent, everlasting, eternal, imperishable, and will last forever and ever?” ",
+    "sn22.98:1.8": "“Mendicant, there is no form at all that’s permanent, everlasting, eternal, imperishable, and will last forever and ever. ",
+    "sn22.98:1.9": "There’s no feeling … ",
+    "sn22.98:1.10": "perception … ",
+    "sn22.98:1.11": "choices … ",
+    "sn22.98:1.12": "consciousness at all that’s permanent, everlasting, eternal, imperishable, and will last forever and ever.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.98",
-    "volpages": "PTS SN iii 149",
-    "alt_volpages": null,
-    "uid": "sn22.98",
-    "blurb": "A mendicant asks whether anything in the aggregates has even the tiniest bit of stability or permanence.",
-    "difficulty": null,
-    "original_title": "Suddhikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Plain Version ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.98_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Einfache Fassung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.98_translation-en-sujato",
-        "segmented": true,
-        "title": "Plain Version ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.98_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.98_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.98_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn22.98_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Simple Version"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn22.98_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.98_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.98_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.98_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.98_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_sn22.98_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn22.98_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.98_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.98_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.98_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.98_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_618, msdiv98, ndp13.365, vri25.134",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn22.98:0.3": "Suddhikasutta → suddhikam (or samuddakam) (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn22.98",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.98:1.1": "ms13S3_618, msdiv98, ndp13.365, vri25.134"
   },
-  "bilara_translated_text": {
-    "uid": "sn22.98",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn22.98:0.1",
+    "sn22.98:0.2",
+    "sn22.98:0.3",
+    "sn22.98:1.1",
+    "sn22.98:1.2",
+    "sn22.98:1.3",
+    "sn22.98:1.4",
+    "sn22.98:1.5",
+    "sn22.98:1.6",
+    "sn22.98:1.7",
+    "sn22.98:1.8",
+    "sn22.98:1.9",
+    "sn22.98:1.10",
+    "sn22.98:1.11",
+    "sn22.98:1.12",
+    "sn22.98:1.13"
   ]
 }

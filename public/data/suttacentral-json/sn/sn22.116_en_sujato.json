@@ -1,323 +1,87 @@
 {
+  "html_text": {
+    "sn22.116:0.1": "<article id='sn22.116'><header><ul><li class='division'>{}</li>",
+    "sn22.116:0.2": "<li>{}</li></ul>",
+    "sn22.116:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.116:1.1": "<p>{}</p>",
+    "sn22.116:1.2": "<p>{}</p>",
+    "sn22.116:1.3": "<p>{}",
+    "sn22.116:1.4": "{}",
+    "sn22.116:1.5": "{}</p>",
+    "sn22.116:1.6": "<p>{}</p>",
+    "sn22.116:1.7": "<p>{}</p>",
+    "sn22.116:1.8": "<p>{}</p>",
+    "sn22.116:1.9": "<p>{}",
+    "sn22.116:1.10": "{}",
+    "sn22.116:1.11": "{}",
+    "sn22.116:1.12": "{}</p>",
+    "sn22.116:1.13": "<p>{}</p>",
+    "sn22.116:1.14": "<p>{}</p>",
+    "sn22.116:1.15": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.116",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyadhammakathikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Dhamma speaker ",
-      "uid": "sn22.115"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Shackles ",
-      "uid": "sn22.117"
-    }
+    "sn22.116:0.1": "Saṁyutta Nikāya 22.116 ",
+    "sn22.116:0.2": "12. Dhammakathikavagga ",
+    "sn22.116:0.3": "Dutiyadhammakathikasutta ",
+    "sn22.116:1.1": "Sāvatthinidānaṁ. ",
+    "sn22.116:1.2": "Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn22.116:1.3": "“‘dhammakathiko, dhammakathiko’ti, bhante, vuccati; ",
+    "sn22.116:1.4": "kittāvatā nu kho, bhante, dhammakathiko hoti; ",
+    "sn22.116:1.5": "kittāvatā dhammānudhammappaṭipanno hoti, kittāvatā diṭṭhadhammanibbānappatto hotī”ti? ",
+    "sn22.116:1.6": "“Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. ",
+    "sn22.116:1.7": "Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. ",
+    "sn22.116:1.8": "Rūpassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāya. ",
+    "sn22.116:1.9": "Vedanāya ce, bhikkhu …pe… ",
+    "sn22.116:1.10": "saññāya ce, bhikkhu … ",
+    "sn22.116:1.11": "saṅkhārānañce, bhikkhu … ",
+    "sn22.116:1.12": "viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. ",
+    "sn22.116:1.13": "Viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. ",
+    "sn22.116:1.14": "Viññāṇassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāyā”ti. ",
+    "sn22.116:1.15": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn22.116",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Dhamma speaker (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Dhamma speaker ",
-      "uid": "sn22.115"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Shackles ",
-      "uid": "sn22.117"
-    }
+  "translation_text": {
+    "sn22.116:0.1": "Linked Discourses 22.116 ",
+    "sn22.116:0.2": "12. A Dhamma speaker ",
+    "sn22.116:0.3": "A Dhamma speaker (2nd) ",
+    "sn22.116:1.1": "At Sāvatthī. ",
+    "sn22.116:1.2": "Seated to one side, that mendicant said to the Buddha: ",
+    "sn22.116:1.3": "“Sir, they speak of a ‘Dhamma speaker’. ",
+    "sn22.116:1.4": "How is a Dhamma speaker defined? ",
+    "sn22.116:1.5": "How is a mendicant who practices in line with the teaching defined? And how is a mendicant who has attained extinguishment in this very life defined?” ",
+    "sn22.116:1.6": "“Mendicant, if a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. ",
+    "sn22.116:1.7": "If they practice for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. ",
+    "sn22.116:1.8": "If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’. ",
+    "sn22.116:1.9": "If a mendicant teaches Dhamma for disillusionment with feeling … ",
+    "sn22.116:1.10": "perception … ",
+    "sn22.116:1.11": "choices … ",
+    "sn22.116:1.12": "consciousness, for its fading away and cessation, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. ",
+    "sn22.116:1.13": "If they practice for disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. ",
+    "sn22.116:1.14": "If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.116",
-    "volpages": "PTS SN iii 164",
-    "alt_volpages": null,
-    "uid": "sn22.116",
-    "blurb": "A true Dhamma speaker teaches for letting go of the aggregates.",
-    "difficulty": null,
-    "original_title": "Dutiyadhammakathikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Dhamma speaker (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.116_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Dhammalehrer (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.116_translation-en-sujato",
-        "segmented": true,
-        "title": "A Dhamma speaker (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.116_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.116_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.116_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn22.116_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.116_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.116_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.116_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.116_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_sn22.116_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn22.116_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.116_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.116_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.116_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.116_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck17.147, csp1ed13.134, csp2ed13.134, dr17.196, ms13S3_687, msdiv116, ndp13.378, sya17.200",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn22.116:0.3": "Dutiyadhammakathikasutta → kathika 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn22.116",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyadhammakathikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.116:1.1": "cck17.147, csp1ed13.134, csp2ed13.134, dr17.196, ms13S3_687, msdiv116, ndp13.378, sya17.200"
   },
-  "bilara_translated_text": {
-    "uid": "sn22.116",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Dhamma speaker (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn22.116:0.1",
+    "sn22.116:0.2",
+    "sn22.116:0.3",
+    "sn22.116:1.1",
+    "sn22.116:1.2",
+    "sn22.116:1.3",
+    "sn22.116:1.4",
+    "sn22.116:1.5",
+    "sn22.116:1.6",
+    "sn22.116:1.7",
+    "sn22.116:1.8",
+    "sn22.116:1.9",
+    "sn22.116:1.10",
+    "sn22.116:1.11",
+    "sn22.116:1.12",
+    "sn22.116:1.13",
+    "sn22.116:1.14",
+    "sn22.116:1.15"
+  ]
 }

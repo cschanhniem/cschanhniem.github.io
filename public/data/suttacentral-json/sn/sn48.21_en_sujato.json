@@ -1,323 +1,61 @@
 {
+  "html_text": {
+    "sn48.21:0.1": "<article id='sn48.21'><header><ul><li class='division'>{}</li>",
+    "sn48.21:0.2": "<li>{}</li></ul>",
+    "sn48.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.21:1.1": "<p>{}",
+    "sn48.21:1.2": "{}",
+    "sn48.21:1.3": "{}",
+    "sn48.21:1.4": "{}</p>",
+    "sn48.21:1.5": "<p>{}</p>",
+    "sn48.21:1.6": "<p>{}",
+    "sn48.21:1.7": "{}</p>",
+    "sn48.21:1.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn48.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Punabbhavasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ending of Defilements ",
-      "uid": "sn48.20"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Life Faculty ",
-      "uid": "sn48.22"
-    }
+    "sn48.21:0.1": "Saṁyutta Nikāya 48.21 ",
+    "sn48.21:0.2": "3. Chaḷindriyavagga ",
+    "sn48.21:0.3": "Punabbhavasutta ",
+    "sn48.21:1.1": "“Pañcimāni, bhikkhave, indriyāni. ",
+    "sn48.21:1.2": "Katamāni pañca? ",
+    "sn48.21:1.3": "Saddhindriyaṁ …pe… paññindriyaṁ. ",
+    "sn48.21:1.4": "Yāvakīvañcāhaṁ, bhikkhave, imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nābbhaññāsiṁ, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ. ",
+    "sn48.21:1.5": "Yato ca khvāhaṁ, bhikkhave, imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ abbhaññāsiṁ, athāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ. ",
+    "sn48.21:1.6": "Ñāṇañca pana me dassanaṁ udapādi: ",
+    "sn48.21:1.7": "‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti. ",
+    "sn48.21:1.8": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn48.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Future Lives ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ending of Defilements ",
-      "uid": "sn48.20"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Life Faculty ",
-      "uid": "sn48.22"
-    }
+  "translation_text": {
+    "sn48.21:0.1": "Linked Discourses 48.21 ",
+    "sn48.21:0.2": "3. The Six Faculties ",
+    "sn48.21:0.3": "Future Lives ",
+    "sn48.21:1.1": "“Mendicants, there are these five faculties. ",
+    "sn48.21:1.2": "What five? ",
+    "sn48.21:1.3": "The faculties of faith, energy, mindfulness, immersion, and wisdom. ",
+    "sn48.21:1.4": "As long as I didn’t truly understand these five faculties’ gratification, drawback, and escape, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. ",
+    "sn48.21:1.5": "But when I did truly understand these five faculties’ gratification, drawback, and escape, I announced my supreme perfect awakening in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. ",
+    "sn48.21:1.6": "Knowledge and vision arose in me: ",
+    "sn48.21:1.7": "‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 48.21",
-    "volpages": " PTS 5.204",
-    "alt_volpages": null,
-    "uid": "sn48.21",
-    "blurb": "The Buddha did not claim to be awakened until he realized the five faculties.",
-    "difficulty": null,
-    "original_title": "Punabbhavasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Future Lives ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn48.21_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Künftige Leben ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn48.21_translation-en-sujato",
-        "segmented": true,
-        "title": "Future Lives ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn48.21_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn48.21_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn48.21_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn48.21_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Claude Le Ninan, Chandhana Le Ninan",
-        "author_short": "leninan",
-        "author_uid": "leninan",
-        "publication_date": "2023",
-        "id": "fr_sn48.21_leninan",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn48.21_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn48.21_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn48.21_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn48.21_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn48.21_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn48.21_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn48.21_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn48.21_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn48.21_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.364, cck19.214, dr19.261, ms14S5_1061, msdiv491, pts-vp-pli5.204, sya19.270, vri27.280",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn48.21:0.3": "Punabbhavasutta → nabbhavo or ñāṇavā (pts1ed) ",
+    "sn48.21:1.4": "Yāvakīvañcāhaṁ → yāvakīvāhaṁ (bj) | abhisambuddho’ti paccaññāsiṁ → abhisambuddho paccaññāsiṁ (bj, sya-all, km) ",
+    "sn48.21:1.7": "vimutti → cetovimutti (bj, pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn48.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Punabbhavasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn48.21:1.1": "bj17.1.364, cck19.214, dr19.261, ms14S5_1061, msdiv491, pts-vp-pli5.204, sya19.270, vri27.280"
   },
-  "bilara_translated_text": {
-    "uid": "sn48.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Future Lives ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn48.21:0.1",
+    "sn48.21:0.2",
+    "sn48.21:0.3",
+    "sn48.21:1.1",
+    "sn48.21:1.2",
+    "sn48.21:1.3",
+    "sn48.21:1.4",
+    "sn48.21:1.5",
+    "sn48.21:1.6",
+    "sn48.21:1.7",
+    "sn48.21:1.8"
+  ]
 }

@@ -1,323 +1,69 @@
 {
+  "html_text": {
+    "sn28.2:0.1": "<article id='sn28.2'><header><ul><li class='division'>{}</li>",
+    "sn28.2:0.2": "<li>{}</li></ul>",
+    "sn28.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn28.2:1.1": "<p>{}</p>",
+    "sn28.2:1.2": "<p>{}</p>",
+    "sn28.2:1.3": "<p>{}",
+    "sn28.2:1.4": "{}</p>",
+    "sn28.2:2.1": "<p>{}",
+    "sn28.2:2.2": "{}",
+    "sn28.2:2.3": "{}</p>",
+    "sn28.2:2.4": "<p>{}",
+    "sn28.2:2.5": "{}",
+    "sn28.2:2.6": "{}</p>",
+    "sn28.2:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn28.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Avitakkasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Born of Seclusion ",
-      "uid": "sn28.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Rapture ",
-      "uid": "sn28.3"
-    }
+    "sn28.2:0.1": "Saṁyutta Nikāya 28.2 ",
+    "sn28.2:0.2": "1. Sāriputtavagga ",
+    "sn28.2:0.3": "Avitakkasutta ",
+    "sn28.2:1.1": "Sāvatthinidānaṁ. ",
+    "sn28.2:1.2": "Addasā kho āyasmā ānando …pe… āyasmantaṁ sāriputtaṁ etadavoca: ",
+    "sn28.2:1.3": "“vippasannāni kho te, āvuso sāriputta, indriyāni; parisuddho mukhavaṇṇo pariyodāto. ",
+    "sn28.2:1.4": "Katamenāyasmā sāriputto ajja vihārena vihāsī”ti? ",
+    "sn28.2:2.1": "“Idhāhaṁ, āvuso, vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharāmi. ",
+    "sn28.2:2.2": "Tassa mayhaṁ, āvuso, na evaṁ hoti: ",
+    "sn28.2:2.3": "‘ahaṁ dutiyaṁ jhānaṁ samāpajjāmī’ti vā ‘ahaṁ dutiyaṁ jhānaṁ samāpanno’ti vā ‘ahaṁ dutiyā jhānā vuṭṭhito’ti vā”ti. ",
+    "sn28.2:2.4": "Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramānānusayā susamūhatā. ",
+    "sn28.2:2.5": "Tasmā āyasmato sāriputtassa na evaṁ hoti: ",
+    "sn28.2:2.6": "“‘ahaṁ dutiyaṁ jhānaṁ samāpajjāmī’ti vā ‘ahaṁ dutiyaṁ jhānaṁ samāpanno’ti vā ‘ahaṁ dutiyā jhānā vuṭṭhito’ti vā”ti. ",
+    "sn28.2:2.7": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn28.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Without Placing the Mind ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Born of Seclusion ",
-      "uid": "sn28.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Rapture ",
-      "uid": "sn28.3"
-    }
+  "translation_text": {
+    "sn28.2:0.1": "Linked Discourses 28.2 ",
+    "sn28.2:0.2": "1. With Sāriputta ",
+    "sn28.2:0.3": "Without Placing the Mind ",
+    "sn28.2:1.1": "At Sāvatthī. ",
+    "sn28.2:1.2": "Venerable Ānanda saw Venerable Sāriputta and said to him: ",
+    "sn28.2:1.3": "“Reverend Sāriputta, your faculties are so very clear, and your complexion is pure and bright. ",
+    "sn28.2:1.4": "What meditation were you practicing today?” ",
+    "sn28.2:2.1": "“Reverend, as the placing of the mind and keeping it connected were stilled, I entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and mind at one, without placing the mind and keeping it connected. ",
+    "sn28.2:2.2": "But it didn’t occur to me: ",
+    "sn28.2:2.3": "‘I am entering the second absorption’ or ‘I have entered the second absorption’ or ‘I am emerging from the second absorption’.” ",
+    "sn28.2:2.4": "“That must be because Venerable Sāriputta has long ago totally eradicated I-making, mine-making, and the underlying tendency to conceit. ",
+    "sn28.2:2.5": "That’s why it didn’t occur to you: ",
+    "sn28.2:2.6": "‘I am entering the second absorption’ or ‘I have entered the second absorption’ or ‘I am emerging from the second absorption’.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 28.2",
-    "volpages": "PTS SN iii 235",
-    "alt_volpages": null,
-    "uid": "sn28.2",
-    "blurb": "Sāriputta goes to Mirkwood for meditation, and afterwards Ānanda asks why his face is so radiant. Sāriputta replies that he was practicing second absorption without any thought of self.",
-    "difficulty": null,
-    "original_title": "Avitakkasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Without Placing the Mind ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn28.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ohne den Geist auszurichten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn28.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Without Placing the Mind ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn28.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn28.2_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn28.2_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn28.2_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn28.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn28.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn28.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn28.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2006",
-        "id": "pt_sn28.2_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn28.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn28.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn28.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn28.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn28.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.468, ms13S3_1121, msdiv333, ndp13.451, vri25.233,cck17.213, csp1ed13.198, csp2ed13.198, ms13S3_1122",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn28.2:1.1": "bj15.468, ms13S3_1121, msdiv333, ndp13.451, vri25.233",
+    "sn28.2:2.1": "cck17.213, csp1ed13.198, csp2ed13.198, ms13S3_1122"
   },
-  "bilara_root_text": {
-    "uid": "sn28.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Avitakkasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn28.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Without Placing the Mind ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn28.2:0.1",
+    "sn28.2:0.2",
+    "sn28.2:0.3",
+    "sn28.2:1.1",
+    "sn28.2:1.2",
+    "sn28.2:1.3",
+    "sn28.2:1.4",
+    "sn28.2:2.1",
+    "sn28.2:2.2",
+    "sn28.2:2.3",
+    "sn28.2:2.4",
+    "sn28.2:2.5",
+    "sn28.2:2.6",
+    "sn28.2:2.7"
+  ]
 }

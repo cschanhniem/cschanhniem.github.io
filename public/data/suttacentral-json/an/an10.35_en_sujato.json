@@ -1,300 +1,84 @@
 {
+  "html_text": {
+    "an10.35:0.1": "<article id='an10.35'><header><ul><li class='division'>{}</li>",
+    "an10.35:0.2": "<li>{}</li></ul>",
+    "an10.35:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.35:1.1": "<p>{}</p>",
+    "an10.35:1.2": "<p>{}",
+    "an10.35:1.3": "{}",
+    "an10.35:1.4": "{}",
+    "an10.35:1.5": "{}",
+    "an10.35:1.6": "{}",
+    "an10.35:1.7": "{}",
+    "an10.35:1.8": "{}",
+    "an10.35:1.9": "{}",
+    "an10.35:1.10": "{}",
+    "an10.35:1.11": "{}",
+    "an10.35:1.12": "{}",
+    "an10.35:1.13": "{}",
+    "an10.35:1.14": "{}</p>",
+    "an10.35:1.15": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.35",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nissayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ordination ",
-      "uid": "an10.34"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Novice ",
-      "uid": "an10.36"
-    }
+    "an10.35:0.1": "Aṅguttara Nikāya 10.35 ",
+    "an10.35:0.2": "4. Upālivagga ",
+    "an10.35:0.3": "Nissayasutta ",
+    "an10.35:1.1": "“Katihi nu kho, bhante, dhammehi samannāgatena bhikkhunā nissayo dātabbo”ti? ",
+    "an10.35:1.2": "“Dasahi kho, upāli, dhammehi samannāgatena bhikkhunā nissayo dātabbo. ",
+    "an10.35:1.3": "Katamehi dasahi? ",
+    "an10.35:1.4": "Idhupāli, bhikkhu sīlavā hoti …pe… samādāya sikkhati sikkhāpadesu; ",
+    "an10.35:1.5": "bahussuto hoti …pe… diṭṭhiyā suppaṭividdhā; ",
+    "an10.35:1.6": "pātimokkhaṁ kho panassa vitthārena svāgataṁ hoti suvibhattaṁ suppavattaṁ suvinicchitaṁ suttaso anubyañjanaso; ",
+    "an10.35:1.7": "paṭibalo hoti gilānaṁ upaṭṭhātuṁ vā upaṭṭhāpetuṁ vā; ",
+    "an10.35:1.8": "paṭibalo hoti anabhiratiṁ vūpakāsetuṁ vā vūpakāsāpetuṁ vā; ",
+    "an10.35:1.9": "paṭibalo hoti uppannaṁ kukkuccaṁ dhammato vinodetuṁ; ",
+    "an10.35:1.10": "paṭibalo hoti uppannaṁ diṭṭhigataṁ dhammato vivecetuṁ; ",
+    "an10.35:1.11": "paṭibalo hoti adhisīle …pe… ",
+    "an10.35:1.12": "adhicitte … ",
+    "an10.35:1.13": "adhipaññāya samādapetuṁ. ",
+    "an10.35:1.14": "Imehi kho, upāli, dasahi dhammehi samannāgatena bhikkhunā nissayo dātabbo”ti. ",
+    "an10.35:1.15": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an10.35",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dependence ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ordination ",
-      "uid": "an10.34"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Novice ",
-      "uid": "an10.36"
-    }
+  "translation_text": {
+    "an10.35:0.1": "Numbered Discourses 10.35 ",
+    "an10.35:0.2": "4. With Upāli ",
+    "an10.35:0.3": "Dependence ",
+    "an10.35:1.1": "“Sir, how many qualities should a mendicant have to give dependence?” ",
+    "an10.35:1.2": "“Upāli, a mendicant should have ten qualities to give dependence. ",
+    "an10.35:1.3": "What ten? ",
+    "an10.35:1.4": "It’s when a mendicant is ethical … ",
+    "an10.35:1.5": "They’re learned … ",
+    "an10.35:1.6": "Both monastic codes have been passed down to them in detail, well analyzed, well mastered, well evaluated in both the rules and accompanying material. ",
+    "an10.35:1.7": "They’re able to care for the sick or get someone else to do so. ",
+    "an10.35:1.8": "They’re able to settle dissatisfaction or get someone else to do so. ",
+    "an10.35:1.9": "They’re able to dispel remorse when it has come up. ",
+    "an10.35:1.10": "They’re able to rationally dissuade someone from misconceptions that come up. ",
+    "an10.35:1.11": "They’re able to encourage someone in the higher ethics, ",
+    "an10.35:1.12": "the higher mind, ",
+    "an10.35:1.13": "and the higher wisdom. ",
+    "an10.35:1.14": "A mendicant should possess these ten qualities to give dependence.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.35",
-    "volpages": " PTS 5.73",
-    "alt_volpages": null,
-    "uid": "an10.35",
-    "blurb": "Ten qualities a mendicant should have to give dependence.",
-    "difficulty": null,
-    "original_title": "Nissayasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Dependence ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.35_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Betreuung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.35_translation-en-sujato",
-        "segmented": true,
-        "title": "Dependence ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.35_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.35_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.35_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_an10.35_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2012",
-        "segmented": false,
-        "volpage": null,
-        "title": "Dependence"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.35_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.35_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.35_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an10.35_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.35_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.35_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.35_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.35_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr24.77, ms17A10_276, msdiv35, pts-vp-pli5.73, sya24.77",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.35:1.1": "dr24.77, ms17A10_276, msdiv35, pts-vp-pli5.73, sya24.77"
   },
-  "bilara_root_text": {
-    "uid": "an10.35",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nissayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an10.35",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dependence ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "an10.35:0.1",
+    "an10.35:0.2",
+    "an10.35:0.3",
+    "an10.35:1.1",
+    "an10.35:1.2",
+    "an10.35:1.3",
+    "an10.35:1.4",
+    "an10.35:1.5",
+    "an10.35:1.6",
+    "an10.35:1.7",
+    "an10.35:1.8",
+    "an10.35:1.9",
+    "an10.35:1.10",
+    "an10.35:1.11",
+    "an10.35:1.12",
+    "an10.35:1.13",
+    "an10.35:1.14",
+    "an10.35:1.15"
   ]
 }

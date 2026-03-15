@@ -1,324 +1,48 @@
 {
+  "html_text": {
+    "sn17.25:0.1": "<article id='sn17.25'><header><ul><li class='division'>{}</li>",
+    "sn17.25:0.2": "<li>{}</li></ul>",
+    "sn17.25:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn17.25:1.1": "<p>{}</p>",
+    "sn17.25:1.2": "<p>{}",
+    "sn17.25:1.3": "{}</p>",
+    "sn17.25:1.4": "<p>{}",
+    "sn17.25:1.5": "{}</p>",
+    "sn17.25:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn17.25",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samaṇabrāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "An Only Daughter ",
-      "uid": "sn17.24"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ascetics and Brahmins (2nd) ",
-      "uid": "sn17.26"
-    }
+    "sn17.25:0.1": "Saṁyutta Nikāya 17.25 ",
+    "sn17.25:0.2": "3. Tatiyavagga ",
+    "sn17.25:0.3": "Samaṇabrāhmaṇasutta ",
+    "sn17.25:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn17.25:1.2": "“Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā lābhasakkārasilokassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti, ",
+    "sn17.25:1.3": "na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca pana te āyasmantā sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti. ",
+    "sn17.25:1.4": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā lābhasakkārasilokassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānanti, ",
+    "sn17.25:1.5": "te ca kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti. ",
+    "sn17.25:1.6": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "sn17.25",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ascetics and Brahmins ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "An Only Daughter ",
-      "uid": "sn17.24"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ascetics and Brahmins (2nd) ",
-      "uid": "sn17.26"
-    }
+  "translation_text": {
+    "sn17.25:0.1": "Linked Discourses 17.25 ",
+    "sn17.25:0.2": "Chapter Three ",
+    "sn17.25:0.3": "Ascetics and Brahmins ",
+    "sn17.25:1.1": "At Sāvatthī. ",
+    "sn17.25:1.2": "“Mendicants, there are ascetics and brahmins who don’t truly understand the gratification, drawback, and escape when it comes to possessions, honor, and popularity. ",
+    "sn17.25:1.3": "I don’t deem them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight. ",
+    "sn17.25:1.4": "There are ascetics and brahmins who do truly understand the gratification, drawback, and escape when it comes to possessions, honor, and popularity. ",
+    "sn17.25:1.5": "I deem them as true ascetics and brahmins. Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 17.25",
-    "volpages": " PTS 2.237",
-    "alt_volpages": null,
-    "uid": "sn17.25",
-    "blurb": "Someone who doesn’t fully understand material possessions, honor, and praise is no true ascetic.",
-    "difficulty": null,
-    "original_title": "Samaṇabrāhmaṇasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Ascetics and Brahmins ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn17.25_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Asketen und Brahmanen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn17.25_translation-en-sujato",
-        "segmented": true,
-        "title": "Ascetics and Brahmins ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn17.25_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn17.25_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Askete i brahmani (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn17.25_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn17.25_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn17.25_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn17.25_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn17.25_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn17.25_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_sn17.25_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn17.25_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn17.25_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn17.25_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn17.25_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn17.25_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj14.362, csp1ed12.433, csp2ed12.433, ms12S2_1068, msdiv174, pts-vp-pli2.237, vri24.214",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn17.25:1.1": "bj14.362, csp1ed12.433, csp2ed12.433, ms12S2_1068, msdiv174, pts-vp-pli2.237, vri24.214"
   },
-  "bilara_root_text": {
-    "uid": "sn17.25",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samaṇabrāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn17.25",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ascetics and Brahmins ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn17.25:0.1",
+    "sn17.25:0.2",
+    "sn17.25:0.3",
+    "sn17.25:1.1",
+    "sn17.25:1.2",
+    "sn17.25:1.3",
+    "sn17.25:1.4",
+    "sn17.25:1.5",
+    "sn17.25:1.6"
+  ]
 }

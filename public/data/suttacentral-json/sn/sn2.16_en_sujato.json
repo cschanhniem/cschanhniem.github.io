@@ -1,392 +1,69 @@
 {
+  "comment_text": {
+    "sn2.16:1.1": "Vāsudatta (“son of Vasudatta”) is otherwise unknown, but Vāsu and Vāsudeva are both names of Vishnu. "
+  },
+  "html_text": {
+    "sn2.16:0.1": "<article id='sn2.16'><header><ul><li class='division'>{}</li>",
+    "sn2.16:0.2": "<li>{}</li></ul>",
+    "sn2.16:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn2.16:1.1": "<p>{}</p>",
+    "sn2.16:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn2.16:2.2": "<span class='verse-line'>{}</span>",
+    "sn2.16:2.3": "<span class='verse-line'>{}</span>",
+    "sn2.16:2.4": "<span class='verse-line'>{}</span></p>",
+    "sn2.16:3.1": "<p><span class='verse-line'>{}</span>",
+    "sn2.16:3.2": "<span class='verse-line'>{}</span>",
+    "sn2.16:3.3": "<span class='verse-line'>{}</span>",
+    "sn2.16:3.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn2.16",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Vāsudattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Candana ",
-      "uid": "sn2.15"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Subrahmā ",
-      "uid": "sn2.17"
-    }
+    "sn2.16:0.1": "Saṁyutta Nikāya 2.16 ",
+    "sn2.16:0.2": "2. Anāthapiṇḍikavagga ",
+    "sn2.16:0.3": "Vāsudattasutta ",
+    "sn2.16:1.1": "Ekamantaṁ ṭhito kho vāsudatto devaputto bhagavato santike imaṁ gāthaṁ abhāsi: ",
+    "sn2.16:2.1": "“Sattiyā viya omaṭṭho, ",
+    "sn2.16:2.2": "ḍayhamānova matthake; ",
+    "sn2.16:2.3": "Kāmarāgappahānāya, ",
+    "sn2.16:2.4": "sato bhikkhu paribbaje”ti. ",
+    "sn2.16:3.1": "“Sattiyā viya omaṭṭho, ",
+    "sn2.16:3.2": "ḍayhamānova matthake; ",
+    "sn2.16:3.3": "Sakkāyadiṭṭhippahānāya, ",
+    "sn2.16:3.4": "sato bhikkhu paribbaje”ti. "
   },
-  "translation": {
-    "uid": "sn2.16",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Vāsudatta ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Candana ",
-      "uid": "sn2.15"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Subrahmā ",
-      "uid": "sn2.17"
-    }
+  "translation_text": {
+    "sn2.16:0.1": "Linked Discourses 2.16 ",
+    "sn2.16:0.2": "2. With Anāthapiṇḍika ",
+    "sn2.16:0.3": "With Vāsudatta ",
+    "sn2.16:1.1": "Standing to one side, the godling Vāsudatta spoke this verse in the Buddha’s presence: ",
+    "sn2.16:2.1": "“Like they’re struck by a sword, ",
+    "sn2.16:2.2": "like their head was on fire, ",
+    "sn2.16:2.3": "a mendicant should wander mindful, ",
+    "sn2.16:2.4": "to give up sensual desire.” ",
+    "sn2.16:3.1": "“Like they’re struck by a sword, ",
+    "sn2.16:3.2": "like their head was on fire, ",
+    "sn2.16:3.3": "a mendicant should wander mindful, ",
+    "sn2.16:3.4": "to give up substantialist view.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 2.16",
-    "volpages": "PTS (1st ed) SN i 53",
-    "alt_volpages": "PTS (2nd ed) SN i 122",
-    "uid": "sn2.16",
-    "blurb": "The deity Vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha changes his verse to emphasize giving up attachment to self.",
-    "difficulty": null,
-    "original_title": "Vāsudattasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Vāsudatta ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn2.16_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Vāsudatta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn2.16_translation-en-sujato",
-        "segmented": true,
-        "title": "With Vāsudatta ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Giovanni Zappa",
-        "author_short": "giovannizappa",
-        "author_uid": "giovannizappa",
-        "publication_date": "2025",
-        "id": "sn2.16_translation-it-giovannizappa",
-        "segmented": true,
-        "title": "Il discorso con Vāsudatta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn2.16_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Laera et al.",
-        "author_short": "laera",
-        "author_uid": "laera",
-        "publication_date": null,
-        "id": "sn2.16_translation-pt-laera-quaresma",
-        "segmented": true,
-        "title": "Com Vasudatta",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn2.16_translation-ru-sv",
-        "segmented": true,
-        "title": "Васудатта ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn2.16_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Vāsudatta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn2.16_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn2.16_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn2.16_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn2.16_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn2.16_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn2.16_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn2.16_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn2.16_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2015",
-        "id": "no_sn2.16_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn2.16_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn2.16_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn2.16_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn2.16_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn2.16_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 9,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed12.52, csp2ed12.52, dr15.71, ms12S1_446, msdiv97, vri23.65,bj13.102, ms12S1_447,ms12S1_448",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn2.16:2.2": "ḍayhamānova → ḍayhamāneva (sya-all, km) "
   },
-  "bilara_root_text": {
-    "uid": "sn2.16",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Vāsudattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn2.16:1.1": "csp1ed12.52, csp2ed12.52, dr15.71, ms12S1_446, msdiv97, vri23.65",
+    "sn2.16:2.1": "bj13.102, ms12S1_447",
+    "sn2.16:3.1": "ms12S1_448"
   },
-  "bilara_translated_text": {
-    "uid": "sn2.16",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Vāsudatta ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn2.16:0.1",
+    "sn2.16:0.2",
+    "sn2.16:0.3",
+    "sn2.16:1.1",
+    "sn2.16:2.1",
+    "sn2.16:2.2",
+    "sn2.16:2.3",
+    "sn2.16:2.4",
+    "sn2.16:3.1",
+    "sn2.16:3.2",
+    "sn2.16:3.3",
+    "sn2.16:3.4"
+  ]
 }

@@ -1,298 +1,66 @@
 {
+  "html_text": {
+    "an5.203:0.1": "<article id='an5.203'><header><ul><li class='division'>{}</li>",
+    "an5.203:0.2": "<li>{}</li></ul>",
+    "an5.203:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.203:1.1": "<p>{}</p>",
+    "an5.203:2.1": "<p>{}",
+    "an5.203:2.2": "{}",
+    "an5.203:2.3": "{}",
+    "an5.203:2.4": "{}</p>",
+    "an5.203:3.1": "<p>{}",
+    "an5.203:3.2": "{}",
+    "an5.203:3.3": "{}</p>",
+    "an5.203:3.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.203",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Assājānīyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Listening to the Teaching ",
-      "uid": "an5.202"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Powers ",
-      "uid": "an5.204"
-    }
+    "an5.203:0.1": "Aṅguttara Nikāya 5.203 ",
+    "an5.203:0.2": "21. Kimilavagga ",
+    "an5.203:0.3": "Assājānīyasutta ",
+    "an5.203:1.1": "“Pañcahi, bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅgantveva saṅkhaṁ gacchati. ",
+    "an5.203:2.1": "Katamehi pañcahi? ",
+    "an5.203:2.2": "Ajjavena, javena, maddavena, khantiyā, soraccena—",
+    "an5.203:2.3": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅgantveva saṅkhaṁ gacchati. ",
+    "an5.203:2.4": "Evamevaṁ kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+    "an5.203:3.1": "Katamehi pañcahi? ",
+    "an5.203:3.2": "Ajjavena, javena, maddavena, khantiyā, soraccena—",
+    "an5.203:3.3": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+    "an5.203:3.4": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an5.203",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Thoroughbred ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Listening to the Teaching ",
-      "uid": "an5.202"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Powers ",
-      "uid": "an5.204"
-    }
+  "translation_text": {
+    "an5.203:0.1": "Numbered Discourses 5.203 ",
+    "an5.203:0.2": "21. With Kimbila ",
+    "an5.203:0.3": "A Thoroughbred ",
+    "an5.203:1.1": "“Mendicants, a fine royal thoroughbred with five factors is worthy of a king, fit to serve a king, and is reckoned a factor of kingship. ",
+    "an5.203:2.1": "What five? ",
+    "an5.203:2.2": "Integrity, speed, tenderness, patience, and gentleness. ",
+    "an5.203:2.3": "A fine royal thoroughbred with these five factors is worthy of a king. … ",
+    "an5.203:2.4": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. ",
+    "an5.203:3.1": "What five? ",
+    "an5.203:3.2": "Integrity, speed, tenderness, patience, and gentleness. ",
+    "an5.203:3.3": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.203",
-    "volpages": "PTS AN iii 248",
-    "alt_volpages": null,
-    "uid": "an5.203",
-    "blurb": "Factors that make a thoroughbred worthy of a king.",
-    "difficulty": null,
-    "original_title": "Assājānīyasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Thoroughbred ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.203_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vollblüter ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.203_translation-en-sujato",
-        "segmented": true,
-        "title": "A Thoroughbred ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.203_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.203_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Чистокровный скакун ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.203_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.203_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.203_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.203_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.203_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.203_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.203_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.203_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.203_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.203_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj20.400, csp1ed16.217, csp2ed16.217, ms16A5_1196, msdiv203,ms16A5_1197,ms16A5_1198",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an5.203:0.3": "Assājānīyasutta → ājāniyasuttaṁ (bj) ",
+    "an5.203:1.1": "bhadro → bhaddo (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an5.203",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Assājānīyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.203:1.1": "bj20.400, csp1ed16.217, csp2ed16.217, ms16A5_1196, msdiv203",
+    "an5.203:2.1": "ms16A5_1197",
+    "an5.203:3.1": "ms16A5_1198"
   },
-  "bilara_translated_text": {
-    "uid": "an5.203",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Thoroughbred ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.203:0.1",
+    "an5.203:0.2",
+    "an5.203:0.3",
+    "an5.203:1.1",
+    "an5.203:2.1",
+    "an5.203:2.2",
+    "an5.203:2.3",
+    "an5.203:2.4",
+    "an5.203:3.1",
+    "an5.203:3.2",
+    "an5.203:3.3",
+    "an5.203:3.4"
+  ]
 }

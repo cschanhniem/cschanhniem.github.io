@@ -1,323 +1,83 @@
 {
+  "html_text": {
+    "sn22.113:0.1": "<article id='sn22.113'><header><ul><li class='division'>{}</li>",
+    "sn22.113:0.2": "<li>{}</li></ul>",
+    "sn22.113:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.113:1.1": "<p>{}</p>",
+    "sn22.113:1.2": "<p>{}",
+    "sn22.113:1.3": "{}</p>",
+    "sn22.113:1.4": "<p>{}",
+    "sn22.113:1.5": "{}",
+    "sn22.113:1.6": "{}</p>",
+    "sn22.113:1.7": "<p>{}",
+    "sn22.113:1.8": "{}",
+    "sn22.113:1.9": "{}",
+    "sn22.113:1.10": "{}",
+    "sn22.113:1.11": "{}</p>",
+    "sn22.113:1.12": "<p>{}",
+    "sn22.113:1.13": "{}</p>",
+    "sn22.113:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.113",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Avijjāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Giving Up Desire (2nd) ",
-      "uid": "sn22.112"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Knowledge ",
-      "uid": "sn22.114"
-    }
+    "sn22.113:0.1": "Saṁyutta Nikāya 22.113 ",
+    "sn22.113:0.2": "12. Dhammakathikavagga ",
+    "sn22.113:0.3": "Avijjāsutta ",
+    "sn22.113:1.1": "Sāvatthinidānaṁ. ",
+    "sn22.113:1.2": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ",
+    "sn22.113:1.3": "ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn22.113:1.4": "“‘avijjā, avijjā’ti, bhante, vuccati. ",
+    "sn22.113:1.5": "Katamā nu kho, bhante, avijjā; ",
+    "sn22.113:1.6": "kittāvatā ca avijjāgato hotī”ti? ",
+    "sn22.113:1.7": "“Idha, bhikkhu, assutavā puthujjano rūpaṁ nappajānāti, rūpasamudayaṁ nappajānāti, rūpanirodhaṁ nappajānāti, rūpanirodhagāminiṁ paṭipadaṁ nappajānāti; ",
+    "sn22.113:1.8": "vedanaṁ nappajānāti … ",
+    "sn22.113:1.9": "saññaṁ … ",
+    "sn22.113:1.10": "saṅkhāre nappajānāti …pe… ",
+    "sn22.113:1.11": "viññāṇanirodhagāminiṁ paṭipadaṁ nappajānāti. ",
+    "sn22.113:1.12": "Ayaṁ vuccati, bhikkhu, avijjā; ",
+    "sn22.113:1.13": "ettāvatā ca avijjāgato hotī”ti. ",
+    "sn22.113:1.14": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn22.113",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ignorance ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Giving Up Desire (2nd) ",
-      "uid": "sn22.112"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Knowledge ",
-      "uid": "sn22.114"
-    }
+  "translation_text": {
+    "sn22.113:0.1": "Linked Discourses 22.113 ",
+    "sn22.113:0.2": "12. A Dhamma speaker ",
+    "sn22.113:0.3": "Ignorance ",
+    "sn22.113:1.1": "At Sāvatthī. ",
+    "sn22.113:1.2": "Then a mendicant went up to the Buddha ",
+    "sn22.113:1.3": "and said to him: ",
+    "sn22.113:1.4": "“Sir, they speak of this thing called ‘ignorance’. ",
+    "sn22.113:1.5": "What is ignorance? ",
+    "sn22.113:1.6": "And how is an ignorant person defined?” ",
+    "sn22.113:1.7": "“Mendicant, it’s when an unlearned ordinary person doesn’t understand form, its origin, its cessation, and the practice that leads to its cessation. ",
+    "sn22.113:1.8": "They don’t understand feeling … ",
+    "sn22.113:1.9": "perception … ",
+    "sn22.113:1.10": "choices … ",
+    "sn22.113:1.11": "consciousness, its origin, its cessation, and the practice that leads to its cessation. ",
+    "sn22.113:1.12": "This is called ignorance. ",
+    "sn22.113:1.13": "And this is how an ignorant person is defined.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.113",
-    "volpages": " PTS 3.163",
-    "alt_volpages": null,
-    "uid": "sn22.113",
-    "blurb": "Ignorance is not understanding the aggregates.",
-    "difficulty": null,
-    "original_title": "Avijjāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Ignorance ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.113_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Unwissenheit ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.113_translation-en-sujato",
-        "segmented": true,
-        "title": "Ignorance ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.113_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.113_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.113_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2010",
-        "id": "es_sn22.113_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.113_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.113_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.113_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.113_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn22.113_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn22.113_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.113_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.113_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.113_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.113_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.284, dr17.194, ms13S3_681, msdiv113, pts-vp-pli3.163, sya17.198, vri25.146",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn22.113:0.3": "Avijjāsutta → avijjā or bhikkhu 1 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn22.113",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Avijjāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.113:1.1": "bj15.284, dr17.194, ms13S3_681, msdiv113, pts-vp-pli3.163, sya17.198, vri25.146"
   },
-  "bilara_translated_text": {
-    "uid": "sn22.113",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ignorance ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn22.113:0.1",
+    "sn22.113:0.2",
+    "sn22.113:0.3",
+    "sn22.113:1.1",
+    "sn22.113:1.2",
+    "sn22.113:1.3",
+    "sn22.113:1.4",
+    "sn22.113:1.5",
+    "sn22.113:1.6",
+    "sn22.113:1.7",
+    "sn22.113:1.8",
+    "sn22.113:1.9",
+    "sn22.113:1.10",
+    "sn22.113:1.11",
+    "sn22.113:1.12",
+    "sn22.113:1.13",
+    "sn22.113:1.14"
+  ]
 }

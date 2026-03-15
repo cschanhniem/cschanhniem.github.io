@@ -1,298 +1,48 @@
 {
+  "html_text": {
+    "an6.80:0.1": "<article id='an6.80'><header><ul><li class='division'>{}</li>",
+    "an6.80:0.2": "<li>{}</li></ul>",
+    "an6.80:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.80:1.1": "<p>{}",
+    "an6.80:1.2": "{}",
+    "an6.80:1.3": "{}",
+    "an6.80:1.4": "{}</p>",
+    "an6.80:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.80",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mahantattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Achievement ",
-      "uid": "an6.79"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Hell (1st) ",
-      "uid": "an6.81"
-    }
+    "an6.80:0.1": "Aṅguttara Nikāya 6.80 ",
+    "an6.80:0.2": "8. Arahattavagga ",
+    "an6.80:0.3": "Mahantattasutta ",
+    "an6.80:1.1": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva mahantattaṁ vepullattaṁ pāpuṇāti dhammesu. ",
+    "an6.80:1.2": "Katamehi chahi? ",
+    "an6.80:1.3": "Idha, bhikkhave, bhikkhu ālokabahulo ca hoti yogabahulo ca vedabahulo ca asantuṭṭhibahulo ca anikkhittadhuro ca kusalesu dhammesu uttari ca patāreti. ",
+    "an6.80:1.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu nacirasseva mahantattaṁ vepullattaṁ pāpuṇāti dhammesū”ti. ",
+    "an6.80:1.5": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "an6.80",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Greatness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Achievement ",
-      "uid": "an6.79"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Hell (1st) ",
-      "uid": "an6.81"
-    }
+  "translation_text": {
+    "an6.80:0.1": "Numbered Discourses 6.80 ",
+    "an6.80:0.2": "8. Perfection ",
+    "an6.80:0.3": "Greatness ",
+    "an6.80:1.1": "“Mendicants, a mendicant with six qualities soon acquires great and abundant good qualities. ",
+    "an6.80:1.2": "What six? ",
+    "an6.80:1.3": "It’s when a mendicant is full of light, full of practice, full of inspiration, and full of eagerness. They don’t slack off when it comes to developing skillful qualities. They reach further. ",
+    "an6.80:1.4": "A mendicant who possesses these six qualities soon acquires great and abundant good qualities.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.80",
-    "volpages": "PTS AN iii 432",
-    "alt_volpages": null,
-    "uid": "an6.80",
-    "blurb": "Possessing six qualities a mendicant attains to greatness.",
-    "difficulty": null,
-    "original_title": "Mahantattasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Greatness ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.80_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Größe ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.80_translation-en-sujato",
-        "segmented": true,
-        "title": "Greatness ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.80_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.80_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Величие ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.80_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.80_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.80_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.80_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.80_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.80_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.80_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.80_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.80_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.80_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr22.468, ms16A6_667, msdiv80, ndp18.134",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.80:1.1": "mahantattaṁ → mahattaṁ (sya-all, km) ",
+    "an6.80:1.3": "uttari ca → uttariñca (bj, pts1ed) | patāreti → pakaroti (mr) "
   },
-  "bilara_root_text": {
-    "uid": "an6.80",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mahantattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.80:1.1": "dr22.468, ms16A6_667, msdiv80, ndp18.134"
   },
-  "bilara_translated_text": {
-    "uid": "an6.80",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Greatness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.80:0.1",
+    "an6.80:0.2",
+    "an6.80:0.3",
+    "an6.80:1.1",
+    "an6.80:1.2",
+    "an6.80:1.3",
+    "an6.80:1.4",
+    "an6.80:1.5"
+  ]
 }

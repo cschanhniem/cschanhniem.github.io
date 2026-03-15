@@ -1,0 +1,58 @@
+{
+  "html_text": {
+    "sn46.143-152:0.1": "<article id='sn46.143-152'><header><ul><li class='division'>{}</li>",
+    "sn46.143-152:0.2": "<li>{}</li></ul>",
+    "sn46.143-152:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.143-152:1.1": "<p>{}</p>",
+    "sn46.143-152:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.143-152:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.143-152:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.143-152:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.143-152:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.143-152:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn46.143-152:3.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn46.143-152:0.1": "Saṁyutta Nikāya 46.143–152 ",
+    "sn46.143-152:0.2": "15. Punaappamādavagga ",
+    "sn46.143-152:0.3": "Punatathāgatādisutta ",
+    "sn46.143-152:1.1": "…pe… ",
+    "sn46.143-152:1.2": "Pannarasamo. ",
+    "sn46.143-152:2.0": "Uddānaṁ ",
+    "sn46.143-152:2.1": "Tathāgataṁ padaṁ kūṭaṁ, ",
+    "sn46.143-152:2.2": "mūlaṁ sārena vassikaṁ; ",
+    "sn46.143-152:2.3": "Rājā candimasūriyā ca, ",
+    "sn46.143-152:2.4": "vatthena dasamaṁ padanti. ",
+    "sn46.143-152:3.1": "(Appamādavaggo rāgavasena vitthāretabbo.) "
+  },
+  "translation_text": {
+    "sn46.143-152:0.1": "Linked Discourses 46.143–152 ",
+    "sn46.143-152:0.2": "15. Another Chapter on Diligence ",
+    "sn46.143-152:0.3": "Another Series on a Realized One, Etc. ",
+    "sn46.143-152:1.1": "",
+    "sn46.143-152:1.2": "",
+    "sn46.143-152:2.1": "",
+    "sn46.143-152:2.2": "",
+    "sn46.143-152:2.3": "",
+    "sn46.143-152:2.4": "",
+    "sn46.143-152:3.1": "(Tell in full as in SN 45.139–148, removal of greed version.) "
+  },
+  "reference_text": {
+    "sn46.143-152:1.1": "ms14S5_730, msdiv324-333",
+    "sn46.143-152:2.1": "ms14S5_733, vri27.200",
+    "sn46.143-152:3.1": "ms14S5_734"
+  },
+  "keys_order": [
+    "sn46.143-152:0.1",
+    "sn46.143-152:0.2",
+    "sn46.143-152:0.3",
+    "sn46.143-152:1.1",
+    "sn46.143-152:1.2",
+    "sn46.143-152:2.0",
+    "sn46.143-152:2.1",
+    "sn46.143-152:2.2",
+    "sn46.143-152:2.3",
+    "sn46.143-152:2.4",
+    "sn46.143-152:3.1"
+  ]
+}

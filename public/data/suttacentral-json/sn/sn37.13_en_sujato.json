@@ -1,310 +1,44 @@
 {
+  "html_text": {
+    "sn37.13:0.1": "<article id='sn37.13'><header><ul><li class='division'>{}</li>",
+    "sn37.13:0.2": "<li>{}</li></ul>",
+    "sn37.13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn37.13:1.1": "<p>{}",
+    "sn37.13:1.2": "{}",
+    "sn37.13:1.3": "{}",
+    "sn37.13:1.4": "{}</p>",
+    "sn37.13:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn37.13",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Muṭṭhassatisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Lazy ",
-      "uid": "sn37.12"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Five Threats ",
-      "uid": "sn37.14"
-    }
+    "sn37.13:0.1": "Saṁyutta Nikāya 37.13 ",
+    "sn37.13:0.2": "1. Paṭhamapeyyālavagga ",
+    "sn37.13:0.3": "Muṭṭhassatisutta ",
+    "sn37.13:1.1": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjati. ",
+    "sn37.13:1.2": "Katamehi pañcahi? ",
+    "sn37.13:1.3": "Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, muṭṭhassati ca hoti, duppañño ca hoti—",
+    "sn37.13:1.4": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjatī”ti. ",
+    "sn37.13:1.5": "Terasamaṁ. "
   },
-  "translation": {
-    "uid": "sn37.13",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Unmindful ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Lazy ",
-      "uid": "sn37.12"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Five Threats ",
-      "uid": "sn37.14"
-    }
+  "translation_text": {
+    "sn37.13:0.1": "Linked Discourses 37.13 ",
+    "sn37.13:0.2": "1. Abbreviated Texts ",
+    "sn37.13:0.3": "Unmindful ",
+    "sn37.13:1.1": "",
+    "sn37.13:1.2": "",
+    "sn37.13:1.3": "“… They’re faithless, shameless, imprudent, unmindful, and witless. …” ",
+    "sn37.13:1.4": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 37.13",
-    "volpages": " PTS 4.243",
-    "alt_volpages": null,
-    "uid": "sn37.13",
-    "blurb": "A woman with five bad qualities has a bad rebirth.",
-    "difficulty": null,
-    "original_title": "Muṭṭhassatisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Unmindful ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn37.13_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Unachtsam ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn37.13_translation-en-sujato",
-        "segmented": true,
-        "title": "Unmindful ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn37.13_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn37.13_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn37.13_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn37.13_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn37.13_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn37.13_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn37.13_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn37.13_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn37.13_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn37.13_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn37.13_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn37.13_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn37.13_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.458, csp1ed13.440, csp2ed13.440, dr18.296, ms13S4_1265, msdiv292, ndp14.216, pts-vp-pli4.243",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn37.13:1.1": "bj16.458, csp1ed13.440, csp2ed13.440, dr18.296, ms13S4_1265, msdiv292, ndp14.216, pts-vp-pli4.243"
   },
-  "bilara_root_text": {
-    "uid": "sn37.13",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Muṭṭhassatisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn37.13",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Unmindful ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn37.13:0.1",
+    "sn37.13:0.2",
+    "sn37.13:0.3",
+    "sn37.13:1.1",
+    "sn37.13:1.2",
+    "sn37.13:1.3",
+    "sn37.13:1.4",
+    "sn37.13:1.5"
+  ]
 }

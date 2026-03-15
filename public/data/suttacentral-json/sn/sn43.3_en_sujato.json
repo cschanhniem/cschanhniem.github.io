@@ -1,326 +1,42 @@
 {
+  "comment_text": {
+    "sn43.3:1.2": "This threefold presentation of the process of absorption focuses on <i lang='pi' translate='no'>vitakka</i> (“placing the mind”) and <i lang='pi' translate='no'>vicāra</i> (“keeping it connected”), looking closely at how they cease (see also <a href='https://suttacentral.net/dn33/en/sujato#1.10.121'>DN 33:1.10.121</a>, <a href='https://suttacentral.net/dn34/en/sujato#1.4.7'>DN 34:1.4.7</a>, <a href='https://suttacentral.net/mn128/en/sujato#31.4'>MN 128:31.4</a>, and <a href='https://suttacentral.net/an8.63/en/sujato#3.1'>AN 8.63:3.1</a>). The standard <i lang='pi' translate='no'>jhāna</i> formula focuses more on the refinement of feelings, from which perspective the first two stages of immersion here fall under the “rapture and bliss born of seclusion”, while only the third qualifies as “rapture and bliss born of immersion”. Thus Analayo describes the two descriptions as “complementary perspectives on the same process of deepening concentration” (<em>Comparative Study</em>, vol. ii, pg. 739, note 263). "
+  },
+  "html_text": {
+    "sn43.3:0.1": "<article id='sn43.3'><header><ul><li class='division'>{}</li>",
+    "sn43.3:0.2": "<li>{}</li></ul>",
+    "sn43.3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn43.3:1.1": "<p>{}",
+    "sn43.3:1.2": "{}</p>",
+    "sn43.3:1.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn43.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Savitakkasavicārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Serenity and Discernment ",
-      "uid": "sn43.2"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Emptiness Immersion ",
-      "uid": "sn43.4"
-    }
+    "sn43.3:0.1": "Saṁyutta Nikāya 43.3 ",
+    "sn43.3:0.2": "1. Paṭhamavagga ",
+    "sn43.3:0.3": "Savitakkasavicārasutta ",
+    "sn43.3:1.1": "“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? ",
+    "sn43.3:1.2": "Savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…. ",
+    "sn43.3:1.3": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn43.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Placing the Mind and Keeping it Connected ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Serenity and Discernment ",
-      "uid": "sn43.2"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Emptiness Immersion ",
-      "uid": "sn43.4"
-    }
+  "translation_text": {
+    "sn43.3:0.1": "Linked Discourses 43.3 ",
+    "sn43.3:0.2": "Chapter One ",
+    "sn43.3:0.3": "Placing the Mind and Keeping it Connected ",
+    "sn43.3:1.1": "“And what is the path that leads to the unconditioned? ",
+    "sn43.3:1.2": "Immersion with placing the mind and keeping it connected. Immersion without placing the mind, merely keeping it connected. Immersion without placing the mind or keeping it connected. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 43.3",
-    "volpages": "PTS SN iv 360",
-    "alt_volpages": null,
-    "uid": "sn43.3",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Savitakkasavicārasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Placing the Mind and Keeping it Connected ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn43.3_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Den Geist ausrichten und halten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn43.3_translation-en-sujato",
-        "segmented": true,
-        "title": "Placing the Mind and Keeping it Connected ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn43.3_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn43.3_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn43.3_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn43.3_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "With Thought and Examination"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn43.3_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn43.3_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn43.3_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn43.3_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn43.3_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn43.3_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn43.3_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn43.3_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn43.3_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn43.3_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S4_1675, msdiv368, sya18.442, vri26.335",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn43.3:0.3": "Savitakkasavicārasutta → vitakko (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn43.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Savitakkasavicārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn43.3:1.1": "ms13S4_1675, msdiv368, sya18.442, vri26.335"
   },
-  "bilara_translated_text": {
-    "uid": "sn43.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Placing the Mind and Keeping it Connected ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn43.3:0.1",
+    "sn43.3:0.2",
+    "sn43.3:0.3",
+    "sn43.3:1.1",
+    "sn43.3:1.2",
+    "sn43.3:1.3"
   ]
 }

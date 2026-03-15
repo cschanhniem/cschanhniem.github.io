@@ -1,301 +1,50 @@
 {
+  "comment_text": {
+    "sn36.30:1.1": "The PTS edition counts this as the opening paragraph of the next discourse. "
+  },
+  "html_text": {
+    "sn36.30:0.1": "<article id='sn36.30'><header><ul><li class='division'>{}</li>",
+    "sn36.30:0.2": "<li>{}</li></ul>",
+    "sn36.30:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn36.30:1.1": "<p>{}",
+    "sn36.30:1.2": "{}",
+    "sn36.30:1.3": "{}",
+    "sn36.30:1.4": "{}</p>",
+    "sn36.30:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn36.30",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ascetics and Brahmins (3rd) ",
-      "uid": "sn36.29"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Not of the Flesh ",
-      "uid": "sn36.31"
-    }
+    "sn36.30:0.1": "Saṁyutta Nikāya 36.30 ",
+    "sn36.30:0.2": "3. Aṭṭhasatapariyāyavagga ",
+    "sn36.30:0.3": "Suddhikasutta ",
+    "sn36.30:1.1": "“Tisso imā, bhikkhave, vedanā. ",
+    "sn36.30:1.2": "Katamā tisso? ",
+    "sn36.30:1.3": "Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—",
+    "sn36.30:1.4": "imā kho, bhikkhave, tisso vedanā”ti. ",
+    "sn36.30:1.5": "Dasamaṁ. "
   },
-  "translation": {
-    "uid": "sn36.30",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ascetics and Brahmins (3rd) ",
-      "uid": "sn36.29"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Not of the Flesh ",
-      "uid": "sn36.31"
-    }
+  "translation_text": {
+    "sn36.30:0.1": "Linked Discourses 36.30 ",
+    "sn36.30:0.2": "3. The Explanation of the Hundred and Eight ",
+    "sn36.30:0.3": "Plain Version ",
+    "sn36.30:1.1": "“Mendicants, there are these three feelings. ",
+    "sn36.30:1.2": "What three? ",
+    "sn36.30:1.3": "Pleasant, painful, and neutral feelings. ",
+    "sn36.30:1.4": "These are the three feelings.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 36.30",
-    "volpages": "PTS SN iv 235",
-    "alt_volpages": null,
-    "uid": "sn36.30",
-    "blurb": "There are three feelings: painful, pleasant, neutral.",
-    "difficulty": null,
-    "original_title": "Suddhikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Plain Version ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn36.30_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Einfache Fassung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn36.30_translation-en-sujato",
-        "segmented": true,
-        "title": "Plain Version ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Bernat Font",
-        "author_short": "font",
-        "author_uid": "font",
-        "publication_date": "2025",
-        "id": "sn36.30_translation-es-font",
-        "segmented": true,
-        "title": "En resumen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn36.30_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn36.30_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn36.30_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Simple version"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn36.30_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn36.30_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn36.30_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn36.30_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn36.30_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn36.30_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn36.30_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn36.30_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S4_1220, msdiv278, sya18.292, vri26.230",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn36.30:0.3": "Suddhikasutta → suddhikavedanāsuttaṁ (bj); suddhikaṁ nirāmisaṁ (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn36.30",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn36.30:1.1": "ms13S4_1220, msdiv278, sya18.292, vri26.230"
   },
-  "bilara_translated_text": {
-    "uid": "sn36.30",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn36.30:0.1",
+    "sn36.30:0.2",
+    "sn36.30:0.3",
+    "sn36.30:1.1",
+    "sn36.30:1.2",
+    "sn36.30:1.3",
+    "sn36.30:1.4",
+    "sn36.30:1.5"
   ]
 }

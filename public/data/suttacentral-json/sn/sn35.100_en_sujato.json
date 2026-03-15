@@ -1,326 +1,75 @@
 {
+  "comment_text": {
+    "sn35.100:1.1": "See <a href='https://suttacentral.net/sn22.6/en/sujato#1.2'>SN 22.6:1.2</a> and note. "
+  },
+  "html_text": {
+    "sn35.100:0.1": "<article id='sn35.100'><header><ul><li class='division'>{}</li>",
+    "sn35.100:0.2": "<li>{}</li></ul>",
+    "sn35.100:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.100:1.1": "<p>{}",
+    "sn35.100:1.2": "{}",
+    "sn35.100:1.3": "{}</p>",
+    "sn35.100:1.4": "<p>{}",
+    "sn35.100:1.5": "{}",
+    "sn35.100:1.6": "{}",
+    "sn35.100:1.7": "{}",
+    "sn35.100:1.8": "{}</p>",
+    "sn35.100:1.9": "<p>{}",
+    "sn35.100:1.10": "{}</p>",
+    "sn35.100:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.100",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭisallānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Immersion ",
-      "uid": "sn35.99"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "It’s Not Yours (1st) ",
-      "uid": "sn35.101"
-    }
+    "sn35.100:0.1": "Saṁyutta Nikāya 35.100 ",
+    "sn35.100:0.2": "10. Saḷavagga ",
+    "sn35.100:0.3": "Paṭisallānasutta ",
+    "sn35.100:1.1": "“Paṭisallāne, bhikkhave, yogamāpajjatha. ",
+    "sn35.100:1.2": "Paṭisallīno, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+    "sn35.100:1.3": "Kiñca yathābhūtaṁ pajānāti? ",
+    "sn35.100:1.4": "‘Cakkhu aniccan’ti yathābhūtaṁ pajānāti; ",
+    "sn35.100:1.5": "‘rūpā aniccā’ti yathābhūtaṁ pajānāti; ",
+    "sn35.100:1.6": "‘cakkhuviññāṇaṁ aniccan’ti yathābhūtaṁ pajānāti; ",
+    "sn35.100:1.7": "‘cakkhusamphasso anicco’ti yathābhūtaṁ pajānāti …pe… ",
+    "sn35.100:1.8": "‘yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccan’ti yathābhūtaṁ pajānāti. ",
+    "sn35.100:1.9": "Paṭisallāne, bhikkhave, yogamāpajjatha. ",
+    "sn35.100:1.10": "Paṭisallīno, bhikkhave, bhikkhu yathābhūtaṁ pajānātī”ti. ",
+    "sn35.100:1.11": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn35.100",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Retreat ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Immersion ",
-      "uid": "sn35.99"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "It’s Not Yours (1st) ",
-      "uid": "sn35.101"
-    }
+  "translation_text": {
+    "sn35.100:0.1": "Linked Discourses 35.100 ",
+    "sn35.100:0.2": "10. The Sixes ",
+    "sn35.100:0.3": "Retreat ",
+    "sn35.100:1.1": "“Mendicants, meditate in retreat. ",
+    "sn35.100:1.2": "A mendicant in retreat truly understands. ",
+    "sn35.100:1.3": "What do they truly understand? ",
+    "sn35.100:1.4": "They truly understand that the eye is impermanent. ",
+    "sn35.100:1.5": "They truly understand that sights … ",
+    "sn35.100:1.6": "eye consciousness … ",
+    "sn35.100:1.7": "eye contact … ",
+    "sn35.100:1.8": "the pleasant, painful, or neutral feeling that arises dependent on mind contact is impermanent. ",
+    "sn35.100:1.9": "Mendicants, meditate in retreat. ",
+    "sn35.100:1.10": "A mendicant in retreat truly understands.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.100",
-    "volpages": " PTS 4.81",
-    "alt_volpages": null,
-    "uid": "sn35.100",
-    "blurb": "Develop seclusion so as to truly understand the process of sense experience.",
-    "difficulty": null,
-    "original_title": "Paṭisallānasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Retreat ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.100_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Klausur ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.100_translation-en-sujato",
-        "segmented": true,
-        "title": "Retreat ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.100_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.100_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.100_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.100_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Seclusion"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn35.100_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.100_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.100_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.100_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.100_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn35.100_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.100_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.100_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.100_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.100_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.172, cck18.99, dr18.99, ms13S4_525, msdiv100, ndp14.75, pts-vp-pli4.81",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.100:0.3": "Paṭisallānasutta → paṭisallāṇa (pts1ed) ",
+    "sn35.100:1.1": "Paṭisallāne → paṭisallānaṁ (bj, mr); paṭisallāno (bj); paṭisallīnā (sya-all, km); paṭisallāṇaṁ (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.100",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭisallānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.100:1.1": "bj16.172, cck18.99, dr18.99, ms13S4_525, msdiv100, ndp14.75, pts-vp-pli4.81"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.100",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Retreat ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.100:0.1",
+    "sn35.100:0.2",
+    "sn35.100:0.3",
+    "sn35.100:1.1",
+    "sn35.100:1.2",
+    "sn35.100:1.3",
+    "sn35.100:1.4",
+    "sn35.100:1.5",
+    "sn35.100:1.6",
+    "sn35.100:1.7",
+    "sn35.100:1.8",
+    "sn35.100:1.9",
+    "sn35.100:1.10",
+    "sn35.100:1.11"
   ]
 }

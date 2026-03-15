@@ -1,310 +1,47 @@
 {
+  "html_text": {
+    "sn28.7:0.1": "<article id='sn28.7'><header><ul><li class='division'>{}</li>",
+    "sn28.7:0.2": "<li>{}</li></ul>",
+    "sn28.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn28.7:1.1": "<p>{}</p>",
+    "sn28.7:1.2": "<p>{}</p>",
+    "sn28.7:1.3": "<p>{}",
+    "sn28.7:1.4": "{}</p>",
+    "sn28.7:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn28.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ākiñcaññāyatanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Dimension of Infinite Consciousness ",
-      "uid": "sn28.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Dimension of Neither Perception Nor Non-Perception ",
-      "uid": "sn28.8"
-    }
+    "sn28.7:0.1": "Saṁyutta Nikāya 28.7 ",
+    "sn28.7:0.2": "1. Sāriputtavagga ",
+    "sn28.7:0.3": "Ākiñcaññāyatanasutta ",
+    "sn28.7:1.1": "Sāvatthinidānaṁ. ",
+    "sn28.7:1.2": "Atha kho āyasmā sāriputto …pe… ",
+    "sn28.7:1.3": "“idhāhaṁ, āvuso, sabbaso viññāṇañcāyatanaṁ samatikkamma, natthi kiñcīti ākiñcaññāyatanaṁ upasampajja viharāmi …pe… ",
+    "sn28.7:1.4": "vuṭṭhitoti vā”ti. ",
+    "sn28.7:1.5": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn28.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Dimension of Nothingness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Dimension of Infinite Consciousness ",
-      "uid": "sn28.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Dimension of Neither Perception Nor Non-Perception ",
-      "uid": "sn28.8"
-    }
+  "translation_text": {
+    "sn28.7:0.1": "Linked Discourses 28.7 ",
+    "sn28.7:0.2": "1. With Sāriputta ",
+    "sn28.7:0.3": "The Dimension of Nothingness ",
+    "sn28.7:1.1": "At Sāvatthī. ",
+    "sn28.7:1.2": "Venerable Ānanda saw Venerable Sāriputta … ",
+    "sn28.7:1.3": "“Reverend, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, I entered and remained in the dimension of nothingness. …” … ",
+    "sn28.7:1.4": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 28.7",
-    "volpages": "PTS SN iii 237",
-    "alt_volpages": null,
-    "uid": "sn28.7",
-    "blurb": "Sāriputta goes to Mirkwood for meditation, and afterwards Ānanda asks why his face is so radiant. Sāriputta replies that he was practicing the dimension of nothingness without any thought of self.",
-    "difficulty": null,
-    "original_title": "Ākiñcaññāyatanasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Dimension of Nothingness ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn28.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Dimension des Nichts ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn28.7_translation-en-sujato",
-        "segmented": true,
-        "title": "The Dimension of Nothingness ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn28.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn28.7_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn28.7_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn28.7_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn28.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn28.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn28.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn28.7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn28.7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn28.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn28.7_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn28.7_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn28.7_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_1134, msdiv338, vri25.235",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn28.7:0.3": "Ākiñcaññāyatanasutta → ākiñcañña (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn28.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ākiñcaññāyatanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn28.7:1.1": "ms13S3_1134, msdiv338, vri25.235"
   },
-  "bilara_translated_text": {
-    "uid": "sn28.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Dimension of Nothingness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn28.7:0.1",
+    "sn28.7:0.2",
+    "sn28.7:0.3",
+    "sn28.7:1.1",
+    "sn28.7:1.2",
+    "sn28.7:1.3",
+    "sn28.7:1.4",
+    "sn28.7:1.5"
+  ]
 }

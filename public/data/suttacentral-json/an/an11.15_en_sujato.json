@@ -1,380 +1,48 @@
 {
+  "html_text": {
+    "an11.15:0.1": "<article id='an11.15'><header><ul><li class='division'>{}</li>",
+    "an11.15:0.2": "<li>{}</li></ul>",
+    "an11.15:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an11.15:1.1": "<p>{}</p>",
+    "an11.15:2.1": "<p>{}",
+    "an11.15:2.2": "{}",
+    "an11.15:2.3": "{}</p>",
+    "an11.15:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an11.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mettāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Subhūti ",
-      "uid": "an11.14"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Wealthy Citizen ",
-      "uid": "an11.16"
-    }
+    "an11.15:0.1": "Aṅguttara Nikāya 11.15 ",
+    "an11.15:0.2": "2. Anussativagga ",
+    "an11.15:0.3": "Mettāsutta ",
+    "an11.15:1.1": "“Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā. ",
+    "an11.15:2.1": "Katame ekādasa? ",
+    "an11.15:2.2": "Sukhaṁ supati, sukhaṁ paṭibujjhati, na pāpakaṁ supinaṁ passati, manussānaṁ piyo hoti, amanussānaṁ piyo hoti, devatā rakkhanti, nāssa aggi vā visaṁ vā satthaṁ vā kamati, tuvaṭaṁ cittaṁ samādhiyati, mukhavaṇṇo vippasīdati, asammūḷho kālaṁ karoti, uttari appaṭivijjhanto brahmalokūpago hoti. ",
+    "an11.15:2.3": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ime ekādasānisaṁsā pāṭikaṅkhā”ti. ",
+    "an11.15:2.4": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an11.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Benefits of Love ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Subhūti ",
-      "uid": "an11.14"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Wealthy Citizen ",
-      "uid": "an11.16"
-    }
+  "translation_text": {
+    "an11.15:0.1": "Numbered Discourses 11.15 ",
+    "an11.15:0.2": "2. Recollection ",
+    "an11.15:0.3": "The Benefits of Love ",
+    "an11.15:1.1": "“Mendicants, you can expect eleven benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. ",
+    "an11.15:2.1": "What eleven? ",
+    "an11.15:2.2": "You sleep at ease. You wake happily. You don’t have bad dreams. Humans love you. Non-humans love you. Deities protect you. You can’t be harmed by fire, poison, or blade. Your mind quickly enters immersion. Your face is clear and bright. You don’t feel lost when you die. If you don’t penetrate any higher, you’ll be reborn in a realm of divinity. ",
+    "an11.15:2.3": "You can expect eleven benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 11.15",
-    "volpages": " PTS 5.342",
-    "alt_volpages": null,
-    "uid": "an11.15",
-    "blurb": "The meditation on love has eleven benefits.",
-    "difficulty": null,
-    "original_title": "Mettāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Benefits of Love ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an11.15_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Vorteile der Liebe ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an11.15_translation-en-sujato",
-        "segmented": true,
-        "title": "The Benefits of Love ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "Kaz Takehara",
-        "author_short": "kaz",
-        "author_uid": "kaz",
-        "publication_date": "2021",
-        "id": "an11.15_translation-jpn-kaz",
-        "segmented": true,
-        "title": "愛情の利点",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2022",
-        "id": "an11.15_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Palankūs geraširdiškumo vaisiai",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an11.15_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an11.15_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an11.15_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an11.15_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "Good Will"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2012",
-        "id": "es_an11.15_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Canonpali.org",
-        "author_short": "CPO",
-        "author_uid": "canonpaliorg",
-        "publication_date": null,
-        "id": "fr_an11.15_canonpaliorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an11.15_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an11.15_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an11.15_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_an11.15_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2009",
-        "id": "pt_an11.15_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an11.15_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an11.15_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an11.15_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an11.15_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an11.15_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 8,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms17A11_140, msdiv15, pts-vp-pli5.342, vri40.308,cck24.310, ms17A11_141, ndp19.384, sya24.371",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an11.15:0.3": "Mettāsutta → mettānisaṁsasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an11.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mettāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an11.15:1.1": "ms17A11_140, msdiv15, pts-vp-pli5.342, vri40.308",
+    "an11.15:2.1": "cck24.310, ms17A11_141, ndp19.384, sya24.371"
   },
-  "bilara_translated_text": {
-    "uid": "an11.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Benefits of Love ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an11.15:0.1",
+    "an11.15:0.2",
+    "an11.15:0.3",
+    "an11.15:1.1",
+    "an11.15:2.1",
+    "an11.15:2.2",
+    "an11.15:2.3",
+    "an11.15:2.4"
   ]
 }

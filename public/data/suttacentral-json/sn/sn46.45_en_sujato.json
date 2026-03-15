@@ -1,326 +1,55 @@
 {
+  "html_text": {
+    "sn46.45:0.1": "<article id='sn46.45'><header><ul><li class='division'>{}</li>",
+    "sn46.45:0.2": "<li>{}</li></ul>",
+    "sn46.45:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.45:1.1": "<p>{}",
+    "sn46.45:1.2": "{}</p>",
+    "sn46.45:1.3": "<p>{}",
+    "sn46.45:1.4": "{}",
+    "sn46.45:1.5": "{}",
+    "sn46.45:1.6": "{}</p>",
+    "sn46.45:1.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn46.45",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paññavantasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Witless ",
-      "uid": "sn46.44"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Poor ",
-      "uid": "sn46.46"
-    }
+    "sn46.45:0.1": "Saṁyutta Nikāya 46.45 ",
+    "sn46.45:0.2": "5. Cakkavattivagga ",
+    "sn46.45:0.3": "Paññavantasutta ",
+    "sn46.45:1.1": "“‘Paññavā aneḷamūgo, paññavā aneḷamūgo’ti, bhante, vuccati. ",
+    "sn46.45:1.2": "Kittāvatā nu kho, bhante, ‘paññavā aneḷamūgo’ti vuccatī”ti? ",
+    "sn46.45:1.3": "“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘paññavā aneḷamūgo’ti vuccati. ",
+    "sn46.45:1.4": "Katamesaṁ sattannaṁ? ",
+    "sn46.45:1.5": "Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa—",
+    "sn46.45:1.6": "imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘paññavā aneḷamūgo’ti vuccatī”ti. ",
+    "sn46.45:1.7": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "sn46.45",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Wise ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Witless ",
-      "uid": "sn46.44"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Poor ",
-      "uid": "sn46.46"
-    }
+  "translation_text": {
+    "sn46.45:0.1": "Linked Discourses 46.45 ",
+    "sn46.45:0.2": "5. A Wheel-Turning Monarch ",
+    "sn46.45:0.3": "Wise ",
+    "sn46.45:1.1": "“Sir, they speak of a one ‘wise and clever’. ",
+    "sn46.45:1.2": "How is a person who is wise and clever defined?” ",
+    "sn46.45:1.3": "“Mendicant, they’re called wise and clever because they’ve developed and cultivated the seven awakening factors. ",
+    "sn46.45:1.4": "What seven? ",
+    "sn46.45:1.5": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. ",
+    "sn46.45:1.6": "They’re called wise and clever because they’ve developed and cultivated these seven awakening factors.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 46.45",
-    "volpages": "PTS SN v 100",
-    "alt_volpages": null,
-    "uid": "sn46.45",
-    "blurb": "A wise person has developed the awakening factors.",
-    "difficulty": null,
-    "original_title": "Paññavantasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Wise ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn46.45_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Weise ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn46.45_translation-en-sujato",
-        "segmented": true,
-        "title": "Wise ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn46.45_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn46.45_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn46.45_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn46.45_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Wise"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn46.45_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn46.45_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn46.45_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn46.45_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn46.45_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn46.45_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn46.45_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn46.45_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn46.45_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn46.45_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr19.134, ms14S5_540, msdiv226",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn46.45:0.3": "Paññavantasutta → paññavasuttaṁ (bj); paññavā (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn46.45",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paññavantasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn46.45:1.1": "dr19.134, ms14S5_540, msdiv226"
   },
-  "bilara_translated_text": {
-    "uid": "sn46.45",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Wise ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn46.45:0.1",
+    "sn46.45:0.2",
+    "sn46.45:0.3",
+    "sn46.45:1.1",
+    "sn46.45:1.2",
+    "sn46.45:1.3",
+    "sn46.45:1.4",
+    "sn46.45:1.5",
+    "sn46.45:1.6",
+    "sn46.45:1.7"
   ]
 }

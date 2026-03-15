@@ -1,340 +1,47 @@
 {
+  "html_text": {
+    "an6.97:0.1": "<article id='an6.97'><header><ul><li class='division'>{}</li>",
+    "an6.97:0.2": "<li>{}</li></ul>",
+    "an6.97:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.97:1.1": "<p>{}",
+    "an6.97:1.2": "{}",
+    "an6.97:1.3": "{}",
+    "an6.97:1.4": "{}</p>",
+    "an6.97:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.97",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ānisaṁsasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Appearance ",
-      "uid": "an6.96"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Impermanence ",
-      "uid": "an6.98"
-    }
+    "an6.97:0.1": "Aṅguttara Nikāya 6.97 ",
+    "an6.97:0.2": "10. Ānisaṁsavagga ",
+    "an6.97:0.3": "Ānisaṁsasutta ",
+    "an6.97:1.1": "“Chayime, bhikkhave, ānisaṁsā sotāpattiphalasacchikiriyāya. ",
+    "an6.97:1.2": "Katame cha? ",
+    "an6.97:1.3": "Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṁ hoti, asādhāraṇena ñāṇena samannāgato hoti, hetu cassa sudiṭṭho, hetusamuppannā ca dhammā. ",
+    "an6.97:1.4": "Ime kho, bhikkhave, cha ānisaṁsā sotāpattiphalasacchikiriyāyā”ti. ",
+    "an6.97:1.5": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "an6.97",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Benefit ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Appearance ",
-      "uid": "an6.96"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Impermanence ",
-      "uid": "an6.98"
-    }
+  "translation_text": {
+    "an6.97:0.1": "Numbered Discourses 6.97 ",
+    "an6.97:0.2": "10. Benefit ",
+    "an6.97:0.3": "Benefit ",
+    "an6.97:1.1": "“Mendicants, these are the six benefits of realizing the fruit of stream-entry. ",
+    "an6.97:1.2": "What six? ",
+    "an6.97:1.3": "You’re bound for the true teaching. You’re not liable to decline. You suffer only for a limited period. You have distinct knowledge. You’ve clearly seen causes and the phenomena that arise from causes. ",
+    "an6.97:1.4": "These are the six benefits of realizing the fruit of stream-entry.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.97",
-    "volpages": "PTS AN iii 441",
-    "alt_volpages": null,
-    "uid": "an6.97",
-    "blurb": "Benefits of stream-entry.",
-    "difficulty": null,
-    "original_title": "Ānisaṁsasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Benefit ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.97_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vorteil ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.97_translation-en-sujato",
-        "segmented": true,
-        "title": "Benefit ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.97_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.97_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Полезность ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.97_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.97_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an6.97_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "Rewards"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.97_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_an6.97_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.97_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.97_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2008",
-        "id": "pt_an6.97_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.97_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.97_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.97_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.97_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.97_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A6_716, msdiv97",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.97:1.3": "dukkhaṁ hoti → dukkhaṁ na hoti (bj, sya-all, pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an6.97",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ānisaṁsasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.97:1.1": "ms16A6_716, msdiv97"
   },
-  "bilara_translated_text": {
-    "uid": "an6.97",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Benefit ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an6.97:0.1",
+    "an6.97:0.2",
+    "an6.97:0.3",
+    "an6.97:1.1",
+    "an6.97:1.2",
+    "an6.97:1.3",
+    "an6.97:1.4",
+    "an6.97:1.5"
   ]
 }

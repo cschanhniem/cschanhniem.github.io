@@ -1,326 +1,87 @@
 {
+  "html_text": {
+    "sn35.139:0.1": "<article id='sn35.139'><header><ul><li class='division'>{}</li>",
+    "sn35.139:0.2": "<li>{}</li></ul>",
+    "sn35.139:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.139:1.1": "<p>{}",
+    "sn35.139:1.2": "{}",
+    "sn35.139:1.3": "{}",
+    "sn35.139:1.4": "{}",
+    "sn35.139:1.5": "{}</p>",
+    "sn35.139:1.6": "<p>{}",
+    "sn35.139:1.7": "{}",
+    "sn35.139:1.8": "{}",
+    "sn35.139:1.9": "{}",
+    "sn35.139:1.10": "{}",
+    "sn35.139:1.11": "{}</p>",
+    "sn35.139:1.12": "<p>{}</p>",
+    "sn35.139:1.13": "<p>{}",
+    "sn35.139:1.14": "{}</p>",
+    "sn35.139:1.15": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.139",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyanatumhākasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Not Yours (1st) ",
-      "uid": "sn35.138"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Interior and Cause Are Impermanent ",
-      "uid": "sn35.140"
-    }
+    "sn35.139:0.1": "Saṁyutta Nikāya 35.139 ",
+    "sn35.139:0.2": "14. Devadahavagga ",
+    "sn35.139:0.3": "Dutiyanatumhākasutta ",
+    "sn35.139:1.1": "“Yaṁ, bhikkhave, na tumhākaṁ, taṁ pajahatha. ",
+    "sn35.139:1.2": "Taṁ vo pahīnaṁ hitāya sukhāya bhavissati. ",
+    "sn35.139:1.3": "Kiñca, bhikkhave, na tumhākaṁ? ",
+    "sn35.139:1.4": "Rūpā, bhikkhave, na tumhākaṁ; ",
+    "sn35.139:1.5": "te pajahatha. Te vo pahīnā hitāya sukhāya bhavissanti. ",
+    "sn35.139:1.6": "Saddā … ",
+    "sn35.139:1.7": "gandhā … ",
+    "sn35.139:1.8": "rasā … ",
+    "sn35.139:1.9": "phoṭṭhabbā … ",
+    "sn35.139:1.10": "dhammā na tumhākaṁ; te pajahatha. ",
+    "sn35.139:1.11": "Te vo pahīnā hitāya sukhāya bhavissanti. ",
+    "sn35.139:1.12": "Seyyathāpi, bhikkhave, yaṁ imasmiṁ jetavane tiṇakaṭṭha …pe… ",
+    "sn35.139:1.13": "evameva kho, bhikkhave, rūpā na tumhākaṁ; te pajahatha. ",
+    "sn35.139:1.14": "Te vo pahīnā hitāya sukhāya bhavissantī”ti …. ",
+    "sn35.139:1.15": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "sn35.139",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Yours (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Not Yours (1st) ",
-      "uid": "sn35.138"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Interior and Cause Are Impermanent ",
-      "uid": "sn35.140"
-    }
+  "translation_text": {
+    "sn35.139:0.1": "Linked Discourses 35.139 ",
+    "sn35.139:0.2": "14. At Devadaha ",
+    "sn35.139:0.3": "Not Yours (2nd) ",
+    "sn35.139:1.1": "“Mendicants, give up what’s not yours. ",
+    "sn35.139:1.2": "Giving it up will be for your welfare and happiness. ",
+    "sn35.139:1.3": "And what isn’t yours? ",
+    "sn35.139:1.4": "Sights aren’t yours: give them up. ",
+    "sn35.139:1.5": "Giving them up will be for your welfare and happiness. ",
+    "sn35.139:1.6": "Sounds, ",
+    "sn35.139:1.7": "smells, ",
+    "sn35.139:1.8": "tastes, ",
+    "sn35.139:1.9": "touches, ",
+    "sn35.139:1.10": "and ideas aren’t yours: give them up. ",
+    "sn35.139:1.11": "Giving them up will be for your welfare and happiness. ",
+    "sn35.139:1.12": "Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove … ",
+    "sn35.139:1.13": "In the same way, sights, sounds, smells, tastes, touches, and ideas aren’t yours: give them up. ",
+    "sn35.139:1.14": "Giving them up will be for your welfare and happiness.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.139",
-    "volpages": "PTS SN iv 129",
-    "alt_volpages": null,
-    "uid": "sn35.139",
-    "blurb": "Let go of what is not yours: the six exterior sense fields. You wouldn’t be upset if someone took the grass and sticks from the monastery grounds, so why worry over the senses?",
-    "difficulty": null,
-    "original_title": "Dutiyanatumhākasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Not Yours (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.139_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Nicht euer (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.139_translation-en-sujato",
-        "segmented": true,
-        "title": "Not Yours (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.139_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.139_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.139_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.139_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Not Yours (2)"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn35.139_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.139_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.139_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.139_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.139_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.139_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.139_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.139_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.139_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.139_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 7,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.260, cck18.161, ms13S4_793, msdiv139, sya18.163, vri26.133",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.139:0.3": "Dutiyanatumhākasutta → dutiyapalāsasuttaṁ (bj); palāsinā 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.139",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyanatumhākasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.139:1.1": "bj16.260, cck18.161, ms13S4_793, msdiv139, sya18.163, vri26.133"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.139",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Yours (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.139:0.1",
+    "sn35.139:0.2",
+    "sn35.139:0.3",
+    "sn35.139:1.1",
+    "sn35.139:1.2",
+    "sn35.139:1.3",
+    "sn35.139:1.4",
+    "sn35.139:1.5",
+    "sn35.139:1.6",
+    "sn35.139:1.7",
+    "sn35.139:1.8",
+    "sn35.139:1.9",
+    "sn35.139:1.10",
+    "sn35.139:1.11",
+    "sn35.139:1.12",
+    "sn35.139:1.13",
+    "sn35.139:1.14",
+    "sn35.139:1.15"
   ]
 }

@@ -1,298 +1,86 @@
 {
+  "html_text": {
+    "an7.28:0.1": "<article id='an7.28'><header><ul><li class='division'>{}</li>",
+    "an7.28:0.2": "<li>{}</li></ul>",
+    "an7.28:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.28:1.1": "<p><span class='evam'>{}</span>",
+    "an7.28:1.2": "{}",
+    "an7.28:1.3": "{}</p>",
+    "an7.28:1.4": "<p>{}",
+    "an7.28:1.5": "{}",
+    "an7.28:1.6": "{}",
+    "an7.28:1.7": "{}",
+    "an7.28:1.8": "{}</p>",
+    "an7.28:2.1": "<p>{}",
+    "an7.28:2.2": "{}",
+    "an7.28:2.3": "{}",
+    "an7.28:2.4": "{}",
+    "an7.28:2.5": "{}</p>",
+    "an7.28:2.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an7.28",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamaparihānisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Perceptions ",
-      "uid": "an7.27"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Non-decline for a Lay Follower ",
-      "uid": "an7.29"
-    }
+    "an7.28:0.1": "Aṅguttara Nikāya 7.28 ",
+    "an7.28:0.2": "3. Vajjisattakavagga ",
+    "an7.28:0.3": "Paṭhamaparihānisutta ",
+    "an7.28:1.1": "Evaṁ me sutaṁ—",
+    "an7.28:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "an7.28:1.3": "Tatra kho bhagavā bhikkhū āmantesi: ",
+    "an7.28:1.4": "“sattime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṁvattanti. ",
+    "an7.28:1.5": "Katame satta? ",
+    "an7.28:1.6": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ",
+    "an7.28:1.7": "‘santi kho pana saṅghe therā rattaññū cirapabbajitā bhāravāhino, te tena paññāyissantī’ti attanā tesu yogaṁ āpajjati. ",
+    "an7.28:1.8": "Ime kho, bhikkhave, satta dhammā sekhassa bhikkhuno parihānāya saṁvattanti. ",
+    "an7.28:2.1": "Sattime, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṁvattanti. ",
+    "an7.28:2.2": "Katame satta? ",
+    "an7.28:2.3": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ",
+    "an7.28:2.4": "‘santi kho pana saṅghe therā rattaññū cirapabbajitā bhāravāhino, te tena paññāyissantī’ti attanā na tesu yogaṁ āpajjati. ",
+    "an7.28:2.5": "Ime kho, bhikkhave, satta dhammā sekhassa bhikkhuno aparihānāya saṁvattantī”ti. ",
+    "an7.28:2.6": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an7.28",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Non-decline for a Mendicant Trainee ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Perceptions ",
-      "uid": "an7.27"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Non-decline for a Lay Follower ",
-      "uid": "an7.29"
-    }
+  "translation_text": {
+    "an7.28:0.1": "Numbered Discourses 7.28 ",
+    "an7.28:0.2": "3. The Vajji Seven ",
+    "an7.28:0.3": "Non-decline for a Mendicant Trainee ",
+    "an7.28:1.1": "So I have heard. ",
+    "an7.28:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "an7.28:1.3": "There the Buddha addressed the mendicants: ",
+    "an7.28:1.4": "“These seven things lead to the decline of a mendicant trainee. ",
+    "an7.28:1.5": "What seven? ",
+    "an7.28:1.6": "They relish work, talk, sleep, and company. They don’t guard the sense doors and they eat too much. And when there is Saṅgha business to be carried out, they don’t reflect: ",
+    "an7.28:1.7": "‘There are senior mendicants in the Saṅgha of long standing, long gone forth, responsible. They’ll be known for taking care of this.’ So they get involved in that. ",
+    "an7.28:1.8": "These seven things lead to the decline of a mendicant trainee. ",
+    "an7.28:2.1": "These seven things don’t lead to the decline of a mendicant trainee. ",
+    "an7.28:2.2": "What seven? ",
+    "an7.28:2.3": "They don’t relish work, talk, sleep, and company. They guard the sense doors and don’t eat too much. And when there is Saṅgha business to be carried out, they reflect: ",
+    "an7.28:2.4": "‘There are senior mendicants in the Saṅgha of long standing, long gone forth, responsible. They’ll be known for taking care of this.’ So they don’t get involved in that. ",
+    "an7.28:2.5": "These seven things don’t lead to the decline of a mendicant trainee.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.28",
-    "volpages": " PTS 4.25",
-    "alt_volpages": null,
-    "uid": "an7.28",
-    "blurb": "Seven qualities leading to the decline of a mendicant who is a trainee.",
-    "difficulty": null,
-    "original_title": "Paṭhamaparihānisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Non-decline for a Mendicant Trainee ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.28_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Kein Niedergang für einen Mönch in Schulung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.28_translation-en-sujato",
-        "segmented": true,
-        "title": "Non-decline for a Mendicant Trainee ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.28_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.28_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Не-упадок ученика",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.28_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.28_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.28_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.28_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.28_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an7.28_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.28_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.28_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.28_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.28_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj21.318, ms16A7_145, msdiv28,dr23.30, ms16A7_146, pts-vp-pli4.25",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an7.28:0.3": "Paṭhamaparihānisutta → sekhaaparibhāgiyasuttaṁ (bj) ",
+    "an7.28:1.6": "tatra sekho bhikkhu → tatra bhikkhu (sya-all) ",
+    "an7.28:1.7": "pana saṅghe therā → kho saṅghattherā (mr) | te → na te (mr) | attanā tesu yogaṁ → attanā voyogaṁ (bj, sya2ed); attanā vo yogaṁ (cck, sya1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an7.28",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamaparihānisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.28:1.1": "bj21.318, ms16A7_145, msdiv28",
+    "an7.28:2.1": "dr23.30, ms16A7_146, pts-vp-pli4.25"
   },
-  "bilara_translated_text": {
-    "uid": "an7.28",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Non-decline for a Mendicant Trainee ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.28:0.1",
+    "an7.28:0.2",
+    "an7.28:0.3",
+    "an7.28:1.1",
+    "an7.28:1.2",
+    "an7.28:1.3",
+    "an7.28:1.4",
+    "an7.28:1.5",
+    "an7.28:1.6",
+    "an7.28:1.7",
+    "an7.28:1.8",
+    "an7.28:2.1",
+    "an7.28:2.2",
+    "an7.28:2.3",
+    "an7.28:2.4",
+    "an7.28:2.5",
+    "an7.28:2.6"
+  ]
 }

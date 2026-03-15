@@ -1,323 +1,54 @@
 {
+  "comment_text": {
+    "sn30.1:1.2": "The <i lang='pi' translate='no'>supaṇṇa</i> (Sanskrit <i lang='pi' translate='no'>suparṇa</i>, “bright-feathered”), later <i lang='pi' translate='no'>garuḷa</i> (Sanskrit <i lang='pi' translate='no'>garuḍa</i>, “devourer”), is to the eagle as the <i lang='pi' translate='no'>nāga</i> is to the cobra. He has been falsely compared with the loathsome harpy; but his golden wings, closeness to the sun (eg. Rig Veda 5.47.3), and role as bearer of the nectar of immortality (RV 4.26.4, 8.100.8) show that he is the Indian phoenix, the golden eagle of the sun. As the brother of Aruṇa the Dawn (Matsya Purāṇa 174.47), his golden wings at sunset “devour” the sun. He disappears in darkness only to be born again the next day, just as the European phoenix combusts itself and is born anew. Thus he is both the older and the younger brother of Aruṇa, for which came first, sunrise or sunset? "
+  },
+  "html_text": {
+    "sn30.1:0.1": "<article id='sn30.1'><header><ul><li class='division'>{}</li>",
+    "sn30.1:0.2": "<li>{}</li></ul>",
+    "sn30.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn30.1:1.1": "<p>{}</p>",
+    "sn30.1:1.2": "<p>{}",
+    "sn30.1:1.3": "{}",
+    "sn30.1:1.4": "{}",
+    "sn30.1:1.5": "{}</p>",
+    "sn30.1:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn30.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Thirty Discourses On How Giving Helps to Become Womb-Born, Etc. ",
-      "uid": "sn29.21-50"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "They Carry Off ",
-      "uid": "sn30.2"
-    }
+    "sn30.1:0.1": "Saṁyutta Nikāya 30.1 ",
+    "sn30.1:0.2": "1. Supaṇṇavagga ",
+    "sn30.1:0.3": "Suddhikasutta ",
+    "sn30.1:1.1": "Sāvatthinidānaṁ. ",
+    "sn30.1:1.2": "“Catasso imā, bhikkhave, supaṇṇayoniyo. ",
+    "sn30.1:1.3": "Katamā catasso? ",
+    "sn30.1:1.4": "Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṁsedajā supaṇṇā, opapātikā supaṇṇā—",
+    "sn30.1:1.5": "imā kho, bhikkhave, catasso supaṇṇayoniyo”ti. ",
+    "sn30.1:1.6": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn30.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Thirty Discourses On How Giving Helps to Become Womb-Born, Etc. ",
-      "uid": "sn29.21-50"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "They Carry Off ",
-      "uid": "sn30.2"
-    }
+  "translation_text": {
+    "sn30.1:0.1": "Linked Discourses 30.1 ",
+    "sn30.1:0.2": "1. Phoenixes ",
+    "sn30.1:0.3": "Plain Version ",
+    "sn30.1:1.1": "At Sāvatthī. ",
+    "sn30.1:1.2": "“Mendicants, phoenixes reproduce in these four ways. ",
+    "sn30.1:1.3": "What four? ",
+    "sn30.1:1.4": "Phoenixes are born from eggs, from a womb, from moisture, or spontaneously. ",
+    "sn30.1:1.5": "These are the four ways that phoenixes reproduce.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 30.1",
-    "volpages": "PTS SN iii 246",
-    "alt_volpages": null,
-    "uid": "sn30.1",
-    "blurb": "Phoenixes may be born from eggs, the womb, moisture, or spontaneously.",
-    "difficulty": null,
-    "original_title": "Suddhikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Plain Version ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn30.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Einfache Fassung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn30.1_translation-en-sujato",
-        "segmented": true,
-        "title": "Plain Version ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn30.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn30.1_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn30.1_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn30.1_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn30.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn30.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn30.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn30.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn30.1_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn30.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn30.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn30.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn30.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn30.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.494, cck17.222, csp1ed13.207, csp2ed13.207, dr17.304, ms13S3_1185, msdiv392, ndp13.461, sya17.305, vri25.244",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn30.1:0.3": "Suddhikasutta → suddhakam (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn30.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn30.1:1.1": "bj15.494, cck17.222, csp1ed13.207, csp2ed13.207, dr17.304, ms13S3_1185, msdiv392, ndp13.461, sya17.305, vri25.244"
   },
-  "bilara_translated_text": {
-    "uid": "sn30.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn30.1:0.1",
+    "sn30.1:0.2",
+    "sn30.1:0.3",
+    "sn30.1:1.1",
+    "sn30.1:1.2",
+    "sn30.1:1.3",
+    "sn30.1:1.4",
+    "sn30.1:1.5",
+    "sn30.1:1.6"
+  ]
 }

@@ -1,297 +1,64 @@
 {
+  "html_text": {
+    "an6.75:0.1": "<article id='an6.75'><header><ul><li class='division'>{}</li>",
+    "an6.75:0.2": "<li>{}</li></ul>",
+    "an6.75:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.75:1.1": "<p>{}",
+    "an6.75:1.2": "{}",
+    "an6.75:1.3": "{}",
+    "an6.75:1.4": "{}</p>",
+    "an6.75:2.1": "<p>{}",
+    "an6.75:2.2": "{}",
+    "an6.75:2.3": "{}",
+    "an6.75:2.4": "{}</p>",
+    "an6.75:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.75",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dukkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "First Absorption (2nd) ",
-      "uid": "an6.74"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Perfection ",
-      "uid": "an6.76"
-    }
+    "an6.75:0.1": "Aṅguttara Nikāya 6.75 ",
+    "an6.75:0.2": "8. Arahattavagga ",
+    "an6.75:0.3": "Dukkhasutta ",
+    "an6.75:1.1": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṁ viharati savighātaṁ saupāyāsaṁ sapariḷāhaṁ, kāyassa bhedā paraṁ maraṇā duggati pāṭikaṅkhā. ",
+    "an6.75:1.2": "Katamehi chahi? ",
+    "an6.75:1.3": "Kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena, kāmasaññāya, byāpādasaññāya, vihiṁsāsaññāya—",
+    "an6.75:1.4": "imehi, kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṁ viharati savighātaṁ saupāyāsaṁ sapariḷāhaṁ, kāyassa bhedā paraṁ maraṇā duggati pāṭikaṅkhā. ",
+    "an6.75:2.1": "Chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṁ viharati avighātaṁ anupāyāsaṁ apariḷāhaṁ, kāyassa bhedā paraṁ maraṇā sugati pāṭikaṅkhā. ",
+    "an6.75:2.2": "Katamehi chahi? ",
+    "an6.75:2.3": "Nekkhammavitakkena, abyāpādavitakkena, avihiṁsāvitakkena, nekkhammasaññāya, abyāpādasaññāya, avihiṁsāsaññāya—",
+    "an6.75:2.4": "imehi, kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṁ viharati avighātaṁ anupāyāsaṁ apariḷāhaṁ, kāyassa bhedā paraṁ maraṇā sugati pāṭikaṅkhā”ti. ",
+    "an6.75:2.5": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an6.75",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Suffering ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "First Absorption (2nd) ",
-      "uid": "an6.74"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Perfection ",
-      "uid": "an6.76"
-    }
+  "translation_text": {
+    "an6.75:0.1": "Numbered Discourses 6.75 ",
+    "an6.75:0.2": "8. Perfection ",
+    "an6.75:0.3": "Suffering ",
+    "an6.75:1.1": "“Mendicants, when a mendicant has six qualities they live unhappily in this very life—with distress, anguish, and fever—and when the body breaks up, after death, they can expect a bad rebirth. ",
+    "an6.75:1.2": "What six? ",
+    "an6.75:1.3": "Sensual, malicious, and cruel thoughts; and sensual, malicious, and cruel perceptions. ",
+    "an6.75:1.4": "When a mendicant possesses these six qualities they live unhappily in this very life—with distress, anguish, and fever—and when the body breaks up, after death, they can expect a bad rebirth. ",
+    "an6.75:2.1": "When a mendicant has six qualities they live happily in this very life—without distress, anguish, or fever—and when the body breaks up, after death, they can expect a good rebirth. ",
+    "an6.75:2.2": "What six? ",
+    "an6.75:2.3": "Thoughts of renunciation, good will, and harmlessness. And perceptions of renunciation, good will, and harmlessness. ",
+    "an6.75:2.4": "When a mendicant possesses these six qualities they live happily in this very life—without distress, anguish, or fever—and when the body breaks up, after death, they can expect a good rebirth.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.75",
-    "volpages": "PTS AN iii 429",
-    "alt_volpages": null,
-    "uid": "an6.75",
-    "blurb": "Six qualities that lead to suffering, and whose absence leads to happiness.",
-    "difficulty": null,
-    "original_title": "Dukkhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Suffering ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.75_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Leiden ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.75_translation-en-sujato",
-        "segmented": true,
-        "title": "Suffering ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.75_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.75_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.75_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an6.75_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.75_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.75_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.75_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.75_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.75_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.75_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.75_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.75_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj21.232, dr22.465, ms16A6_653, msdiv75, vri38.131,csp1ed16.375, csp2ed16.375, ms16A6_654, ndp18.132",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.75:0.2": "Arahattavagga → arahantavaggo (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "an6.75",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dukkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.75:1.1": "bj21.232, dr22.465, ms16A6_653, msdiv75, vri38.131",
+    "an6.75:2.1": "csp1ed16.375, csp2ed16.375, ms16A6_654, ndp18.132"
   },
-  "bilara_translated_text": {
-    "uid": "an6.75",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Suffering ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.75:0.1",
+    "an6.75:0.2",
+    "an6.75:0.3",
+    "an6.75:1.1",
+    "an6.75:1.2",
+    "an6.75:1.3",
+    "an6.75:1.4",
+    "an6.75:2.1",
+    "an6.75:2.2",
+    "an6.75:2.3",
+    "an6.75:2.4",
+    "an6.75:2.5"
+  ]
 }

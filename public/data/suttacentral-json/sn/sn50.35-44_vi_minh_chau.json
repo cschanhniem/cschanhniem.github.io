@@ -1,0 +1,246 @@
+{
+  "root_text": {
+    "uid": "sn50.35-44",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Viễn Ly",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Floods ",
+      "uid": "sn50.45-54"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Hard Work ",
+      "uid": "sn50.23-34"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn50.35-44' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 50: Tương Ưng Lực</li>\n<li>IV: Phẩm Tầm Cầu</li>\n</ul>\n<h1>50.35–44. Viễn Ly</h1>\n</header>\n<p><a class='pts' id='S.v,250' href='#S.v,250'></a>Gồm các kinh:</p>\n<p>Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Hữu, Khổ, Ba Uế Nhiễm, Chướng Ngại, Cấu Uế, Dao Ðộng, Thọ, Ái. (Phẩm Tầm Cầu được thuyết rộng như chương nói về Lực)</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn50.35-44",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Viễn Ly",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Floods ",
+      "uid": "sn50.45-54"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Hard Work ",
+      "uid": "sn50.23-34"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn50.35-44' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 50: Tương Ưng Lực</li>\n<li>IV: Phẩm Tầm Cầu</li>\n</ul>\n<h1>50.35–44. Viễn Ly</h1>\n</header>\n<p><a class='pts' id='S.v,250' href='#S.v,250'></a>Gồm các kinh:</p>\n<p>Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Hữu, Khổ, Ba Uế Nhiễm, Chướng Ngại, Cấu Uế, Dao Ðộng, Thọ, Ái. (Phẩm Tầm Cầu được thuyết rộng như chương nói về Lực)</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 50.35–44",
+    "volpages": null,
+    "alt_volpages": null,
+    "uid": "sn50.35-44",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Esanāvagga",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Viễn Ly",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn50.35-44_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Das Kapitel über Arten der Suche ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn50.35-44_translation-en-sujato",
+        "segmented": true,
+        "title": "Searches ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn50.35-44_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn50.35-44_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn50.35-44_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn50.35-44_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn50.35-44_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn50.35-44_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_sn50.35-44_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn50.35-44_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn50.35-44_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Viễn Ly"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "ms14S5_1321,ms14S5_1323, ndp15.215",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn50.35-44",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Esanāvagga",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

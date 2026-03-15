@@ -1,298 +1,68 @@
 {
+  "html_text": {
+    "an7.76:0.1": "<article id='an7.76'><header><ul><li class='division'>{}</li>",
+    "an7.76:0.2": "<li>{}</li></ul>",
+    "an7.76:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.76:1.1": "<p>{}",
+    "an7.76:1.2": "{}",
+    "an7.76:1.3": "{}",
+    "an7.76:1.4": "{}",
+    "an7.76:1.5": "{}",
+    "an7.76:1.6": "{}",
+    "an7.76:1.7": "{}",
+    "an7.76:1.8": "{}",
+    "an7.76:1.9": "{}",
+    "an7.76:1.10": "{}</p>",
+    "an7.76:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an7.76",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyavinayadharasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "An Expert in the Monastic Law (1st) ",
-      "uid": "an7.75"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "An Expert in the Monastic Law (3rd) ",
-      "uid": "an7.77"
-    }
+    "an7.76:0.1": "Aṅguttara Nikāya 7.76 ",
+    "an7.76:0.2": "8. Vinayavagga ",
+    "an7.76:0.3": "Dutiyavinayadharasutta ",
+    "an7.76:1.1": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu vinayadharo hoti. ",
+    "an7.76:1.2": "Katamehi sattahi? ",
+    "an7.76:1.3": "Āpattiṁ jānāti, ",
+    "an7.76:1.4": "anāpattiṁ jānāti, ",
+    "an7.76:1.5": "lahukaṁ āpattiṁ jānāti, ",
+    "an7.76:1.6": "garukaṁ āpattiṁ jānāti, ",
+    "an7.76:1.7": "ubhayāni kho panassa pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, ",
+    "an7.76:1.8": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+    "an7.76:1.9": "āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. ",
+    "an7.76:1.10": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu vinayadharo hotī”ti. ",
+    "an7.76:1.11": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "an7.76",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An Expert in the Monastic Law (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "An Expert in the Monastic Law (1st) ",
-      "uid": "an7.75"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "An Expert in the Monastic Law (3rd) ",
-      "uid": "an7.77"
-    }
+  "translation_text": {
+    "an7.76:0.1": "Numbered Discourses 7.76 ",
+    "an7.76:0.2": "8. The Monastic Law ",
+    "an7.76:0.3": "An Expert in the Monastic Law (2nd) ",
+    "an7.76:1.1": "“Mendicants, a mendicant with seven qualities is an expert in the monastic law. ",
+    "an7.76:1.2": "What seven? ",
+    "an7.76:1.3": "They know what is an offense. ",
+    "an7.76:1.4": "They know what is not an offense. ",
+    "an7.76:1.5": "They know what is a light offense. ",
+    "an7.76:1.6": "They know what is a serious offense. ",
+    "an7.76:1.7": "Both monastic codes have been passed down to them in detail, well analyzed, well mastered, well evaluated in both the rules and accompanying material. ",
+    "an7.76:1.8": "They get the four absorptions—blissful meditations in this life that belong to the higher mind—when they want, without trouble or difficulty. ",
+    "an7.76:1.9": "They realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. ",
+    "an7.76:1.10": "A mendicant with these seven qualities is an expert in the monastic law.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.76",
-    "volpages": " PTS 4.141",
-    "alt_volpages": null,
-    "uid": "an7.76",
-    "blurb": "An expert in monastic conduct has seven qualities.",
-    "difficulty": null,
-    "original_title": "Dutiyavinayadharasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "An Expert in the Monastic Law (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.76_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Kenner des Ordensrechts (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.76_translation-en-sujato",
-        "segmented": true,
-        "title": "An Expert in the Monastic Law (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.76_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.76_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Знаток Винаи Первая ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.76_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.76_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.76_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.76_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.76_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an7.76_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.76_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.76_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.76_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.76_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed16.505, csp2ed16.505, dr23.153, ms16A7_610, msdiv76, ndp18.261, pts-vp-pli4.141",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.76:1.1": "csp1ed16.505, csp2ed16.505, dr23.153, ms16A7_610, msdiv76, ndp18.261, pts-vp-pli4.141"
   },
-  "bilara_root_text": {
-    "uid": "an7.76",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyavinayadharasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an7.76",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An Expert in the Monastic Law (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.76:0.1",
+    "an7.76:0.2",
+    "an7.76:0.3",
+    "an7.76:1.1",
+    "an7.76:1.2",
+    "an7.76:1.3",
+    "an7.76:1.4",
+    "an7.76:1.5",
+    "an7.76:1.6",
+    "an7.76:1.7",
+    "an7.76:1.8",
+    "an7.76:1.9",
+    "an7.76:1.10",
+    "an7.76:1.11"
+  ]
 }

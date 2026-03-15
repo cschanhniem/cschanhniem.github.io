@@ -1,349 +1,65 @@
 {
+  "html_text": {
+    "an3.105:0.1": "<article id='an3.105'><header><ul><li class='division'>{}</li>",
+    "an3.105:0.2": "<li>{}</li></ul>",
+    "an3.105:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an3.105:1.1": "<p>{}",
+    "an3.105:1.2": "{}</p>",
+    "an3.105:1.3": "<p>{}",
+    "an3.105:1.4": "{}</p>",
+    "an3.105:1.5": "<p>{}",
+    "an3.105:1.6": "{}</p>",
+    "an3.105:1.7": "<p>{}</p>",
+    "an3.105:1.8": "<p>{}</p>",
+    "an3.105:1.9": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an3.105",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyaassādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gratification (1st) ",
-      "uid": "an3.104"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ascetics and Brahmins ",
-      "uid": "an3.106"
-    }
+    "an3.105:0.1": "Aṅguttara Nikāya 3.105 ",
+    "an3.105:0.2": "11. Sambodhavagga ",
+    "an3.105:0.3": "Dutiyaassādasutta ",
+    "an3.105:1.1": "“No cedaṁ, bhikkhave, loke assādo abhavissa, nayidaṁ sattā loke sārajjeyyuṁ. ",
+    "an3.105:1.2": "Yasmā ca kho, bhikkhave, atthi loke assādo, tasmā sattā loke sārajjanti. ",
+    "an3.105:1.3": "No cedaṁ, bhikkhave, loke ādīnavo abhavissa, nayidaṁ sattā loke nibbindeyyuṁ. ",
+    "an3.105:1.4": "Yasmā ca kho, bhikkhave, atthi loke ādīnavo, tasmā sattā loke nibbindanti. ",
+    "an3.105:1.5": "No cedaṁ, bhikkhave, loke nissaraṇaṁ abhavissa, nayidaṁ sattā lokamhā nissareyyuṁ. ",
+    "an3.105:1.6": "Yasmā ca kho, bhikkhave, atthi loke nissaraṇaṁ, tasmā sattā lokamhā nissaranti. ",
+    "an3.105:1.7": "Yāvakīvañca, bhikkhave, sattā lokassa assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ nābbhaññāsuṁ, neva tāva, bhikkhave, sattā sadevakā lokā samārakā sabrahmakā sassamaṇabrāhmaṇiyā pajāya sadevamanussāya nissaṭā visaṁyuttā vippamuttā vimariyādīkatena cetasā vihariṁsu. ",
+    "an3.105:1.8": "Yato ca kho, bhikkhave, sattā lokassa assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ abbhaññāsuṁ, atha, bhikkhave, sattā sadevakā lokā samārakā sabrahmakā sassamaṇabrāhmaṇiyā pajāya sadevamanussāya nissaṭā visaṁyuttā vippamuttā vimariyādīkatena cetasā viharantī”ti. ",
+    "an3.105:1.9": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an3.105",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gratification (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gratification (1st) ",
-      "uid": "an3.104"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ascetics and Brahmins ",
-      "uid": "an3.106"
-    }
+  "translation_text": {
+    "an3.105:0.1": "Numbered Discourses 3.105 ",
+    "an3.105:0.2": "11. Awakening ",
+    "an3.105:0.3": "Gratification (2nd) ",
+    "an3.105:1.1": "“Mendicants, if there were no gratification in the world, sentient beings wouldn’t be aroused by it. ",
+    "an3.105:1.2": "But because there is gratification in the world, sentient beings are aroused by it. ",
+    "an3.105:1.3": "If the world had no drawback, sentient beings wouldn’t grow disillusioned with it. ",
+    "an3.105:1.4": "But since the world has a drawback, sentient beings do grow disillusioned with it. ",
+    "an3.105:1.5": "If there were no escape from the world, sentient beings wouldn’t escape from it. ",
+    "an3.105:1.6": "But since there is an escape from the world, sentient beings do escape from it. ",
+    "an3.105:1.7": "As long as sentient beings don’t truly understand the world’s gratification, drawback, and escape for what they are, they haven’t escaped from this world—with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans—and they don’t live detached, liberated, with mind free of boundaries. ",
+    "an3.105:1.8": "But when sentient beings truly understand the world’s gratification, drawback, and escape for what they are, they’ve escaped from this world—with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans—and they live detached, liberated, with mind free of boundaries.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 3.105",
-    "volpages": " PTS 1.260",
-    "alt_volpages": null,
-    "uid": "an3.105",
-    "blurb": "Gratification, danger and escape are essential to both binding and freeing.",
-    "difficulty": null,
-    "original_title": "Dutiyaassādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Gratification (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an3.105_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Befriedigung (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an3.105_translation-en-sujato",
-        "segmented": true,
-        "title": "Gratification (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an3.105_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an3.105_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an3.105_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_an3.105_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an3.105_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": "1999",
-        "id": "it_an3.105_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an3.105_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an3.105_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_an3.105_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an3.105_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an3.105_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an3.105_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sl",
-        "lang_name": "Slovenščina",
-        "is_root": false,
-        "author": "Ajahn Hiriko",
-        "author_short": "Hiriko",
-        "author_uid": "hiriko",
-        "publication_date": null,
-        "id": "sl_an3.105_hiriko",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an3.105_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an3.105_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an3.105_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck20.339, csp1ed15.263, csp2ed15.263, dr20.334, ms15A3_876, msdiv106, ndp16.241, pts-vp-pli1.260, sya20.334",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an3.105:1.1": "cedaṁ → no cetaṁ (sya-all, km, pts1ed, mr) ",
+    "an3.105:1.5": "lokamhā → loke (pts1ed, mr) ",
+    "an3.105:1.7": "vippamuttā → vippayuttā (mr) | vimariyādīkatena → vimariyādikatena (pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an3.105",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyaassādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an3.105:1.1": "cck20.339, csp1ed15.263, csp2ed15.263, dr20.334, ms15A3_876, msdiv106, ndp16.241, pts-vp-pli1.260, sya20.334"
   },
-  "bilara_translated_text": {
-    "uid": "an3.105",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gratification (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an3.105:0.1",
+    "an3.105:0.2",
+    "an3.105:0.3",
+    "an3.105:1.1",
+    "an3.105:1.2",
+    "an3.105:1.3",
+    "an3.105:1.4",
+    "an3.105:1.5",
+    "an3.105:1.6",
+    "an3.105:1.7",
+    "an3.105:1.8",
+    "an3.105:1.9"
+  ]
 }

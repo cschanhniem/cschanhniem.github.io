@@ -1,326 +1,85 @@
 {
+  "html_text": {
+    "an10.7:0.1": "<article id='an10.7'><header><ul><li class='division'>{}</li>",
+    "an10.7:0.2": "<li>{}</li></ul>",
+    "an10.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.7:1.1": "<p>{}",
+    "an10.7:1.2": "{}</p>",
+    "an10.7:2.1": "<p>{}</p>",
+    "an10.7:3.1": "<p>{}</p>",
+    "an10.7:4.1": "<p>{}</p>",
+    "an10.7:4.2": "<p>{}",
+    "an10.7:4.3": "{}</p>",
+    "an10.7:5.1": "<p>{}</p>",
+    "an10.7:5.2": "<p>{}",
+    "an10.7:5.3": "{}",
+    "an10.7:5.4": "{}",
+    "an10.7:5.5": "{}</p>",
+    "an10.7:5.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sāriputtasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Immersion ",
-      "uid": "an10.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Inspiring All Around: the Absorptions ",
-      "uid": "an10.8"
-    }
+    "an10.7:0.1": "Aṅguttara Nikāya 10.7 ",
+    "an10.7:0.2": "1. Ānisaṁsavagga ",
+    "an10.7:0.3": "Sāriputtasutta ",
+    "an10.7:1.1": "Atha kho āyasmā ānando yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṁ sammodi. ",
+    "an10.7:1.2": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando āyasmantaṁ sāriputtaṁ etadavoca: ",
+    "an10.7:2.1": "“Siyā nu kho, āvuso sāriputta, bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṁ pathavisaññī assa, na āpasmiṁ āposaññī assa, na tejasmiṁ tejosaññī assa, na vāyasmiṁ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇañcāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa; saññī ca pana assā”ti? ",
+    "an10.7:3.1": "“Siyā, āvuso ānanda, bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṁ pathavisaññī assa …pe… na paraloke paralokasaññī assa; saññī ca pana assā”ti. ",
+    "an10.7:4.1": "“Yathā kathaṁ pana, āvuso sāriputta, siyā bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṁ pathavisaññī assa …pe… saññī ca pana assā”ti? ",
+    "an10.7:4.2": "“Ekamidāhaṁ, āvuso ānanda, samayaṁ idheva sāvatthiyaṁ viharāmi andhavanasmiṁ. ",
+    "an10.7:4.3": "Tatthāhaṁ tathārūpaṁ samādhiṁ samāpajjiṁ yathā neva pathaviyaṁ pathavisaññī ahosiṁ, na āpasmiṁ āposaññī ahosiṁ, na tejasmiṁ tejosaññī ahosiṁ, na vāyasmiṁ vāyosaññī ahosiṁ, na ākāsānañcāyatane ākāsānañcāyatanasaññī ahosiṁ, na viññāṇañcāyatane viññāṇañcāyatanasaññī ahosiṁ, na ākiñcaññāyatane ākiñcaññāyatanasaññī ahosiṁ, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī ahosiṁ, na idhaloke idhalokasaññī ahosiṁ, na paraloke paralokasaññī ahosiṁ; saññī ca pana ahosin”ti. ",
+    "an10.7:5.1": "“Kiṁsaññī panāyasmā sāriputto tasmiṁ samaye ahosī”ti? ",
+    "an10.7:5.2": "“‘Bhavanirodho nibbānaṁ bhavanirodho nibbānan’ti kho me, āvuso, aññāva saññā uppajjati aññāva saññā nirujjhati. ",
+    "an10.7:5.3": "Seyyathāpi, āvuso, sakalikaggissa jhāyamānassa aññāva acci uppajjati aññāva acci nirujjhati; ",
+    "an10.7:5.4": "evamevaṁ kho, āvuso, ‘bhavanirodho nibbānaṁ bhavanirodho nibbānan’ti aññāva saññā uppajjati aññāva saññā nirujjhati. ",
+    "an10.7:5.5": "‘Bhavanirodho nibbānan’ti saññī ca panāhaṁ, āvuso, tasmiṁ samaye ahosin”ti. ",
+    "an10.7:5.6": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an10.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sāriputta ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Immersion ",
-      "uid": "an10.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Inspiring All Around: the Absorptions ",
-      "uid": "an10.8"
-    }
+  "translation_text": {
+    "an10.7:0.1": "Numbered Discourses 10.7 ",
+    "an10.7:0.2": "1. Benefits ",
+    "an10.7:0.3": "Sāriputta ",
+    "an10.7:1.1": "Then Venerable Ānanda went up to Venerable Sāriputta, and exchanged greetings with him. ",
+    "an10.7:1.2": "When the greetings and polite conversation were over, he sat down to one side and said to Sāriputta: ",
+    "an10.7:2.1": "“Could it be, reverend Sāriputta, that a mendicant might gain a state of immersion like this? They wouldn’t perceive earth in earth, water in water, fire in fire, or air in air. And they wouldn’t perceive the dimension of infinite space in the dimension of infinite space, the dimension of infinite consciousness in the dimension of infinite consciousness, the dimension of nothingness in the dimension of nothingness, or the dimension of neither perception nor non-perception in the dimension of neither perception nor non-perception. And they wouldn’t perceive this world in this world, or the other world in the other world. And yet they would still perceive.” ",
+    "an10.7:3.1": "“It could be, Reverend Ānanda.” ",
+    "an10.7:4.1": "“But how could this be?” ",
+    "an10.7:4.2": "“Reverend Ānanda, this one time I was staying right here at Sāvatthī in the Dark Forest. ",
+    "an10.7:4.3": "There I gained a state of immersion like this. I didn’t perceive earth in earth, water in water, fire in fire, or air in air. And I didn’t perceive the dimension of infinite space in the dimension of infinite space, the dimension of infinite consciousness in the dimension of infinite consciousness, the dimension of nothingness in the dimension of nothingness, or the dimension of neither perception nor non-perception in the dimension of neither perception nor non-perception. And I didn’t perceive this world in this world, or the other world in the other world. And yet I still perceived.” ",
+    "an10.7:5.1": "“But at that time what did Reverend Sāriputta perceive?” ",
+    "an10.7:5.2": "“One perception arose in me and another perception ceased: ‘The cessation of continued existence is extinguishment. The cessation of continued existence is extinguishment.’ ",
+    "an10.7:5.3": "Suppose there was a burning pile of twigs. One flame would arise and another would cease. ",
+    "an10.7:5.4": "In the same way, one perception arose in me and another perception ceased: ‘The cessation of continued existence is extinguishment. The cessation of continued existence is extinguishment.’ ",
+    "an10.7:5.5": "At that time I perceived that the cessation of continued existence is extinguishment.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.7",
-    "volpages": " PTS 5.9, PTS 5.10",
-    "alt_volpages": null,
-    "uid": "an10.7",
-    "blurb": "Ānanda asks Sāriputta about a mysterious state of immersion in meditation where there is no normal perception, yet one is still conscious. Sāriputta confirms that there is, and claims to have attained it.",
-    "difficulty": null,
-    "original_title": "Sāriputtasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Sāriputta ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Sāriputta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.7_translation-en-sujato",
-        "segmented": true,
-        "title": "Sāriputta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.7_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.7_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_an10.7_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2012",
-        "segmented": false,
-        "volpage": null,
-        "title": "Sāriputta"
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Fenyvesi Róbert",
-        "author_short": "Fenyvesi",
-        "author_uid": "fenyvesi",
-        "publication_date": "2009",
-        "id": "hu_an10.7_fenyvesi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2008",
-        "id": "pt_an10.7_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an10.7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.7_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.7_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.7_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck24.9, dr24.10, ms17A10_30, msdiv7, vri40.8,ms17A10_31, pts-vp-pli5.9,bj23.18, csp1ed17.264, csp2ed17.264, ms17A10_32, sya24.11,cck24.10, ms17A10_33, ndp19.106,dr24.11, ms17A10_34, pts-vp-pli5.10, vri40.9",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an10.7:4.3": "Tatthāhaṁ → athāhaṁ (mr) | samāpajjiṁ → samāpajjaṁ (bj) ",
+    "an10.7:5.1": "Kiṁsaññī panāyasmā sāriputto → kiṁsaññī panāvuso sāriputta (mr) ",
+    "an10.7:5.5": "nibbānan’ti → nibbānaṁ (pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an10.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sāriputtasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.7:1.1": "cck24.9, dr24.10, ms17A10_30, msdiv7, vri40.8",
+    "an10.7:2.1": "ms17A10_31, pts-vp-pli5.9",
+    "an10.7:3.1": "bj23.18, csp1ed17.264, csp2ed17.264, ms17A10_32, sya24.11",
+    "an10.7:4.1": "cck24.10, ms17A10_33, ndp19.106",
+    "an10.7:5.1": "dr24.11, ms17A10_34, pts-vp-pli5.10, vri40.9"
   },
-  "bilara_translated_text": {
-    "uid": "an10.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sāriputta ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "an10.7:0.1",
+    "an10.7:0.2",
+    "an10.7:0.3",
+    "an10.7:1.1",
+    "an10.7:1.2",
+    "an10.7:2.1",
+    "an10.7:3.1",
+    "an10.7:4.1",
+    "an10.7:4.2",
+    "an10.7:4.3",
+    "an10.7:5.1",
+    "an10.7:5.2",
+    "an10.7:5.3",
+    "an10.7:5.4",
+    "an10.7:5.5",
+    "an10.7:5.6"
   ]
 }

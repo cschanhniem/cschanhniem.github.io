@@ -1,323 +1,84 @@
 {
+  "comment_text": {
+    "sn26.1:1.1": "This chapter is built on the same template as the previous. ",
+    "sn26.1:1.2": "See my note on <a href='https://suttacentral.net/sn14.36/en/sujato#1.2'>SN 14.36:1.2</a>. "
+  },
+  "html_text": {
+    "sn26.1:0.1": "<article id='sn26.1'><header><ul><li class='division'>{}</li>",
+    "sn26.1:0.2": "<li>{}</li></ul>",
+    "sn26.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn26.1:1.1": "<p>{}</p>",
+    "sn26.1:1.2": "<p>{}",
+    "sn26.1:1.3": "{}",
+    "sn26.1:1.4": "{}",
+    "sn26.1:1.5": "{}",
+    "sn26.1:1.6": "{}",
+    "sn26.1:1.7": "{}",
+    "sn26.1:1.8": "{}",
+    "sn26.1:1.9": "{}",
+    "sn26.1:1.10": "{}",
+    "sn26.1:1.11": "{}",
+    "sn26.1:1.12": "{}",
+    "sn26.1:1.13": "{}</p>",
+    "sn26.1:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn26.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Cakkhusutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Aggregates ",
-      "uid": "sn25.10"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sights ",
-      "uid": "sn26.2"
-    }
+    "sn26.1:0.1": "Saṁyutta Nikāya 26.1 ",
+    "sn26.1:0.2": "1. Uppādavagga ",
+    "sn26.1:0.3": "Cakkhusutta ",
+    "sn26.1:1.1": "Sāvatthinidānaṁ. ",
+    "sn26.1:1.2": "“Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. ",
+    "sn26.1:1.3": "Yo sotassa uppādo ṭhiti …pe… ",
+    "sn26.1:1.4": "yo ghānassa uppādo ṭhiti … ",
+    "sn26.1:1.5": "yo jivhāya uppādo ṭhiti … ",
+    "sn26.1:1.6": "yo kāyassa uppādo ṭhiti … ",
+    "sn26.1:1.7": "yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. ",
+    "sn26.1:1.8": "Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. ",
+    "sn26.1:1.9": "Yo sotassa nirodho …pe… ",
+    "sn26.1:1.10": "yo ghānassa nirodho … ",
+    "sn26.1:1.11": "yo jivhāya nirodho … ",
+    "sn26.1:1.12": "yo kāyassa nirodho … ",
+    "sn26.1:1.13": "yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti. ",
+    "sn26.1:1.14": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn26.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Eye ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Aggregates ",
-      "uid": "sn25.10"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sights ",
-      "uid": "sn26.2"
-    }
+  "translation_text": {
+    "sn26.1:0.1": "Linked Discourses 26.1 ",
+    "sn26.1:0.2": "1. Arising ",
+    "sn26.1:0.3": "The Eye ",
+    "sn26.1:1.1": "At Sāvatthī. ",
+    "sn26.1:1.2": "“Mendicants, the arising, continuation, and manifestation and regeneration of the eye is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. ",
+    "sn26.1:1.3": "The arising, continuation, and manifestation and regeneration of the ear, ",
+    "sn26.1:1.4": "nose, ",
+    "sn26.1:1.5": "tongue, ",
+    "sn26.1:1.6": "body, ",
+    "sn26.1:1.7": "and mind is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. ",
+    "sn26.1:1.8": "The cessation, settling, and disappearance of the eye is the cessation of suffering, the settling of diseases, and the disappearance of old age and death. ",
+    "sn26.1:1.9": "The cessation, settling, and ending of the ear, ",
+    "sn26.1:1.10": "nose, ",
+    "sn26.1:1.11": "tongue, ",
+    "sn26.1:1.12": "body, ",
+    "sn26.1:1.13": "and mind is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 26.1",
-    "volpages": " PTS 3.229",
-    "alt_volpages": null,
-    "uid": "sn26.1",
-    "blurb": "The arising of the six interior sense fields is the arising of suffering.",
-    "difficulty": null,
-    "original_title": "Cakkhusutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Eye ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn26.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Auge ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn26.1_translation-en-sujato",
-        "segmented": true,
-        "title": "The Eye ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn26.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn26.1_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn26.1_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn26.1_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Fenyvesi Róbert",
-        "author_short": "Fenyvesi",
-        "author_uid": "fenyvesi",
-        "publication_date": "2009",
-        "id": "hu_sn26.1_fenyvesi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn26.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn26.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn26.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn26.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn26.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn26.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn26.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn26.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn26.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.450, cck17.205, csp1ed13.190, csp2ed13.190, dr17.280, ms13S3_1068, msdiv312, ndp13.443, pts-vp-pli3.229, sya17.283, vri25.223",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn26.1:1.1": "bj15.450, cck17.205, csp1ed13.190, csp2ed13.190, dr17.280, ms13S3_1068, msdiv312, ndp13.443, pts-vp-pli3.229, sya17.283, vri25.223"
   },
-  "bilara_root_text": {
-    "uid": "sn26.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Cakkhusutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn26.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Eye ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn26.1:0.1",
+    "sn26.1:0.2",
+    "sn26.1:0.3",
+    "sn26.1:1.1",
+    "sn26.1:1.2",
+    "sn26.1:1.3",
+    "sn26.1:1.4",
+    "sn26.1:1.5",
+    "sn26.1:1.6",
+    "sn26.1:1.7",
+    "sn26.1:1.8",
+    "sn26.1:1.9",
+    "sn26.1:1.10",
+    "sn26.1:1.11",
+    "sn26.1:1.12",
+    "sn26.1:1.13",
+    "sn26.1:1.14"
+  ]
 }

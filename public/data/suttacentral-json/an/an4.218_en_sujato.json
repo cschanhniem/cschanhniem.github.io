@@ -1,310 +1,35 @@
 {
+  "html_text": {
+    "an4.218:0.1": "<article id='an4.218'><header><ul><li class='division'>{}</li>",
+    "an4.218:0.2": "<li>{}</li></ul>",
+    "an4.218:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.218:1.1": "<p>{}</p>",
+    "an4.218:1.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an4.218",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyavohārapathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Kinds of Expression (1st) ",
-      "uid": "an4.217"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Lack of Conscience ",
-      "uid": "an4.219"
-    }
+    "an4.218:0.1": "Aṅguttara Nikāya 4.218 ",
+    "an4.218:0.2": "22. Parisāvagga ",
+    "an4.218:0.3": "Dutiyavohārapathasutta ",
+    "an4.218:1.1": "…pe… Diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti …pe… diṭṭhe diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti. ",
+    "an4.218:1.2": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an4.218",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Kinds of Expression (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Kinds of Expression (1st) ",
-      "uid": "an4.217"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Lack of Conscience ",
-      "uid": "an4.219"
-    }
+  "translation_text": {
+    "an4.218:0.1": "Numbered Discourses 4.218 ",
+    "an4.218:0.2": "22. Assembly ",
+    "an4.218:0.3": "Kinds of Expression (2nd) ",
+    "an4.218:1.1": "“Someone with four qualities is placed in hell as if delivered there. … They say they haven’t seen, heard, thought, or known something, but they have. … Someone with four qualities is placed in heaven as if delivered there. … They say they’ve seen, heard, thought, or known something, and they have. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.218",
-    "volpages": "PTS AN ii 227",
-    "alt_volpages": null,
-    "uid": "an4.218",
-    "blurb": "Truth and untruth determine rebirth.",
-    "difficulty": null,
-    "original_title": "Dutiyavohārapathasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Kinds of Expression (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.218_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Redeweisen (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.218_translation-en-sujato",
-        "segmented": true,
-        "title": "Kinds of Expression (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.218_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.218_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.218_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an4.218_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_an4.218_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an4.218_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.218_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.218_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an4.218_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.218_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.218_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.218_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.218_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck21.319, ms15A4_1390, msdiv218",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an4.218:0.3": "Dutiyavohārapathasutta → sattamaniraya-sagganikkhittasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an4.218",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyavohārapathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.218:1.1": "cck21.319, ms15A4_1390, msdiv218"
   },
-  "bilara_translated_text": {
-    "uid": "an4.218",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Kinds of Expression (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an4.218:0.1",
+    "an4.218:0.2",
+    "an4.218:0.3",
+    "an4.218:1.1",
+    "an4.218:1.2"
+  ]
 }

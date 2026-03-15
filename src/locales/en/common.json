@@ -285,7 +285,22 @@
   },
   "nikaya": {
     "metaTitle": "Pali Canon",
-    "metaDescription": "Nikāya library with original and improved translations."
+    "metaDescription": "Nikāya library with original and improved translations.",
+    "coverage": {
+      "dnTitle": "Digha Nikaya Content Standard",
+      "collectionTitle": "Content standard for {{collection}}",
+      "originalEn": "Original English content",
+      "originalVi": "Vietnamese by Thich Minh Chau",
+      "manual2026": "Readable 2026 manual",
+      "completeTriad": "All 3 ready",
+      "originalEnShort": "EN original",
+      "originalViShort": "VI Minh Chau",
+      "manual2026Short": "Manual 2026",
+      "dnSummary": "{{ready}}/{{total}} DN suttas currently have the full three-part content set. {{missing}} still miss at least one layer, mostly the 2026 manual.",
+      "collectionSummary": "{{ready}}/{{total}} suttas in {{collection}} currently have the full three-part content set. {{missing}} still miss at least one layer, mostly the 2026 manual.",
+      "detailReady": "{{suttaId}} in {{collection}} already has the original English, the Thich Minh Chau Vietnamese version, and the 2026 manual.",
+      "detailMissing": "{{suttaId}} in {{collection}} does not yet have the full content triad. Missing: {{missing}}."
+    }
   },
   "community": {
     "metaTitle": "Community",

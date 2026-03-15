@@ -1,284 +1,44 @@
 {
+  "html_text": {
+    "an4.75:0.1": "<article id='an4.75'><header><ul><li class='division'>{}</li>",
+    "an4.75:0.2": "<li>{}</li></ul>",
+    "an4.75:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.75:1.1": "<p>{}",
+    "an4.75:1.2": "{}",
+    "an4.75:1.3": "{}",
+    "an4.75:1.4": "{}</p>",
+    "an4.75:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an4.75",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyaaggasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Best (1st) ",
-      "uid": "an4.74"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "At Kusinārā ",
-      "uid": "an4.76"
-    }
+    "an4.75:0.1": "Aṅguttara Nikāya 4.75 ",
+    "an4.75:0.2": "8. Apaṇṇakavagga ",
+    "an4.75:0.3": "Dutiyaaggasutta ",
+    "an4.75:1.1": "“Cattārimāni, bhikkhave, aggāni. ",
+    "an4.75:1.2": "Katamāni cattāri? ",
+    "an4.75:1.3": "Rūpaggaṁ, vedanāggaṁ, saññāggaṁ, bhavaggaṁ—",
+    "an4.75:1.4": "Imāni kho, bhikkhave, cattāri aggānī”ti. ",
+    "an4.75:1.5": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an4.75",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Best (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Best (1st) ",
-      "uid": "an4.74"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "At Kusinārā ",
-      "uid": "an4.76"
-    }
+  "translation_text": {
+    "an4.75:0.1": "Numbered Discourses 4.75 ",
+    "an4.75:0.2": "8.  Sure Bet ",
+    "an4.75:0.3": "Best (2nd) ",
+    "an4.75:1.1": "“Mendicants, these four things are the best. ",
+    "an4.75:1.2": "What four? ",
+    "an4.75:1.3": "The best form, feeling, perception, and existence. ",
+    "an4.75:1.4": "These are the four things that are the best.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.75",
-    "volpages": "PTS AN ii 79",
-    "alt_volpages": null,
-    "uid": "an4.75",
-    "blurb": "The best form, feeling, perception, and state of existence.",
-    "difficulty": null,
-    "original_title": "Dutiyaaggasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Best (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.75_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Besten (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.75_translation-en-sujato",
-        "segmented": true,
-        "title": "Best (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.75_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.75_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.75_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an4.75_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.75_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.75_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an4.75_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.75_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.75_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.75_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.75_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed15.391, csp2ed15.391, ms15A4_539, msdiv75",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.75:1.1": "csp1ed15.391, csp2ed15.391, ms15A4_539, msdiv75"
   },
-  "bilara_root_text": {
-    "uid": "an4.75",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyaaggasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an4.75",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Best (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an4.75:0.1",
+    "an4.75:0.2",
+    "an4.75:0.3",
+    "an4.75:1.1",
+    "an4.75:1.2",
+    "an4.75:1.3",
+    "an4.75:1.4",
+    "an4.75:1.5"
+  ]
 }

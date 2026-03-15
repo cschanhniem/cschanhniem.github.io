@@ -1,0 +1,58 @@
+{
+  "html_text": {
+    "sn46.99-110:0.1": "<article id='sn46.99-110'><header><ul><li class='division'>{}</li>",
+    "sn46.99-110:0.2": "<li>{}</li></ul>",
+    "sn46.99-110:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.99-110:1.1": "<p>{}</p>",
+    "sn46.99-110:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.99-110:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.99-110:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.99-110:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.99-110:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.99-110:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn46.99-110:3.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn46.99-110:0.1": "Saṁyutta Nikāya 46.99–110 ",
+    "sn46.99-110:0.2": "11. Balakaraṇīyavagga ",
+    "sn46.99-110:0.3": "Balādisutta ",
+    "sn46.99-110:1.1": "“Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyan”ti vitthāretabbaṁ. ",
+    "sn46.99-110:1.2": "Balakaraṇīyavaggo ekādasamo. ",
+    "sn46.99-110:2.0": "Tassuddānaṁ ",
+    "sn46.99-110:2.1": "Balaṁ bījañca nāgo ca, ",
+    "sn46.99-110:2.2": "rukkho kumbhena sūkiyā; ",
+    "sn46.99-110:2.3": "Ākāsena ca dve meghā, ",
+    "sn46.99-110:2.4": "nāvā āgantukā nadīti. ",
+    "sn46.99-110:3.1": "(Balakaraṇīyavaggo bojjhaṅgasaṁyuttassa bojjhaṅgavasena vitthāretabbo.) "
+  },
+  "translation_text": {
+    "sn46.99-110:0.1": "Linked Discourses 46.99–110 ",
+    "sn46.99-110:0.2": "11. Hard Work ",
+    "sn46.99-110:0.3": "Hard Work, Etc. ",
+    "sn46.99-110:1.1": "“Mendicants, all the hard work that gets done depends on the earth and is grounded on the earth. …” ",
+    "sn46.99-110:1.2": "",
+    "sn46.99-110:2.1": "",
+    "sn46.99-110:2.2": "",
+    "sn46.99-110:2.3": "",
+    "sn46.99-110:2.4": "",
+    "sn46.99-110:3.1": "(Tell in full as in SN 45.149–160.) "
+  },
+  "reference_text": {
+    "sn46.99-110:1.1": "bj17.1.254, dr19.177, ms14S5_709, msdiv280-291, vri27.177",
+    "sn46.99-110:2.1": "ms14S5_712, pts-vp-pli5.136, sya19.187",
+    "sn46.99-110:3.1": "ms14S5_713"
+  },
+  "keys_order": [
+    "sn46.99-110:0.1",
+    "sn46.99-110:0.2",
+    "sn46.99-110:0.3",
+    "sn46.99-110:1.1",
+    "sn46.99-110:1.2",
+    "sn46.99-110:2.0",
+    "sn46.99-110:2.1",
+    "sn46.99-110:2.2",
+    "sn46.99-110:2.3",
+    "sn46.99-110:2.4",
+    "sn46.99-110:3.1"
+  ]
+}

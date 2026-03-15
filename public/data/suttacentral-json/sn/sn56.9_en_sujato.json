@@ -1,367 +1,58 @@
 {
+  "html_text": {
+    "sn56.9:0.1": "<article id='sn56.9'><header><ul><li class='division'>{}</li>",
+    "sn56.9:0.2": "<li>{}</li></ul>",
+    "sn56.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.9:1.1": "<p>{}",
+    "sn56.9:1.2": "{}",
+    "sn56.9:1.3": "{}",
+    "sn56.9:1.4": "{}</p>",
+    "sn56.9:2.1": "<p>{}</p>",
+    "sn56.9:2.2": "<p>{}</p>",
+    "sn56.9:2.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Viggāhikakathāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Thought ",
-      "uid": "sn56.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Low Talk ",
-      "uid": "sn56.10"
-    }
+    "sn56.9:0.1": "Saṁyutta Nikāya 56.9 ",
+    "sn56.9:0.2": "1. Samādhivagga ",
+    "sn56.9:0.3": "Viggāhikakathāsutta ",
+    "sn56.9:1.1": "“Mā, bhikkhave, viggāhikakathaṁ katheyyātha: ",
+    "sn56.9:1.2": "‘na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi. Kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi. Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṁ me, asahitaṁ te. Purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca. Adhiciṇṇaṁ te viparāvattaṁ. Āropito te vādo, cara vādappamokkhāya. Niggahitosi, nibbeṭhehi vā sace pahosī’ti. ",
+    "sn56.9:1.3": "Taṁ kissa hetu? ",
+    "sn56.9:1.4": "Nesā, bhikkhave, kathā atthasaṁhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ",
+    "sn56.9:2.1": "Kathentā ca kho tumhe, bhikkhave, ‘idaṁ dukkhan’ti katheyyātha, ‘ayaṁ dukkhasamudayo’ti katheyyātha, ‘ayaṁ dukkhanirodho’ti katheyyātha, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti katheyyātha …pe… ",
+    "sn56.9:2.2": "yogo karaṇīyo”ti. ",
+    "sn56.9:2.3": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn56.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Arguments ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Thought ",
-      "uid": "sn56.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Low Talk ",
-      "uid": "sn56.10"
-    }
+  "translation_text": {
+    "sn56.9:0.1": "Linked Discourses 56.9 ",
+    "sn56.9:0.2": "1. Immersion ",
+    "sn56.9:0.3": "Arguments ",
+    "sn56.9:1.1": "“Mendicants, don’t get into arguments, such as: ",
+    "sn56.9:1.2": "‘You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!’ ",
+    "sn56.9:1.3": "Why is that? ",
+    "sn56.9:1.4": "Because those discussions aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. ",
+    "sn56.9:2.1": "When you discuss, you should discuss: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. … ",
+    "sn56.9:2.2": "That’s why you should practice meditation …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.9",
-    "volpages": "PTS SN v 419",
-    "alt_volpages": null,
-    "uid": "sn56.9",
-    "blurb": "Don’t argue. Instead, converse on the four noble truths.",
-    "difficulty": null,
-    "original_title": "Viggāhikakathāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Arguments ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Zwist ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.9_translation-en-sujato",
-        "segmented": true,
-        "title": "Arguments ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "sn56.9_translation-fr-sekha",
-        "segmented": true,
-        "title": "Les propos conflictuels ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pl",
-        "lang_name": "Polski",
-        "is_root": false,
-        "author": "Piotr Marcinów",
-        "author_short": "marcinow",
-        "author_uid": "marcinow",
-        "publication_date": "2023",
-        "id": "sn56.9_translation-pl-marcinow",
-        "segmented": true,
-        "title": "Debaty ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.9_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.9_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn56.9_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Disputatious Talk"
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_sn56.9_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn56.9_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn56.9_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.9_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.9_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.9_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms14S5_2196, msdiv1079, vri27.483,ms14S5_2197, sya19.526",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn56.9:0.3": "Viggāhikakathāsutta → viggāhikā (pts1ed) ",
+    "sn56.9:1.1": "katheyyātha → kathetha (bj, sya-all, km) ",
+    "sn56.9:1.2": "Adhiciṇṇaṁ te → āciṇṇaṁ te (bj); āciṇṇante (sya-all, km, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn56.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Viggāhikakathāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.9:1.1": "ms14S5_2196, msdiv1079, vri27.483",
+    "sn56.9:2.1": "ms14S5_2197, sya19.526"
   },
-  "bilara_translated_text": {
-    "uid": "sn56.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Arguments ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn56.9:0.1",
+    "sn56.9:0.2",
+    "sn56.9:0.3",
+    "sn56.9:1.1",
+    "sn56.9:1.2",
+    "sn56.9:1.3",
+    "sn56.9:1.4",
+    "sn56.9:2.1",
+    "sn56.9:2.2",
+    "sn56.9:2.3"
   ]
 }

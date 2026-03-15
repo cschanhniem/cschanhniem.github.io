@@ -2,11 +2,16 @@
 // Main listing page for Pali Canon suttas with translation versions
 
 import { startTransition, useDeferredValue, useEffect, useMemo, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import { Search, BookOpen, Globe, Sparkles, ChevronRight, Filter } from 'lucide-react'
 import type { NikayaCollection, NikayaSuttaInfo } from '@/types/nikaya'
 import { NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { IMPROVED_VI_TRANSLATION_IDS, normalizeSuttaId } from '@/data/nikaya-improved/availability'
+import {
+  getNikayaCollectionFromPath,
+  getNikayaCollectionPath,
+  getNikayaDetailPath,
+} from '@/lib/nikaya-routes'
 import { usePageMeta } from '@/lib/seo'
 import { SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
@@ -21,52 +26,81 @@ type NikayaIndexItem = {
 }
 
 type NikayaListItem = NikayaSuttaInfo & {
+  hasOriginalEn: boolean
+  hasOriginalVi: boolean
+  hasCompleteTriad: boolean
   searchText: string
+}
+
+type NikayaCollectionCoverage = {
+  total: number
+  originalEn: number
+  originalVi: number
+  improvedVi: number
+  completeTriad: number
 }
 
 export function NikayaLibrary() {
   const { t } = useTranslation()
+  const location = useLocation()
   const [loading, setLoading] = useState(true)
   const [suttas, setSuttas] = useState<NikayaListItem[]>([])
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedCollection, setSelectedCollection] = useState<NikayaCollection | 'all'>('all')
   const [showImprovedOnly, setShowImprovedOnly] = useState(false)
   const [currentPage, setCurrentPage] = useState(1)
   const deferredSearchQuery = useDeferredValue(searchQuery)
+  const selectedCollection = getNikayaCollectionFromPath(location.pathname)
   const ITEMS_PER_PAGE = 20
+  const selectedCollectionInfo = selectedCollection === 'all' ? null : NIKAYA_COLLECTIONS[selectedCollection]
+  const pageTitle = selectedCollectionInfo
+    ? `${selectedCollectionInfo.vi} (${selectedCollection.toUpperCase()})`
+    : t('nikaya.metaTitle')
+  const pageDescription = selectedCollectionInfo
+    ? `Thư viện ${selectedCollectionInfo.vi} với bản dịch gốc và bản cải tiến trong kho Nikāya của Nhập Lưu.`
+    : t('nikaya.metaDescription')
+  const pageUrl = getNikayaCollectionPath(selectedCollection)
+  const breadcrumbItems = [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Trang chủ',
+      item: SITE_URL,
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Kinh Điển Pāli',
+      item: `${SITE_URL}/nikaya`,
+    },
+    ...(selectedCollectionInfo
+      ? [{
+          '@type': 'ListItem',
+          position: 3,
+          name: `${selectedCollectionInfo.vi} (${selectedCollection.toUpperCase()})`,
+          item: `${SITE_URL}${pageUrl}`,
+        }]
+      : []),
+  ]
 
   usePageMeta({
-    title: t('nikaya.metaTitle'),
-    description: t('nikaya.metaDescription'),
-    url: '/nikaya',
+    title: pageTitle,
+    description: pageDescription,
+    url: pageUrl,
     jsonLd: [
       {
         '@type': 'CollectionPage',
-        '@id': `${SITE_URL}/nikaya#webpage`,
-        url: `${SITE_URL}/nikaya`,
-        name: t('nikaya.metaTitle'),
-        description: t('nikaya.metaDescription'),
+        '@id': `${SITE_URL}${pageUrl}#webpage`,
+        url: `${SITE_URL}${pageUrl}`,
+        name: pageTitle,
+        description: pageDescription,
         inLanguage: 'vi',
       },
       {
         '@type': 'BreadcrumbList',
-        itemListElement: [
-          {
-            '@type': 'ListItem',
-            position: 1,
-            name: 'Trang chủ',
-            item: SITE_URL,
-          },
-          {
-            '@type': 'ListItem',
-            position: 2,
-            name: 'Kinh Điển Pāli',
-            item: `${SITE_URL}/nikaya`,
-          },
-        ],
+        itemListElement: breadcrumbItems,
       },
     ],
-    jsonLdId: 'nikaya-library',
+    jsonLdId: selectedCollection === 'all' ? 'nikaya-library' : `nikaya-library-${selectedCollection}`,
   })
 
   useEffect(() => {
@@ -74,14 +108,22 @@ export function NikayaLibrary() {
 
     const fetchIndex = async () => {
       try {
-        const res = await fetch('/data/suttacentral-json/nikaya_index.json')
-        if (!res.ok) throw new Error('Failed to load index')
-        const data = (await res.json()) as NikayaIndexItem[]
+        const [indexRes, availabilityRes] = await Promise.all([
+          fetch('/data/suttacentral-json/nikaya_index.json'),
+          fetch('/data/suttacentral-json/content-availability.json'),
+        ])
+        if (!indexRes.ok) throw new Error('Failed to load index')
+        if (!availabilityRes.ok) throw new Error('Failed to load content availability')
+        const data = (await indexRes.json()) as NikayaIndexItem[]
+        const availability = (await availabilityRes.json()) as Record<string, string[]>
 
         const mappedSuttas: NikayaListItem[] = data.map((item) => {
           const match = item.id.match(/([a-z]+)(\d+.*)/i)
           const code = match ? `${match[1].toUpperCase()} ${match[2]}` : item.id.toUpperCase()
           const normalizedId = normalizeSuttaId(item.id)
+          const availableLangs = availability[normalizedId] || []
+          const hasOriginalEn = availableLangs.includes('en')
+          const hasOriginalVi = availableLangs.includes('vi')
           const hasImprovedVi = IMPROVED_VI_TRANSLATION_IDS.has(normalizedId)
 
           return {
@@ -93,6 +135,9 @@ export function NikayaLibrary() {
             collection: item.collection,
             blurb: item.blurb,
             difficulty: (item.difficulty || 1) as 1 | 2 | 3,
+            hasOriginalEn,
+            hasOriginalVi,
+            hasCompleteTriad: hasOriginalEn && hasOriginalVi && hasImprovedVi,
             hasImproved: {
               vi: hasImprovedVi,
             },
@@ -145,6 +190,18 @@ export function NikayaLibrary() {
     () => suttas.reduce((count, sutta) => count + (sutta.hasImproved?.vi ? 1 : 0), 0),
     [suttas]
   )
+  const selectedCollectionCoverage = useMemo<NikayaCollectionCoverage | null>(() => {
+    if (selectedCollection === 'all') return null
+
+    const collectionSuttas = suttas.filter((sutta) => sutta.collection === selectedCollection)
+    return {
+      total: collectionSuttas.length,
+      originalEn: collectionSuttas.filter((sutta) => sutta.hasOriginalEn).length,
+      originalVi: collectionSuttas.filter((sutta) => sutta.hasOriginalVi).length,
+      improvedVi: collectionSuttas.filter((sutta) => sutta.hasImproved?.vi).length,
+      completeTriad: collectionSuttas.filter((sutta) => sutta.hasCompleteTriad).length,
+    }
+  }, [selectedCollection, suttas])
 
   const difficultyLabels = {
     1: 'Sơ cấp',
@@ -167,6 +224,11 @@ export function NikayaLibrary() {
         <p className="text-muted-foreground text-lg">
           Bộ sưu tập kinh điển nguyên thủy với bản dịch gốc và bản cải tiến
         </p>
+        {selectedCollectionInfo && (
+          <p className="text-sm font-medium text-primary mt-2">
+            Đang xem: {selectedCollectionInfo.vi} ({selectedCollection.toUpperCase()})
+          </p>
+        )}
         <p className="text-sm text-muted-foreground mt-2">
           So sánh các bản dịch tiếng Việt, Anh, Hoa, Tây Ban Nha
         </p>
@@ -183,6 +245,40 @@ export function NikayaLibrary() {
           </div>
         </div>
       </div>
+
+      {selectedCollectionInfo && selectedCollectionCoverage && (
+        <div className="bg-card rounded-lg border border-border p-4 mb-6">
+          <h2 className="text-base font-semibold text-foreground mb-3">
+            {t('nikaya.coverage.collectionTitle', { collection: selectedCollectionInfo.vi })}
+          </h2>
+          <div className="grid gap-2 sm:grid-cols-2 xl:grid-cols-4 text-sm">
+            <div className="rounded-md bg-muted/60 px-3 py-2">
+              <span className="text-muted-foreground">{t('nikaya.coverage.originalEn')}</span>
+              <p className="font-semibold text-foreground">{selectedCollectionCoverage.originalEn}/{selectedCollectionCoverage.total}</p>
+            </div>
+            <div className="rounded-md bg-muted/60 px-3 py-2">
+              <span className="text-muted-foreground">{t('nikaya.coverage.originalVi')}</span>
+              <p className="font-semibold text-foreground">{selectedCollectionCoverage.originalVi}/{selectedCollectionCoverage.total}</p>
+            </div>
+            <div className="rounded-md bg-muted/60 px-3 py-2">
+              <span className="text-muted-foreground">{t('nikaya.coverage.manual2026')}</span>
+              <p className="font-semibold text-foreground">{selectedCollectionCoverage.improvedVi}/{selectedCollectionCoverage.total}</p>
+            </div>
+            <div className="rounded-md bg-primary/10 px-3 py-2">
+              <span className="text-primary">{t('nikaya.coverage.completeTriad')}</span>
+              <p className="font-semibold text-foreground">{selectedCollectionCoverage.completeTriad}/{selectedCollectionCoverage.total}</p>
+            </div>
+          </div>
+          <p className="text-sm text-muted-foreground mt-3">
+            {t('nikaya.coverage.collectionSummary', {
+              collection: selectedCollectionInfo.vi,
+              ready: selectedCollectionCoverage.completeTriad,
+              total: selectedCollectionCoverage.total,
+              missing: selectedCollectionCoverage.total - selectedCollectionCoverage.completeTriad,
+            })}
+          </p>
+        </div>
+      )}
 
       <div className="grid md:grid-cols-4 gap-6">
         <div className="md:col-span-1 space-y-4">
@@ -206,28 +302,28 @@ export function NikayaLibrary() {
               Bộ Kinh
             </h3>
             <div className="space-y-1">
-              <button
-                onClick={() => startTransition(() => setSelectedCollection('all'))}
-                className={`w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${
+              <Link
+                to={getNikayaCollectionPath('all')}
+                className={`block w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${
                   selectedCollection === 'all'
                     ? 'bg-primary text-primary-foreground'
                     : 'text-muted-foreground hover:bg-muted'
                 }`}
               >
                 Tất cả
-              </button>
+              </Link>
               {(Object.keys(NIKAYA_COLLECTIONS) as NikayaCollection[]).map((key) => (
-                <button
+                <Link
                   key={key}
-                  onClick={() => startTransition(() => setSelectedCollection(key))}
-                  className={`w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${
+                  to={getNikayaCollectionPath(key)}
+                  className={`block w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${
                     selectedCollection === key
                       ? 'bg-primary text-primary-foreground'
                       : 'text-muted-foreground hover:bg-muted'
                   }`}
                 >
                   {NIKAYA_COLLECTIONS[key].vi} ({key.toUpperCase()})
-                </button>
+                </Link>
               ))}
             </div>
 
@@ -275,7 +371,8 @@ export function NikayaLibrary() {
               {paginatedSuttas.map((sutta) => (
                 <Link
                   key={sutta.id}
-                  to={`/nikaya/${sutta.id}`}
+                  to={getNikayaDetailPath(sutta.id, sutta.collection)}
+                  state={{ from: location.pathname }}
                   className="block bg-card rounded-lg border border-border p-4 hover:shadow-md hover:border-primary/30 transition-all"
                 >
                   <div className="flex items-start justify-between">
@@ -305,6 +402,15 @@ export function NikayaLibrary() {
                       )}
 
                       <div className="flex items-center gap-3 mt-3 text-xs text-muted-foreground">
+                        <span className={`rounded px-2 py-0.5 ${sutta.hasOriginalEn ? 'bg-emerald-500/10 text-emerald-700' : 'bg-muted text-muted-foreground'}`}>
+                          {t('nikaya.coverage.originalEnShort')}
+                        </span>
+                        <span className={`rounded px-2 py-0.5 ${sutta.hasOriginalVi ? 'bg-emerald-500/10 text-emerald-700' : 'bg-muted text-muted-foreground'}`}>
+                          {t('nikaya.coverage.originalViShort')}
+                        </span>
+                        <span className={`rounded px-2 py-0.5 ${sutta.hasImproved?.vi ? 'bg-primary/10 text-primary' : 'bg-muted text-muted-foreground'}`}>
+                          {t('nikaya.coverage.manual2026Short')}
+                        </span>
                         <span className="flex items-center gap-1">
                           <Globe className="h-3 w-3" />
                           VI, EN

@@ -1,0 +1,35 @@
+{
+  "html_text": {
+    "sn56.120-122:0.1": "<article id='sn56.120-122'><header><ul><li class='division'>{}</li>",
+    "sn56.120-122:0.2": "<li>{}</li></ul>",
+    "sn56.120-122:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.120-122:1.1": "<p>{}</p>",
+    "sn56.120-122:1.2": "<p class='endsutta'>{}</p></article>"
+  },
+  "root_text": {
+    "sn56.120-122:0.1": "Saṁyutta Nikāya 56.120–122 ",
+    "sn56.120-122:0.2": "11. Pañcagatipeyyālavagga ",
+    "sn56.120-122:0.3": "Tiracchānamanussanirayādisutta ",
+    "sn56.120-122:1.1": "… “Evameva kho, bhikkhave, appakā te sattā ye tiracchānayoniyā cutā manussesu paccājāyanti; atha kho eteva bahutarā sattā ye tiracchānayoniyā cutā niraye paccājāyanti …pe… tiracchānayoniyā paccājāyanti …pe… pettivisaye paccājāyanti …pe…. ",
+    "sn56.120-122:1.2": "Ekavīsatimaṁ. "
+  },
+  "translation_text": {
+    "sn56.120-122:0.1": "Linked Discourses 56.120–122 ",
+    "sn56.120-122:0.2": "11. Abbreviated Texts on Five Destinations ",
+    "sn56.120-122:0.3": "Dying as Animals and Reborn as Humans ",
+    "sn56.120-122:1.1": "“… the sentient beings who die as animals and are reborn as humans are few, while those who die as animals and are reborn in hell, or the animal realm, or the ghost realm are many.” "
+  },
+  "variant_text": {
+    "sn56.120-122:0.3": "Tiracchānamanussanirayādisutta → tiracchānacutisuttaṁ (bj) "
+  },
+  "reference_text": {
+    "sn56.120-122:1.1": "csp1ed14.414, csp2ed14.414, ms14S5_2537, msdiv1190-1192, ndp15.406, sya19.588, vri27.536"
+  },
+  "keys_order": [
+    "sn56.120-122:0.1",
+    "sn56.120-122:0.2",
+    "sn56.120-122:0.3",
+    "sn56.120-122:1.1",
+    "sn56.120-122:1.2"
+  ]
+}

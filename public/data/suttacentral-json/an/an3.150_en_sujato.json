@@ -1,297 +1,57 @@
 {
+  "html_text": {
+    "an3.150:0.1": "<article id='an3.150'><header><ul><li class='division'>{}</li>",
+    "an3.150:0.2": "<li>{}</li></ul>",
+    "an3.150:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an3.150:1.1": "<p>{}",
+    "an3.150:1.2": "{}",
+    "an3.150:1.3": "{}</p>",
+    "an3.150:1.4": "<p>{}</p>",
+    "an3.150:2.1": "<p>{}",
+    "an3.150:2.2": "{}",
+    "an3.150:2.3": "{}</p>",
+    "an3.150:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an3.150",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamakhatasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Impure ",
-      "uid": "an3.149"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Broken (2nd) ",
-      "uid": "an3.151"
-    }
+    "an3.150:0.1": "Aṅguttara Nikāya 3.150 ",
+    "an3.150:0.2": "15. Maṅgalavagga ",
+    "an3.150:0.3": "Paṭhamakhatasutta ",
+    "an3.150:1.1": "“Tīhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṁ upahataṁ attānaṁ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṁ, bahuñca apuññaṁ pasavati. ",
+    "an3.150:1.2": "Katamehi tīhi? ",
+    "an3.150:1.3": "Akusalena kāyakammena, akusalena vacīkammena, akusalena manokammena—",
+    "an3.150:1.4": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo abyatto asappuriso khataṁ upahataṁ attānaṁ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṁ, bahuñca apuññaṁ pasavati. ",
+    "an3.150:2.1": "Tīhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṁ anupahataṁ attānaṁ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṁ, bahuñca puññaṁ pasavati. ",
+    "an3.150:2.2": "Katamehi tīhi? ",
+    "an3.150:2.3": "Kusalena kāyakammena, kusalena vacīkammena, kusalena manokammena …pe…. ",
+    "an3.150:2.4": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an3.150",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Broken (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Impure ",
-      "uid": "an3.149"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Broken (2nd) ",
-      "uid": "an3.151"
-    }
+  "translation_text": {
+    "an3.150:0.1": "Numbered Discourses 3.150 ",
+    "an3.150:0.2": "15. Good Fortune ",
+    "an3.150:0.3": "Broken (1st) ",
+    "an3.150:1.1": "“When a foolish, incompetent untrue person has three qualities they keep themselves broken and damaged. They deserve to be blamed and reproved by sensible people, and they brim with much wickedness. ",
+    "an3.150:1.2": "What three? ",
+    "an3.150:1.3": "Unskillful deeds by way of body, speech, and mind. … ",
+    "an3.150:1.4": "",
+    "an3.150:2.1": "When an astute, competent true person has three qualities they keep themselves intact and unscathed. They don’t deserve to be blamed and criticized by sensible people, and they brim with much merit. ",
+    "an3.150:2.2": "What three? ",
+    "an3.150:2.3": "Skillful deeds by way of body, speech, and mind. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 3.150",
-    "volpages": "PTS AN i 293",
-    "alt_volpages": null,
-    "uid": "an3.150",
-    "blurb": "Wholesome deeds keep you whole.",
-    "difficulty": null,
-    "original_title": "Paṭhamakhatasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Broken (1st) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an3.150_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Zerbrochen (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an3.150_translation-en-sujato",
-        "segmented": true,
-        "title": "Broken (1st) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an3.150_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an3.150_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an3.150_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an3.150_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an3.150_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an3.150_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Bhikkhu Kuala Lumpur Dhammajoti",
-        "author_short": "Dhammajoti",
-        "author_uid": "dhammajoti",
-        "publication_date": "2008",
-        "id": "nl_an3.150_dhammajoti",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an3.150_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an3.150_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an3.150_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an3.150_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an3.150_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj18.530, ms15A3_1075, msdiv151,cck20.383, ms15A3_1076, sya20.378",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an3.150:1.1": "bj18.530, ms15A3_1075, msdiv151",
+    "an3.150:2.1": "cck20.383, ms15A3_1076, sya20.378"
   },
-  "bilara_root_text": {
-    "uid": "an3.150",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamakhatasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an3.150",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Broken (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an3.150:0.1",
+    "an3.150:0.2",
+    "an3.150:0.3",
+    "an3.150:1.1",
+    "an3.150:1.2",
+    "an3.150:1.3",
+    "an3.150:1.4",
+    "an3.150:2.1",
+    "an3.150:2.2",
+    "an3.150:2.3",
+    "an3.150:2.4"
+  ]
 }

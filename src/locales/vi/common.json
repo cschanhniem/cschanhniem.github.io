@@ -285,7 +285,22 @@
   },
   "nikaya": {
     "metaTitle": "Kinh Điển Pāli",
-    "metaDescription": "Thư viện Nikāya với bản dịch gốc và bản cải tiến."
+    "metaDescription": "Thư viện Nikāya với bản dịch gốc và bản cải tiến.",
+    "coverage": {
+      "dnTitle": "Chuẩn nội dung cho Trường Bộ Kinh",
+      "collectionTitle": "Chuẩn nội dung cho {{collection}}",
+      "originalEn": "Anh gốc nội dung đầy đủ",
+      "originalVi": "Việt HT. Thích Minh Châu",
+      "manual2026": "Manual 2026 dễ hiểu",
+      "completeTriad": "Đủ cả 3 bản",
+      "originalEnShort": "EN gốc",
+      "originalViShort": "VI Minh Châu",
+      "manual2026Short": "Manual 2026",
+      "dnSummary": "Hiện có {{ready}}/{{total}} bài DN đủ cả ba lớp nội dung. Còn {{missing}} bài thiếu ít nhất một phần, chủ yếu là manual 2026.",
+      "collectionSummary": "Hiện có {{ready}}/{{total}} bài trong {{collection}} đủ cả ba lớp nội dung. Còn {{missing}} bài thiếu ít nhất một phần, chủ yếu là manual 2026.",
+      "detailReady": "{{suttaId}} trong {{collection}} đã đủ bản Anh gốc, bản Việt của HT. Thích Minh Châu, và bản manual 2026.",
+      "detailMissing": "{{suttaId}} trong {{collection}} chưa đủ bộ ba nội dung. Còn thiếu: {{missing}}."
+    }
   },
   "community": {
     "metaTitle": "Cộng đồng",

@@ -34,6 +34,7 @@ const Mentorship = lazy(() => import('@/pages/Mentorship').then(m => ({ default:
 // Nikaya Translation Project - Public pages
 const NikayaLibrary = lazy(() => import('@/pages/NikayaLibrary').then(m => ({ default: m.NikayaLibrary })))
 const NikayaDetail = lazy(() => import('@/pages/NikayaDetail').then(m => ({ default: m.NikayaDetail })))
+const NikayaLegacyRedirect = lazy(() => import('@/pages/NikayaLegacyRedirect').then(m => ({ default: m.NikayaLegacyRedirect })))
 
 // Loading fallback component with skeleton
 function PageLoader() {
@@ -99,7 +100,13 @@ function App() {
 
                             {/* Nikaya Translation Project - Public */}
                             <Route path="/nikaya" element={<NikayaLibrary />} />
-                            <Route path="/nikaya/:suttaId" element={<NikayaDetail />} />
+                            <Route path="/nikaya/dn" element={<NikayaLibrary />} />
+                            <Route path="/nikaya/mn" element={<NikayaLibrary />} />
+                            <Route path="/nikaya/sn" element={<NikayaLibrary />} />
+                            <Route path="/nikaya/an" element={<NikayaLibrary />} />
+                            <Route path="/nikaya/kn" element={<NikayaLibrary />} />
+                            <Route path="/nikaya/:collection/:suttaId" element={<NikayaDetail />} />
+                            <Route path="/nikaya/:legacySuttaId" element={<NikayaLegacyRedirect />} />
                             <Route path="/cong-dong" element={<Community />} />
 
                             {/* Dhamma Library - Public */}

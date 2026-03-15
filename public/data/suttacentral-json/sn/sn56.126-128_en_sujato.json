@@ -1,0 +1,35 @@
+{
+  "html_text": {
+    "sn56.126-128:0.1": "<article id='sn56.126-128'><header><ul><li class='division'>{}</li>",
+    "sn56.126-128:0.2": "<li>{}</li></ul>",
+    "sn56.126-128:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.126-128:1.1": "<p>{}</p>",
+    "sn56.126-128:1.2": "<p class='endsutta'>{}</p></article>"
+  },
+  "root_text": {
+    "sn56.126-128:0.1": "Saṁyutta Nikāya 56.126–128 ",
+    "sn56.126-128:0.2": "11. Pañcagatipeyyālavagga ",
+    "sn56.126-128:0.3": "Pettimanussanirayādisutta ",
+    "sn56.126-128:1.1": "… “Evameva kho, bhikkhave, appakā te sattā ye pettivisayā cutā manussesu paccājāyanti; atha kho eteva bahutarā sattā ye pettivisayā cutā niraye paccājāyanti …pe… tiracchānayoniyā paccājāyanti …pe… pettivisaye paccājāyanti …pe…. ",
+    "sn56.126-128:1.2": "Sattavīsatimaṁ. "
+  },
+  "translation_text": {
+    "sn56.126-128:0.1": "Linked Discourses 56.126–128 ",
+    "sn56.126-128:0.2": "11. Abbreviated Texts on Five Destinations ",
+    "sn56.126-128:0.3": "Dying as Ghosts and Reborn as Humans ",
+    "sn56.126-128:1.1": "“… the sentient beings who die as ghosts and are reborn as humans are few, while those who die as ghosts and are reborn in hell, or the animal realm, or the ghost realm are many.” "
+  },
+  "variant_text": {
+    "sn56.126-128:0.3": "Pettimanussanirayādisutta → petticutisuttaṁ (bj) "
+  },
+  "reference_text": {
+    "sn56.126-128:1.1": "ms14S5_2541, msdiv1196-1198"
+  },
+  "keys_order": [
+    "sn56.126-128:0.1",
+    "sn56.126-128:0.2",
+    "sn56.126-128:0.3",
+    "sn56.126-128:1.1",
+    "sn56.126-128:1.2"
+  ]
+}

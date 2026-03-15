@@ -1,0 +1,56 @@
+{
+  "html_text": {
+    "an10.233-236:0.1": "<article id='an10.233-236'><header><ul><li class='division'>{}</li>",
+    "an10.233-236:0.2": "<li>{}</li></ul>",
+    "an10.233-236:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.233-236:1.1": "<p>{}",
+    "an10.233-236:1.2": "{}",
+    "an10.233-236:1.3": "{}",
+    "an10.233-236:1.4": "{}",
+    "an10.233-236:1.5": "{}",
+    "an10.233-236:1.6": "{}",
+    "an10.233-236:1.7": "{}</p>",
+    "an10.233-236:1.8": "<p class='endsutta'>{}</p></article>"
+  },
+  "root_text": {
+    "an10.233-236:0.1": "Aṅguttara Nikāya 10 ",
+    "an10.233-236:0.2": "22. Sāmaññavagga ",
+    "an10.233-236:0.3": "~ ",
+    "an10.233-236:1.1": "“Dasahi, bhikkhave, dhammehi samannāgato bālo veditabbo …pe… ",
+    "an10.233-236:1.2": "paṇḍito veditabbo …pe… ",
+    "an10.233-236:1.3": "vīsatiyā, bhikkhave …pe… ",
+    "an10.233-236:1.4": "tiṁsāya, bhikkhave …pe… ",
+    "an10.233-236:1.5": "cattārīsāya, bhikkhave, dhammehi samannāgato bālo veditabbo …pe… ",
+    "an10.233-236:1.6": "paṇḍito veditabbo …pe… ",
+    "an10.233-236:1.7": "imehi kho, bhikkhave, cattārīsāya dhammehi samannāgato paṇḍito veditabbo”ti. ",
+    "an10.233-236:1.8": "Sāmaññavaggo dutiyo. "
+  },
+  "translation_text": {
+    "an10.233-236:0.1": "Numbered Discourses 10.233–236 ",
+    "an10.233-236:0.2": "22. Similarity ",
+    "an10.233-236:0.3": "Untitled Discourses on Ten to Forty Qualities (3rd) ",
+    "an10.233-236:1.1": "“A fool is known by ten qualities … ",
+    "an10.233-236:1.2": "astute person … ",
+    "an10.233-236:1.3": "twenty … ",
+    "an10.233-236:1.4": "thirty … ",
+    "an10.233-236:1.5": "forty …” ",
+    "an10.233-236:1.6": "",
+    "an10.233-236:1.7": ""
+  },
+  "reference_text": {
+    "an10.233-236:1.1": "csp1ed17.512, csp2ed17.512, ms17A10_1525, msdiv233-236"
+  },
+  "keys_order": [
+    "an10.233-236:0.1",
+    "an10.233-236:0.2",
+    "an10.233-236:0.3",
+    "an10.233-236:1.1",
+    "an10.233-236:1.2",
+    "an10.233-236:1.3",
+    "an10.233-236:1.4",
+    "an10.233-236:1.5",
+    "an10.233-236:1.6",
+    "an10.233-236:1.7",
+    "an10.233-236:1.8"
+  ]
+}

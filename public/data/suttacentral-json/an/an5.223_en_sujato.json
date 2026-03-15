@@ -1,324 +1,61 @@
 {
+  "html_text": {
+    "an5.223:0.1": "<article id='an5.223'><header><ul><li class='division'>{}</li>",
+    "an5.223:0.2": "<li>{}</li></ul>",
+    "an5.223:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.223:1.1": "<p>{}",
+    "an5.223:1.2": "{}",
+    "an5.223:1.3": "{}",
+    "an5.223:1.4": "{}</p>",
+    "an5.223:2.1": "<p>{}",
+    "an5.223:2.2": "{}",
+    "an5.223:2.3": "{}",
+    "an5.223:2.4": "{}</p>",
+    "an5.223:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.223",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Atinivāsasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Long Wandering (2nd) ",
-      "uid": "an5.222"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Stingy ",
-      "uid": "an5.224"
-    }
+    "an5.223:0.1": "Aṅguttara Nikāya 5.223 ",
+    "an5.223:0.2": "23. Dīghacārikavagga ",
+    "an5.223:0.3": "Atinivāsasutta ",
+    "an5.223:1.1": "“Pañcime, bhikkhave, ādīnavā atinivāse. ",
+    "an5.223:1.2": "Katame pañca? ",
+    "an5.223:1.3": "Bahubhaṇḍo hoti bahubhaṇḍasannicayo, bahubhesajjo hoti bahubhesajjasannicayo, bahukicco hoti bahukaraṇīyo byatto kiṅkaraṇīyesu, saṁsaṭṭho viharati gahaṭṭhapabbajitehi ananulomikena gihisaṁsaggena, tamhā ca āvāsā pakkamanto sāpekkho pakkamati. ",
+    "an5.223:1.4": "Ime kho, bhikkhave, pañca ādīnavā atinivāse. ",
+    "an5.223:2.1": "Pañcime, bhikkhave, ānisaṁsā samavatthavāse. ",
+    "an5.223:2.2": "Katame pañca? ",
+    "an5.223:2.3": "Na bahubhaṇḍo hoti na bahubhaṇḍasannicayo, na bahubhesajjo hoti na bahubhesajjasannicayo, na bahukicco hoti na bahukaraṇīyo na byatto kiṅkaraṇīyesu, asaṁsaṭṭho viharati gahaṭṭhapabbajitehi ananulomikena gihisaṁsaggena, tamhā ca āvāsā pakkamanto anapekkho pakkamati. ",
+    "an5.223:2.4": "Ime kho, bhikkhave, pañca ānisaṁsā samavatthavāse”ti. ",
+    "an5.223:2.5": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an5.223",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Overstaying ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Long Wandering (2nd) ",
-      "uid": "an5.222"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Stingy ",
-      "uid": "an5.224"
-    }
+  "translation_text": {
+    "an5.223:0.1": "Numbered Discourses 5.223 ",
+    "an5.223:0.2": "23. Long Wandering ",
+    "an5.223:0.3": "Overstaying ",
+    "an5.223:1.1": "“Mendicants, there are these five drawbacks of overstaying. ",
+    "an5.223:1.2": "What five? ",
+    "an5.223:1.3": "You have a lot of stuff and store it up. You have a lot of medicine and store it up. You have a lot of duties and responsibilities, and become capable in whatever needs to be done. You mix closely with laypeople and renunciates, socializing inappropriately like a layperson. And when you leave that monastery, you miss it. ",
+    "an5.223:1.4": "These are the five drawbacks of overstaying. ",
+    "an5.223:2.1": "There are these five benefits of staying for a reasonable length of time. ",
+    "an5.223:2.2": "What five? ",
+    "an5.223:2.3": "You don’t have a lot of stuff and store it up. You don’t have a lot of medicine and store it up. You don’t have a lot of duties and responsibilities, or become capable in whatever needs to be done. You don’t mix closely with laypeople and renunciates, socializing inappropriately like a layperson. And when you leave that monastery, you don’t miss it. ",
+    "an5.223:2.4": "These are the five benefits of staying for a reasonable length of time.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.223",
-    "volpages": " PTS 3.258",
-    "alt_volpages": null,
-    "uid": "an5.223",
-    "blurb": "For five reasons, a mendicant should stay in a monastery a reasonable length of time, not excessively.",
-    "difficulty": null,
-    "original_title": "Atinivāsasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Overstaying ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.223_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Zu lange bleiben ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.223_translation-en-sujato",
-        "segmented": true,
-        "title": "Overstaying ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.223_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.223_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Слишком длительное проживание",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.223_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.223_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_an5.223_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.223_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.223_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.223_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an5.223_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an5.223_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.223_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.223_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.223_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.223_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj20.418, ms16A5_1264, msdiv223, ndp17.496, pts-vp-pli3.258, vri37.238,dr22.281, ms16A5_1265",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.223:1.1": "bj20.418, ms16A5_1264, msdiv223, ndp17.496, pts-vp-pli3.258, vri37.238",
+    "an5.223:2.1": "dr22.281, ms16A5_1265"
   },
-  "bilara_root_text": {
-    "uid": "an5.223",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Atinivāsasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.223",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Overstaying ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.223:0.1",
+    "an5.223:0.2",
+    "an5.223:0.3",
+    "an5.223:1.1",
+    "an5.223:1.2",
+    "an5.223:1.3",
+    "an5.223:1.4",
+    "an5.223:2.1",
+    "an5.223:2.2",
+    "an5.223:2.3",
+    "an5.223:2.4",
+    "an5.223:2.5"
+  ]
 }

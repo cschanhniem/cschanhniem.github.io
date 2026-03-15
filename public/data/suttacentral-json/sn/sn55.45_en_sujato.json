@@ -1,297 +1,64 @@
 {
+  "html_text": {
+    "sn55.45:0.1": "<article id='sn55.45'><header><ul><li class='division'>{}</li>",
+    "sn55.45:0.2": "<li>{}</li></ul>",
+    "sn55.45:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn55.45:1.1": "<p>{}</p>",
+    "sn55.45:2.1": "<p>{}",
+    "sn55.45:2.2": "{}",
+    "sn55.45:2.3": "{}",
+    "sn55.45:2.4": "{}",
+    "sn55.45:2.5": "{}",
+    "sn55.45:2.6": "{}",
+    "sn55.45:2.7": "{}</p>",
+    "sn55.45:2.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn55.45",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyamahaddhanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Rich (1st) ",
-      "uid": "sn55.44"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Plain Version ",
-      "uid": "sn55.46"
-    }
+    "sn55.45:0.1": "Saṁyutta Nikāya 55.45 ",
+    "sn55.45:0.2": "5. Sagāthakapuññābhisandavagga ",
+    "sn55.45:0.3": "Dutiyamahaddhanasutta ",
+    "sn55.45:1.1": "“Catūhi, bhikkhave, dhammehi samannāgato ariyasāvako ‘aḍḍho mahaddhano mahābhogo mahāyaso’ti vuccati. ",
+    "sn55.45:2.1": "Katamehi catūhi? ",
+    "sn55.45:2.2": "Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti—",
+    "sn55.45:2.3": "itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. ",
+    "sn55.45:2.4": "Dhamme …pe… ",
+    "sn55.45:2.5": "saṅghe …pe… ",
+    "sn55.45:2.6": "ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. ",
+    "sn55.45:2.7": "Imehi kho, bhikkhave, catūhi dhammehi samannāgato ariyasāvako ‘aḍḍho mahaddhano mahābhogo mahāyaso’ti vuccatī”ti. ",
+    "sn55.45:2.8": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "sn55.45",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Rich (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Rich (1st) ",
-      "uid": "sn55.44"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Plain Version ",
-      "uid": "sn55.46"
-    }
+  "translation_text": {
+    "sn55.45:0.1": "Linked Discourses 55.45 ",
+    "sn55.45:0.2": "5. Overflowing Merit, With Verses ",
+    "sn55.45:0.3": "Rich (2nd) ",
+    "sn55.45:1.1": "“Mendicants, a noble disciple who has four things is said to be rich, affluent, wealthy, and famous. ",
+    "sn55.45:2.1": "What four? ",
+    "sn55.45:2.2": "It’s when a noble disciple has experiential confidence in the Buddha … ",
+    "sn55.45:2.3": "",
+    "sn55.45:2.4": "the teaching … ",
+    "sn55.45:2.5": "the Saṅgha … ",
+    "sn55.45:2.6": "And they have the ethical conduct loved by the noble ones … leading to immersion. ",
+    "sn55.45:2.7": "A noble disciple who has these four things is said to be rich, affluent, wealthy, and famous.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 55.45",
-    "volpages": "PTS SN v 402",
-    "alt_volpages": null,
-    "uid": "sn55.45",
-    "blurb": "A noble disciple with the four factors of stream-entry is said to be prosperous.",
-    "difficulty": null,
-    "original_title": "Dutiyamahaddhanasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Rich (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn55.45_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Reich (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn55.45_translation-en-sujato",
-        "segmented": true,
-        "title": "Rich (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn55.45_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn55.45_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn55.45_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn55.45_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn55.45_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn55.45_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn55.45_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn55.45_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn55.45_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn55.45_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn55.45_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn55.45_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.238, ms14S5_2071, msdiv1041, vri27.466,dr19.498, ms14S5_2072",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn55.45:0.3": "Dutiyamahaddhanasutta → dutiyaaḍḍhasuttaṁ (bj); mahaddhana or aḍḍha 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn55.45",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyamahaddhanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn55.45:1.1": "bj17.2.238, ms14S5_2071, msdiv1041, vri27.466",
+    "sn55.45:2.1": "dr19.498, ms14S5_2072"
   },
-  "bilara_translated_text": {
-    "uid": "sn55.45",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Rich (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn55.45:0.1",
+    "sn55.45:0.2",
+    "sn55.45:0.3",
+    "sn55.45:1.1",
+    "sn55.45:2.1",
+    "sn55.45:2.2",
+    "sn55.45:2.3",
+    "sn55.45:2.4",
+    "sn55.45:2.5",
+    "sn55.45:2.6",
+    "sn55.45:2.7",
+    "sn55.45:2.8"
+  ]
 }

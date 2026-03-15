@@ -1,313 +1,86 @@
 {
+  "html_text": {
+    "an9.15:0.1": "<article id='an9.15'><header><ul><li class='division'>{}</li>",
+    "an9.15:0.2": "<li>{}</li></ul>",
+    "an9.15:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.15:1.1": "<p>{}",
+    "an9.15:1.2": "{}",
+    "an9.15:1.3": "{}",
+    "an9.15:1.4": "{}",
+    "an9.15:1.5": "{}",
+    "an9.15:1.6": "{}</p>",
+    "an9.15:2.1": "<p>{}",
+    "an9.15:2.2": "{}",
+    "an9.15:2.3": "{}",
+    "an9.15:2.4": "{}",
+    "an9.15:2.5": "{}",
+    "an9.15:2.6": "{}",
+    "an9.15:2.7": "{}</p>",
+    "an9.15:2.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an9.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Gaṇḍasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Samiddhi ",
-      "uid": "an9.14"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Perceptions ",
-      "uid": "an9.16"
-    }
+    "an9.15:0.1": "Aṅguttara Nikāya 9.15 ",
+    "an9.15:0.2": "2. Sīhanādavagga ",
+    "an9.15:0.3": "Gaṇḍasutta ",
+    "an9.15:1.1": "“Seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. ",
+    "an9.15:1.2": "Tassassu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni. ",
+    "an9.15:1.3": "Tato yaṁ kiñci pagghareyya—",
+    "an9.15:1.4": "asuciyeva pagghareyya, duggandhaṁyeva pagghareyya, jegucchiyaṁyeva pagghareyya; ",
+    "an9.15:1.5": "yaṁ kiñci pasaveyya—",
+    "an9.15:1.6": "asuciyeva pasaveyya, duggandhaṁyeva pasaveyya, jegucchiyaṁyeva pasaveyya. ",
+    "an9.15:2.1": "Gaṇḍoti kho, bhikkhave, imassetaṁ cātumahābhūtikassa kāyassa adhivacanaṁ mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṁsanadhammassa. ",
+    "an9.15:2.2": "Tassassu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni. ",
+    "an9.15:2.3": "Tato yaṁ kiñci paggharati—",
+    "an9.15:2.4": "asuciyeva paggharati, duggandhaṁyeva paggharati, jegucchiyaṁyeva paggharati; ",
+    "an9.15:2.5": "yaṁ kiñci pasavati—",
+    "an9.15:2.6": "asuciyeva pasavati, duggandhaṁyeva pasavati, jegucchiyaṁyeva pasavati. ",
+    "an9.15:2.7": "Tasmātiha, bhikkhave, imasmiṁ kāye nibbindathā”ti. ",
+    "an9.15:2.8": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an9.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Simile of the Boil ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Samiddhi ",
-      "uid": "an9.14"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Perceptions ",
-      "uid": "an9.16"
-    }
+  "translation_text": {
+    "an9.15:0.1": "Numbered Discourses 9.15 ",
+    "an9.15:0.2": "2. The Lion’s Roar ",
+    "an9.15:0.3": "The Simile of the Boil ",
+    "an9.15:1.1": "“Mendicants, suppose there was a boil that was many years old. ",
+    "an9.15:1.2": "And that boil had nine orifices that were continually open wounds. ",
+    "an9.15:1.3": "Whatever oozed out of them ",
+    "an9.15:1.4": "would be filthy, stinking, and disgusting. ",
+    "an9.15:1.5": "Whatever exuded from them ",
+    "an9.15:1.6": "would be filthy, stinking, and disgusting. ",
+    "an9.15:2.1": "‘Boil’ is a term for this body made up of the four principal states, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction. ",
+    "an9.15:2.2": "And that boil has nine orifices that are continually open wounds. ",
+    "an9.15:2.3": "Whatever oozes out of them ",
+    "an9.15:2.4": "is filthy, stinking, and disgusting. ",
+    "an9.15:2.5": "Whatever exudes from them ",
+    "an9.15:2.6": "is filthy, stinking, and disgusting. ",
+    "an9.15:2.7": "So, mendicants, have no illusion about this body.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 9.15",
-    "volpages": " PTS 4.387",
-    "alt_volpages": null,
-    "uid": "an9.15",
-    "blurb": "The body is compared to a boil with nine orifices.",
-    "difficulty": null,
-    "original_title": "Gaṇḍasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Simile of the Boil ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an9.15_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Gleichnis vom Eiterherd ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an9.15_translation-en-sujato",
-        "segmented": true,
-        "title": "The Simile of the Boil ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an9.15_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an9.15_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an9.15_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an9.15_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "A Boil"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2012",
-        "id": "es_an9.15_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an9.15_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an9.15_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an9.15_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an9.15_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an9.15_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an9.15_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an9.15_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an9.15_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms17A9_148, msdiv15, ndp19.32,bj22.426, ms17A9_149, pts-vp-pli4.387, vri39.201",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an9.15:0.3": "Gaṇḍasutta → gaṇḍopamasuttaṁ (bj) ",
+    "an9.15:1.4": "jegucchiyaṁyeva → jegucchiyeva (mr) ",
+    "an9.15:2.1": "cātumahābhūtikassa → cātummahābhūtikassa (bj, sya-all, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an9.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Gaṇḍasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an9.15:1.1": "ms17A9_148, msdiv15, ndp19.32",
+    "an9.15:2.1": "bj22.426, ms17A9_149, pts-vp-pli4.387, vri39.201"
   },
-  "bilara_translated_text": {
-    "uid": "an9.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Simile of the Boil ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an9.15:0.1",
+    "an9.15:0.2",
+    "an9.15:0.3",
+    "an9.15:1.1",
+    "an9.15:1.2",
+    "an9.15:1.3",
+    "an9.15:1.4",
+    "an9.15:1.5",
+    "an9.15:1.6",
+    "an9.15:2.1",
+    "an9.15:2.2",
+    "an9.15:2.3",
+    "an9.15:2.4",
+    "an9.15:2.5",
+    "an9.15:2.6",
+    "an9.15:2.7",
+    "an9.15:2.8"
   ]
 }

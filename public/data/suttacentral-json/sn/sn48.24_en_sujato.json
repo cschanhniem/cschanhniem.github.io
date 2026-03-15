@@ -1,310 +1,52 @@
 {
+  "html_text": {
+    "sn48.24:0.1": "<article id='sn48.24'><header><ul><li class='division'>{}</li>",
+    "sn48.24:0.2": "<li>{}</li></ul>",
+    "sn48.24:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.24:1.1": "<p>{}",
+    "sn48.24:1.2": "{}",
+    "sn48.24:1.3": "{}",
+    "sn48.24:1.4": "{}</p>",
+    "sn48.24:1.5": "<p>{}</p>",
+    "sn48.24:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn48.24",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ekabījīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Faculty of Enlightenment ",
-      "uid": "sn48.23"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Plain Version ",
-      "uid": "sn48.25"
-    }
+    "sn48.24:0.1": "Saṁyutta Nikāya 48.24 ",
+    "sn48.24:0.2": "3. Chaḷindriyavagga ",
+    "sn48.24:0.3": "Ekabījīsutta ",
+    "sn48.24:1.1": "“Pañcimāni, bhikkhave, indriyāni. ",
+    "sn48.24:1.2": "Katamāni pañca? ",
+    "sn48.24:1.3": "Saddhindriyaṁ …pe… paññindriyaṁ—",
+    "sn48.24:1.4": "imāni kho, bhikkhave, pañcindriyāni. ",
+    "sn48.24:1.5": "Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi antarāparinibbāyī hoti, tato mudutarehi upahaccaparinibbāyī hoti, tato mudutarehi asaṅkhāraparinibbāyī hoti, tato mudutarehi sasaṅkhāraparinibbāyī hoti, tato mudutarehi uddhaṁsoto hoti akaniṭṭhagāmī, tato mudutarehi sakadāgāmī hoti, tato mudutarehi ekabījī hoti, tato mudutarehi kolaṅkolo hoti, tato mudutarehi sattakkhattuparamo hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī”ti. ",
+    "sn48.24:1.6": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn48.24",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A One-Seeder ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Faculty of Enlightenment ",
-      "uid": "sn48.23"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Plain Version ",
-      "uid": "sn48.25"
-    }
+  "translation_text": {
+    "sn48.24:0.1": "Linked Discourses 48.24 ",
+    "sn48.24:0.2": "3. The Six Faculties ",
+    "sn48.24:0.3": "A One-Seeder ",
+    "sn48.24:1.1": "“Mendicants, there are these five faculties. ",
+    "sn48.24:1.2": "What five? ",
+    "sn48.24:1.3": "The faculties of faith, energy, mindfulness, immersion, and wisdom. ",
+    "sn48.24:1.4": "These are the five faculties. ",
+    "sn48.24:1.5": "Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re one who is extinguished between one life and the next … one who is extinguished upon landing … one who is extinguished without extra effort … one who is extinguished with extra effort … one who heads upstream, going to the Akaniṭṭha realm … a once-returner … a one-seeder … one who goes from family to family … one who has seven rebirths at most … a follower of teachings … a follower by faith.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 48.24",
-    "volpages": " PTS 5.205",
-    "alt_volpages": null,
-    "uid": "sn48.24",
-    "blurb": "Depending on the strength of the five faculties, one is perfected, or reaches a lesser attainment.",
-    "difficulty": null,
-    "original_title": "Ekabījīsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A One-Seeder ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn48.24_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Jemand, der nur einmal keimt ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn48.24_translation-en-sujato",
-        "segmented": true,
-        "title": "A One-Seeder ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn48.24_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn48.24_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn48.24_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn48.24_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn48.24_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn48.24_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn48.24_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn48.24_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn48.24_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn48.24_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn48.24_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn48.24_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn48.24_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.366, ms14S5_1067, msdiv494, pts-vp-pli5.205",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn48.24:0.3": "Ekabījīsutta → ekābhiññaṁ (pts1ed) ",
+    "sn48.24:1.5": "ekabījī → ekabīji (mr) | sattakkhattuparamo → sattakkhattuṁparamo (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "sn48.24",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ekabījīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn48.24:1.1": "bj17.1.366, ms14S5_1067, msdiv494, pts-vp-pli5.205"
   },
-  "bilara_translated_text": {
-    "uid": "sn48.24",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A One-Seeder ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn48.24:0.1",
+    "sn48.24:0.2",
+    "sn48.24:0.3",
+    "sn48.24:1.1",
+    "sn48.24:1.2",
+    "sn48.24:1.3",
+    "sn48.24:1.4",
+    "sn48.24:1.5",
+    "sn48.24:1.6"
+  ]
 }

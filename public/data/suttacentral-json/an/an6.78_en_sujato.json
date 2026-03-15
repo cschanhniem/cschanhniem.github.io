@@ -1,324 +1,44 @@
 {
+  "html_text": {
+    "an6.78:0.1": "<article id='an6.78'><header><ul><li class='division'>{}</li>",
+    "an6.78:0.2": "<li>{}</li></ul>",
+    "an6.78:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.78:1.1": "<p>{}",
+    "an6.78:1.2": "{}",
+    "an6.78:1.3": "{}",
+    "an6.78:1.4": "{}</p>",
+    "an6.78:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.78",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sukhasomanassasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Superhuman States ",
-      "uid": "an6.77"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Achievement ",
-      "uid": "an6.79"
-    }
+    "an6.78:0.1": "Aṅguttara Nikāya 6.78 ",
+    "an6.78:0.2": "8. Arahattavagga ",
+    "an6.78:0.3": "Sukhasomanassasutta ",
+    "an6.78:1.1": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+    "an6.78:1.2": "Katamehi chahi? ",
+    "an6.78:1.3": "Idha, bhikkhave, bhikkhu dhammārāmo hoti, bhāvanārāmo hoti, pahānārāmo hoti, pavivekārāmo hoti, abyāpajjhārāmo hoti, nippapañcārāmo hoti. ",
+    "an6.78:1.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+    "an6.78:1.5": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "an6.78",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Joy and Happiness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Superhuman States ",
-      "uid": "an6.77"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Achievement ",
-      "uid": "an6.79"
-    }
+  "translation_text": {
+    "an6.78:0.1": "Numbered Discourses 6.78 ",
+    "an6.78:0.2": "8. Perfection ",
+    "an6.78:0.3": "Joy and Happiness ",
+    "an6.78:1.1": "“Mendicants, when a mendicant has six things they’re full of joy and happiness in this very life, and they have laid the groundwork for ending the defilements. ",
+    "an6.78:1.2": "What six? ",
+    "an6.78:1.3": "It’s when a mendicant enjoys the teaching, meditation, giving up, seclusion, kindness, and non-proliferation. ",
+    "an6.78:1.4": "When a mendicant possesses these six things they’re full of joy and happiness in this very life, and they have laid the groundwork for ending the defilements.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.78",
-    "volpages": " PTS 3.431",
-    "alt_volpages": null,
-    "uid": "an6.78",
-    "blurb": "Qualities leading to happiness.",
-    "difficulty": null,
-    "original_title": "Sukhasomanassasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Joy and Happiness ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.78_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Glück und Freude ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.78_translation-en-sujato",
-        "segmented": true,
-        "title": "Joy and Happiness ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.78_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.78_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Приятное-удовлетворяющее ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.78_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.78_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an6.78_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.78_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.78_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.78_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an6.78_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.78_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.78_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.78_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.78_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.78_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed16.376, csp2ed16.376, dr22.467, ms16A6_662, msdiv78, ndp18.133, pts-vp-pli3.431",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.78:1.1": "csp1ed16.376, csp2ed16.376, dr22.467, ms16A6_662, msdiv78, ndp18.133, pts-vp-pli3.431"
   },
-  "bilara_root_text": {
-    "uid": "an6.78",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sukhasomanassasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an6.78",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Joy and Happiness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.78:0.1",
+    "an6.78:0.2",
+    "an6.78:0.3",
+    "an6.78:1.1",
+    "an6.78:1.2",
+    "an6.78:1.3",
+    "an6.78:1.4",
+    "an6.78:1.5"
+  ]
 }

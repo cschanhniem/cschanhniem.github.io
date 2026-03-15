@@ -1,0 +1,58 @@
+{
+  "html_text": {
+    "sn46.153-164:0.1": "<article id='sn46.153-164'><header><ul><li class='division'>{}</li>",
+    "sn46.153-164:0.2": "<li>{}</li></ul>",
+    "sn46.153-164:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.153-164:1.1": "<p>{}</p>",
+    "sn46.153-164:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.153-164:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.153-164:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.153-164:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.153-164:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.153-164:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn46.153-164:3.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn46.153-164:0.1": "Saṁyutta Nikāya 46.153–164 ",
+    "sn46.153-164:0.2": "16. Punabalakaraṇīyavagga ",
+    "sn46.153-164:0.3": "Punabalādisutta ",
+    "sn46.153-164:1.1": "…pe… ",
+    "sn46.153-164:1.2": "Soḷasamo. ",
+    "sn46.153-164:2.0": "Uddānaṁ ",
+    "sn46.153-164:2.1": "Balaṁ bījañca nāgo ca, ",
+    "sn46.153-164:2.2": "rukkho kumbhena sūkiyā; ",
+    "sn46.153-164:2.3": "Ākāsena ca dve meghā, ",
+    "sn46.153-164:2.4": "nāvā āgantukā nadīti. ",
+    "sn46.153-164:3.1": "(Bojjhaṅgasaṁyuttassa balakaraṇīyavaggo rāgavasena vitthāretabbo.) "
+  },
+  "translation_text": {
+    "sn46.153-164:0.1": "Linked Discourses 46.153–164 ",
+    "sn46.153-164:0.2": "16. Another Chapter on Hard Work ",
+    "sn46.153-164:0.3": "Hard Work, Etc. ",
+    "sn46.153-164:1.1": "",
+    "sn46.153-164:1.2": "",
+    "sn46.153-164:2.1": "",
+    "sn46.153-164:2.2": "",
+    "sn46.153-164:2.3": "",
+    "sn46.153-164:2.4": "",
+    "sn46.153-164:3.1": "(Tell in full as in SN 45.149–160, removal of greed version.) "
+  },
+  "reference_text": {
+    "sn46.153-164:1.1": "ms14S5_735, msdiv334-345",
+    "sn46.153-164:2.1": "csp1ed14.122, csp2ed14.122, dr19.181, ms14S5_738, ndp15.121, vri27.207",
+    "sn46.153-164:3.1": "ms14S5_739"
+  },
+  "keys_order": [
+    "sn46.153-164:0.1",
+    "sn46.153-164:0.2",
+    "sn46.153-164:0.3",
+    "sn46.153-164:1.1",
+    "sn46.153-164:1.2",
+    "sn46.153-164:2.0",
+    "sn46.153-164:2.1",
+    "sn46.153-164:2.2",
+    "sn46.153-164:2.3",
+    "sn46.153-164:2.4",
+    "sn46.153-164:3.1"
+  ]
+}

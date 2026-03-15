@@ -1,0 +1,49 @@
+{
+  "html_text": {
+    "sn48.83-92:0.1": "<article id='sn48.83-92'><header><ul><li class='division'>{}</li>",
+    "sn48.83-92:0.2": "<li>{}</li></ul>",
+    "sn48.83-92:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.83-92:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn48.83-92:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn48.83-92:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn48.83-92:2.2": "<span class='verse-line'>{}</span>",
+    "sn48.83-92:2.3": "<span class='verse-line'>{}</span>",
+    "sn48.83-92:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
+  "root_text": {
+    "sn48.83-92:0.1": "Saṁyutta Nikāya 48.83 ",
+    "sn48.83-92:0.2": "9. Appamādavagga ",
+    "sn48.83-92:0.3": "Appamādavagga ",
+    "sn48.83-92:1.1": "(Appamādavaggo vitthāretabbo.) ",
+    "sn48.83-92:2.0": "Tassuddānaṁ ",
+    "sn48.83-92:2.1": "Tathāgataṁ padaṁ kūṭaṁ, ",
+    "sn48.83-92:2.2": "mūlaṁ sārena vassikaṁ; ",
+    "sn48.83-92:2.3": "Rājā candimasūriyā, ",
+    "sn48.83-92:2.4": "vatthena dasamaṁ padanti. "
+  },
+  "translation_text": {
+    "sn48.83-92:0.1": "Linked Discourses 48.83–92 ",
+    "sn48.83-92:0.2": "9. The Chapter on Diligence ",
+    "sn48.83-92:0.3": "The Chapter on Diligence ",
+    "sn48.83-92:1.1": "(Tell in full as in the chapter on diligence at SN 45.139–148.) ",
+    "sn48.83-92:2.1": "The Realized One, footprint, roof peak, ",
+    "sn48.83-92:2.2": "roots, heartwood, jasmine, ",
+    "sn48.83-92:2.3": "monarch, sun and moon, ",
+    "sn48.83-92:2.4": "and cloth is the tenth. "
+  },
+  "reference_text": {
+    "sn48.83-92:1.1": "ms14S5_1258, vri27.314",
+    "sn48.83-92:2.1": "dr19.308, ms14S5_1260"
+  },
+  "keys_order": [
+    "sn48.83-92:0.1",
+    "sn48.83-92:0.2",
+    "sn48.83-92:0.3",
+    "sn48.83-92:1.1",
+    "sn48.83-92:2.0",
+    "sn48.83-92:2.1",
+    "sn48.83-92:2.2",
+    "sn48.83-92:2.3",
+    "sn48.83-92:2.4"
+  ]
+}

@@ -1,339 +1,87 @@
 {
+  "comment_text": {
+    "sn43.1:1.2": "In Vedic usage, something that is <i lang='pi' translate='no'>saṅkhata</i> (Sanskrit <i lang='pi' translate='no'>saṁskṛta</i>, “conditioned”) has been worked through a process (<i lang='pi' translate='no'>saṅkhāra</i>) that shapes it into its “completed” or “perfected” form (eg. Śatapatha Brāhmaṇa 7.1.2.6). To be <i lang='pi' translate='no'>saṅkhata</i> is to be “equipped” for battle (Rig Veda 8.33.9) or “prepared” for the ritual (Śatapatha Brāhmaṇa 8.6.1.1). When natural language is “refined” through meticulous grammar, it becomes <i lang='pi' translate='no'>saṅkhata</i>, or as we say today, “Sanskrit”. Linguistically, it is a past participle, describing something that has been made into this form. But it also conveys the sense of something “readied” or “energized” or “charged” and thus fit for purpose, “potent” to perform its function. The Buddha inverts the Vedic value system, positioning the “unconditioned” Nibbāna as independent of Vedic or other rituals of “potentization”. <i lang='pi' translate='no'>Asaṅkhata</i> conveys the sense of “unworked” (as a natural gem), or “unconsecrated” (by Vedic rites) and thus implies a raw or natural state. In Pali, <i lang='pi' translate='no'>asaṅkhata</i> is used as an adjective describing something; but that something is unstated as the referent is empty. So whereas in English we say, “the unconditioned”, in Pali it is just “unconditioned” and does not imply an existent state or reality that is unconditioned. The prefix <i lang='pi' translate='no'>saṁ</i> is sometimes said to mean “together” yielding the sense “compounded”, but usage suggests the primary sense of <i lang='pi' translate='no'>saṁ</i> here is “good, well, perfect”. Nor does <i lang='pi' translate='no'>saṅkhata</i> convey the sense “created” or “fabricated”, but rather “processed”. This aligns with the Buddhist rejection of creation from nothing. Existence is an ongoing process, inheriting what was made in the past, processing and potentizing it and thereby shaping the future. The English word “conditioned” conveys these senses quite well, implying something dependent on conditions, shaped into a specified state, or prepared for a given purpose. ",
+    "sn43.1:1.5": "The unconditioned is not “produced” by the eightfold path, but rather, the practice of the path leads to the cessation of greed, hate, and delusion, which are the conditions for suffering. This series of discourses all make the same point, each highlighting a particular way of describing the path. ",
+    "sn43.1:1.8": "Treated in detail in the Kāyagatāsatisutta (<a href='https://suttacentral.net/mn119/en/sujato'>MN 119</a>). "
+  },
+  "html_text": {
+    "sn43.1:0.1": "<article id='sn43.1'><header><ul><li class='division'>{}</li>",
+    "sn43.1:0.2": "<li>{}</li></ul>",
+    "sn43.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn43.1:1.1": "<p>{}</p>",
+    "sn43.1:1.2": "<p>{}",
+    "sn43.1:1.3": "{}</p>",
+    "sn43.1:1.4": "<p>{}",
+    "sn43.1:1.5": "{}",
+    "sn43.1:1.6": "{}",
+    "sn43.1:1.7": "{}",
+    "sn43.1:1.8": "{}",
+    "sn43.1:1.9": "{}</p>",
+    "sn43.1:2.1": "<p>{}",
+    "sn43.1:2.2": "{}",
+    "sn43.1:2.3": "{}</p>",
+    "sn43.1:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn43.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kāyagatāsatisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Pāṭaliya ",
-      "uid": "sn42.13"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Serenity and Discernment ",
-      "uid": "sn43.2"
-    }
+    "sn43.1:0.1": "Saṁyutta Nikāya 43.1 ",
+    "sn43.1:0.2": "1. Paṭhamavagga ",
+    "sn43.1:0.3": "Kāyagatāsatisutta ",
+    "sn43.1:1.1": "Sāvatthinidānaṁ. ",
+    "sn43.1:1.2": "“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. ",
+    "sn43.1:1.3": "Taṁ suṇātha. ",
+    "sn43.1:1.4": "Katamañca, bhikkhave, asaṅkhataṁ? ",
+    "sn43.1:1.5": "Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—",
+    "sn43.1:1.6": "idaṁ vuccati, bhikkhave, asaṅkhataṁ. ",
+    "sn43.1:1.7": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo? ",
+    "sn43.1:1.8": "Kāyagatāsati. ",
+    "sn43.1:1.9": "Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo. ",
+    "sn43.1:2.1": "Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo. ",
+    "sn43.1:2.2": "Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. ",
+    "sn43.1:2.3": "Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti. ",
+    "sn43.1:2.4": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn43.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Mindfulness of the Body ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Pāṭaliya ",
-      "uid": "sn42.13"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Serenity and Discernment ",
-      "uid": "sn43.2"
-    }
+  "translation_text": {
+    "sn43.1:0.1": "Linked Discourses 43.1 ",
+    "sn43.1:0.2": "Chapter One ",
+    "sn43.1:0.3": "Mindfulness of the Body ",
+    "sn43.1:1.1": "At Sāvatthī. ",
+    "sn43.1:1.2": "“Mendicants, I will teach you the unconditioned and the path that leads to the unconditioned. ",
+    "sn43.1:1.3": "Listen … ",
+    "sn43.1:1.4": "And what is the unconditioned? ",
+    "sn43.1:1.5": "The ending of greed, hate, and delusion. ",
+    "sn43.1:1.6": "This is called the unconditioned. ",
+    "sn43.1:1.7": "And what is the path that leads to the unconditioned? ",
+    "sn43.1:1.8": "Mindfulness of the body. ",
+    "sn43.1:1.9": "This is called the path that leads to the unconditioned. ",
+    "sn43.1:2.1": "So, mendicants, I’ve taught you the unconditioned and the path that leads to the unconditioned. ",
+    "sn43.1:2.2": "Out of sympathy, I’ve done what a teacher should do who wants what’s best for their disciples. ",
+    "sn43.1:2.3": "Here are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 43.1",
-    "volpages": "PTS SN iv 359",
-    "alt_volpages": null,
-    "uid": "sn43.1",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Kāyagatāsatisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Mindfulness of the Body ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn43.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Achtsamkeit auf den Körper ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn43.1_translation-en-sujato",
-        "segmented": true,
-        "title": "Mindfulness of the Body ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn43.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn43.1_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn43.1_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn43.1_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Mindfulness Directed to the body"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn43.1_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn43.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn43.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn43.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn43.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn43.1_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn43.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn43.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn43.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn43.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn43.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.634, cck18.438, csp1ed13.535, csp2ed13.535, dr18.431, ms13S4_1670, msdiv366, ndp14.312, sya18.441, vri26.334,ms13S4_1671",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn43.1:0.2": "Paṭhamavagga → asaṅkhatavaggo (bj) ",
+    "sn43.1:0.3": "Kāyagatāsatisutta → kāya (pts1ed) ",
+    "sn43.1:2.3": "Jhāyatha → nijjhāyatha (mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn43.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kāyagatāsatisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn43.1:1.1": "bj16.634, cck18.438, csp1ed13.535, csp2ed13.535, dr18.431, ms13S4_1670, msdiv366, ndp14.312, sya18.441, vri26.334",
+    "sn43.1:2.1": "ms13S4_1671"
   },
-  "bilara_translated_text": {
-    "uid": "sn43.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Mindfulness of the Body ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn43.1:0.1",
+    "sn43.1:0.2",
+    "sn43.1:0.3",
+    "sn43.1:1.1",
+    "sn43.1:1.2",
+    "sn43.1:1.3",
+    "sn43.1:1.4",
+    "sn43.1:1.5",
+    "sn43.1:1.6",
+    "sn43.1:1.7",
+    "sn43.1:1.8",
+    "sn43.1:1.9",
+    "sn43.1:2.1",
+    "sn43.1:2.2",
+    "sn43.1:2.3",
+    "sn43.1:2.4"
   ]
 }

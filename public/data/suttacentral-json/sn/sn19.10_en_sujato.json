@@ -1,324 +1,92 @@
 {
+  "comment_text": {
+    "sn19.10:1.1": "The “gnomes” (<i lang='pi' translate='no'>kumbhaṇḍa</i>, Sanskrit <i lang='pi' translate='no'>kuṣmāṇḍa</i>, “pumpkin-belly”) were a race of lesser deities often depicted as pot-bellied, ugly and misshapen, though reckoned as subjects of the four great kings (<a href='https://suttacentral.net/dn20/en/sujato#9.13'>DN 20:9.13</a>). <i lang='pi' translate='no'>Kumbha</i> also means “pot” and <i lang='pi' translate='no'>aṇḍa</i> “testicle” (<a href='https://suttacentral.net/mn56/en/sujato#25.4'>MN 56:25.4</a>). Compare the fiendish <i lang='pi' translate='no'>kumbhamuṣka</i> (“pot-scrotum”) of Atharva Veda 8.6.15, 11.9.17. Perhaps conflated with <i lang='pi' translate='no'>kuṣumbha</i>, an insect’s venom-sack (Atharva Veda 2.32.6). ",
+    "sn19.10:1.2": "While the humorously painful imagery here is clear, it is less clear that the literal sense “pot-balls” was meant in general for the <i lang='pi' translate='no'>kumbhaṇḍa</i> as a deity. Here it is used adjectivally of a man. ",
+    "sn19.10:1.6": "A <i lang='pi' translate='no'>gāmakūṭa</i> is a “village head” , so <i lang='pi' translate='no'>kūṭa</i> here means “summit” rather than its other sense of “fraud”, though the senses might be conflated. The commentary explains it as “an official who makes judgements”. The suffix <i lang='pi' translate='no'>-ka</i> in the form here (<i lang='pi' translate='no'>gāmakūṭaka</i>) must have its belittling sense like <i lang='pi' translate='no'>muṇḍakā samaṇakā</i> (“shavelings, fake ascetics”). Kauṭilya depicts the <i lang='pi' translate='no'>grāmakūṭa</i> as acting on the whispers of an informant (Arthaśāstra 4.4.9). Perhaps his testicles are the size of the pots of gold he made through extortion and blackmail. "
+  },
+  "html_text": {
+    "sn19.10:0.1": "<article id='sn19.10'><header><ul><li class='division'>{}</li>",
+    "sn19.10:0.2": "<li>{}</li></ul>",
+    "sn19.10:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn19.10:1.1": "<p>{}",
+    "sn19.10:1.2": "{}",
+    "sn19.10:1.3": "{}",
+    "sn19.10:1.4": "{}",
+    "sn19.10:1.5": "{}</p>",
+    "sn19.10:1.6": "<p>{}</p>",
+    "sn19.10:1.7": "<p class='endsutta'>{}</p>",
+    "sn19.10:1.8": "<p class='endvagga'>{}</p>",
+    "sn19.10:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn19.10:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn19.10:2.2": "<span class='verse-line'>{}</span>",
+    "sn19.10:2.3": "<span class='verse-line'>{}</span>",
+    "sn19.10:2.4": "<span class='verse-line'>{}</span>",
+    "sn19.10:2.5": "<span class='verse-line'>{}</span>",
+    "sn19.10:2.6": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn19.10",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kumbhaṇḍasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Needle Hairs (2nd) ",
-      "uid": "sn19.9"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Over His Head ",
-      "uid": "sn19.11"
-    }
+    "sn19.10:0.1": "Saṁyutta Nikāya 19.10 ",
+    "sn19.10:0.2": "1. Paṭhamavagga ",
+    "sn19.10:0.3": "Kumbhaṇḍasutta ",
+    "sn19.10:1.1": "“Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ kumbhaṇḍaṁ purisaṁ vehāsaṁ gacchantaṁ. ",
+    "sn19.10:1.2": "So gacchantopi teva aṇḍe khandhe āropetvā gacchati. ",
+    "sn19.10:1.3": "Nisīdantopi tesveva aṇḍesu nisīdati. ",
+    "sn19.10:1.4": "Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. ",
+    "sn19.10:1.5": "So sudaṁ aṭṭassaraṁ karoti …pe… ",
+    "sn19.10:1.6": "eso, bhikkhave, satto imasmiṁyeva rājagahe gāmakūṭako ahosi …pe…. ",
+    "sn19.10:1.7": "Dasamaṁ. ",
+    "sn19.10:1.8": "Paṭhamo vaggo. ",
+    "sn19.10:2.0": "Tassuddānaṁ ",
+    "sn19.10:2.1": "Aṭṭhi pesi ubho gāvaghātakā, ",
+    "sn19.10:2.2": "Piṇḍo sākuṇiyo nicchavorabbhi; ",
+    "sn19.10:2.3": "Asi sūkariko sattimāgavi, ",
+    "sn19.10:2.4": "Usu kāraṇiko sūci sārathi; ",
+    "sn19.10:2.5": "Yo ca sibbiyati sūcako hi so, ",
+    "sn19.10:2.6": "Aṇḍabhāri ahu gāmakūṭakoti. "
   },
-  "translation": {
-    "uid": "sn19.10",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Pot Balls ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Needle Hairs (2nd) ",
-      "uid": "sn19.9"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Over His Head ",
-      "uid": "sn19.11"
-    }
+  "translation_text": {
+    "sn19.10:0.1": "Linked Discourses 19.10 ",
+    "sn19.10:0.2": "Chapter One ",
+    "sn19.10:0.3": "Pot Balls ",
+    "sn19.10:1.1": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man with testicles big as pots flying through the air. ",
+    "sn19.10:1.2": "When he was walking he had to lift his testicles on to his shoulder. ",
+    "sn19.10:1.3": "And when he sat down, he sat right on them. ",
+    "sn19.10:1.4": "Vultures, crows, and hawks kept chasing him, pecking and clawing ",
+    "sn19.10:1.5": "as he screamed in pain. …” … ",
+    "sn19.10:1.6": "“That being used to be a corrupt village head right here in Rājagaha. …” ",
+    "sn19.10:1.7": "",
+    "sn19.10:1.8": "",
+    "sn19.10:2.1": "",
+    "sn19.10:2.2": "",
+    "sn19.10:2.3": "",
+    "sn19.10:2.4": "",
+    "sn19.10:2.5": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 19.10",
-    "volpages": "PTS SN ii 258",
-    "alt_volpages": null,
-    "uid": "sn19.10",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Kumbhaṇḍasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Pot Balls ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn19.10_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Kesselgroße Hoden ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn19.10_translation-en-sujato",
-        "segmented": true,
-        "title": "Pot Balls ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn19.10_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn19.10_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Testisi kao ćupovi ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn19.10_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn19.10_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2010",
-        "id": "es_sn19.10_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn19.10_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn19.10_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn19.10_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn19.10_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn19.10_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn19.10_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn19.10_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn19.10_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn19.10_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 24,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr16.305, ms12S2_1179, msdiv211,ms12S2_1183, vri24.235",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn19.10:0.3": "Kumbhaṇḍasutta → aṇḍabharī-gāmakuṭako (pts1ed, pts2ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn19.10",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kumbhaṇḍasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn19.10:1.1": "dr16.305, ms12S2_1179, msdiv211",
+    "sn19.10:2.1": "ms12S2_1183, vri24.235"
   },
-  "bilara_translated_text": {
-    "uid": "sn19.10",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Pot Balls ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn19.10:0.1",
+    "sn19.10:0.2",
+    "sn19.10:0.3",
+    "sn19.10:1.1",
+    "sn19.10:1.2",
+    "sn19.10:1.3",
+    "sn19.10:1.4",
+    "sn19.10:1.5",
+    "sn19.10:1.6",
+    "sn19.10:1.7",
+    "sn19.10:1.8",
+    "sn19.10:2.0",
+    "sn19.10:2.1",
+    "sn19.10:2.2",
+    "sn19.10:2.3",
+    "sn19.10:2.4",
+    "sn19.10:2.5",
+    "sn19.10:2.6"
+  ]
 }

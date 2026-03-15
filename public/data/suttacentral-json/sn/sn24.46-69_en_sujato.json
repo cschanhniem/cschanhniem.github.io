@@ -1,0 +1,32 @@
+{
+  "html_text": {
+    "sn24.46-69:0.1": "<article id='sn24.46-69'><header><ul><li class='division'>{}</li>",
+    "sn24.46-69:0.2": "<li>{}</li></ul>",
+    "sn24.46-69:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn24.46-69:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn24.46-69:1.2": "<p class='endsutta'>{}</p></article>"
+  },
+  "root_text": {
+    "sn24.46-69:0.1": "Saṁyutta Nikāya 24.46–69 ",
+    "sn24.46-69:0.2": "3. Tatiyagamanavagga ",
+    "sn24.46-69:0.3": "Etaṁmamādisutta ",
+    "sn24.46-69:1.1": "(Dutiyavagge viya catuvīsati suttāni pūretabbāni.) ",
+    "sn24.46-69:1.2": "Pañcavīsatimaṁ. "
+  },
+  "translation_text": {
+    "sn24.46-69:0.1": "Linked Discourses 24.46–69 ",
+    "sn24.46-69:0.2": "3. The Third Round ",
+    "sn24.46-69:0.3": "This Is Mine, etc. ",
+    "sn24.46-69:1.1": "(Tell in full as in discourses 20 through 43 of the second chapter.) "
+  },
+  "reference_text": {
+    "sn24.46-69:1.1": "ms13S3_1019, msdiv251-274"
+  },
+  "keys_order": [
+    "sn24.46-69:0.1",
+    "sn24.46-69:0.2",
+    "sn24.46-69:0.3",
+    "sn24.46-69:1.1",
+    "sn24.46-69:1.2"
+  ]
+}

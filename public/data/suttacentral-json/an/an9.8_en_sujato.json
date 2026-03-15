@@ -1,310 +1,89 @@
 {
+  "html_text": {
+    "an9.8:0.1": "<article id='an9.8'><header><ul><li class='division'>{}</li>",
+    "an9.8:0.2": "<li>{}</li></ul>",
+    "an9.8:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.8:1.1": "<p>{}",
+    "an9.8:1.2": "{}",
+    "an9.8:1.3": "{}</p>",
+    "an9.8:2.1": "<p>{}",
+    "an9.8:2.2": "{}",
+    "an9.8:2.3": "{}",
+    "an9.8:2.4": "{}",
+    "an9.8:2.5": "{}</p>",
+    "an9.8:3.1": "<p>{}",
+    "an9.8:3.2": "{}",
+    "an9.8:3.3": "{}",
+    "an9.8:3.4": "{}",
+    "an9.8:3.5": "{}",
+    "an9.8:3.6": "{}</p>",
+    "an9.8:3.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an9.8",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sajjhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Sutavā the Wanderer ",
-      "uid": "an9.7"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Individuals ",
-      "uid": "an9.9"
-    }
+    "an9.8:0.1": "Aṅguttara Nikāya 9.8 ",
+    "an9.8:0.2": "1. Sambodhivagga ",
+    "an9.8:0.3": "Sajjhasutta ",
+    "an9.8:1.1": "Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. ",
+    "an9.8:1.2": "Atha kho sajjho paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. ",
+    "an9.8:1.3": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho sajjho paribbājako bhagavantaṁ etadavoca: ",
+    "an9.8:2.1": "“Ekamidāhaṁ, bhante, samayaṁ bhagavā idheva rājagahe viharāmi giribbaje. ",
+    "an9.8:2.2": "Tatra me, bhante, bhagavato sammukhā sutaṁ sammukhā paṭiggahitaṁ: ",
+    "an9.8:2.3": "‘yo so, sajjha, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, abhabbo so pañca ṭhānāni ajjhācarituṁ—",
+    "an9.8:2.4": "abhabbo khīṇāsavo bhikkhu sañcicca pāṇaṁ jīvitā voropetuṁ, abhabbo khīṇāsavo bhikkhu adinnaṁ theyyasaṅkhātaṁ ādātuṁ, abhabbo khīṇāsavo bhikkhu methunaṁ dhammaṁ paṭisevituṁ, abhabbo khīṇāsavo bhikkhu sampajānamusā bhāsituṁ, abhabbo khīṇāsavo bhikkhu sannidhikārakaṁ kāme paribhuñjituṁ seyyathāpi pubbe agāriyabhūto’ti. ",
+    "an9.8:2.5": "Kacci metaṁ, bhante, bhagavato sussutaṁ suggahitaṁ sumanasikataṁ sūpadhāritan”ti? ",
+    "an9.8:3.1": "“Taggha te etaṁ, sajjha, sussutaṁ suggahitaṁ sumanasikataṁ sūpadhāritaṁ. ",
+    "an9.8:3.2": "Pubbe cāhaṁ, sajjha, etarahi ca evaṁ vadāmi: ",
+    "an9.8:3.3": "‘yo so bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, abhabbo so nava ṭhānāni ajjhācarituṁ—",
+    "an9.8:3.4": "abhabbo khīṇāsavo bhikkhu sañcicca pāṇaṁ jīvitā voropetuṁ …pe… abhabbo khīṇāsavo bhikkhu sannidhikārakaṁ kāme paribhuñjituṁ seyyathāpi pubbe agāriyabhūto, abhabbo khīṇāsavo bhikkhu buddhaṁ paccakkhātuṁ, abhabbo khīṇāsavo bhikkhu dhammaṁ paccakkhātuṁ, abhabbo khīṇāsavo bhikkhu saṅghaṁ paccakkhātuṁ, abhabbo khīṇāsavo bhikkhu sikkhaṁ paccakkhātuṁ’. ",
+    "an9.8:3.5": "Pubbe cāhaṁ, sajjha, etarahi ca evaṁ vadāmi: ",
+    "an9.8:3.6": "‘yo so bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, abhabbo so imāni nava ṭhānāni ajjhācaritun’”ti. ",
+    "an9.8:3.7": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an9.8",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With the Wanderer Sajjha ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Sutavā the Wanderer ",
-      "uid": "an9.7"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Individuals ",
-      "uid": "an9.9"
-    }
+  "translation_text": {
+    "an9.8:0.1": "Numbered Discourses 9.8 ",
+    "an9.8:0.2": "1. Awakening ",
+    "an9.8:0.3": "With the Wanderer Sajjha ",
+    "an9.8:1.1": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. ",
+    "an9.8:1.2": "Then the wanderer Sajjha went up to the Buddha, and exchanged greetings with him. ",
+    "an9.8:1.3": "When the greetings and polite conversation were over, he sat down to one side and said to the Buddha: ",
+    "an9.8:2.1": "“Sir, this one time the Buddha was staying right here in Rājagaha, the Mountainfold. ",
+    "an9.8:2.2": "There I heard and learned this in the presence of the Buddha: ",
+    "an9.8:2.3": "‘A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart’s goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment—can’t transgress in five respects. ",
+    "an9.8:2.4": "A mendicant with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a layperson.’ ",
+    "an9.8:2.5": "I trust I properly heard, learned, applied the mind, and remembered that from the Buddha?” ",
+    "an9.8:3.1": "“Indeed, Sajjha, you properly heard, learned, applied the mind, and remembered that. ",
+    "an9.8:3.2": "In the past, as today, I say this: ",
+    "an9.8:3.3": "‘A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart’s goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment—can’t transgress in nine respects. ",
+    "an9.8:3.4": "A mendicant with defilements ended can’t deliberately kill a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they used to as a layperson. And they can’t abandon the Buddha, the teaching, the Saṅgha, or the training.’ ",
+    "an9.8:3.5": "In the past, as today, I say this: ",
+    "an9.8:3.6": "‘A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart’s goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment—can’t transgress in these nine respects.’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 9.8",
-    "volpages": " PTS 4.372",
-    "alt_volpages": null,
-    "uid": "an9.8",
-    "blurb": "The wanderer Sajjha asks the Buddha about five things a perfected one cannot do; the Buddha expands it to nine, which differ slightly from AN 9.7.",
-    "difficulty": null,
-    "original_title": "Sajjhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With the Wanderer Sajjha ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an9.8_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit dem Wanderer Sajjha ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an9.8_translation-en-sujato",
-        "segmented": true,
-        "title": "With the Wanderer Sajjha ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an9.8_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an9.8_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an9.8_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an9.8_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an9.8_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an9.8_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_an9.8_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an9.8_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an9.8_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an9.8_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an9.8_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an9.8_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an9.8_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 7,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed17.179, csp2ed17.179, dr23.400, ms17A9_76, msdiv8,ms17A9_77, ndp19.19,bj22.400, dr23.401, ms17A9_78, pts-vp-pli4.372, vri39.188",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an9.8:0.3": "Sajjhasutta → sajjhaparibbājakasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an9.8",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sajjhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an9.8:1.1": "csp1ed17.179, csp2ed17.179, dr23.400, ms17A9_76, msdiv8",
+    "an9.8:2.1": "ms17A9_77, ndp19.19",
+    "an9.8:3.1": "bj22.400, dr23.401, ms17A9_78, pts-vp-pli4.372, vri39.188"
   },
-  "bilara_translated_text": {
-    "uid": "an9.8",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With the Wanderer Sajjha ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an9.8:0.1",
+    "an9.8:0.2",
+    "an9.8:0.3",
+    "an9.8:1.1",
+    "an9.8:1.2",
+    "an9.8:1.3",
+    "an9.8:2.1",
+    "an9.8:2.2",
+    "an9.8:2.3",
+    "an9.8:2.4",
+    "an9.8:2.5",
+    "an9.8:3.1",
+    "an9.8:3.2",
+    "an9.8:3.3",
+    "an9.8:3.4",
+    "an9.8:3.5",
+    "an9.8:3.6",
+    "an9.8:3.7"
+  ]
 }

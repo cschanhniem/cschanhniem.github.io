@@ -1,323 +1,77 @@
 {
+  "comment_text": {
+    "sn32.1:1.2": "<i lang='pi' translate='no'>Valāhaka</i> is not explained in any dictionary I have seen, and I have not been able to find it in pre-Buddhist texts. Trace to the root <i lang='pi' translate='no'>val</i> (to “turn” or to “arc”). Appended with <i lang='pi' translate='no'>āha</i> (“sky”) we have <i lang='pi' translate='no'>valāhaka</i>, “one who arcs over the sky” like a constellation (cf. Sanskrit <i lang='pi' translate='no'>valana</i>). This is the name of the horse of the universal monarch (<a href='https://suttacentral.net/mn129/en/sujato#37.2'>MN 129:37.2</a>), and metaphorically the “thunderclouds” that rumble like horse’s hooves. The link between horses and clouds recalls the Vedic Maruts, boisterous gods of the thunderclouds, who roamed about roaring in their chariot drawn by horses (Rig Veda 1.39.6, 1.87.4, 1.88.1, 5.42.15, etc.) or on horseback (RV 5.61.2), which are compared to the rainy clouds (RV 5.53.7, 8.7.28). Other deities also have horses associated with the thundercloud. The twin Asv́ins (“horsemen”) have horses that “thunder” (RV 5.73.7). The horses of Parjanya (Pali <i lang='pi' translate='no'>pajjuna</i>) are “rain-bearing messengers” (RV 5.83.3). Bṛhaspati has horses “like a ruddy cloud” (RV 7.97.6). Pegasus, who was said by Hesiod to be the bringer of thunderbolts to Zeus, harks back to the same mytheme. ",
+    "sn32.1:1.4": "The “host” (<i lang='pi' translate='no'>kāya</i>) is the four types. ",
+    "sn32.1:1.7": "<i lang='pi' translate='no'>Abbha</i> (“stormy”) by itself just means “cloud”. In the Rig Veda they’re associated with wind (10.68.5), rain (10.77.1), and lighting (9.76.3), and in the Suttas they are described as “blue” (<a href='https://suttacentral.net/thag1.13/en/sujato#1.1'>Thag 1.13:1.1</a>). "
+  },
+  "html_text": {
+    "sn32.1:0.1": "<article id='sn32.1'><header><ul><li class='division'>{}</li>",
+    "sn32.1:0.2": "<li>{}</li></ul>",
+    "sn32.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn32.1:1.1": "<p>{}</p>",
+    "sn32.1:1.2": "<p>{}",
+    "sn32.1:1.3": "{}</p>",
+    "sn32.1:1.4": "<p>{}",
+    "sn32.1:1.5": "{}",
+    "sn32.1:1.6": "{}",
+    "sn32.1:1.7": "{}",
+    "sn32.1:1.8": "{}",
+    "sn32.1:1.9": "{}",
+    "sn32.1:1.10": "{}</p>",
+    "sn32.1:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn32.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sāragandhādidānūpakārasuttanavutika",
-      "uid": "sn31.23-112"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Good Conduct ",
-      "uid": "sn32.2"
-    }
+    "sn32.1:0.1": "Saṁyutta Nikāya 32.1 ",
+    "sn32.1:0.2": "1. Valāhakavagga ",
+    "sn32.1:0.3": "Suddhikasutta ",
+    "sn32.1:1.1": "Sāvatthinidānaṁ. ",
+    "sn32.1:1.2": "“Valāhakakāyike vo, bhikkhave, deve desessāmi. ",
+    "sn32.1:1.3": "Taṁ suṇātha. ",
+    "sn32.1:1.4": "Katame ca, bhikkhave, valāhakakāyikā devā? ",
+    "sn32.1:1.5": "Santi, bhikkhave, sītavalāhakā devā; ",
+    "sn32.1:1.6": "santi uṇhavalāhakā devā; ",
+    "sn32.1:1.7": "santi abbhavalāhakā devā; ",
+    "sn32.1:1.8": "santi vātavalāhakā devā; ",
+    "sn32.1:1.9": "santi vassavalāhakā devā—",
+    "sn32.1:1.10": "ime vuccanti, bhikkhave, ‘valāhakakāyikā devā’”ti. ",
+    "sn32.1:1.11": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn32.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sāragandhādidānūpakārasuttanavutika",
-      "uid": "sn31.23-112"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Good Conduct ",
-      "uid": "sn32.2"
-    }
+  "translation_text": {
+    "sn32.1:0.1": "Linked Discourses 32.1 ",
+    "sn32.1:0.2": "1. Gods of the Thunderclouds ",
+    "sn32.1:0.3": "Plain Version ",
+    "sn32.1:1.1": "At Sāvatthī. ",
+    "sn32.1:1.2": "“Mendicants, I will teach you about the gods of the thundercloud host. ",
+    "sn32.1:1.3": "Listen … ",
+    "sn32.1:1.4": "And what are the gods of the thundercloud host? ",
+    "sn32.1:1.5": "There are gods of the cool thunderclouds, ",
+    "sn32.1:1.6": "warm thunderclouds, ",
+    "sn32.1:1.7": "stormy thunderclouds, ",
+    "sn32.1:1.8": "windy thunderclouds, ",
+    "sn32.1:1.9": "and rainy thunderclouds. ",
+    "sn32.1:1.10": "These are called gods of the thundercloud host.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 32.1",
-    "volpages": " PTS 3.254",
-    "alt_volpages": null,
-    "uid": "sn32.1",
-    "blurb": "Cloud gods may live in cool clouds, warm clouds, storm clouds, wind clouds, or rain clouds.",
-    "difficulty": null,
-    "original_title": "Suddhikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Plain Version ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn32.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Einfache Fassung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn32.1_translation-en-sujato",
-        "segmented": true,
-        "title": "Plain Version ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn32.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn32.1_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn32.1_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn32.1_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn32.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn32.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn32.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn32.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn32.1_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn32.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn32.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn32.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn32.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn32.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.512, cck17.229, csp1ed13.214, csp2ed13.214, dr17.313, ms13S3_1216, msdiv550, ndp13.468, pts-vp-pli3.254, sya17.314, vri25.251",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn32.1:0.2": "Valāhakavagga → valāhasaṁyuttam (pts1ed) ",
+    "sn32.1:0.3": "Suddhikasutta → desanā (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn32.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn32.1:1.1": "bj15.512, cck17.229, csp1ed13.214, csp2ed13.214, dr17.313, ms13S3_1216, msdiv550, ndp13.468, pts-vp-pli3.254, sya17.314, vri25.251"
   },
-  "bilara_translated_text": {
-    "uid": "sn32.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn32.1:0.1",
+    "sn32.1:0.2",
+    "sn32.1:0.3",
+    "sn32.1:1.1",
+    "sn32.1:1.2",
+    "sn32.1:1.3",
+    "sn32.1:1.4",
+    "sn32.1:1.5",
+    "sn32.1:1.6",
+    "sn32.1:1.7",
+    "sn32.1:1.8",
+    "sn32.1:1.9",
+    "sn32.1:1.10",
+    "sn32.1:1.11"
+  ]
 }

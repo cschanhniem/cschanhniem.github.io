@@ -1,297 +1,77 @@
 {
+  "html_text": {
+    "sn52.11:0.1": "<article id='sn52.11'><header><ul><li class='division'>{}</li>",
+    "sn52.11:0.2": "<li>{}</li></ul>",
+    "sn52.11:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn52.11:1.1": "<p>{}",
+    "sn52.11:1.2": "{}</p>",
+    "sn52.11:2.1": "<p>{}</p>",
+    "sn52.11:2.2": "<p>{}",
+    "sn52.11:2.3": "{}",
+    "sn52.11:2.4": "{}",
+    "sn52.11:2.5": "{}",
+    "sn52.11:2.6": "{}",
+    "sn52.11:2.7": "{}",
+    "sn52.11:2.8": "{}</p>",
+    "sn52.11:2.9": "<p>{}</p>",
+    "sn52.11:2.10": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn52.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kappasahassasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gravely Ill ",
-      "uid": "sn52.10"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Psychic Powers ",
-      "uid": "sn52.12"
-    }
+    "sn52.11:0.1": "Saṁyutta Nikāya 52.11 ",
+    "sn52.11:0.2": "2. Dutiyavagga ",
+    "sn52.11:0.3": "Kappasahassasutta ",
+    "sn52.11:1.1": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "sn52.11:1.2": "Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ …pe… ekamantaṁ nisinnā kho te bhikkhū āyasmantaṁ anuruddhaṁ etadavocuṁ: ",
+    "sn52.11:2.1": "“Katamesaṁ āyasmā anuruddho dhammānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto”ti? ",
+    "sn52.11:2.2": "“Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. ",
+    "sn52.11:2.3": "Katamesaṁ catunnaṁ? ",
+    "sn52.11:2.4": "Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… ",
+    "sn52.11:2.5": "vedanāsu …pe… ",
+    "sn52.11:2.6": "citte …pe… ",
+    "sn52.11:2.7": "dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—",
+    "sn52.11:2.8": "imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. ",
+    "sn52.11:2.9": "Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā kappasahassaṁ anussarāmī”ti. ",
+    "sn52.11:2.10": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn52.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Thousand Eons ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gravely Ill ",
-      "uid": "sn52.10"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Psychic Powers ",
-      "uid": "sn52.12"
-    }
+  "translation_text": {
+    "sn52.11:0.1": "Linked Discourses 52.11 ",
+    "sn52.11:0.2": "2. A Thousand ",
+    "sn52.11:0.3": "A Thousand Eons ",
+    "sn52.11:1.1": "At one time Venerable Anuruddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "sn52.11:1.2": "Then several mendicants went up to Venerable Anuruddha, exchanged greetings with him … and said: ",
+    "sn52.11:2.1": "“What things has Venerable Anuruddha developed and cultivated to attain great direct knowledge?” ",
+    "sn52.11:2.2": "“Reverends, I attained great direct knowledge by developing and cultivating the four kinds of mindfulness meditation. ",
+    "sn52.11:2.3": "What four? ",
+    "sn52.11:2.4": "I meditate observing an aspect of the body … ",
+    "sn52.11:2.5": "feelings … ",
+    "sn52.11:2.6": "mind … ",
+    "sn52.11:2.7": "principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. ",
+    "sn52.11:2.8": "I attained great direct knowledge by developing and cultivating these four kinds of mindfulness meditation. ",
+    "sn52.11:2.9": "And it’s because of developing and cultivating these four kinds of mindfulness meditation that I recollect a thousand eons.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 52.11",
-    "volpages": "PTS SN v 303",
-    "alt_volpages": null,
-    "uid": "sn52.11",
-    "blurb": "By developing the four kinds of mindfulness meditation Anuruddha surveys a thousand world systems.",
-    "difficulty": null,
-    "original_title": "Kappasahassasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Thousand Eons ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn52.11_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Tausend Äonen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn52.11_translation-en-sujato",
-        "segmented": true,
-        "title": "A Thousand Eons ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn52.11_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn52.11_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn52.11_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn52.11_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn52.11_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn52.11_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn52.11_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn52.11_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn52.11_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn52.11_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn52.11_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn52.11_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.78, csp1ed14.265, csp2ed14.265, dr19.381, ms14S5_1592, msdiv909, ndp15.259, sya19.388, vri27.374,cck19.300, ms14S5_1593",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn52.11:0.2": "Dutiyavagga → sahassavaggo (bj) ",
+    "sn52.11:0.3": "Kappasahassasutta → sahassasuttaṁ (bj); sahassa (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn52.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kappasahassasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn52.11:1.1": "bj17.2.78, csp1ed14.265, csp2ed14.265, dr19.381, ms14S5_1592, msdiv909, ndp15.259, sya19.388, vri27.374",
+    "sn52.11:2.1": "cck19.300, ms14S5_1593"
   },
-  "bilara_translated_text": {
-    "uid": "sn52.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Thousand Eons ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn52.11:0.1",
+    "sn52.11:0.2",
+    "sn52.11:0.3",
+    "sn52.11:1.1",
+    "sn52.11:1.2",
+    "sn52.11:2.1",
+    "sn52.11:2.2",
+    "sn52.11:2.3",
+    "sn52.11:2.4",
+    "sn52.11:2.5",
+    "sn52.11:2.6",
+    "sn52.11:2.7",
+    "sn52.11:2.8",
+    "sn52.11:2.9",
+    "sn52.11:2.10"
+  ]
 }

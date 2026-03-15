@@ -1,284 +1,83 @@
 {
+  "comment_text": {
+    "sn38.15:1.1": "See notes at <a href='https://suttacentral.net/sn22.105/en/sujato#1.4'>SN 22.105:1.4</a> and <a href='https://suttacentral.net/sn22.22/en/sujato'>SN 22.22</a>. "
+  },
+  "html_text": {
+    "sn38.15:0.1": "<article id='sn38.15'><header><ul><li class='division'>{}</li>",
+    "sn38.15:0.2": "<li>{}</li></ul>",
+    "sn38.15:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn38.15:1.1": "<p>{}",
+    "sn38.15:1.2": "{}</p>",
+    "sn38.15:1.3": "<p>{}",
+    "sn38.15:1.4": "{}",
+    "sn38.15:1.5": "{}</p>",
+    "sn38.15:1.6": "<p>{}</p>",
+    "sn38.15:1.7": "<p>{}</p>",
+    "sn38.15:1.8": "<p>{}",
+    "sn38.15:1.9": "{}",
+    "sn38.15:1.10": "{}",
+    "sn38.15:1.11": "{}",
+    "sn38.15:1.12": "{}",
+    "sn38.15:1.13": "{}</p>",
+    "sn38.15:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn38.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sakkāyapañhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Question About Suffering ",
-      "uid": "sn38.14"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Question About What’s Hard to Do ",
-      "uid": "sn38.16"
-    }
+    "sn38.15:0.1": "Saṁyutta Nikāya 38.15 ",
+    "sn38.15:0.2": "1. Jambukhādakavagga ",
+    "sn38.15:0.3": "Sakkāyapañhāsutta ",
+    "sn38.15:1.1": "“‘Sakkāyo, sakkāyo’ti, āvuso sāriputta, vuccati. ",
+    "sn38.15:1.2": "Katamo nu kho, āvuso, sakkāyo”ti? ",
+    "sn38.15:1.3": "“Pañcime, āvuso, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—",
+    "sn38.15:1.4": "rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. ",
+    "sn38.15:1.5": "Ime kho, āvuso, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti. ",
+    "sn38.15:1.6": "“Atthi panāvuso, maggo atthi paṭipadā, etassa sakkāyassa pariññāyā”ti? ",
+    "sn38.15:1.7": "“Atthi kho, āvuso, maggo atthi paṭipadā, etassa sakkāyassa pariññāyā”ti. ",
+    "sn38.15:1.8": "“Katamo panāvuso, maggo katamā paṭipadā, etassa sakkāyassa pariññāyā”ti? ",
+    "sn38.15:1.9": "“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etassa sakkāyassa pariññāya, seyyathidaṁ—",
+    "sn38.15:1.10": "sammādiṭṭhi …pe… sammāsamādhi. ",
+    "sn38.15:1.11": "Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa sakkāyassa pariññāyā”ti. ",
+    "sn38.15:1.12": "“Bhaddako, āvuso, maggo bhaddikā paṭipadā, etassa sakkāyassa pariññāya. ",
+    "sn38.15:1.13": "Alañca panāvuso sāriputta, appamādāyā”ti. ",
+    "sn38.15:1.14": "Pannarasamaṁ. "
   },
-  "translation": {
-    "uid": "sn38.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Question About Substantial Reality ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Question About Suffering ",
-      "uid": "sn38.14"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Question About What’s Hard to Do ",
-      "uid": "sn38.16"
-    }
+  "translation_text": {
+    "sn38.15:0.1": "Linked Discourses 38.15 ",
+    "sn38.15:0.2": "1. With Jambukhādaka ",
+    "sn38.15:0.3": "A Question About Substantial Reality ",
+    "sn38.15:1.1": "“Reverend Sāriputta, they speak of this thing called ‘substantial reality’. ",
+    "sn38.15:1.2": "What is substantial reality?” ",
+    "sn38.15:1.3": "“Reverend, the Buddha said that these five grasping aggregates are substantial reality. That is, ",
+    "sn38.15:1.4": "form, feeling, perception, choices, and consciousness. ",
+    "sn38.15:1.5": "The Buddha said that these five grasping aggregates are substantial reality.” ",
+    "sn38.15:1.6": "“But, reverend, is there a path and a practice for completely understanding this substantial reality?” ",
+    "sn38.15:1.7": "“There is.” … ",
+    "sn38.15:1.8": "",
+    "sn38.15:1.9": "",
+    "sn38.15:1.10": "",
+    "sn38.15:1.11": "",
+    "sn38.15:1.12": "",
+    "sn38.15:1.13": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 38.15",
-    "volpages": " PTS 4.260",
-    "alt_volpages": null,
-    "uid": "sn38.15",
-    "blurb": "The wanderer Jambukhādaka asks Sāriputta what is identity.",
-    "difficulty": null,
-    "original_title": "Sakkāyapañhāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Question About Substantial Reality ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn38.15_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Eine Frage über substanzielle Wirklichkeit ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn38.15_translation-en-sujato",
-        "segmented": true,
-        "title": "A Question About Substantial Reality ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn38.15_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn38.15_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn38.15_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn38.15_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn38.15_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn38.15_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn38.15_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn38.15_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn38.15_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn38.15_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn38.15_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.486, csp1ed13.454, csp2ed13.454, dr18.319, ms13S4_1356, msdiv328, ndp14.232, pts-vp-pli4.260, sya18.320",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn38.15:1.1": "bj16.486, csp1ed13.454, csp2ed13.454, dr18.319, ms13S4_1356, msdiv328, ndp14.232, pts-vp-pli4.260, sya18.320"
   },
-  "bilara_root_text": {
-    "uid": "sn38.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sakkāyapañhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn38.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Question About Substantial Reality ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn38.15:0.1",
+    "sn38.15:0.2",
+    "sn38.15:0.3",
+    "sn38.15:1.1",
+    "sn38.15:1.2",
+    "sn38.15:1.3",
+    "sn38.15:1.4",
+    "sn38.15:1.5",
+    "sn38.15:1.6",
+    "sn38.15:1.7",
+    "sn38.15:1.8",
+    "sn38.15:1.9",
+    "sn38.15:1.10",
+    "sn38.15:1.11",
+    "sn38.15:1.12",
+    "sn38.15:1.13",
+    "sn38.15:1.14"
+  ]
 }

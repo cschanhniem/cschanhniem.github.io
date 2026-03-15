@@ -1,337 +1,44 @@
 {
+  "html_text": {
+    "an7.60:0.1": "<article id='an7.60'><header><ul><li class='division'>{}</li>",
+    "an7.60:0.2": "<li>{}</li></ul>",
+    "an7.60:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.60:1.1": "<p>{}",
+    "an7.60:1.2": "{}",
+    "an7.60:1.3": "{}",
+    "an7.60:1.4": "{}</p>",
+    "an7.60:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an7.60",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sattadhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Kimbila ",
-      "uid": "an7.59"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Nodding Off ",
-      "uid": "an7.61"
-    }
+    "an7.60:0.1": "Aṅguttara Nikāya 7.60 ",
+    "an7.60:0.2": "6. Abyākatavagga ",
+    "an7.60:0.3": "Sattadhammasutta ",
+    "an7.60:1.1": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva āsavānaṁ khayā …pe… sacchikatvā upasampajja vihareyya. ",
+    "an7.60:1.2": "Katamehi sattahi? ",
+    "an7.60:1.3": "Idha, bhikkhave, bhikkhu saddho hoti, sīlavā hoti, bahussuto hoti, paṭisallīno hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. ",
+    "an7.60:1.4": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu nacirasseva āsavānaṁ khayā …pe… sacchikatvā upasampajja vihareyyā”ti. ",
+    "an7.60:1.5": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an7.60",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Seven Qualities ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Kimbila ",
-      "uid": "an7.59"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Nodding Off ",
-      "uid": "an7.61"
-    }
+  "translation_text": {
+    "an7.60:0.1": "Numbered Discourses 7.60 ",
+    "an7.60:0.2": "6. The Undeclared Points ",
+    "an7.60:0.3": "Seven Qualities ",
+    "an7.60:1.1": "“Mendicants, a mendicant with seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness. ",
+    "an7.60:1.2": "What seven? ",
+    "an7.60:1.3": "It’s when a mendicant is faithful, ethical, learned, secluded, energetic, mindful, and wise. ",
+    "an7.60:1.4": "A mendicant with these seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.60",
-    "volpages": " PTS 4.85",
-    "alt_volpages": null,
-    "uid": "an7.60",
-    "blurb": "Qualities required for arahantship.",
-    "difficulty": null,
-    "original_title": "Sattadhammasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Seven Qualities ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.60_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Sieben Eigenschaften ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.60_translation-en-sujato",
-        "segmented": true,
-        "title": "Seven Qualities ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.60_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.60_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Семь качеств ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.60_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.60_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.60_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_an7.60_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.60_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.60_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an7.60_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an7.60_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.60_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sv",
-        "lang_name": "Svenska",
-        "is_root": false,
-        "author": "Kerstin Jönhagen",
-        "author_short": "Jönhagen",
-        "author_uid": "jonhagen",
-        "publication_date": null,
-        "id": "sv_an7.60_jonhagen",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.60_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.60_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.60_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A7_385, msdiv60, pts-vp-pli4.85",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.60:1.1": "ms16A7_385, msdiv60, pts-vp-pli4.85"
   },
-  "bilara_root_text": {
-    "uid": "an7.60",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sattadhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an7.60",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Seven Qualities ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.60:0.1",
+    "an7.60:0.2",
+    "an7.60:0.3",
+    "an7.60:1.1",
+    "an7.60:1.2",
+    "an7.60:1.3",
+    "an7.60:1.4",
+    "an7.60:1.5"
+  ]
 }

@@ -1,310 +1,77 @@
 {
+  "html_text": {
+    "sn52.3:0.1": "<article id='sn52.3'><header><ul><li class='division'>{}</li>",
+    "sn52.3:0.2": "<li>{}</li></ul>",
+    "sn52.3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn52.3:1.1": "<p>{}",
+    "sn52.3:1.2": "{}",
+    "sn52.3:1.3": "{}</p>",
+    "sn52.3:1.4": "<p>{}</p>",
+    "sn52.3:2.1": "<p>{}",
+    "sn52.3:2.2": "{}",
+    "sn52.3:2.3": "{}",
+    "sn52.3:2.4": "{}",
+    "sn52.3:2.5": "{}",
+    "sn52.3:2.6": "{}",
+    "sn52.3:2.7": "{}</p>",
+    "sn52.3:2.8": "<p>{}</p>",
+    "sn52.3:2.9": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn52.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sutanusutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "In Private (2nd) ",
-      "uid": "sn52.2"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "At Thorny Wood (1st) ",
-      "uid": "sn52.4"
-    }
+    "sn52.3:0.1": "Saṁyutta Nikāya 52.3 ",
+    "sn52.3:0.2": "1. Rahogatavagga ",
+    "sn52.3:0.3": "Sutanusutta ",
+    "sn52.3:1.1": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati sutanutīre. ",
+    "sn52.3:1.2": "Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. ",
+    "sn52.3:1.3": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū āyasmantaṁ anuruddhaṁ etadavocuṁ: ",
+    "sn52.3:1.4": "“katamesaṁ āyasmā anuruddho dhammānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto”ti? ",
+    "sn52.3:2.1": "“Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. ",
+    "sn52.3:2.2": "Katamesaṁ catunnaṁ? ",
+    "sn52.3:2.3": "Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; ",
+    "sn52.3:2.4": "vedanāsu …pe… ",
+    "sn52.3:2.5": "citte …pe… ",
+    "sn52.3:2.6": "dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—",
+    "sn52.3:2.7": "imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. ",
+    "sn52.3:2.8": "Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā hīnaṁ dhammaṁ hīnato abbhaññāsiṁ, majjhimaṁ dhammaṁ majjhimato abbhaññāsiṁ, paṇītaṁ dhammaṁ paṇītato abbhaññāsin”ti. ",
+    "sn52.3:2.9": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn52.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "On the Bank of the Sutanu ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "In Private (2nd) ",
-      "uid": "sn52.2"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "At Thorny Wood (1st) ",
-      "uid": "sn52.4"
-    }
+  "translation_text": {
+    "sn52.3:0.1": "Linked Discourses 52.3 ",
+    "sn52.3:0.2": "1. In Private ",
+    "sn52.3:0.3": "On the Bank of the Sutanu ",
+    "sn52.3:1.1": "At one time Venerable Anuruddha was staying near Sāvatthī on the bank of the Sutanu. ",
+    "sn52.3:1.2": "Then several mendicants went up to Venerable Anuruddha, and exchanged greetings with him. ",
+    "sn52.3:1.3": "When the greetings and polite conversation were over, they sat down to one side, and said to him: ",
+    "sn52.3:1.4": "“What things has Venerable Anuruddha developed and cultivated to attain great direct knowledge?” ",
+    "sn52.3:2.1": "“Reverends, I attained great direct knowledge by developing and cultivating the four kinds of mindfulness meditation. ",
+    "sn52.3:2.2": "What four? ",
+    "sn52.3:2.3": "I meditate observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. ",
+    "sn52.3:2.4": "I meditate observing an aspect of feelings … ",
+    "sn52.3:2.5": "mind … ",
+    "sn52.3:2.6": "principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. ",
+    "sn52.3:2.7": "I attained great direct knowledge by developing and cultivating these four kinds of mindfulness meditation. ",
+    "sn52.3:2.8": "And it was by developing and cultivating these four kinds of mindfulness meditation that I directly knew the lower realm as lower, the middle realm as middle, and the higher realm as higher.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 52.3",
-    "volpages": " PTS 5.298",
-    "alt_volpages": null,
-    "uid": "sn52.3",
-    "blurb": "When some mendicants ask Anuruddha how he attained such higher knowledge, he replies it is from developing the four kinds of mindfulness meditation.",
-    "difficulty": null,
-    "original_title": "Sutanusutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "On the Bank of the Sutanu ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn52.3_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Am Ufer des Sutanu ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn52.3_translation-en-sujato",
-        "segmented": true,
-        "title": "On the Bank of the Sutanu ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn52.3_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn52.3_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn52.3_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn52.3_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn52.3_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn52.3_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn52.3_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn52.3_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn52.3_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn52.3_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn52.3_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn52.3_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn52.3_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.295, ms14S5_1565, msdiv901, pts-vp-pli5.298,ms14S5_1566, vri27.369",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn52.3:1.1": "cck19.295, ms14S5_1565, msdiv901, pts-vp-pli5.298",
+    "sn52.3:2.1": "ms14S5_1566, vri27.369"
   },
-  "bilara_root_text": {
-    "uid": "sn52.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sutanusutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn52.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "On the Bank of the Sutanu ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn52.3:0.1",
+    "sn52.3:0.2",
+    "sn52.3:0.3",
+    "sn52.3:1.1",
+    "sn52.3:1.2",
+    "sn52.3:1.3",
+    "sn52.3:1.4",
+    "sn52.3:2.1",
+    "sn52.3:2.2",
+    "sn52.3:2.3",
+    "sn52.3:2.4",
+    "sn52.3:2.5",
+    "sn52.3:2.6",
+    "sn52.3:2.7",
+    "sn52.3:2.8",
+    "sn52.3:2.9"
+  ]
 }

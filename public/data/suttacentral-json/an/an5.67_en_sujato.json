@@ -1,284 +1,73 @@
 {
+  "html_text": {
+    "an5.67:0.1": "<article id='an5.67'><header><ul><li class='division'>{}</li>",
+    "an5.67:0.2": "<li>{}</li></ul>",
+    "an5.67:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.67:1.1": "<p>{}",
+    "an5.67:1.2": "{}</p>",
+    "an5.67:2.1": "<p>{}</p>",
+    "an5.67:2.2": "<p>{}</p>",
+    "an5.67:2.3": "<p>{}</p>",
+    "an5.67:2.4": "<p>{}</p>",
+    "an5.67:2.5": "<p>{}</p>",
+    "an5.67:2.6": "<p>{}</p>",
+    "an5.67:2.7": "<p>{}",
+    "an5.67:2.8": "{}</p>",
+    "an5.67:2.9": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.67",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamaiddhipādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sharing Life ",
-      "uid": "an5.66"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Bases of Psychic Power (2nd) ",
-      "uid": "an5.68"
-    }
+    "an5.67:0.1": "Aṅguttara Nikāya 5.67 ",
+    "an5.67:0.2": "7. Saññāvagga ",
+    "an5.67:0.3": "Paṭhamaiddhipādasutta ",
+    "an5.67:1.1": "“Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā pañca dhamme bhāveti, pañca dhamme bahulīkaroti, tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—",
+    "an5.67:1.2": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā. ",
+    "an5.67:2.1": "Katame pañca? ",
+    "an5.67:2.2": "Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, ",
+    "an5.67:2.3": "vīriyasamādhi …pe… ",
+    "an5.67:2.4": "cittasamādhi … ",
+    "an5.67:2.5": "vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, ",
+    "an5.67:2.6": "ussoḷhiññeva pañcamiṁ. ",
+    "an5.67:2.7": "Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā ime pañca dhamme bhāveti, ime pañca dhamme bahulīkaroti, tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—",
+    "an5.67:2.8": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti. ",
+    "an5.67:2.9": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an5.67",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Bases of Psychic Power (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sharing Life ",
-      "uid": "an5.66"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Bases of Psychic Power (2nd) ",
-      "uid": "an5.68"
-    }
+  "translation_text": {
+    "an5.67:0.1": "Numbered Discourses 5.67 ",
+    "an5.67:0.2": "7. Perceptions ",
+    "an5.67:0.3": "Bases of Psychic Power (1st) ",
+    "an5.67:1.1": "“Mendicants, any monk or nun who develops and cultivates five qualities can expect one of two results: ",
+    "an5.67:1.2": "enlightenment in this very life, or if there’s something left over, non-return. ",
+    "an5.67:2.1": "What five? ",
+    "an5.67:2.2": "A mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort … ",
+    "an5.67:2.3": "A mendicant develops the basis of psychic power that has immersion due to energy, and active effort … ",
+    "an5.67:2.4": "A mendicant develops the basis of psychic power that has immersion due to mental development, and active effort … ",
+    "an5.67:2.5": "A mendicant develops the basis of psychic power that has immersion due to inquiry, and active effort. ",
+    "an5.67:2.6": "And the fifth is sheer vigor. ",
+    "an5.67:2.7": "Any monk or nun who develops and cultivates these five qualities can expect one of two results: ",
+    "an5.67:2.8": "enlightenment in this very life, or if there’s something left over, non-return.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.67",
-    "volpages": " PTS 3.82",
-    "alt_volpages": null,
-    "uid": "an5.67",
-    "blurb": "The four bases of psychic power, together with energy, lead to awakening.",
-    "difficulty": null,
-    "original_title": "Paṭhamaiddhipādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Bases of Psychic Power (1st) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.67_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Grundlagen übersinnlicher Kraft (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.67_translation-en-sujato",
-        "segmented": true,
-        "title": "Bases of Psychic Power (1st) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.67_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.67_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.67_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.67_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.67_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.67_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.67_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.67_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.67_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.67_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.67_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj20.130, ms16A5_413, msdiv67, pts-vp-pli3.82,dr22.93, ms16A5_414, ndp17.344",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an5.67:1.1": "pañca dhamme → ime pañca dhamme (mr) | bhāveti, pañca dhamme → ime pañca dhamme (mr) ",
+    "an5.67:2.6": "ussoḷhiññeva pañcamiṁ → ussoḷhī yeva pañcamī (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an5.67",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamaiddhipādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.67:1.1": "bj20.130, ms16A5_413, msdiv67, pts-vp-pli3.82",
+    "an5.67:2.1": "dr22.93, ms16A5_414, ndp17.344"
   },
-  "bilara_translated_text": {
-    "uid": "an5.67",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Bases of Psychic Power (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.67:0.1",
+    "an5.67:0.2",
+    "an5.67:0.3",
+    "an5.67:1.1",
+    "an5.67:1.2",
+    "an5.67:2.1",
+    "an5.67:2.2",
+    "an5.67:2.3",
+    "an5.67:2.4",
+    "an5.67:2.5",
+    "an5.67:2.6",
+    "an5.67:2.7",
+    "an5.67:2.8",
+    "an5.67:2.9"
+  ]
 }

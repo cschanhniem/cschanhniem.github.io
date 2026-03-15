@@ -1,337 +1,65 @@
 {
+  "html_text": {
+    "sn56.51:0.1": "<article id='sn56.51'><header><ul><li class='division'>{}</li>",
+    "sn56.51:0.2": "<li>{}</li></ul>",
+    "sn56.51:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.51:1.1": "<p>{}",
+    "sn56.51:1.2": "{}",
+    "sn56.51:1.3": "{}</p>",
+    "sn56.51:1.4": "<p>{}",
+    "sn56.51:1.5": "{}</p>",
+    "sn56.51:1.6": "<p>{}",
+    "sn56.51:1.7": "{}",
+    "sn56.51:1.8": "{}</p>",
+    "sn56.51:2.1": "<p>{}</p>",
+    "sn56.51:2.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.51",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nakhasikhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sineru, King of Mountains (2nd) ",
-      "uid": "sn56.50"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Lotus Pond ",
-      "uid": "sn56.52"
-    }
+    "sn56.51:0.1": "Saṁyutta Nikāya 56.51 ",
+    "sn56.51:0.2": "6. Abhisamayavagga ",
+    "sn56.51:0.3": "Nakhasikhāsutta ",
+    "sn56.51:1.1": "Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū āmantesi: ",
+    "sn56.51:1.2": "“Taṁ kiṁ maññatha, bhikkhave, ",
+    "sn56.51:1.3": "katamaṁ nu kho bahutaraṁ—yo vāyaṁ mayā paritto nakhasikhāyaṁ paṁsu āropito, ayaṁ vā mahāpathavī”ti? ",
+    "sn56.51:1.4": "“Etadeva, bhante, bahutaraṁ yadidaṁ—mahāpathavī; appamattakāyaṁ bhagavatā paritto nakhasikhāyaṁ paṁsu āropito. ",
+    "sn56.51:1.5": "Saṅkhampi na upeti, upanidhampi na upeti, kalabhāgampi na upeti mahāpathaviṁ upanidhāya bhagavatā paritto nakhasikhāyaṁ paṁsu āropito”ti. ",
+    "sn56.51:1.6": "“Evameva kho, bhikkhave, ariyasāvakassa diṭṭhisampannassa puggalassa abhisametāvino etadeva bahutaraṁ dukkhaṁ yadidaṁ parikkhīṇaṁ pariyādinnaṁ; appamattakaṁ avasiṭṭhaṁ. ",
+    "sn56.51:1.7": "Saṅkhampi na upeti, upanidhampi na upeti, kalabhāgampi na upeti purimaṁ dukkhakkhandhaṁ parikkhīṇaṁ pariyādinnaṁ upanidhāya yadidaṁ sattakkhattuparamatā; ",
+    "sn56.51:1.8": "yo ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+    "sn56.51:2.1": "Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. ",
+    "sn56.51:2.2": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn56.51",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Fingernail ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sineru, King of Mountains (2nd) ",
-      "uid": "sn56.50"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Lotus Pond ",
-      "uid": "sn56.52"
-    }
+  "translation_text": {
+    "sn56.51:0.1": "Linked Discourses 56.51 ",
+    "sn56.51:0.2": "6. Comprehension ",
+    "sn56.51:0.3": "A Fingernail ",
+    "sn56.51:1.1": "Then the Buddha, picking up a little bit of dirt on his fingernail, addressed the mendicants: ",
+    "sn56.51:1.2": "“What do you think, mendicants? ",
+    "sn56.51:1.3": "Which is more: the little bit of dirt on my fingernail, or this great earth?” ",
+    "sn56.51:1.4": "“Sir, the great earth is certainly more. The little bit of dirt on your fingernail is tiny. ",
+    "sn56.51:1.5": "Compared to the great earth, it doesn’t count, there’s no comparison, it’s not worth a fraction.” ",
+    "sn56.51:1.6": "“In the same way, for an individual with comprehension, a noble disciple accomplished in view, the suffering that’s over and done with is more, what’s left is tiny. ",
+    "sn56.51:1.7": "Compared to the mass of suffering in the past that’s over and done with, it doesn’t count, there’s no comparison, it’s not worth a fraction, since there are at most seven more lives. ",
+    "sn56.51:1.8": "Such an individual truly understands about suffering, its origin, its cessation, and the path. ",
+    "sn56.51:2.1": "That’s why you should practice meditation …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.51",
-    "volpages": " PTS 5.460",
-    "alt_volpages": null,
-    "uid": "sn56.51",
-    "blurb": "As a bit of dirt under a nail compared to the whole earth, so is the suffering remaining to one who has seen the four noble truths.",
-    "difficulty": null,
-    "original_title": "Nakhasikhāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Fingernail ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.51_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Fingernagel ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.51_translation-en-sujato",
-        "segmented": true,
-        "title": "A Fingernail ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "sn56.51_translation-fr-sekha",
-        "segmented": true,
-        "title": "Sur un coin d’ongle ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.51_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.51_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.51_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_sn56.51_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.51_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.51_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.51_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.51_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn56.51_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn56.51_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.51_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.51_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.51_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.51_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.324, cck19.436, csp1ed14.400, csp2ed14.400, dr19.560, ms14S5_2408, msdiv1121, pts-vp-pli5.460, sya19.572, vri27.519,ms14S5_2409",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.51:1.1": "bj17.2.324, cck19.436, csp1ed14.400, csp2ed14.400, dr19.560, ms14S5_2408, msdiv1121, pts-vp-pli5.460, sya19.572, vri27.519",
+    "sn56.51:2.1": "ms14S5_2409"
   },
-  "bilara_root_text": {
-    "uid": "sn56.51",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nakhasikhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn56.51",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Fingernail ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn56.51:0.1",
+    "sn56.51:0.2",
+    "sn56.51:0.3",
+    "sn56.51:1.1",
+    "sn56.51:1.2",
+    "sn56.51:1.3",
+    "sn56.51:1.4",
+    "sn56.51:1.5",
+    "sn56.51:1.6",
+    "sn56.51:1.7",
+    "sn56.51:1.8",
+    "sn56.51:2.1",
+    "sn56.51:2.2"
+  ]
 }

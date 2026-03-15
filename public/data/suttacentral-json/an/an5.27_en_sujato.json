@@ -1,379 +1,74 @@
 {
+  "html_text": {
+    "an5.27:0.1": "<article id='an5.27'><header><ul><li class='division'>{}</li>",
+    "an5.27:0.2": "<li>{}</li></ul>",
+    "an5.27:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.27:1.1": "<p>{}",
+    "an5.27:1.2": "{}",
+    "an5.27:1.3": "{}</p>",
+    "an5.27:1.4": "<p>{}</p>",
+    "an5.27:1.5": "<p>{}</p>",
+    "an5.27:1.6": "<p>{}</p>",
+    "an5.27:1.7": "<p>{}</p>",
+    "an5.27:1.8": "<p>{}</p>",
+    "an5.27:2.1": "<p>{}",
+    "an5.27:2.2": "{}</p>",
+    "an5.27:2.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samādhisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Opportunities for Freedom ",
-      "uid": "an5.26"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Five Factors ",
-      "uid": "an5.28"
-    }
+    "an5.27:0.1": "Aṅguttara Nikāya 5.27 ",
+    "an5.27:0.2": "3. Pañcaṅgikavagga ",
+    "an5.27:0.3": "Samādhisutta ",
+    "an5.27:1.1": "“Samādhiṁ, bhikkhave, bhāvetha appamāṇaṁ nipakā patissatā. ",
+    "an5.27:1.2": "Samādhiṁ, bhikkhave, bhāvayataṁ appamāṇaṁ nipakānaṁ patissatānaṁ pañca ñāṇāni paccattaññeva uppajjanti. ",
+    "an5.27:1.3": "Katamāni pañca? ",
+    "an5.27:1.4": "‘Ayaṁ samādhi paccuppannasukho ceva āyatiñca sukhavipāko’ti paccattaññeva ñāṇaṁ uppajjati, ",
+    "an5.27:1.5": "‘ayaṁ samādhi ariyo nirāmiso’ti paccattaññeva ñāṇaṁ uppajjati, ",
+    "an5.27:1.6": "‘ayaṁ samādhi akāpurisasevito’ti paccattaññeva ñāṇaṁ uppajjati, ",
+    "an5.27:1.7": "‘ayaṁ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na sasaṅkhāraniggayhavāritagato’ti paccattaññeva ñāṇaṁ uppajjati, ",
+    "an5.27:1.8": "‘sato kho panāhaṁ imaṁ samāpajjāmi sato vuṭṭhahāmī’ti paccattaññeva ñāṇaṁ uppajjati. ",
+    "an5.27:2.1": "Samādhiṁ, bhikkhave, bhāvetha appamāṇaṁ nipakā patissatā. ",
+    "an5.27:2.2": "Samādhiṁ, bhikkhave, bhāvayataṁ appamāṇaṁ nipakānaṁ patissatānaṁ imāni pañca ñāṇāni paccattaññeva uppajjantī”ti. ",
+    "an5.27:2.3": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an5.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Immersion ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Opportunities for Freedom ",
-      "uid": "an5.26"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Five Factors ",
-      "uid": "an5.28"
-    }
+  "translation_text": {
+    "an5.27:0.1": "Numbered Discourses 5.27 ",
+    "an5.27:0.2": "3. With Five Factors ",
+    "an5.27:0.3": "Immersion ",
+    "an5.27:1.1": "“Mendicants, develop limitless immersion, alert and mindful. ",
+    "an5.27:1.2": "When you develop limitless immersion, alert and mindful, five knowledges arise for you personally. ",
+    "an5.27:1.3": "What five? ",
+    "an5.27:1.4": "‘This immersion is blissful now, and results in bliss in the future.’ … ",
+    "an5.27:1.5": "‘This immersion is noble and not of the flesh.’ … ",
+    "an5.27:1.6": "‘This immersion is not cultivated by reprobates.’ … ",
+    "an5.27:1.7": "‘This immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression.’ … ",
+    "an5.27:1.8": "‘I mindfully enter into and emerge from this immersion.’ … ",
+    "an5.27:2.1": "Develop limitless immersion, alert and mindful. ",
+    "an5.27:2.2": "When you develop limitless immersion, alert and mindful, these five knowledges arise for you personally.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.27",
-    "volpages": "PTS AN iii 24",
-    "alt_volpages": null,
-    "uid": "an5.27",
-    "blurb": "Develop measureless convergence of mind and five knowledges intuitively arise.",
-    "difficulty": null,
-    "original_title": "Samādhisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Immersion ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.27_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Versenkung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.27_translation-en-sujato",
-        "segmented": true,
-        "title": "Immersion ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.27_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.27_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Сосредоточение",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.27_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.27_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_an5.27_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2012",
-        "segmented": false,
-        "volpage": null,
-        "title": "Concentration"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2012",
-        "id": "es_an5.27_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_an5.27_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Fenyvesi Róbert",
-        "author_short": "Fenyvesi",
-        "author_uid": "fenyvesi",
-        "publication_date": "2009",
-        "id": "hu_an5.27_fenyvesi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.27_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_an5.27_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.27_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.27_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2008",
-        "id": "pt_an5.27_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an5.27_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.27_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.27_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.27_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.27_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A5_103, msdiv27,ms16A5_104",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an5.27:1.6": "akāpurisasevito’ti → mahāpurisasevitoti (mr) ",
+    "an5.27:1.7": "na sasaṅkhāraniggayhavāritagato’ti → na ca sasaṅkhāraniggayhavāritacatoti (bj); na ca sasaṅkhāraniggayhavāritappattoti (sya-all); na ca sasaṅkhāraniggayhavāritāvaṭoti (pts1ed); na ca sasaṅkhāraniggayhavārivāvaṭoti (mr); na sasaṅkhāraniggayhavāriyādhigatoti (?) ",
+    "an5.27:1.8": "sato vuṭṭhahāmī’ti → sato ca uṭṭhahāmīti (bj); sato vuṭṭhahāmīti (sya-all, km); so kho panāhaṁ imaṁ samādhiṁ satova samāpajjāmi satova vuṭṭhahāmīti (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an5.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samādhisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.27:1.1": "ms16A5_103, msdiv27",
+    "an5.27:2.1": "ms16A5_104"
   },
-  "bilara_translated_text": {
-    "uid": "an5.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Immersion ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "an5.27:0.1",
+    "an5.27:0.2",
+    "an5.27:0.3",
+    "an5.27:1.1",
+    "an5.27:1.2",
+    "an5.27:1.3",
+    "an5.27:1.4",
+    "an5.27:1.5",
+    "an5.27:1.6",
+    "an5.27:1.7",
+    "an5.27:1.8",
+    "an5.27:2.1",
+    "an5.27:2.2",
+    "an5.27:2.3"
   ]
 }

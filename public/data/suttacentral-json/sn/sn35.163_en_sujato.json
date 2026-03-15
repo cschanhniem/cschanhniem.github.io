@@ -1,310 +1,98 @@
 {
+  "comment_text": {
+    "sn35.163:1.1": "This discourse parallels <a href='https://suttacentral.net/sn22.140/en/sujato'>SN 22.140</a>. "
+  },
+  "html_text": {
+    "sn35.163:0.1": "<article id='sn35.163'><header><ul><li class='division'>{}</li>",
+    "sn35.163:0.2": "<li>{}</li></ul>",
+    "sn35.163:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.163:1.1": "<p>{}</p>",
+    "sn35.163:1.2": "<p>{}</p>",
+    "sn35.163:1.3": "<p>{}",
+    "sn35.163:1.4": "{}</p>",
+    "sn35.163:1.5": "<p>{}",
+    "sn35.163:1.6": "{}",
+    "sn35.163:1.7": "{}",
+    "sn35.163:1.8": "{}",
+    "sn35.163:1.9": "{}</p>",
+    "sn35.163:1.10": "<p>{}",
+    "sn35.163:1.11": "{}",
+    "sn35.163:1.12": "{}",
+    "sn35.163:1.13": "{}",
+    "sn35.163:1.14": "{}",
+    "sn35.163:1.15": "{}</p>",
+    "sn35.163:1.16": "<p>{}</p>",
+    "sn35.163:1.17": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.163",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Koṭṭhikadukkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Koṭṭhita on Impermanence ",
-      "uid": "sn35.162"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Koṭṭhita on Not-Self ",
-      "uid": "sn35.164"
-    }
+    "sn35.163:0.1": "Saṁyutta Nikāya 35.163 ",
+    "sn35.163:0.2": "16. Nandikkhayavagga ",
+    "sn35.163:0.3": "Koṭṭhikadukkhasutta ",
+    "sn35.163:1.1": "Atha kho āyasmā mahākoṭṭhiko …pe… bhagavantaṁ etadavoca: ",
+    "sn35.163:1.2": "“sādhu me, bhante …pe… vihareyyan”ti. ",
+    "sn35.163:1.3": "“Yaṁ kho, koṭṭhika, dukkhaṁ tatra te chando pahātabbo. ",
+    "sn35.163:1.4": "Kiñca, koṭṭhika, dukkhaṁ? ",
+    "sn35.163:1.5": "Cakkhu kho, koṭṭhika, dukkhaṁ; tatra te chando pahātabbo. ",
+    "sn35.163:1.6": "Rūpā dukkhā; tatra te chando pahātabbo. ",
+    "sn35.163:1.7": "Cakkhuviññāṇaṁ dukkhaṁ; tatra te chando pahātabbo. ",
+    "sn35.163:1.8": "Cakkhusamphasso dukkho; tatra te chando pahātabbo. ",
+    "sn35.163:1.9": "Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi dukkhaṁ; tatra te chando pahātabbo …pe… ",
+    "sn35.163:1.10": "jivhā dukkhā; tatra te chando pahātabbo …pe… ",
+    "sn35.163:1.11": "mano dukkho; tatra te chando pahātabbo. ",
+    "sn35.163:1.12": "Dhammā dukkhā; tatra te chando pahātabbo. ",
+    "sn35.163:1.13": "Manoviññāṇaṁ dukkhaṁ; tatra te chando pahātabbo. ",
+    "sn35.163:1.14": "Manosamphasso dukkho; tatra te chando pahātabbo. ",
+    "sn35.163:1.15": "Yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi dukkhaṁ; tatra te chando pahātabbo. ",
+    "sn35.163:1.16": "Yaṁ kho, koṭṭhika, dukkhaṁ tatra te chando pahātabbo”ti. ",
+    "sn35.163:1.17": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn35.163",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Koṭṭhita on Suffering ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Koṭṭhita on Impermanence ",
-      "uid": "sn35.162"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Koṭṭhita on Not-Self ",
-      "uid": "sn35.164"
-    }
+  "translation_text": {
+    "sn35.163:0.1": "Linked Discourses 35.163 ",
+    "sn35.163:0.2": "16. The End of Relishing ",
+    "sn35.163:0.3": "With Koṭṭhita on Suffering ",
+    "sn35.163:1.1": "Then Venerable Mahākoṭṭhita … said to the Buddha: ",
+    "sn35.163:1.2": "“Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” ",
+    "sn35.163:1.3": "“Koṭṭhita, you should give up desire for what is suffering. ",
+    "sn35.163:1.4": "And what is suffering? ",
+    "sn35.163:1.5": "The eye, ",
+    "sn35.163:1.6": "sights, ",
+    "sn35.163:1.7": "eye consciousness, ",
+    "sn35.163:1.8": "and eye contact are suffering: you should give up desire for them. ",
+    "sn35.163:1.9": "The pleasant, painful, or neutral feeling that arises dependent on eye contact is also suffering; you should give up desire for it. ",
+    "sn35.163:1.10": "The ear … nose … tongue … body … ",
+    "sn35.163:1.11": "The mind, ",
+    "sn35.163:1.12": "ideas, ",
+    "sn35.163:1.13": "mind consciousness, ",
+    "sn35.163:1.14": "and mind contact are suffering: you should give up desire for them. ",
+    "sn35.163:1.15": "The pleasant, painful, or neutral feeling that arises dependent on mind contact is also suffering: you should give up desire for it. ",
+    "sn35.163:1.16": "Koṭṭhita, you should give up desire for what is suffering.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.163",
-    "volpages": " PTS 4.146",
-    "alt_volpages": null,
-    "uid": "sn35.163",
-    "blurb": "Mahākoṭṭhita asks for a teaching to take on retreat. The Buddha says to give up desire for what is suffering, i.e. the process of sense experience.",
-    "difficulty": null,
-    "original_title": "Koṭṭhikadukkhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Koṭṭhita on Suffering ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.163_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Koṭṭhita über Leiden ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.163_translation-en-sujato",
-        "segmented": true,
-        "title": "With Koṭṭhita on Suffering ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.163_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.163_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.163_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn35.163_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.163_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.163_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.163_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.163_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.163_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.163_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.163_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.163_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.163_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.290, cck18.182, csp1ed13.358, csp2ed13.358, dr18.183, ms13S4_876, msdiv163, ndp14.133, pts-vp-pli4.146, sya18.184",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.163:0.3": "Koṭṭhikadukkhasutta → koṭṭhitadukkhasuttaṁ (bj); koṭṭhiko 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.163",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Koṭṭhikadukkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.163:1.1": "bj16.290, cck18.182, csp1ed13.358, csp2ed13.358, dr18.183, ms13S4_876, msdiv163, ndp14.133, pts-vp-pli4.146, sya18.184"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.163",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Koṭṭhita on Suffering ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn35.163:0.1",
+    "sn35.163:0.2",
+    "sn35.163:0.3",
+    "sn35.163:1.1",
+    "sn35.163:1.2",
+    "sn35.163:1.3",
+    "sn35.163:1.4",
+    "sn35.163:1.5",
+    "sn35.163:1.6",
+    "sn35.163:1.7",
+    "sn35.163:1.8",
+    "sn35.163:1.9",
+    "sn35.163:1.10",
+    "sn35.163:1.11",
+    "sn35.163:1.12",
+    "sn35.163:1.13",
+    "sn35.163:1.14",
+    "sn35.163:1.15",
+    "sn35.163:1.16",
+    "sn35.163:1.17"
+  ]
 }

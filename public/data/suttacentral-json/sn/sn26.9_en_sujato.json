@@ -1,323 +1,83 @@
 {
+  "comment_text": {
+    "sn26.9:1.6": "The inclusion of the space and consciousness elements distinguish this from <a href='https://suttacentral.net/sn14.36/en/sujato'>SN 14.36</a>. "
+  },
+  "html_text": {
+    "sn26.9:0.1": "<article id='sn26.9'><header><ul><li class='division'>{}</li>",
+    "sn26.9:0.2": "<li>{}</li></ul>",
+    "sn26.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn26.9:1.1": "<p>{}</p>",
+    "sn26.9:1.2": "<p>{}",
+    "sn26.9:1.3": "{}",
+    "sn26.9:1.4": "{}",
+    "sn26.9:1.5": "{}",
+    "sn26.9:1.6": "{}",
+    "sn26.9:1.7": "{}",
+    "sn26.9:1.8": "{}",
+    "sn26.9:1.9": "{}",
+    "sn26.9:1.10": "{}",
+    "sn26.9:1.11": "{}",
+    "sn26.9:1.12": "{}",
+    "sn26.9:1.13": "{}</p>",
+    "sn26.9:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn26.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dhātusutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Craving ",
-      "uid": "sn26.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Aggregates ",
-      "uid": "sn26.10"
-    }
+    "sn26.9:0.1": "Saṁyutta Nikāya 26.9 ",
+    "sn26.9:0.2": "1. Uppādavagga ",
+    "sn26.9:0.3": "Dhātusutta ",
+    "sn26.9:1.1": "Sāvatthinidānaṁ. ",
+    "sn26.9:1.2": "“Yo kho, bhikkhave, pathavīdhātuyā uppādo ṭhiti abhinibbatti pātubhāvo …pe… jarāmaraṇassa pātubhāvo; ",
+    "sn26.9:1.3": "yo āpodhātuyā … ",
+    "sn26.9:1.4": "yo tejodhātuyā … ",
+    "sn26.9:1.5": "yo vāyodhātuyā … ",
+    "sn26.9:1.6": "yo ākāsadhātuyā … ",
+    "sn26.9:1.7": "yo viññāṇadhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. ",
+    "sn26.9:1.8": "Yo ca kho, bhikkhave, pathavīdhātuyā nirodho …pe… jarāmaraṇassa atthaṅgamo; ",
+    "sn26.9:1.9": "yo āpodhātuyā nirodho … ",
+    "sn26.9:1.10": "yo tejodhātuyā nirodho … ",
+    "sn26.9:1.11": "yo vāyodhātuyā nirodho … ",
+    "sn26.9:1.12": "yo ākāsadhātuyā nirodho … ",
+    "sn26.9:1.13": "yo viññāṇadhātuyā nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti. ",
+    "sn26.9:1.14": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn26.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Elements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Craving ",
-      "uid": "sn26.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Aggregates ",
-      "uid": "sn26.10"
-    }
+  "translation_text": {
+    "sn26.9:0.1": "Linked Discourses 26.9 ",
+    "sn26.9:0.2": "1. Arising ",
+    "sn26.9:0.3": "Elements ",
+    "sn26.9:1.1": "At Sāvatthī. ",
+    "sn26.9:1.2": "“Mendicants, the arising, continuation, and manifestation and regeneration of the earth element, ",
+    "sn26.9:1.3": "the water element, ",
+    "sn26.9:1.4": "the fire element, ",
+    "sn26.9:1.5": "the air element, ",
+    "sn26.9:1.6": "the space element, ",
+    "sn26.9:1.7": "and the consciousness element is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. ",
+    "sn26.9:1.8": "The cessation of the earth element, ",
+    "sn26.9:1.9": "the water element, ",
+    "sn26.9:1.10": "the fire element, ",
+    "sn26.9:1.11": "the air element, ",
+    "sn26.9:1.12": "the space element, ",
+    "sn26.9:1.13": "and the consciousness element is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 26.9",
-    "volpages": "PTS SN iii 231",
-    "alt_volpages": null,
-    "uid": "sn26.9",
-    "blurb": "The arising of the four physical elements is the arising of suffering.",
-    "difficulty": null,
-    "original_title": "Dhātusutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Elements ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn26.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Elemente ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn26.9_translation-en-sujato",
-        "segmented": true,
-        "title": "Elements ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn26.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn26.9_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn26.9_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn26.9_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Fenyvesi Róbert",
-        "author_short": "Fenyvesi",
-        "author_uid": "fenyvesi",
-        "publication_date": "2009",
-        "id": "hu_sn26.9_fenyvesi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn26.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn26.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn26.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn26.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn26.9_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn26.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn26.9_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn26.9_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn26.9_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr17.284, ms13S3_1085, msdiv320",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn26.9:1.1": "dr17.284, ms13S3_1085, msdiv320"
   },
-  "bilara_root_text": {
-    "uid": "sn26.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dhātusutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn26.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Elements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn26.9:0.1",
+    "sn26.9:0.2",
+    "sn26.9:0.3",
+    "sn26.9:1.1",
+    "sn26.9:1.2",
+    "sn26.9:1.3",
+    "sn26.9:1.4",
+    "sn26.9:1.5",
+    "sn26.9:1.6",
+    "sn26.9:1.7",
+    "sn26.9:1.8",
+    "sn26.9:1.9",
+    "sn26.9:1.10",
+    "sn26.9:1.11",
+    "sn26.9:1.12",
+    "sn26.9:1.13",
+    "sn26.9:1.14"
+  ]
 }

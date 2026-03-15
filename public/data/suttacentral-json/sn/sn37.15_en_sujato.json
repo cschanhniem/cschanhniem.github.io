@@ -1,323 +1,61 @@
 {
+  "html_text": {
+    "sn37.15:0.1": "<article id='sn37.15'><header><ul><li class='division'>{}</li>",
+    "sn37.15:0.2": "<li>{}</li></ul>",
+    "sn37.15:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn37.15:1.1": "<p>{}",
+    "sn37.15:1.2": "{}",
+    "sn37.15:1.3": "{}</p>",
+    "sn37.15:2.1": "<p>{}",
+    "sn37.15:2.2": "{}",
+    "sn37.15:2.3": "{}",
+    "sn37.15:2.4": "{}</p>",
+    "sn37.15:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn37.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Akkodhanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Five Threats ",
-      "uid": "sn37.14"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Free of Acrimony ",
-      "uid": "sn37.16"
-    }
+    "sn37.15:0.1": "Saṁyutta Nikāya 37.15 ",
+    "sn37.15:0.2": "2. Dutiyapeyyālavagga ",
+    "sn37.15:0.3": "Akkodhanasutta ",
+    "sn37.15:1.1": "Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ekamantaṁ nisinno kho āyasmā anuruddho bhagavantaṁ etadavoca: ",
+    "sn37.15:1.2": "“idhāhaṁ, bhante, mātugāmaṁ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantaṁ. ",
+    "sn37.15:1.3": "Katīhi nu kho, bhante, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti? ",
+    "sn37.15:2.1": "“Pañcahi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. ",
+    "sn37.15:2.2": "Katamehi pañcahi? ",
+    "sn37.15:2.3": "Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, akkodhano ca hoti, paññavā ca hoti—",
+    "sn37.15:2.4": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti. ",
+    "sn37.15:2.5": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn37.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Loving ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Five Threats ",
-      "uid": "sn37.14"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Free of Acrimony ",
-      "uid": "sn37.16"
-    }
+  "translation_text": {
+    "sn37.15:0.1": "Linked Discourses 37.15 ",
+    "sn37.15:0.2": "2. Abbreviated Texts ",
+    "sn37.15:0.3": "Loving ",
+    "sn37.15:1.1": "Then Venerable Anuruddha went up to the Buddha … and asked him, ",
+    "sn37.15:1.2": "“Sometimes, sir, with my clairvoyance that’s purified and superhuman, I see that a lady—when her body breaks up, after death—is reborn in a good place, a heavenly realm. ",
+    "sn37.15:1.3": "How many qualities do ladies have so that they’re reborn in a good place, a heavenly realm?” ",
+    "sn37.15:2.1": "“Anuruddha, when ladies have five qualities, when their body breaks up, after death, they are reborn in a good place, a heavenly realm. ",
+    "sn37.15:2.2": "What five? ",
+    "sn37.15:2.3": "They’re faithful, conscientious, prudent, loving, and wise. ",
+    "sn37.15:2.4": "When ladies possess these five qualities, when their body breaks up, after death, they are reborn in a good place, a heavenly realm.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 37.15",
-    "volpages": " PTS 4.244",
-    "alt_volpages": null,
-    "uid": "sn37.15",
-    "blurb": "A woman with five good qualities has a good rebirth.",
-    "difficulty": null,
-    "original_title": "Akkodhanasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Loving ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn37.15_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Langmütig ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn37.15_translation-en-sujato",
-        "segmented": true,
-        "title": "Loving ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn37.15_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn37.15_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn37.15_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn37.15_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn37.15_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn37.15_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn37.15_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn37.15_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn37.15_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn37.15_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn37.15_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn37.15_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn37.15_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn37.15_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.460, cck18.300, csp1ed13.441, csp2ed13.441, dr18.297, ms13S4_1273, msdiv294,ms13S4_1274, pts-vp-pli4.244, sya18.302",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn37.15:0.3": "Akkodhanasutta → akodhano (pts1ed) ",
+    "sn37.15:2.3": "akkodhano → akodhano (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn37.15",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Akkodhanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn37.15:1.1": "bj16.460, cck18.300, csp1ed13.441, csp2ed13.441, dr18.297, ms13S4_1273, msdiv294",
+    "sn37.15:2.1": "ms13S4_1274, pts-vp-pli4.244, sya18.302"
   },
-  "bilara_translated_text": {
-    "uid": "sn37.15",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Loving ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn37.15:0.1",
+    "sn37.15:0.2",
+    "sn37.15:0.3",
+    "sn37.15:1.1",
+    "sn37.15:1.2",
+    "sn37.15:1.3",
+    "sn37.15:2.1",
+    "sn37.15:2.2",
+    "sn37.15:2.3",
+    "sn37.15:2.4",
+    "sn37.15:2.5"
+  ]
 }

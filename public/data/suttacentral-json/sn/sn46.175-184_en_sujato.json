@@ -1,0 +1,66 @@
+{
+  "html_text": {
+    "sn46.175-184:0.1": "<article id='sn46.175-184'><header><ul><li class='division'>{}</li>",
+    "sn46.175-184:0.2": "<li>{}</li></ul>",
+    "sn46.175-184:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.175-184:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn46.175-184:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.175-184:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.175-184:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.175-184:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.175-184:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.175-184:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn46.175-184:3.1": "<p class='expansion-instructions'>{}</p>",
+    "sn46.175-184:3.2": "<p class='expansion-instructions'>{}</p>",
+    "sn46.175-184:3.3": "<p class='endkanda'>{}</p></article>"
+  },
+  "root_text": {
+    "sn46.175-184:0.1": "Saṁyutta Nikāya 46.175–184 ",
+    "sn46.175-184:0.2": "18. Punaoghavagga ",
+    "sn46.175-184:0.3": "Punaoghādisutta ",
+    "sn46.175-184:1.1": "…pe… ",
+    "sn46.175-184:1.2": "Bojjhaṅgasaṁyuttassa punaoghavaggo aṭṭhārasamo. ",
+    "sn46.175-184:2.0": "Uddānaṁ ",
+    "sn46.175-184:2.1": "Ogho yogo upādānaṁ, ",
+    "sn46.175-184:2.2": "Ganthā anusayena ca; ",
+    "sn46.175-184:2.3": "Kāmaguṇā nīvaraṇā, ",
+    "sn46.175-184:2.4": "Khandhā oruddhambhāgiyānīti. ",
+    "sn46.175-184:3.1": "(Rāgavinayapariyosāna-dosavinayapariyosāna-mohavinayapariyosānavaggo vitthāretabbo.) ",
+    "sn46.175-184:3.2": "(Yadapi maggasaṁyuttaṁ vitthāretabbaṁ, tadapi bojjhaṅgasaṁyuttaṁ vitthāretabbaṁ.) ",
+    "sn46.175-184:3.3": "Bojjhaṅgasaṁyuttaṁ dutiyaṁ. "
+  },
+  "translation_text": {
+    "sn46.175-184:0.1": "Linked Discourses 46.175–184 ",
+    "sn46.175-184:0.2": "18. Another Chapter on Floods ",
+    "sn46.175-184:0.3": "Another Series on Floods, Etc. ",
+    "sn46.175-184:1.1": "(Tell in full as in SN 45.171–180.) ",
+    "sn46.175-184:1.2": "",
+    "sn46.175-184:2.1": "",
+    "sn46.175-184:2.2": "",
+    "sn46.175-184:2.3": "",
+    "sn46.175-184:2.4": "",
+    "sn46.175-184:3.1": "(Tell in full as in the chapter on removal of greed, hate, and delusion.) ",
+    "sn46.175-184:3.2": "(The Linked Discourses on Awakening Factors should be told in full just as the Linked Discourses on the Path.) ",
+    "sn46.175-184:3.3": "The Linked Discourses on the Awakening Factors is the second section. "
+  },
+  "reference_text": {
+    "sn46.175-184:1.1": "ms14S5_744, msdiv357-366",
+    "sn46.175-184:2.1": "ms14S5_747, pts-vp-pli5.140, vri27.219",
+    "sn46.175-184:3.1": "cck19.155, ms14S5_748"
+  },
+  "keys_order": [
+    "sn46.175-184:0.1",
+    "sn46.175-184:0.2",
+    "sn46.175-184:0.3",
+    "sn46.175-184:1.1",
+    "sn46.175-184:1.2",
+    "sn46.175-184:2.0",
+    "sn46.175-184:2.1",
+    "sn46.175-184:2.2",
+    "sn46.175-184:2.3",
+    "sn46.175-184:2.4",
+    "sn46.175-184:3.1",
+    "sn46.175-184:3.2",
+    "sn46.175-184:3.3"
+  ]
+}

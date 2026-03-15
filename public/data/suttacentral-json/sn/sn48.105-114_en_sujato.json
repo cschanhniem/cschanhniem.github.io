@@ -1,0 +1,49 @@
+{
+  "html_text": {
+    "sn48.105-114:0.1": "<article id='sn48.105-114'><header><ul><li class='division'>{}</li>",
+    "sn48.105-114:0.2": "<li>{}</li></ul>",
+    "sn48.105-114:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.105-114:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn48.105-114:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn48.105-114:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn48.105-114:2.2": "<span class='verse-line'>{}</span>",
+    "sn48.105-114:2.3": "<span class='verse-line'>{}</span>",
+    "sn48.105-114:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
+  "root_text": {
+    "sn48.105-114:0.1": "Saṁyutta Nikāya 48.105 ",
+    "sn48.105-114:0.2": "11. Esanāvagga ",
+    "sn48.105-114:0.3": "Esanāvagga ",
+    "sn48.105-114:1.1": "(Esanāvaggo vitthāretabbo.) ",
+    "sn48.105-114:2.0": "Tassuddānaṁ ",
+    "sn48.105-114:2.1": "Esanā vidhā āsavo, ",
+    "sn48.105-114:2.2": "Bhavo ca dukkhatā tisso; ",
+    "sn48.105-114:2.3": "Khilaṁ malañca nīgho ca, ",
+    "sn48.105-114:2.4": "Vedanā taṇhā tasinā cāti. "
+  },
+  "translation_text": {
+    "sn48.105-114:0.1": "Linked Discourses 48.105–114 ",
+    "sn48.105-114:0.2": "11. The Chapter on Searches ",
+    "sn48.105-114:0.3": "The Chapter on Searches ",
+    "sn48.105-114:1.1": "(Tell in full as in the chapter on searches at SN 45.161–170.) ",
+    "sn48.105-114:2.1": "Searches, discriminations, defilements, ",
+    "sn48.105-114:2.2": "states of existence, three kinds of suffering, ",
+    "sn48.105-114:2.3": "barrenness, stains, and troubles, ",
+    "sn48.105-114:2.4": "feelings, craving, and thirst. "
+  },
+  "reference_text": {
+    "sn48.105-114:1.1": "bj17.1.420, ms14S5_1264",
+    "sn48.105-114:2.1": "csp1ed14.211, csp2ed14.211, ms14S5_1266"
+  },
+  "keys_order": [
+    "sn48.105-114:0.1",
+    "sn48.105-114:0.2",
+    "sn48.105-114:0.3",
+    "sn48.105-114:1.1",
+    "sn48.105-114:2.0",
+    "sn48.105-114:2.1",
+    "sn48.105-114:2.2",
+    "sn48.105-114:2.3",
+    "sn48.105-114:2.4"
+  ]
+}

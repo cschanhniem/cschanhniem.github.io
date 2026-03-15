@@ -1,258 +1,72 @@
 {
+  "html_text": {
+    "an10.196:0.1": "<article id='an10.196'><header><ul><li class='division'>{}</li>",
+    "an10.196:0.2": "<li>{}</li></ul>",
+    "an10.196:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.196:1.1": "<p>{}",
+    "an10.196:1.2": "{}",
+    "an10.196:1.3": "{}",
+    "an10.196:1.4": "{}",
+    "an10.196:1.5": "{}",
+    "an10.196:1.6": "{}</p>",
+    "an10.196:2.1": "<p>{}",
+    "an10.196:2.2": "{}",
+    "an10.196:2.3": "{}",
+    "an10.196:2.4": "{}</p>",
+    "an10.196:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.196",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bahulīkātabbasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Principles That Should Be Developed ",
-      "uid": "an10.195"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Should Be Recollected ",
-      "uid": "an10.197"
-    }
+    "an10.196:0.1": "Aṅguttara Nikāya 10.196 ",
+    "an10.196:0.2": "19. Ariyamaggavagga ",
+    "an10.196:0.3": "Bahulīkātabbasutta ",
+    "an10.196:1.1": "“Bahulīkātabbañca vo, bhikkhave, dhammaṁ desessāmi na bahulīkātabbañca. ",
+    "an10.196:1.2": "Taṁ suṇātha …pe… ",
+    "an10.196:1.3": "katamo ca, bhikkhave, na bahulīkātabbo dhammo? ",
+    "an10.196:1.4": "Pāṇātipāto …pe… ",
+    "an10.196:1.5": "micchādiṭṭhi—",
+    "an10.196:1.6": "ayaṁ vuccati, bhikkhave, na bahulīkātabbo dhammo. ",
+    "an10.196:2.1": "Katamo ca, bhikkhave, bahulīkātabbo dhammo? ",
+    "an10.196:2.2": "Pāṇātipātā veramaṇī …pe… ",
+    "an10.196:2.3": "sammādiṭṭhi—",
+    "an10.196:2.4": "ayaṁ vuccati, bhikkhave, bahulīkātabbo dhammo”ti. ",
+    "an10.196:2.5": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an10.196",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Principles That Should Be Made Much Of ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Principles That Should Be Developed ",
-      "uid": "an10.195"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Should Be Recollected ",
-      "uid": "an10.197"
-    }
+  "translation_text": {
+    "an10.196:0.1": "Numbered Discourses 10.196 ",
+    "an10.196:0.2": "19. The Noble Path ",
+    "an10.196:0.3": "Principles That Should Be Made Much Of ",
+    "an10.196:1.1": "“I will teach you the principle to make much of and the principle not to make much of. … ",
+    "an10.196:1.2": "",
+    "an10.196:1.3": "And what is the principle not to make much of? ",
+    "an10.196:1.4": "Killing living creatures … ",
+    "an10.196:1.5": "wrong view. ",
+    "an10.196:1.6": "This is called the principle not to make much of. ",
+    "an10.196:2.1": "And what is the principle to make much of? ",
+    "an10.196:2.2": "Not killing living creatures … ",
+    "an10.196:2.3": "right view. ",
+    "an10.196:2.4": "This is called the principle to make much of.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.196",
-    "volpages": "PTS AN v 280",
-    "alt_volpages": null,
-    "uid": "an10.196",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Bahulīkātabbasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Principles That Should Be Made Much Of ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.196_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Was man mehren soll ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.196_translation-en-sujato",
-        "segmented": true,
-        "title": "Principles That Should Be Made Much Of ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.196_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.196_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.196_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.196_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.196_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.196_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.196_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.196_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.196_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms17A10_1376, msdiv196,ms17A10_1377, sya24.302",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an10.196:0.3": "Bahulīkātabbasutta → bahulīkātabbadhammasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an10.196",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bahulīkātabbasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.196:1.1": "ms17A10_1376, msdiv196",
+    "an10.196:2.1": "ms17A10_1377, sya24.302"
   },
-  "bilara_translated_text": {
-    "uid": "an10.196",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Principles That Should Be Made Much Of ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.196:0.1",
+    "an10.196:0.2",
+    "an10.196:0.3",
+    "an10.196:1.1",
+    "an10.196:1.2",
+    "an10.196:1.3",
+    "an10.196:1.4",
+    "an10.196:1.5",
+    "an10.196:1.6",
+    "an10.196:2.1",
+    "an10.196:2.2",
+    "an10.196:2.3",
+    "an10.196:2.4",
+    "an10.196:2.5"
+  ]
 }

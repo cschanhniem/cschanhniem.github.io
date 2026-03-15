@@ -1,310 +1,69 @@
 {
+  "comment_text": {
+    "sn29.3:1.3": "Dragons who wished to be reborn as a human were encouraged to observe the sabbath (<a href='https://suttacentral.net/pli-tv-kd1/en/sujato#63.4.3'>Kd 1:63.4.3</a>, <a href='https://suttacentral.net/ja506/en/sujato'>Ja 506</a>), during which they would cast off their serpent form (<i lang='pi' translate='no'>vossaṭṭhakāyā</i>) and appear human (snakes are experts at skin-shedding). This seems to have been misunderstood in later days to imply that they should literally sacrifice their bodies, a belief unsupported in early Buddhism (<a href='https://suttacentral.net/ja524/en/sujato'>Ja 524</a>). ",
+    "sn29.3:2.2": "“Both kinds of deeds” (<i lang='pi' translate='no'>dvayakārino</i>): both good and bad. Contrast the good deeds for being reborn as a centaur (<a href='https://suttacentral.net/sn31.2/en/sujato'>SN 31.2</a>). "
+  },
+  "html_text": {
+    "sn29.3:0.1": "<article id='sn29.3'><header><ul><li class='division'>{}</li>",
+    "sn29.3:0.2": "<li>{}</li></ul>",
+    "sn29.3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn29.3:1.1": "<p>{}",
+    "sn29.3:1.2": "{}</p>",
+    "sn29.3:1.3": "<p>{}</p>",
+    "sn29.3:2.1": "<p>{}",
+    "sn29.3:2.2": "{}",
+    "sn29.3:2.3": "{}",
+    "sn29.3:2.4": "{}",
+    "sn29.3:2.5": "{}",
+    "sn29.3:2.6": "{}</p>",
+    "sn29.3:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn29.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Uposathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Better ",
-      "uid": "sn29.2"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sabbath (2nd) ",
-      "uid": "sn29.4"
-    }
+    "sn29.3:0.1": "Saṁyutta Nikāya 29.3 ",
+    "sn29.3:0.2": "1. Nāgavagga ",
+    "sn29.3:0.3": "Uposathasutta ",
+    "sn29.3:1.1": "Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "sn29.3:1.2": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn29.3:1.3": "“ko nu kho, bhante, hetu, ko paccayo, yena m’idhekacce aṇḍajā nāgā uposathaṁ upavasanti vossaṭṭhakāyā ca bhavantī”ti? ",
+    "sn29.3:2.1": "“Idha, bhikkhu, ekaccānaṁ aṇḍajānaṁ nāgānaṁ evaṁ hoti: ",
+    "sn29.3:2.2": "‘mayaṁ kho pubbe kāyena dvayakārino ahumha, vācāya dvayakārino, manasā dvayakārino. ",
+    "sn29.3:2.3": "Te mayaṁ kāyena dvayakārino, vācāya dvayakārino, manasā dvayakārino, kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapannā. ",
+    "sn29.3:2.4": "Sacajja mayaṁ kāyena sucaritaṁ careyyāma, vācāya sucaritaṁ careyyāma, manasā sucaritaṁ careyyāma, evaṁ mayaṁ kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyyāma. ",
+    "sn29.3:2.5": "Handa mayaṁ etarahi kāyena sucaritaṁ carāma, vācāya sucaritaṁ carāma, manasā sucaritaṁ carāmā’ti. ",
+    "sn29.3:2.6": "Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena m’idhekacce aṇḍajā nāgā uposathaṁ upavasanti vossaṭṭhakāyā ca bhavantī”ti. ",
+    "sn29.3:2.7": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn29.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sabbath ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Better ",
-      "uid": "sn29.2"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sabbath (2nd) ",
-      "uid": "sn29.4"
-    }
+  "translation_text": {
+    "sn29.3:0.1": "Linked Discourses 29.3 ",
+    "sn29.3:0.2": "1. Dragons ",
+    "sn29.3:0.3": "Sabbath ",
+    "sn29.3:1.1": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "sn29.3:1.2": "Then a mendicant went up to the Buddha, sat down to one side, and said to him: ",
+    "sn29.3:1.3": "“Sir, what is the cause, what is the reason why some egg-born dragons keep the sabbath, having transformed their bodies?” ",
+    "sn29.3:2.1": "“Mendicant, it’s when some egg-born dragons think: ",
+    "sn29.3:2.2": "‘In the past we did both kinds of deeds by body, speech, and mind. ",
+    "sn29.3:2.3": "When the body broke up, after death, we were reborn in the company of the egg-born dragons. ",
+    "sn29.3:2.4": "If today we do good things by body, speech, and mind, when the body breaks up, after death, we may be reborn in a good place, a heavenly realm. ",
+    "sn29.3:2.5": "Come, let us do good things by way of body, speech, and mind.’ ",
+    "sn29.3:2.6": "This is the cause, this is the reason why some egg-born dragons keep the sabbath, having transformed their bodies.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 29.3",
-    "volpages": "PTS SN iii 241",
-    "alt_volpages": null,
-    "uid": "sn29.3",
-    "blurb": "Egg born dragons sometimes transform their bodies and observe the sabbath in order to get a good rebirth.",
-    "difficulty": null,
-    "original_title": "Uposathasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Sabbath ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn29.3_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Besinnungstag ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn29.3_translation-en-sujato",
-        "segmented": true,
-        "title": "Sabbath ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn29.3_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn29.3_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn29.3_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn29.3_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn29.3_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn29.3_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn29.3_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn29.3_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn29.3_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn29.3_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn29.3_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn29.3_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn29.3_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr17.298, ms13S3_1155, msdiv344,bj15.480, cck17.218, csp1ed13.203, csp2ed13.203, ms13S3_1156, ndp13.457, sya17.299, vri25.239",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn29.3:1.1": "dr17.298, ms13S3_1155, msdiv344",
+    "sn29.3:2.1": "bj15.480, cck17.218, csp1ed13.203, csp2ed13.203, ms13S3_1156, ndp13.457, sya17.299, vri25.239"
   },
-  "bilara_root_text": {
-    "uid": "sn29.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Uposathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn29.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sabbath ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn29.3:0.1",
+    "sn29.3:0.2",
+    "sn29.3:0.3",
+    "sn29.3:1.1",
+    "sn29.3:1.2",
+    "sn29.3:1.3",
+    "sn29.3:2.1",
+    "sn29.3:2.2",
+    "sn29.3:2.3",
+    "sn29.3:2.4",
+    "sn29.3:2.5",
+    "sn29.3:2.6",
+    "sn29.3:2.7"
+  ]
 }

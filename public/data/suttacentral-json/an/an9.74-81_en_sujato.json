@@ -1,0 +1,29 @@
+{
+  "html_text": {
+    "an9.74-81:0.1": "<article id='an9.74-81'><header><ul><li class='division'>{}</li>",
+    "an9.74-81:0.2": "<li>{}</li></ul>",
+    "an9.74-81:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.74-81:1.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "an9.74-81:0.1": "Aṅguttara Nikāya 9.74–81 ",
+    "an9.74-81:0.2": "8. Sammappadhānavagga ",
+    "an9.74-81:0.3": "Nīvaraṇasuttādi ",
+    "an9.74-81:1.1": "(Yathā satipaṭṭhānavagge tathā sammappadhānavasena vitthāretabbā.) "
+  },
+  "translation_text": {
+    "an9.74-81:0.1": "Numbered Discourses 9.74–81 ",
+    "an9.74-81:0.2": "8. Right Efforts ",
+    "an9.74-81:0.3": "Hindrances, Etc. ",
+    "an9.74-81:1.1": "(Tell in full as in the chapter on mindfulness meditation.) "
+  },
+  "reference_text": {
+    "an9.74-81:1.1": "ms17A9_474, msdiv74-81"
+  },
+  "keys_order": [
+    "an9.74-81:0.1",
+    "an9.74-81:0.2",
+    "an9.74-81:0.3",
+    "an9.74-81:1.1"
+  ]
+}

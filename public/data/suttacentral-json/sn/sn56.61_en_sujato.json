@@ -1,310 +1,78 @@
 {
+  "html_text": {
+    "sn56.61:0.1": "<article id='sn56.61'><header><ul><li class='division'>{}</li>",
+    "sn56.61:0.2": "<li>{}</li></ul>",
+    "sn56.61:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.61:1.1": "<p>{}",
+    "sn56.61:1.2": "{}",
+    "sn56.61:1.3": "{}</p>",
+    "sn56.61:1.4": "<p>{}",
+    "sn56.61:1.5": "{}</p>",
+    "sn56.61:2.1": "<p>{}",
+    "sn56.61:2.2": "{}",
+    "sn56.61:2.3": "{}",
+    "sn56.61:2.4": "{}",
+    "sn56.61:2.5": "{}</p>",
+    "sn56.61:3.1": "<p>{}</p>",
+    "sn56.61:3.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.61",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Aññatrasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Mountain (2nd) ",
-      "uid": "sn56.60"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "In the Borderlands ",
-      "uid": "sn56.62"
-    }
+    "sn56.61:0.1": "Saṁyutta Nikāya 56.61 ",
+    "sn56.61:0.2": "7. Paṭhamaāmakadhaññapeyyālavagga ",
+    "sn56.61:0.3": "Aññatrasutta ",
+    "sn56.61:1.1": "Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū āmantesi: ",
+    "sn56.61:1.2": "“Taṁ kiṁ maññatha, bhikkhave, ",
+    "sn56.61:1.3": "katamaṁ nu kho bahutaraṁ—yo vāyaṁ mayā paritto nakhasikhāyaṁ paṁsu āropito, ayaṁ vā mahāpathavī”ti? ",
+    "sn56.61:1.4": "“Etadeva, bhante, bahutaraṁ, yadidaṁ—mahāpathavī; appamattakāyaṁ bhagavatā paritto nakhasikhāyaṁ paṁsu āropito. ",
+    "sn56.61:1.5": "Saṅkhampi na upeti, upanidhampi na upeti, kalabhāgampi na upeti mahāpathaviṁ upanidhāya bhagavatā paritto nakhasikhāyaṁ paṁsu āropito”ti. ",
+    "sn56.61:2.1": "“Evameva kho, bhikkhave, appamattakā te sattā ye manussesu paccājāyanti; atha kho eteva bahutarā sattā ye aññatra manussehi paccājāyanti. ",
+    "sn56.61:2.2": "Taṁ kissa hetu? ",
+    "sn56.61:2.3": "Adiṭṭhattā, bhikkhave, catunnaṁ ariyasaccānaṁ. ",
+    "sn56.61:2.4": "Katamesaṁ catunnaṁ? ",
+    "sn56.61:2.5": "Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. ",
+    "sn56.61:3.1": "Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. ",
+    "sn56.61:3.2": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn56.61",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Human ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Mountain (2nd) ",
-      "uid": "sn56.60"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "In the Borderlands ",
-      "uid": "sn56.62"
-    }
+  "translation_text": {
+    "sn56.61:0.1": "Linked Discourses 56.61 ",
+    "sn56.61:0.2": "7. Abbreviated Texts on Raw Grain ",
+    "sn56.61:0.3": "Not Human ",
+    "sn56.61:1.1": "Then the Buddha, picking up a little bit of dirt on his fingernail, addressed the mendicants: ",
+    "sn56.61:1.2": "“What do you think, mendicants? ",
+    "sn56.61:1.3": "Which is more: the little bit of dirt on my fingernail, or this great earth?” ",
+    "sn56.61:1.4": "“Sir, the great earth is certainly more. The little bit of dirt on your fingernail is tiny. ",
+    "sn56.61:1.5": "Compared to the great earth, it doesn’t count, there’s no comparison, it’s not worth a fraction.” ",
+    "sn56.61:2.1": "“In the same way, the sentient beings reborn as humans are few, while those not reborn as humans are many. ",
+    "sn56.61:2.2": "Why is that? ",
+    "sn56.61:2.3": "It’s because they haven’t seen the four noble truths. ",
+    "sn56.61:2.4": "What four? ",
+    "sn56.61:2.5": "The noble truths of suffering, its origin, its cessation, and the path. ",
+    "sn56.61:3.1": "That’s why you should practice meditation …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.61",
-    "volpages": " PTS 5.466",
-    "alt_volpages": null,
-    "uid": "sn56.61",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Aññatrasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Not Human ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.61_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Nicht als Menschen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.61_translation-en-sujato",
-        "segmented": true,
-        "title": "Not Human ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.61_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.61_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.61_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.61_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.61_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.61_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.61_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn56.61_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn56.61_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.61_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.61_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.61_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.61_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.332, cck19.440, dr19.566, ms14S5_2433, msdiv1131, ndp15.397, pts-vp-pli5.466, sya19.578,ms14S5_2434,ms14S5_2435, vri27.524",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn56.61:0.2": "Paṭhamaāmakadhaññapeyyālavagga → āmakadhaññapeyyāle paṭhamavaggo (sya-all); vaggo (pts1ed) ",
+    "sn56.61:2.1": "manussehi → manussesu (bj, mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn56.61",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Aññatrasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.61:1.1": "bj17.2.332, cck19.440, dr19.566, ms14S5_2433, msdiv1131, ndp15.397, pts-vp-pli5.466, sya19.578",
+    "sn56.61:2.1": "ms14S5_2434",
+    "sn56.61:3.1": "ms14S5_2435, vri27.524"
   },
-  "bilara_translated_text": {
-    "uid": "sn56.61",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Human ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn56.61:0.1",
+    "sn56.61:0.2",
+    "sn56.61:0.3",
+    "sn56.61:1.1",
+    "sn56.61:1.2",
+    "sn56.61:1.3",
+    "sn56.61:1.4",
+    "sn56.61:1.5",
+    "sn56.61:2.1",
+    "sn56.61:2.2",
+    "sn56.61:2.3",
+    "sn56.61:2.4",
+    "sn56.61:2.5",
+    "sn56.61:3.1",
+    "sn56.61:3.2"
+  ]
 }

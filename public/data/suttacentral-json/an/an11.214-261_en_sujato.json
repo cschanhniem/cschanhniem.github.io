@@ -1,0 +1,57 @@
+{
+  "html_text": {
+    "an11.214-261:0.1": "<article id='an11.214-261'><header><ul><li class='division'>{}</li>",
+    "an11.214-261:0.2": "<li class='pannasaka'>{}</li>",
+    "an11.214-261:0.3": "<li class='vagga'>{}</li></ul>",
+    "an11.214-261:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+    "an11.214-261:1.1": "<p>{}",
+    "an11.214-261:1.2": "{}",
+    "an11.214-261:1.3": "{}",
+    "an11.214-261:1.4": "{}",
+    "an11.214-261:1.5": "{}",
+    "an11.214-261:1.6": "{}",
+    "an11.214-261:1.7": "{}</p></article>"
+  },
+  "root_text": {
+    "an11.214-261:0.1": "Aṅguttara Nikāya 11 ",
+    "an11.214-261:0.2": "Paṭhamapaṇṇāsaka ",
+    "an11.214-261:0.3": "Sāmaññavagga ",
+    "an11.214-261:0.4": "~ ",
+    "an11.214-261:1.1": "… ",
+    "an11.214-261:1.2": "Cakkhusamphassajāya vedanāya… ",
+    "an11.214-261:1.3": "sotasamphassajāya vedanāya… ",
+    "an11.214-261:1.4": "ghānasamphassajāya vedanāya… ",
+    "an11.214-261:1.5": "jivhāsamphassajāya vedanāya… ",
+    "an11.214-261:1.6": "kāyasamphassajāya vedanāya… ",
+    "an11.214-261:1.7": "manosamphassajāya vedanāya… "
+  },
+  "translation_text": {
+    "an11.214-261:0.1": "Numbered Discourses 11.214–261 ",
+    "an11.214-261:0.2": "The First Fifty ",
+    "an11.214-261:0.3": "Similarity ",
+    "an11.214-261:0.4": "Untitled Discourses on Feeling Born of Eye Contact, Etc. ",
+    "an11.214-261:1.1": "… ",
+    "an11.214-261:1.2": "“… feeling born of eye contact … ",
+    "an11.214-261:1.3": "feeling born of ear contact … ",
+    "an11.214-261:1.4": "feeling born of nose contact … ",
+    "an11.214-261:1.5": "feeling born of tongue contact … ",
+    "an11.214-261:1.6": "feeling born of body contact … ",
+    "an11.214-261:1.7": "feeling born of mind contact … "
+  },
+  "reference_text": {
+    "an11.214-261:1.1": "ms17A11_218, msdiv214-261"
+  },
+  "keys_order": [
+    "an11.214-261:0.1",
+    "an11.214-261:0.2",
+    "an11.214-261:0.3",
+    "an11.214-261:0.4",
+    "an11.214-261:1.1",
+    "an11.214-261:1.2",
+    "an11.214-261:1.3",
+    "an11.214-261:1.4",
+    "an11.214-261:1.5",
+    "an11.214-261:1.6",
+    "an11.214-261:1.7"
+  ]
+}

@@ -1,351 +1,55 @@
 {
+  "html_text": {
+    "sn54.3:0.1": "<article id='sn54.3'><header><ul><li class='division'>{}</li>",
+    "sn54.3:0.2": "<li>{}</li></ul>",
+    "sn54.3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn54.3:1.1": "<p>{}",
+    "sn54.3:1.2": "{}</p>",
+    "sn54.3:1.3": "<p>{}</p>",
+    "sn54.3:1.4": "<p>{}</p>",
+    "sn54.3:1.5": "<p>{}</p>",
+    "sn54.3:1.6": "<p>{}</p>",
+    "sn54.3:1.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn54.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Awakening Factors ",
-      "uid": "sn54.2"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Fruits (1st) ",
-      "uid": "sn54.4"
-    }
+    "sn54.3:0.1": "Saṁyutta Nikāya 54.3 ",
+    "sn54.3:0.2": "1. Ekadhammavagga ",
+    "sn54.3:0.3": "Suddhikasutta ",
+    "sn54.3:1.1": "“Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā. ",
+    "sn54.3:1.2": "Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā? ",
+    "sn54.3:1.3": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. ",
+    "sn54.3:1.4": "So satova assasati, satova passasati …pe… ",
+    "sn54.3:1.5": "‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati. ",
+    "sn54.3:1.6": "Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā”ti. ",
+    "sn54.3:1.7": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn54.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Awakening Factors ",
-      "uid": "sn54.2"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Fruits (1st) ",
-      "uid": "sn54.4"
-    }
+  "translation_text": {
+    "sn54.3:0.1": "Linked Discourses 54.3 ",
+    "sn54.3:0.2": "1. One Thing ",
+    "sn54.3:0.3": "Plain Version ",
+    "sn54.3:1.1": "“Mendicants, when mindfulness of breathing is developed and cultivated it’s very fruitful and beneficial. ",
+    "sn54.3:1.2": "And how is mindfulness of breathing developed and cultivated to be very fruitful and beneficial? ",
+    "sn54.3:1.3": "It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, sets their body straight, and establishes mindfulness in their presence. ",
+    "sn54.3:1.4": "Just mindful, they breathe in. Mindful, they breathe out. … ",
+    "sn54.3:1.5": "They practice like this: ‘I’ll breathe in observing letting go.’ They practice like this: ‘I’ll breathe out observing letting go.’ ",
+    "sn54.3:1.6": "Mindfulness of breathing, when developed and cultivated in this way, is very fruitful and beneficial.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 54.3",
-    "volpages": "PTS SN v 313",
-    "alt_volpages": null,
-    "uid": "sn54.3",
-    "blurb": "Breath meditation is very beneficial. It is developed by going into seclusion, establishing mindfulness on the breath, and proceeding through sixteen stages. ",
-    "difficulty": null,
-    "original_title": "Suddhikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Plain Version ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn54.3_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Einfache Fassung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn54.3_translation-en-sujato",
-        "segmented": true,
-        "title": "Plain Version ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "sn54.3_translation-fr-sekha",
-        "segmented": true,
-        "title": "Version simple ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2022",
-        "id": "sn54.3_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Paprastai",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn54.3_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn54.3_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn54.3_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn54.3_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn54.3_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn54.3_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn54.3_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn54.3_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pl",
-        "lang_name": "Polski",
-        "is_root": false,
-        "author": "Piotr Jagodziński",
-        "author_short": "Jagodziński",
-        "author_uid": "jagodzinski",
-        "publication_date": null,
-        "id": "pl_sn54.3_jagodzinski",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn54.3_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn54.3_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn54.3_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn54.3_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn54.3_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.306, dr19.391, ms14S5_1654, msdiv979",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn54.3:0.3": "Suddhikasutta → suddhakasuttaṁ (bj); suddhakaṁ (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn54.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn54.3:1.1": "cck19.306, dr19.391, ms14S5_1654, msdiv979"
   },
-  "bilara_translated_text": {
-    "uid": "sn54.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn54.3:0.1",
+    "sn54.3:0.2",
+    "sn54.3:0.3",
+    "sn54.3:1.1",
+    "sn54.3:1.2",
+    "sn54.3:1.3",
+    "sn54.3:1.4",
+    "sn54.3:1.5",
+    "sn54.3:1.6",
+    "sn54.3:1.7"
+  ]
 }

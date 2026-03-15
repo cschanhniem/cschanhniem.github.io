@@ -1,326 +1,95 @@
 {
+  "comment_text": {
+    "sn35.119:1.1": "For Pañcasikha, see <a href='https://suttacentral.net/dn21/en/sujato'>DN 21</a> and notes there. This question  is uncharacteristic of the sensualist Pañcasikha, and it’s likely this discourse is an artificial construct, suggested by the fact that the previous discourse is “The Question of Sakka”. "
+  },
+  "html_text": {
+    "sn35.119:0.1": "<article id='sn35.119'><header><ul><li class='division'>{}</li>",
+    "sn35.119:0.2": "<li>{}</li></ul>",
+    "sn35.119:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.119:1.1": "<p>{}",
+    "sn35.119:1.2": "{}</p>",
+    "sn35.119:1.3": "<p>{}",
+    "sn35.119:1.4": "{}</p>",
+    "sn35.119:1.5": "<p>{}</p>",
+    "sn35.119:1.6": "<p>{}",
+    "sn35.119:1.7": "{}",
+    "sn35.119:1.8": "{}",
+    "sn35.119:1.9": "{}",
+    "sn35.119:1.10": "{}</p>",
+    "sn35.119:2.1": "<p>{}</p>",
+    "sn35.119:2.2": "<p>{}",
+    "sn35.119:2.3": "{}",
+    "sn35.119:2.4": "{}",
+    "sn35.119:2.5": "{}</p>",
+    "sn35.119:2.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.119",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pañcasikhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Question of Sakka ",
-      "uid": "sn35.118"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sāriputta and the Protégé ",
-      "uid": "sn35.120"
-    }
+    "sn35.119:0.1": "Saṁyutta Nikāya 35.119 ",
+    "sn35.119:0.2": "12. Lokakāmaguṇavagga ",
+    "sn35.119:0.3": "Pañcasikhasutta ",
+    "sn35.119:1.1": "Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. ",
+    "sn35.119:1.2": "Atha kho pañcasikho gandhabbadevaputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho pañcasikho gandhabbadevaputto bhagavantaṁ etadavoca: ",
+    "sn35.119:1.3": "“ko nu kho, bhante, hetu, ko paccayo yena m’idhekacce sattā diṭṭheva dhamme no parinibbāyanti? ",
+    "sn35.119:1.4": "Ko pana, bhante, hetu, ko paccayo yena m’idhekacce sattā diṭṭheva dhamme parinibbāyantī”ti? ",
+    "sn35.119:1.5": "“Santi kho, pañcasikha, cakkhuviññeyyā rūpā …pe… ",
+    "sn35.119:1.6": "santi kho, pañcasikha, manoviññeyyā dhammā, iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. ",
+    "sn35.119:1.7": "Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. ",
+    "sn35.119:1.8": "Tassa taṁ abhinandato abhivadato ajjhosāya tiṭṭhato tannissitaṁ viññāṇaṁ hoti tadupādānaṁ. ",
+    "sn35.119:1.9": "Saupādāno, pañcasikha, bhikkhu no parinibbāyati. ",
+    "sn35.119:1.10": "Ayaṁ kho, pañcasikha, hetu, ayaṁ paccayo yena m’idhekacce sattā diṭṭheva dhamme no parinibbāyanti. ",
+    "sn35.119:2.1": "Santi ca kho, pañcasikha, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā …pe… ",
+    "sn35.119:2.2": "santi kho, pañcasikha, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. ",
+    "sn35.119:2.3": "Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, tassa taṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato na tannissitaṁ viññāṇaṁ hoti, na tadupādānaṁ. ",
+    "sn35.119:2.4": "Anupādāno, pañcasikha, bhikkhu parinibbāyati. ",
+    "sn35.119:2.5": "Ayaṁ kho, pañcasikha, hetu, ayaṁ paccayo yena m’idhekacce sattā diṭṭheva dhamme parinibbāyantī”ti. ",
+    "sn35.119:2.6": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "sn35.119",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Question of Pañcasikha ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Question of Sakka ",
-      "uid": "sn35.118"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sāriputta and the Protégé ",
-      "uid": "sn35.120"
-    }
+  "translation_text": {
+    "sn35.119:0.1": "Linked Discourses 35.119 ",
+    "sn35.119:0.2": "12. The World and the Kinds of Sensual Stimulation ",
+    "sn35.119:0.3": "The Question of Pañcasikha ",
+    "sn35.119:1.1": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. ",
+    "sn35.119:1.2": "And then the centaur Pañcasikha went up to the Buddha, bowed, stood to one side, and said to him: ",
+    "sn35.119:1.3": "“What is the cause, sir, what is the reason why some sentient beings are not fully extinguished in this very life? ",
+    "sn35.119:1.4": "What is the cause, sir, what is the reason why some sentient beings are fully extinguished in this very life?” ",
+    "sn35.119:1.5": "“Pañcasikha, there are sights known by the eye … ",
+    "sn35.119:1.6": "ideas known by the mind, which are likable, desirable, agreeable, pleasant, sensual, and arousing. ",
+    "sn35.119:1.7": "If a mendicant approves, welcomes, and keeps clinging to them, ",
+    "sn35.119:1.8": "their consciousness has that as support and fuel for grasping. ",
+    "sn35.119:1.9": "A mendicant with fuel for grasping does not become extinguished. ",
+    "sn35.119:1.10": "That’s the cause, that’s the reason why some sentient beings are not fully extinguished in this very life. ",
+    "sn35.119:2.1": "There are sights known by the eye … ",
+    "sn35.119:2.2": "ideas known by the mind, which are likable, desirable, agreeable, pleasant, sensual, and arousing. ",
+    "sn35.119:2.3": "If a mendicant doesn’t approve, welcome, and keep clinging to them, their consciousness doesn’t have that as support and fuel for grasping. ",
+    "sn35.119:2.4": "A mendicant free of grasping becomes extinguished. ",
+    "sn35.119:2.5": "That’s the cause, that’s the reason why some sentient beings are fully extinguished in this very life.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.119",
-    "volpages": " PTS 4.103",
-    "alt_volpages": null,
-    "uid": "sn35.119",
-    "blurb": "The fairy Pañcasikha asks the Buddha why some become awakened in this very life, while others do not.",
-    "difficulty": null,
-    "original_title": "Pañcasikhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Question of Pañcasikha ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.119_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Pañcasikhas Frage ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.119_translation-en-sujato",
-        "segmented": true,
-        "title": "The Question of Pañcasikha ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.119_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.119_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.119_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.119_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Pañcasikha"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2010",
-        "id": "es_sn35.119_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.119_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.119_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.119_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.119_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.119_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.119_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.119_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.119_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.119_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.216, cck18.128, ms13S4_655, msdiv119, ndp14.95, pts-vp-pli4.103, sya18.130,dr18.129, ms13S4_656",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.119:0.3": "Pañcasikhasutta → pañcasikhapañhasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.119",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pañcasikhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.119:1.1": "bj16.216, cck18.128, ms13S4_655, msdiv119, ndp14.95, pts-vp-pli4.103, sya18.130",
+    "sn35.119:2.1": "dr18.129, ms13S4_656"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.119",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Question of Pañcasikha ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.119:0.1",
+    "sn35.119:0.2",
+    "sn35.119:0.3",
+    "sn35.119:1.1",
+    "sn35.119:1.2",
+    "sn35.119:1.3",
+    "sn35.119:1.4",
+    "sn35.119:1.5",
+    "sn35.119:1.6",
+    "sn35.119:1.7",
+    "sn35.119:1.8",
+    "sn35.119:1.9",
+    "sn35.119:1.10",
+    "sn35.119:2.1",
+    "sn35.119:2.2",
+    "sn35.119:2.3",
+    "sn35.119:2.4",
+    "sn35.119:2.5",
+    "sn35.119:2.6"
   ]
 }

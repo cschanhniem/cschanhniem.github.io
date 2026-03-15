@@ -1,327 +1,66 @@
 {
+  "html_text": {
+    "sn56.6:0.1": "<article id='sn56.6'><header><ul><li class='division'>{}</li>",
+    "sn56.6:0.2": "<li>{}</li></ul>",
+    "sn56.6:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.6:1.1": "<p>{}",
+    "sn56.6:1.2": "{}",
+    "sn56.6:1.3": "{}</p>",
+    "sn56.6:2.1": "<p>{}",
+    "sn56.6:2.2": "{}",
+    "sn56.6:2.3": "{}",
+    "sn56.6:2.4": "{}",
+    "sn56.6:2.5": "{}</p>",
+    "sn56.6:3.1": "<p>{}</p>",
+    "sn56.6:3.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.6",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyasamaṇabrāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ascetics and Brahmins (1st) ",
-      "uid": "sn56.5"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Thoughts ",
-      "uid": "sn56.7"
-    }
+    "sn56.6:0.1": "Saṁyutta Nikāya 56.6 ",
+    "sn56.6:0.2": "1. Samādhivagga ",
+    "sn56.6:0.3": "Dutiyasamaṇabrāhmaṇasutta ",
+    "sn56.6:1.1": "“Ye hi keci, bhikkhave, atītamaddhānaṁ samaṇā vā brāhmaṇā vā yathābhūtaṁ abhisambuddhaṁ pakāsesuṁ, sabbe te cattāri ariyasaccāni yathābhūtaṁ abhisambuddhaṁ pakāsesuṁ. ",
+    "sn56.6:1.2": "Ye hi keci, bhikkhave, anāgatamaddhānaṁ samaṇā vā brāhmaṇā vā yathābhūtaṁ abhisambuddhaṁ pakāsessanti, sabbe te cattāri ariyasaccāni yathābhūtaṁ abhisambuddhaṁ pakāsessanti. ",
+    "sn56.6:1.3": "Ye hi keci, bhikkhave, etarahi samaṇā vā brāhmaṇā vā yathābhūtaṁ abhisambuddhaṁ pakāsenti, sabbe te cattāri ariyasaccāni yathābhūtaṁ abhisambuddhaṁ pakāsenti. ",
+    "sn56.6:2.1": "Katamāni cattāri? ",
+    "sn56.6:2.2": "Dukkhaṁ ariyasaccaṁ …pe… dukkhanirodhagāminī paṭipadā ariyasaccaṁ. ",
+    "sn56.6:2.3": "Ye hi keci, bhikkhave, atītamaddhānaṁ samaṇā vā brāhmaṇā vā yathābhūtaṁ abhisambuddhaṁ pakāsesuṁ …pe… ",
+    "sn56.6:2.4": "pakāsessanti …pe… ",
+    "sn56.6:2.5": "pakāsenti, sabbe te imāni cattāri ariyasaccāni yathābhūtaṁ abhisambuddhaṁ pakāsenti. ",
+    "sn56.6:3.1": "Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. ",
+    "sn56.6:3.2": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "sn56.6",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ascetics and Brahmins (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ascetics and Brahmins (1st) ",
-      "uid": "sn56.5"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Thoughts ",
-      "uid": "sn56.7"
-    }
+  "translation_text": {
+    "sn56.6:0.1": "Linked Discourses 56.6 ",
+    "sn56.6:0.2": "1. Immersion ",
+    "sn56.6:0.3": "Ascetics and Brahmins (2nd) ",
+    "sn56.6:1.1": "“Mendicants, whatever ascetics and brahmins—past, ",
+    "sn56.6:1.2": "future, ",
+    "sn56.6:1.3": "or present—reveal that they are awakened, all of them reveal that they truly awakened to the four noble truths. ",
+    "sn56.6:2.1": "What four? ",
+    "sn56.6:2.2": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. … ",
+    "sn56.6:2.3": "",
+    "sn56.6:2.4": "",
+    "sn56.6:2.5": "",
+    "sn56.6:3.1": "That’s why you should practice meditation …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.6",
-    "volpages": "PTS SN v 417",
-    "alt_volpages": null,
-    "uid": "sn56.6",
-    "blurb": "True ascetics become awakened through understanding the four noble truths.",
-    "difficulty": null,
-    "original_title": "Dutiyasamaṇabrāhmaṇasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Ascetics and Brahmins (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.6_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Asketen und Brahmanen (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.6_translation-en-sujato",
-        "segmented": true,
-        "title": "Ascetics and Brahmins (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pl",
-        "lang_name": "Polski",
-        "is_root": false,
-        "author": "Piotr Marcinów",
-        "author_short": "marcinow",
-        "author_uid": "marcinow",
-        "publication_date": "2023",
-        "id": "sn56.6_translation-pl-marcinow",
-        "segmented": true,
-        "title": "Asceci i bramini (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.6_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.6_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.6_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn56.6_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Ascetics and Brahmins (2)"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.6_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.6_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.6_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.6_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn56.6_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.6_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.6_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.6_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.6_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.264, dr19.515, ms14S5_2184, msdiv1076,csp1ed14.366, csp2ed14.366, ms14S5_2185, ndp15.358,cck19.399, ms14S5_2186",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.6:1.1": "bj17.2.264, dr19.515, ms14S5_2184, msdiv1076",
+    "sn56.6:2.1": "csp1ed14.366, csp2ed14.366, ms14S5_2185, ndp15.358",
+    "sn56.6:3.1": "cck19.399, ms14S5_2186"
   },
-  "bilara_root_text": {
-    "uid": "sn56.6",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyasamaṇabrāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn56.6",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ascetics and Brahmins (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn56.6:0.1",
+    "sn56.6:0.2",
+    "sn56.6:0.3",
+    "sn56.6:1.1",
+    "sn56.6:1.2",
+    "sn56.6:1.3",
+    "sn56.6:2.1",
+    "sn56.6:2.2",
+    "sn56.6:2.3",
+    "sn56.6:2.4",
+    "sn56.6:2.5",
+    "sn56.6:3.1",
+    "sn56.6:3.2"
   ]
 }

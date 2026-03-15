@@ -1,313 +1,39 @@
 {
+  "comment_text": {
+    "sn43.7:1.2": "<a href='https://suttacentral.net/sn51/en/sujato'>SN 51</a>. "
+  },
+  "html_text": {
+    "sn43.7:0.1": "<article id='sn43.7'><header><ul><li class='division'>{}</li>",
+    "sn43.7:0.2": "<li>{}</li></ul>",
+    "sn43.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn43.7:1.1": "<p>{}",
+    "sn43.7:1.2": "{}</p>",
+    "sn43.7:1.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn43.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Iddhipādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Right Efforts ",
-      "uid": "sn43.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Faculties ",
-      "uid": "sn43.8"
-    }
+    "sn43.7:0.1": "Saṁyutta Nikāya 43.7 ",
+    "sn43.7:0.2": "1. Paṭhamavagga ",
+    "sn43.7:0.3": "Iddhipādasutta ",
+    "sn43.7:1.1": "“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? ",
+    "sn43.7:1.2": "Cattāro iddhipādā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…. ",
+    "sn43.7:1.3": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn43.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Bases of Psychic Power ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Right Efforts ",
-      "uid": "sn43.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Faculties ",
-      "uid": "sn43.8"
-    }
+  "translation_text": {
+    "sn43.7:0.1": "Linked Discourses 43.7 ",
+    "sn43.7:0.2": "Chapter One ",
+    "sn43.7:0.3": "Bases of Psychic Power ",
+    "sn43.7:1.1": "“And what is the path that leads to the unconditioned? ",
+    "sn43.7:1.2": "The four bases of psychic power. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 43.7",
-    "volpages": "PTS SN iv 360",
-    "alt_volpages": null,
-    "uid": "sn43.7",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Iddhipādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Bases of Psychic Power ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn43.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Grundlagen übersinnlicher Kraft ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn43.7_translation-en-sujato",
-        "segmented": true,
-        "title": "Bases of Psychic Power ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn43.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn43.7_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn43.7_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn43.7_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Bases for Spiritual Power"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn43.7_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn43.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn43.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn43.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn43.7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn43.7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn43.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn43.7_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn43.7_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S4_1683, msdiv372",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn43.7:1.1": "ms13S4_1683, msdiv372"
   },
-  "bilara_root_text": {
-    "uid": "sn43.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Iddhipādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn43.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Bases of Psychic Power ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn43.7:0.1",
+    "sn43.7:0.2",
+    "sn43.7:0.3",
+    "sn43.7:1.1",
+    "sn43.7:1.2",
+    "sn43.7:1.3"
   ]
 }

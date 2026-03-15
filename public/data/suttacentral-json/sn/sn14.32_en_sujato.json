@@ -1,324 +1,89 @@
 {
+  "comment_text": {
+    "sn14.32:1.2": "Said also of the world (<a href='https://suttacentral.net/an3.104/en/sujato'>AN 3.104</a>), the aggregates (<a href='https://suttacentral.net/sn22.27/en/sujato'>SN 22.27</a>), and the senses (<a href='https://suttacentral.net/sn35.15/en/sujato'>SN 35.15</a>, 16). "
+  },
+  "html_text": {
+    "sn14.32:0.1": "<article id='sn14.32'><header><ul><li class='division'>{}</li>",
+    "sn14.32:0.2": "<li>{}</li></ul>",
+    "sn14.32:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn14.32:1.1": "<p>{}</p>",
+    "sn14.32:1.2": "<p>{}",
+    "sn14.32:1.3": "{}",
+    "sn14.32:1.4": "{}</p>",
+    "sn14.32:2.1": "<p>{}",
+    "sn14.32:2.2": "{}",
+    "sn14.32:2.3": "{}",
+    "sn14.32:2.4": "{}",
+    "sn14.32:2.5": "{}</p>",
+    "sn14.32:3.1": "<p>{}</p>",
+    "sn14.32:4.1": "<p>{}</p>",
+    "sn14.32:4.2": "<p>{}",
+    "sn14.32:4.3": "{}</p>",
+    "sn14.32:4.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn14.32",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Acariṁsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Before Awakening ",
-      "uid": "sn14.31"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "If There Was No ",
-      "uid": "sn14.33"
-    }
+    "sn14.32:0.1": "Saṁyutta Nikāya 14.32 ",
+    "sn14.32:0.2": "4. Catutthavagga ",
+    "sn14.32:0.3": "Acariṁsutta ",
+    "sn14.32:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn14.32:1.2": "“Pathavīdhātuyāhaṁ, bhikkhave, assādapariyesanaṁ acariṁ, yo pathavīdhātuyā assādo tadajjhagamaṁ, yāvatā pathavīdhātuyā assādo paññāya me so sudiṭṭho. ",
+    "sn14.32:1.3": "Pathavīdhātuyāhaṁ, bhikkhave, ādīnavapariyesanaṁ acariṁ, yo pathavīdhātuyā ādīnavo tadajjhagamaṁ, yāvatā pathavīdhātuyā ādīnavo paññāya me so sudiṭṭho. ",
+    "sn14.32:1.4": "Pathavīdhātuyāhaṁ, bhikkhave, nissaraṇapariyesanaṁ acariṁ, yaṁ pathavīdhātuyā nissaraṇaṁ tadajjhagamaṁ, yāvatā pathavīdhātuyā nissaraṇaṁ paññāya me taṁ sudiṭṭhaṁ. ",
+    "sn14.32:2.1": "Āpodhātuyāhaṁ, bhikkhave …pe… ",
+    "sn14.32:2.2": "tejodhātuyāhaṁ, bhikkhave … ",
+    "sn14.32:2.3": "vāyodhātuyāhaṁ, bhikkhave, assādapariyesanaṁ acariṁ, yo vāyodhātuyā assādo tadajjhagamaṁ, yāvatā vāyodhātuyā assādo paññāya me so sudiṭṭho. ",
+    "sn14.32:2.4": "Vāyodhātuyāhaṁ, bhikkhave, ādīnavapariyesanaṁ acariṁ, yo vāyodhātuyā ādīnavo tadajjhagamaṁ, yāvatā vāyodhātuyā ādīnavo paññāya me so sudiṭṭho. ",
+    "sn14.32:2.5": "Vāyodhātuyāhaṁ, bhikkhave, nissaraṇapariyesanaṁ acariṁ, yaṁ vāyodhātuyā nissaraṇaṁ tadajjhagamaṁ, yāvatā vāyodhātuyā nissaraṇaṁ paññāya me taṁ sudiṭṭhaṁ. ",
+    "sn14.32:3.1": "Yāvakīvañcāhaṁ, bhikkhave, imāsaṁ catunnaṁ dhātūnaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ na abbhaññāsiṁ, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddhoti paccaññāsiṁ. ",
+    "sn14.32:4.1": "Yato ca khvāhaṁ, bhikkhave, imāsaṁ catunnaṁ dhātūnaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ abbhaññāsiṁ, athāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddhoti paccaññāsiṁ. ",
+    "sn14.32:4.2": "Ñāṇañca pana me dassanaṁ udapādi: ",
+    "sn14.32:4.3": "‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti. ",
+    "sn14.32:4.4": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn14.32",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "In Search of Gratification ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Before Awakening ",
-      "uid": "sn14.31"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "If There Was No ",
-      "uid": "sn14.33"
-    }
+  "translation_text": {
+    "sn14.32:0.1": "Linked Discourses 14.32 ",
+    "sn14.32:0.2": "4. Chapter Four ",
+    "sn14.32:0.3": "In Search of Gratification ",
+    "sn14.32:1.1": "At Sāvatthī. ",
+    "sn14.32:1.2": "“Mendicants, I went in search of the earth element’s gratification, and I found it. I’ve seen clearly with wisdom the full extent of gratification in the earth element. ",
+    "sn14.32:1.3": "I went in search of the earth element’s drawback, and I found it. I’ve seen clearly with wisdom the full extent of the drawback in the earth element. ",
+    "sn14.32:1.4": "I went in search of escape from the earth element, and I found it. I’ve seen clearly with wisdom the full extent of escape from the earth element. ",
+    "sn14.32:2.1": "I went in search of the water element’s gratification … ",
+    "sn14.32:2.2": "I went in search of the fire element’s gratification … ",
+    "sn14.32:2.3": "I went in search of the air element’s gratification … ",
+    "sn14.32:2.4": "",
+    "sn14.32:2.5": "",
+    "sn14.32:3.1": "As long as I didn’t truly understand these four elements’ gratification, drawback, and escape for what they are, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. ",
+    "sn14.32:4.1": "But when I did truly understand the four elements’ gratification, drawback, and escape for what they are, I announced my supreme perfect awakening in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. ",
+    "sn14.32:4.2": "Knowledge and vision arose in me: ",
+    "sn14.32:4.3": "‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 14.32",
-    "volpages": " PTS 2.172",
-    "alt_volpages": null,
-    "uid": "sn14.32",
-    "blurb": "The Buddha set out to discover the gratification, the drawback, and the escape in the four material elements, and found it.",
-    "difficulty": null,
-    "original_title": "Acariṁsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "In Search of Gratification ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn14.32_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Auf der Suche nach Befriedigung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn14.32_translation-en-sujato",
-        "segmented": true,
-        "title": "In Search of Gratification ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn14.32_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn14.32_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Tražio sam ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn14.32_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn14.32_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn14.32_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn14.32_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn14.32_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn14.32_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn14.32_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn14.32_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn14.32_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn14.32_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn14.32_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn14.32_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed12.381, csp2ed12.381, dr16.207, ms12S2_794, msdiv116, ndp13.145,ms12S2_795, sya16.205, vri24.156,cck16.157, ms12S2_796, pts-vp-pli2.172,bj14.268, dr16.208, ms12S2_797",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn14.32:0.3": "Acariṁsutta → assādapariyesanasuttaṁ (bj); acariṁ (pts1ed, pts2ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn14.32",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Acariṁsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn14.32:1.1": "csp1ed12.381, csp2ed12.381, dr16.207, ms12S2_794, msdiv116, ndp13.145",
+    "sn14.32:2.1": "ms12S2_795, sya16.205, vri24.156",
+    "sn14.32:3.1": "cck16.157, ms12S2_796, pts-vp-pli2.172",
+    "sn14.32:4.1": "bj14.268, dr16.208, ms12S2_797"
   },
-  "bilara_translated_text": {
-    "uid": "sn14.32",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "In Search of Gratification ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn14.32:0.1",
+    "sn14.32:0.2",
+    "sn14.32:0.3",
+    "sn14.32:1.1",
+    "sn14.32:1.2",
+    "sn14.32:1.3",
+    "sn14.32:1.4",
+    "sn14.32:2.1",
+    "sn14.32:2.2",
+    "sn14.32:2.3",
+    "sn14.32:2.4",
+    "sn14.32:2.5",
+    "sn14.32:3.1",
+    "sn14.32:4.1",
+    "sn14.32:4.2",
+    "sn14.32:4.3",
+    "sn14.32:4.4"
+  ]
 }

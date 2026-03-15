@@ -1,0 +1,53 @@
+{
+  "html_text": {
+    "sn46.165-174:0.1": "<article id='sn46.165-174'><header><ul><li class='division'>{}</li>",
+    "sn46.165-174:0.2": "<li>{}</li></ul>",
+    "sn46.165-174:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.165-174:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn46.165-174:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.165-174:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.165-174:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.165-174:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.165-174:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.165-174:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
+  "root_text": {
+    "sn46.165-174:0.1": "Saṁyutta Nikāya 46.165–174 ",
+    "sn46.165-174:0.2": "17. Punaesanāvagga ",
+    "sn46.165-174:0.3": "Punaesanādisutta ",
+    "sn46.165-174:1.1": "…pe… ",
+    "sn46.165-174:1.2": "Punaesanāvaggo sattarasamo. ",
+    "sn46.165-174:2.0": "Uddānaṁ ",
+    "sn46.165-174:2.1": "Esanā vidhā āsavo, ",
+    "sn46.165-174:2.2": "Bhavo ca dukkhatā tisso; ",
+    "sn46.165-174:2.3": "Khilaṁ malañca nīgho ca, ",
+    "sn46.165-174:2.4": "Vedanātaṇhā tasināya cāti. "
+  },
+  "translation_text": {
+    "sn46.165-174:0.1": "Linked Discourses 46.165–174 ",
+    "sn46.165-174:0.2": "17. Another Chapter on Searches ",
+    "sn46.165-174:0.3": "Another Series on Searches, Etc. ",
+    "sn46.165-174:1.1": "(Tell in full as in SN 45.161–170.)",
+    "sn46.165-174:1.2": "",
+    "sn46.165-174:2.1": "",
+    "sn46.165-174:2.2": "",
+    "sn46.165-174:2.3": ""
+  },
+  "reference_text": {
+    "sn46.165-174:1.1": "ms14S5_740, msdiv346-356",
+    "sn46.165-174:1.2": "bj17.1.258, ms14S5_741",
+    "sn46.165-174:2.1": "dr19.182, ms14S5_743, pts-vp-pli5.139, sya19.189, vri27.214"
+  },
+  "keys_order": [
+    "sn46.165-174:0.1",
+    "sn46.165-174:0.2",
+    "sn46.165-174:0.3",
+    "sn46.165-174:1.1",
+    "sn46.165-174:1.2",
+    "sn46.165-174:2.0",
+    "sn46.165-174:2.1",
+    "sn46.165-174:2.2",
+    "sn46.165-174:2.3",
+    "sn46.165-174:2.4"
+  ]
+}

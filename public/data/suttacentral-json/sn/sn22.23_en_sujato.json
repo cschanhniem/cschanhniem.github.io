@@ -1,365 +1,70 @@
 {
+  "comment_text": {
+    "sn22.23:1.8": "Understanding is not complete so long as delusion exists. "
+  },
+  "html_text": {
+    "sn22.23:0.1": "<article id='sn22.23'><header><ul><li class='division'>{}</li>",
+    "sn22.23:0.2": "<li>{}</li></ul>",
+    "sn22.23:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.23:1.1": "<p>{}</p>",
+    "sn22.23:1.2": "<p>{}",
+    "sn22.23:1.3": "{}</p>",
+    "sn22.23:1.4": "<p>{}",
+    "sn22.23:1.5": "{}",
+    "sn22.23:1.6": "{}</p>",
+    "sn22.23:1.7": "<p>{}",
+    "sn22.23:1.8": "{}",
+    "sn22.23:1.9": "{}</p>",
+    "sn22.23:1.10": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.23",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pariññasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Burden of Responsibility ",
-      "uid": "sn22.22"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Directly Knowing ",
-      "uid": "sn22.24"
-    }
+    "sn22.23:0.1": "Saṁyutta Nikāya 22.23 ",
+    "sn22.23:0.2": "3. Bhāravagga ",
+    "sn22.23:0.3": "Pariññasutta ",
+    "sn22.23:1.1": "Sāvatthinidānaṁ. ",
+    "sn22.23:1.2": "“Pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca. ",
+    "sn22.23:1.3": "Taṁ suṇātha. ",
+    "sn22.23:1.4": "Katame ca, bhikkhave, pariññeyyā dhammā? ",
+    "sn22.23:1.5": "Rūpaṁ, bhikkhave, pariññeyyo dhammo, vedanā pariññeyyo dhammo, saññā pariññeyyo dhammo, saṅkhārā pariññeyyo dhammo, viññāṇaṁ pariññeyyo dhammo. ",
+    "sn22.23:1.6": "Ime vuccanti, bhikkhave, pariññeyyā dhammā. ",
+    "sn22.23:1.7": "Katamā ca, bhikkhave, pariññā? ",
+    "sn22.23:1.8": "Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo. ",
+    "sn22.23:1.9": "Ayaṁ vuccati, bhikkhave, pariññā”ti. ",
+    "sn22.23:1.10": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn22.23",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Complete Understanding ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Burden of Responsibility ",
-      "uid": "sn22.22"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Directly Knowing ",
-      "uid": "sn22.24"
-    }
+  "translation_text": {
+    "sn22.23:0.1": "Linked Discourses 22.23 ",
+    "sn22.23:0.2": "3. The Burden ",
+    "sn22.23:0.3": "Complete Understanding ",
+    "sn22.23:1.1": "At Sāvatthī. ",
+    "sn22.23:1.2": "“Mendicants, I will teach you the things that should be completely understood, and complete understanding. ",
+    "sn22.23:1.3": "Listen … ",
+    "sn22.23:1.4": "And what things should be completely understood? ",
+    "sn22.23:1.5": "Form, feeling, perception, choices, and consciousness. ",
+    "sn22.23:1.6": "These are called the things that should be completely understood. ",
+    "sn22.23:1.7": "And what is complete understanding? ",
+    "sn22.23:1.8": "The ending of greed, hate, and delusion. ",
+    "sn22.23:1.9": "This is called complete understanding.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.23",
-    "volpages": "PTS SN iii 26",
-    "alt_volpages": null,
-    "uid": "sn22.23",
-    "blurb": "The aggregates are to be fully understood, and the full understanding is the ending of defilements.",
-    "difficulty": null,
-    "original_title": "Pariññasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Complete Understanding ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.23_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vollständiges Verstehen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.23_translation-en-sujato",
-        "segmented": true,
-        "title": "Complete Understanding ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.23_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.23_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.23_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn22.23_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Full Understanding"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn22.23_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Kovács Gábor",
-        "author_short": "Kovács",
-        "author_uid": "g_kovacs",
-        "publication_date": "2009",
-        "id": "hu_sn22.23_g_kovacs",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.23_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn22.23_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.23_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.23_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.23_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn22.23_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn22.23_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.23_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.23_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.23_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.23_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.48, dr17.32, ms13S3_129, msdiv23, vri25.26",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn22.23:0.3": "Pariññasutta → pariññāsuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "sn22.23",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pariññasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.23:1.1": "bj15.48, dr17.32, ms13S3_129, msdiv23, vri25.26"
   },
-  "bilara_translated_text": {
-    "uid": "sn22.23",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Complete Understanding ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn22.23:0.1",
+    "sn22.23:0.2",
+    "sn22.23:0.3",
+    "sn22.23:1.1",
+    "sn22.23:1.2",
+    "sn22.23:1.3",
+    "sn22.23:1.4",
+    "sn22.23:1.5",
+    "sn22.23:1.6",
+    "sn22.23:1.7",
+    "sn22.23:1.8",
+    "sn22.23:1.9",
+    "sn22.23:1.10"
   ]
 }

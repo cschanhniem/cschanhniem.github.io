@@ -1,310 +1,51 @@
 {
+  "html_text": {
+    "sn48.27:0.1": "<article id='sn48.27'><header><ul><li class='division'>{}</li>",
+    "sn48.27:0.2": "<li>{}</li></ul>",
+    "sn48.27:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.27:1.1": "<p>{}",
+    "sn48.27:1.2": "{}",
+    "sn48.27:1.3": "{}",
+    "sn48.27:1.4": "{}</p>",
+    "sn48.27:1.5": "<p>{}</p>",
+    "sn48.27:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn48.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Arahantasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Stream-Enterer ",
-      "uid": "sn48.26"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Awakened ",
-      "uid": "sn48.28"
-    }
+    "sn48.27:0.1": "Saṁyutta Nikāya 48.27 ",
+    "sn48.27:0.2": "3. Chaḷindriyavagga ",
+    "sn48.27:0.3": "Arahantasutta ",
+    "sn48.27:1.1": "“Chayimāni, bhikkhave, indriyāni. ",
+    "sn48.27:1.2": "Katamāni cha? ",
+    "sn48.27:1.3": "Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ. ",
+    "sn48.27:1.4": "Yato kho, bhikkhave, bhikkhu imesaṁ channaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—",
+    "sn48.27:1.5": "ayaṁ vuccati, bhikkhave, ‘bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto’”ti. ",
+    "sn48.27:1.6": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn48.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Perfected One ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Stream-Enterer ",
-      "uid": "sn48.26"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Awakened ",
-      "uid": "sn48.28"
-    }
+  "translation_text": {
+    "sn48.27:0.1": "Linked Discourses 48.27 ",
+    "sn48.27:0.2": "3. The Six Faculties ",
+    "sn48.27:0.3": "A Perfected One ",
+    "sn48.27:1.1": "“Mendicants, there are these six faculties. ",
+    "sn48.27:1.2": "What six? ",
+    "sn48.27:1.3": "The faculties of the eye, ear, nose, tongue, body, and mind. ",
+    "sn48.27:1.4": "A mendicant comes to be freed by not grasping after truly understanding these six faculties’ origin, disappearance, gratification, drawback, and escape. ",
+    "sn48.27:1.5": "Such a mendicant is called a perfected one, with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart’s goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 48.27",
-    "volpages": "PTS SN v 205",
-    "alt_volpages": null,
-    "uid": "sn48.27",
-    "blurb": "Six faculties: eye, ear, nose, tongue, body, and mind. One who is freed by understanding these is perfected.",
-    "difficulty": null,
-    "original_title": "Arahantasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Perfected One ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn48.27_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vollendet ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn48.27_translation-en-sujato",
-        "segmented": true,
-        "title": "A Perfected One ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn48.27_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn48.27_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn48.27_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn48.27_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn48.27_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn48.27_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn48.27_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn48.27_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_sn48.27_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn48.27_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn48.27_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn48.27_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn48.27_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.215, csp1ed14.181, csp2ed14.181, ms14S5_1073, msdiv497, ndp15.178",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn48.27:0.3": "Arahantasutta → arahatā 1 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn48.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Arahantasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn48.27:1.1": "cck19.215, csp1ed14.181, csp2ed14.181, ms14S5_1073, msdiv497, ndp15.178"
   },
-  "bilara_translated_text": {
-    "uid": "sn48.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Perfected One ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn48.27:0.1",
+    "sn48.27:0.2",
+    "sn48.27:0.3",
+    "sn48.27:1.1",
+    "sn48.27:1.2",
+    "sn48.27:1.3",
+    "sn48.27:1.4",
+    "sn48.27:1.5",
+    "sn48.27:1.6"
+  ]
 }

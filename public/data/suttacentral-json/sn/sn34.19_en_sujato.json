@@ -1,297 +1,68 @@
 {
+  "html_text": {
+    "sn34.19:0.1": "<article id='sn34.19'><header><ul><li class='division'>{}</li>",
+    "sn34.19:0.2": "<li>{}</li></ul>",
+    "sn34.19:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn34.19:1.1": "<p>{}</p>",
+    "sn34.19:1.2": "<p>{}",
+    "sn34.19:1.3": "{}</p>",
+    "sn34.19:1.4": "<p>{}",
+    "sn34.19:1.5": "{}",
+    "sn34.19:1.6": "{}",
+    "sn34.19:1.7": "{}",
+    "sn34.19:1.8": "{}",
+    "sn34.19:1.9": "{}",
+    "sn34.19:1.10": "{}</p>",
+    "sn34.19:1.11": "<p class='endsutta'>{}</p>",
+    "sn34.19:1.12": "<p class='end'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn34.19",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samāpattimūlakasappāyakārīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Entering and Persistence ",
-      "uid": "sn34.18"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Eight on Remaining and Emergence, Etc. ",
-      "uid": "sn34.20-27"
-    }
+    "sn34.19:0.1": "Saṁyutta Nikāya 34.19 ",
+    "sn34.19:0.2": "1. Jhānavagga ",
+    "sn34.19:0.3": "Samāpattimūlakasappāyakārīsutta ",
+    "sn34.19:1.1": "Sāvatthinidānaṁ. ",
+    "sn34.19:1.2": "“Cattārome, bhikkhave, jhāyī. ",
+    "sn34.19:1.3": "Katame cattāro? ",
+    "sn34.19:1.4": "Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ sappāyakārī. ",
+    "sn34.19:1.5": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sappāyakārī hoti, na samādhismiṁ samāpattikusalo. ",
+    "sn34.19:1.6": "Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ sappāyakārī. ",
+    "sn34.19:1.7": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ sappāyakārī ca. ",
+    "sn34.19:1.8": "Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. ",
+    "sn34.19:1.9": "Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati; ",
+    "sn34.19:1.10": "evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti. ",
+    "sn34.19:1.11": "Ekūnavīsatimaṁ. ",
+    "sn34.19:1.12": "(Samāpattimūlakaṁ.) "
   },
-  "translation": {
-    "uid": "sn34.19",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Entering and What’s Conducive ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Entering and Persistence ",
-      "uid": "sn34.18"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Eight on Remaining and Emergence, Etc. ",
-      "uid": "sn34.20-27"
-    }
+  "translation_text": {
+    "sn34.19:0.1": "Linked Discourses 34.19 ",
+    "sn34.19:0.2": "1. Absorption ",
+    "sn34.19:0.3": "Entering and What’s Conducive ",
+    "sn34.19:1.1": "At Sāvatthī. ",
+    "sn34.19:1.2": "“Mendicants, there are these four meditators. ",
+    "sn34.19:1.3": "What four? ",
+    "sn34.19:1.4": "One meditator is skilled in entering immersion but not in doing what’s conducive to it. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 34.19",
-    "volpages": " PTS 3.272",
-    "alt_volpages": null,
-    "uid": "sn34.19",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Samāpattimūlakasappāyakārīsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Entering and What’s Conducive ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn34.19_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Eintreten und was förderlich ist ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn34.19_translation-en-sujato",
-        "segmented": true,
-        "title": "Entering and What’s Conducive ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn34.19_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn34.19_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn34.19_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn34.19_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn34.19_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn34.19_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn34.19_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn34.19_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn34.19_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn34.19_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn34.19_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn34.19_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.554, cck17.246, csp1ed13.231, csp2ed13.231, ms13S3_1317, msdiv680, pts-vp-pli3.272",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn34.19:0.3": "Samāpattimūlakasappāyakārīsutta → samāpattisappāyakārīsuttaṁ (bj); samāpatti-sappāyakārī (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn34.19",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samāpattimūlakasappāyakārīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn34.19:1.1": "bj15.554, cck17.246, csp1ed13.231, csp2ed13.231, ms13S3_1317, msdiv680, pts-vp-pli3.272"
   },
-  "bilara_translated_text": {
-    "uid": "sn34.19",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Entering and What’s Conducive ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn34.19:0.1",
+    "sn34.19:0.2",
+    "sn34.19:0.3",
+    "sn34.19:1.1",
+    "sn34.19:1.2",
+    "sn34.19:1.3",
+    "sn34.19:1.4",
+    "sn34.19:1.5",
+    "sn34.19:1.6",
+    "sn34.19:1.7",
+    "sn34.19:1.8",
+    "sn34.19:1.9",
+    "sn34.19:1.10",
+    "sn34.19:1.11",
+    "sn34.19:1.12"
+  ]
 }

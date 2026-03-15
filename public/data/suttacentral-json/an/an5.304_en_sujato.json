@@ -1,301 +1,41 @@
 {
+  "html_text": {
+    "an5.304:0.1": "<article id='an5.304'><header><ul><li class='division'>{}</li>",
+    "an5.304:0.2": "<li>{}</li></ul>",
+    "an5.304:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.304:1.1": "<p data-counter='2'>{}",
+    "an5.304:1.2": "{}",
+    "an5.304:1.3": "{}",
+    "an5.304:1.4": "{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.304",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "~ ",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Untitled Discourse on Greed (1st) ",
-      "uid": "an5.303"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Untitled Discourse on Greed (3rd) ",
-      "uid": "an5.305"
-    }
+    "an5.304:0.1": "Aṅguttara Nikāya 5 ",
+    "an5.304:0.2": "29. Rāgapeyyāla ",
+    "an5.304:0.3": "~ ",
+    "an5.304:1.1": "“Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. ",
+    "an5.304:1.2": "Katame pañca? ",
+    "an5.304:1.3": "Aniccasaññā, anattasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā—",
+    "an5.304:1.4": "rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā”ti. "
   },
-  "translation": {
-    "uid": "an5.304",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Untitled Discourse on Greed (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Untitled Discourse on Greed (1st) ",
-      "uid": "an5.303"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Untitled Discourse on Greed (3rd) ",
-      "uid": "an5.305"
-    }
+  "translation_text": {
+    "an5.304:0.1": "Numbered Discourses 5 ",
+    "an5.304:0.2": "29. Abbreviated Texts Beginning With Greed ",
+    "an5.304:0.3": "Untitled Discourse on Greed (2nd) ",
+    "an5.304:1.1": "“For insight into greed, five things should be developed. ",
+    "an5.304:1.2": "What five? ",
+    "an5.304:1.3": "The perceptions of impermanence, not-self, death, repulsiveness of food, and dissatisfaction with the whole world. ",
+    "an5.304:1.4": "For insight into greed, these five things should be developed.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.304",
-    "volpages": null,
-    "alt_volpages": null,
-    "uid": "an5.304",
-    "blurb": "Develop insight into greed starting with impermanence.",
-    "difficulty": null,
-    "original_title": "",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Untitled Discourse on Greed (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.304_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Lehrrede ohne Titel über Gier (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.304_translation-en-sujato",
-        "segmented": true,
-        "title": "Untitled Discourse on Greed (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.304_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": null,
-        "author_short": null,
-        "author_uid": null,
-        "publication_date": null,
-        "id": "an5.304_translation-ru-o",
-        "segmented": true,
-        "title": "",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.304_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.304_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_an5.304_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2012",
-        "segmented": false,
-        "volpage": null,
-        "title": ""
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.304_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.304_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.304_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.304_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.304_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.304_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.304_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A5_1407, msdiv304",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.304:1.1": "ms16A5_1407, msdiv304"
   },
-  "bilara_root_text": {
-    "uid": "an5.304",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "~ ",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.304",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Untitled Discourse on Greed (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "an5.304:0.1",
+    "an5.304:0.2",
+    "an5.304:0.3",
+    "an5.304:1.1",
+    "an5.304:1.2",
+    "an5.304:1.3",
+    "an5.304:1.4"
   ]
 }

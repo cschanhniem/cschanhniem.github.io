@@ -1,258 +1,69 @@
 {
+  "html_text": {
+    "an10.180:0.1": "<article id='an10.180'><header><ul><li class='division'>{}</li>",
+    "an10.180:0.2": "<li>{}</li></ul>",
+    "an10.180:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.180:1.1": "<p>{}",
+    "an10.180:1.2": "{}",
+    "an10.180:1.3": "{}",
+    "an10.180:1.4": "{}",
+    "an10.180:1.5": "{}",
+    "an10.180:1.6": "{}</p>",
+    "an10.180:2.1": "<p>{}",
+    "an10.180:2.2": "{}",
+    "an10.180:2.3": "{}",
+    "an10.180:2.4": "{}</p>",
+    "an10.180:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.180",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kusalasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Teaching of the Noble Ones ",
-      "uid": "an10.179"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Beneficial ",
-      "uid": "an10.181"
-    }
+    "an10.180:0.1": "Aṅguttara Nikāya 10.180 ",
+    "an10.180:0.2": "18. Sādhuvagga ",
+    "an10.180:0.3": "Kusalasutta ",
+    "an10.180:1.1": "“Kusalañca vo, bhikkhave, desessāmi akusalañca. ",
+    "an10.180:1.2": "Taṁ suṇātha …pe… ",
+    "an10.180:1.3": "katamañca, bhikkhave, akusalaṁ? ",
+    "an10.180:1.4": "Pāṇātipāto …pe… ",
+    "an10.180:1.5": "micchādiṭṭhi—",
+    "an10.180:1.6": "idaṁ vuccati, bhikkhave, akusalaṁ. ",
+    "an10.180:2.1": "Katamañca, bhikkhave, kusalaṁ? ",
+    "an10.180:2.2": "Pāṇātipātā veramaṇī …pe… ",
+    "an10.180:2.3": "sammādiṭṭhi—",
+    "an10.180:2.4": "idaṁ vuccati, bhikkhave, kusalan”ti. ",
+    "an10.180:2.5": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an10.180",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Skillful ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Teaching of the Noble Ones ",
-      "uid": "an10.179"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Beneficial ",
-      "uid": "an10.181"
-    }
+  "translation_text": {
+    "an10.180:0.1": "Numbered Discourses 10.180 ",
+    "an10.180:0.2": "18. Good ",
+    "an10.180:0.3": "Skillful ",
+    "an10.180:1.1": "“I will teach you the skillful and the unskillful … ",
+    "an10.180:1.2": "",
+    "an10.180:1.3": "And what is the unskillful? ",
+    "an10.180:1.4": "Killing living creatures … ",
+    "an10.180:1.5": "wrong view. ",
+    "an10.180:1.6": "This is called the unskillful. ",
+    "an10.180:2.1": "And what is the skillful? ",
+    "an10.180:2.2": "Not killing living creatures … ",
+    "an10.180:2.3": "right view. ",
+    "an10.180:2.4": "This is called the skillful.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.180",
-    "volpages": " PTS 5.275",
-    "alt_volpages": null,
-    "uid": "an10.180",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Kusalasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Skillful ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.180_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Tauglich ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.180_translation-en-sujato",
-        "segmented": true,
-        "title": "Skillful ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.180_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.180_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.180_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.180_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.180_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.180_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.180_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.180_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.180_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj23.502, csp1ed17.483, csp2ed17.483, dr24.313, ms17A10_1327, msdiv180, vri40.243,ms17A10_1328, pts-vp-pli5.275, sya24.297",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.180:1.1": "bj23.502, csp1ed17.483, csp2ed17.483, dr24.313, ms17A10_1327, msdiv180, vri40.243",
+    "an10.180:2.1": "ms17A10_1328, pts-vp-pli5.275, sya24.297"
   },
-  "bilara_root_text": {
-    "uid": "an10.180",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kusalasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an10.180",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Skillful ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.180:0.1",
+    "an10.180:0.2",
+    "an10.180:0.3",
+    "an10.180:1.1",
+    "an10.180:1.2",
+    "an10.180:1.3",
+    "an10.180:1.4",
+    "an10.180:1.5",
+    "an10.180:1.6",
+    "an10.180:2.1",
+    "an10.180:2.2",
+    "an10.180:2.3",
+    "an10.180:2.4",
+    "an10.180:2.5"
+  ]
 }

@@ -1,323 +1,73 @@
 {
+  "html_text": {
+    "sn22.130:0.1": "<article id='sn22.130'><header><ul><li class='division'>{}</li>",
+    "sn22.130:0.2": "<li>{}</li></ul>",
+    "sn22.130:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.130:1.1": "<p>{}</p>",
+    "sn22.130:1.2": "<p>{}",
+    "sn22.130:1.3": "{}",
+    "sn22.130:1.4": "{}</p>",
+    "sn22.130:2.1": "<p>{}",
+    "sn22.130:2.2": "{}",
+    "sn22.130:2.3": "{}",
+    "sn22.130:2.4": "{}",
+    "sn22.130:2.5": "{}</p>",
+    "sn22.130:2.6": "<p>{}",
+    "sn22.130:2.7": "{}</p>",
+    "sn22.130:2.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.130",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyaassādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gratification ",
-      "uid": "sn22.129"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Origin ",
-      "uid": "sn22.131"
-    }
+    "sn22.130:0.1": "Saṁyutta Nikāya 22.130 ",
+    "sn22.130:0.2": "13. Avijjāvagga ",
+    "sn22.130:0.3": "Dutiyaassādasutta ",
+    "sn22.130:1.1": "Bārāṇasiyaṁ viharanti isipatane migadāye …pe… ",
+    "sn22.130:1.2": "“‘vijja, vijjā’ti, āvuso sāriputta, vuccati. ",
+    "sn22.130:1.3": "Katamā nu kho, āvuso, vijjā; ",
+    "sn22.130:1.4": "kittāvatā ca vijjāgato hotī”ti? ",
+    "sn22.130:2.1": "“Idhāvuso, sutavā ariyasāvako rūpassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti. ",
+    "sn22.130:2.2": "Vedanāya …pe… ",
+    "sn22.130:2.3": "saññāya … ",
+    "sn22.130:2.4": "saṅkhārānaṁ … ",
+    "sn22.130:2.5": "viññāṇassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti. ",
+    "sn22.130:2.6": "Ayaṁ vuccatāvuso, vijjā; ",
+    "sn22.130:2.7": "ettāvatā ca vijjāgato hotī”ti. ",
+    "sn22.130:2.8": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "sn22.130",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gratification (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gratification ",
-      "uid": "sn22.129"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Origin ",
-      "uid": "sn22.131"
-    }
+  "translation_text": {
+    "sn22.130:0.1": "Linked Discourses 22.130 ",
+    "sn22.130:0.2": "13. Ignorance ",
+    "sn22.130:0.3": "Gratification (2nd) ",
+    "sn22.130:1.1": "At Varanasi. ",
+    "sn22.130:1.2": "“Reverend Sāriputta, they speak of this thing called ‘knowledge’. ",
+    "sn22.130:1.3": "What is knowledge? ",
+    "sn22.130:1.4": "And how is a knowledgeable person defined?” ",
+    "sn22.130:2.1": "“Reverend, a learned noble disciple truly understands the gratification, the drawback, and the escape when it comes to form, ",
+    "sn22.130:2.2": "feeling, ",
+    "sn22.130:2.3": "perception, ",
+    "sn22.130:2.4": "choices, ",
+    "sn22.130:2.5": "and consciousness. ",
+    "sn22.130:2.6": "This is called knowledge. ",
+    "sn22.130:2.7": "And this is how a knowledgeable person is defined.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.130",
-    "volpages": " PTS 3.174",
-    "alt_volpages": null,
-    "uid": "sn22.130",
-    "blurb": "Sāriputta explains to Mahākoṭṭhita that knowledge is understanding the aggregates in terms of gratification, drawback, and escape.",
-    "difficulty": null,
-    "original_title": "Dutiyaassādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Gratification (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.130_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Befriedigung (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.130_translation-en-sujato",
-        "segmented": true,
-        "title": "Gratification (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.130_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.130_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.130_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2010",
-        "id": "es_sn22.130_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.130_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.130_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.130_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.130_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn22.130_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn22.130_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.130_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.130_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.130_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.130_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_734, msdiv130, pts-vp-pli3.174,ms13S3_735, sya17.213",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.130:1.1": "ms13S3_734, msdiv130, pts-vp-pli3.174",
+    "sn22.130:2.1": "ms13S3_735, sya17.213"
   },
-  "bilara_root_text": {
-    "uid": "sn22.130",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyaassādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn22.130",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gratification (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn22.130:0.1",
+    "sn22.130:0.2",
+    "sn22.130:0.3",
+    "sn22.130:1.1",
+    "sn22.130:1.2",
+    "sn22.130:1.3",
+    "sn22.130:1.4",
+    "sn22.130:2.1",
+    "sn22.130:2.2",
+    "sn22.130:2.3",
+    "sn22.130:2.4",
+    "sn22.130:2.5",
+    "sn22.130:2.6",
+    "sn22.130:2.7",
+    "sn22.130:2.8"
+  ]
 }

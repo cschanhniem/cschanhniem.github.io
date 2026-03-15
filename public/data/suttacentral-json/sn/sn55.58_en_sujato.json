@@ -1,311 +1,35 @@
 {
+  "html_text": {
+    "sn55.58:0.1": "<article id='sn55.58'><header><ul><li class='division'>{}</li>",
+    "sn55.58:0.2": "<li>{}</li></ul>",
+    "sn55.58:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn55.58:1.1": "<p>{}</p>",
+    "sn55.58:1.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn55.58",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Arahattaphalasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Fruit of Non-Return ",
-      "uid": "sn55.57"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Getting of Wisdom ",
-      "uid": "sn55.59"
-    }
+    "sn55.58:0.1": "Saṁyutta Nikāya 55.58 ",
+    "sn55.58:0.2": "6. Sappaññavagga ",
+    "sn55.58:0.3": "Arahattaphalasutta ",
+    "sn55.58:1.1": "“… Arahattaphalasacchikiriyāya saṁvattantī”ti. ",
+    "sn55.58:1.2": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn55.58",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Fruit of Perfection ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Fruit of Non-Return ",
-      "uid": "sn55.57"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Getting of Wisdom ",
-      "uid": "sn55.59"
-    }
+  "translation_text": {
+    "sn55.58:0.1": "Linked Discourses 55.58 ",
+    "sn55.58:0.2": "6. A Wise Person ",
+    "sn55.58:0.3": "The Fruit of Perfection ",
+    "sn55.58:1.1": "“Mendicants, when four things are developed and cultivated they lead to the realization of the fruit of perfection. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 55.58",
-    "volpages": "PTS SN v 411",
-    "alt_volpages": null,
-    "uid": "sn55.58",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Arahattaphalasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Fruit of Perfection ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn55.58_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Frucht der Vollendung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn55.58_translation-en-sujato",
-        "segmented": true,
-        "title": "The Fruit of Perfection ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "sn55.58_translation-fr-sekha",
-        "segmented": true,
-        "title": "Le fruit de l’état d’arahant ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn55.58_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn55.58_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn55.58_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn55.58_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn55.58_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn55.58_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn55.58_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn55.58_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn55.58_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn55.58_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn55.58_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn55.58_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.254, ms14S5_2125, msdiv1054",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn55.58:0.3": "Arahattaphalasutta → catutthaphalasuttaṁ (bj); caturo phalā 4 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn55.58",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Arahattaphalasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn55.58:1.1": "bj17.2.254, ms14S5_2125, msdiv1054"
   },
-  "bilara_translated_text": {
-    "uid": "sn55.58",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Fruit of Perfection ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn55.58:0.1",
+    "sn55.58:0.2",
+    "sn55.58:0.3",
+    "sn55.58:1.1",
+    "sn55.58:1.2"
+  ]
 }

@@ -1,314 +1,48 @@
 {
+  "html_text": {
+    "an5.255:0.1": "<article id='an5.255'><header><ul><li class='division'>{}</li>",
+    "an5.255:0.2": "<li>{}</li></ul>",
+    "an5.255:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.255:1.1": "<p>{}",
+    "an5.255:1.2": "{}",
+    "an5.255:1.3": "{}",
+    "an5.255:1.4": "{}",
+    "an5.255:1.5": "{}</p>",
+    "an5.255:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.255",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Macchariyappahānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Five Kinds of Stinginess ",
-      "uid": "an5.254"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The First Absorption ",
-      "uid": "an5.256"
-    }
+    "an5.255:0.1": "Aṅguttara Nikāya 5.255 ",
+    "an5.255:0.2": "26. Upasampadāvagga ",
+    "an5.255:0.3": "Macchariyappahānasutta ",
+    "an5.255:1.1": "“Pañcannaṁ, bhikkhave, macchariyānaṁ pahānāya samucchedāya brahmacariyaṁ vussati. ",
+    "an5.255:1.2": "Katamesaṁ pañcannaṁ? ",
+    "an5.255:1.3": "Āvāsamacchariyassa pahānāya samucchedāya brahmacariyaṁ vussati; ",
+    "an5.255:1.4": "kulamacchariyassa … lābhamacchariyassa … vaṇṇamacchariyassa … dhammamacchariyassa pahānāya samucchedāya brahmacariyaṁ vussati. ",
+    "an5.255:1.5": "Imesaṁ kho, bhikkhave, pañcannaṁ macchariyānaṁ pahānāya samucchedāya brahmacariyaṁ vussatī”ti. ",
+    "an5.255:1.6": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an5.255",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Giving Up Stinginess ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Five Kinds of Stinginess ",
-      "uid": "an5.254"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The First Absorption ",
-      "uid": "an5.256"
-    }
+  "translation_text": {
+    "an5.255:0.1": "Numbered Discourses 5.255 ",
+    "an5.255:0.2": "26. Ordination ",
+    "an5.255:0.3": "Giving Up Stinginess ",
+    "an5.255:1.1": "“Mendicants, the spiritual life is lived to give up and cut out these five kinds of stinginess. ",
+    "an5.255:1.2": "What five? ",
+    "an5.255:1.3": "Stinginess with dwellings, families, material things, praise, and the teachings. ",
+    "an5.255:1.4": "",
+    "an5.255:1.5": "The spiritual life is lived to give up and cut out these five kinds of stinginess.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.255",
-    "volpages": "PTS AN iii 272",
-    "alt_volpages": null,
-    "uid": "an5.255",
-    "blurb": "Getting rid of the five kinds of stinginess.",
-    "difficulty": null,
-    "original_title": "Macchariyappahānasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Giving Up Stinginess ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.255_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Geiz aufgeben ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.255_translation-en-sujato",
-        "segmented": true,
-        "title": "Giving Up Stinginess ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.255_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.255_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Оставление скупости ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.255_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.255_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an5.255_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "Stinginess"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.255_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.255_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.255_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.255_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.255_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.255_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.255_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.255_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed16.239, csp2ed16.239, ms16A5_1359, msdiv255",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.255:1.1": "csp1ed16.239, csp2ed16.239, ms16A5_1359, msdiv255"
   },
-  "bilara_root_text": {
-    "uid": "an5.255",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Macchariyappahānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.255",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Giving Up Stinginess ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an5.255:0.1",
+    "an5.255:0.2",
+    "an5.255:0.3",
+    "an5.255:1.1",
+    "an5.255:1.2",
+    "an5.255:1.3",
+    "an5.255:1.4",
+    "an5.255:1.5",
+    "an5.255:1.6"
   ]
 }

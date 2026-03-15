@@ -1,0 +1,57 @@
+{
+  "html_text": {
+    "an11.118-165:0.1": "<article id='an11.118-165'><header><ul><li class='division'>{}</li>",
+    "an11.118-165:0.2": "<li class='pannasaka'>{}</li>",
+    "an11.118-165:0.3": "<li class='vagga'>{}</li></ul>",
+    "an11.118-165:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+    "an11.118-165:1.1": "<p>{}",
+    "an11.118-165:1.2": "{}",
+    "an11.118-165:1.3": "{}",
+    "an11.118-165:1.4": "{}",
+    "an11.118-165:1.5": "{}",
+    "an11.118-165:1.6": "{}",
+    "an11.118-165:1.7": "{}</p></article>"
+  },
+  "root_text": {
+    "an11.118-165:0.1": "Aṅguttara Nikāya 11 ",
+    "an11.118-165:0.2": "Paṭhamapaṇṇāsaka ",
+    "an11.118-165:0.3": "Sāmaññavagga ",
+    "an11.118-165:0.4": "~ ",
+    "an11.118-165:1.1": "… ",
+    "an11.118-165:1.2": "Cakkhuviññāṇe… ",
+    "an11.118-165:1.3": "sotaviññāṇe… ",
+    "an11.118-165:1.4": "ghānaviññāṇe… ",
+    "an11.118-165:1.5": "jivhāviññāṇe… ",
+    "an11.118-165:1.6": "kāyaviññāṇe… ",
+    "an11.118-165:1.7": "manoviññāṇe… "
+  },
+  "translation_text": {
+    "an11.118-165:0.1": "Numbered Discourses 11.118–165 ",
+    "an11.118-165:0.2": "The First Fifty ",
+    "an11.118-165:0.3": "Similarity ",
+    "an11.118-165:0.4": "Untitled Discourses on Eye Consciousness, Etc. ",
+    "an11.118-165:1.1": "… ",
+    "an11.118-165:1.2": "“… eye consciousness … ",
+    "an11.118-165:1.3": "ear consciousness … ",
+    "an11.118-165:1.4": "nose consciousness … ",
+    "an11.118-165:1.5": "tongue consciousness … ",
+    "an11.118-165:1.6": "body consciousness … ",
+    "an11.118-165:1.7": "mind consciousness. …” "
+  },
+  "reference_text": {
+    "an11.118-165:1.1": "ms17A11_216, msdiv118-165"
+  },
+  "keys_order": [
+    "an11.118-165:0.1",
+    "an11.118-165:0.2",
+    "an11.118-165:0.3",
+    "an11.118-165:0.4",
+    "an11.118-165:1.1",
+    "an11.118-165:1.2",
+    "an11.118-165:1.3",
+    "an11.118-165:1.4",
+    "an11.118-165:1.5",
+    "an11.118-165:1.6",
+    "an11.118-165:1.7"
+  ]
+}

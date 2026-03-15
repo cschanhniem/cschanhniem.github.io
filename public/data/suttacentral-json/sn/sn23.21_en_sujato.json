@@ -1,297 +1,59 @@
 {
+  "html_text": {
+    "sn23.21:0.1": "<article id='sn23.21'><header><ul><li class='division'>{}</li>",
+    "sn23.21:0.2": "<li>{}</li></ul>",
+    "sn23.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn23.21:1.1": "<p>{}</p>",
+    "sn23.21:1.2": "<p>{}</p>",
+    "sn23.21:1.3": "<p>{}",
+    "sn23.21:1.4": "{}</p>",
+    "sn23.21:1.5": "<p>{}</p>",
+    "sn23.21:1.6": "<p>{}",
+    "sn23.21:1.7": "{}</p>",
+    "sn23.21:1.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn23.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samudayadhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "liable to fall ",
-      "uid": "sn23.20"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Liable To Cease ",
-      "uid": "sn23.22"
-    }
+    "sn23.21:0.1": "Saṁyutta Nikāya 23.21 ",
+    "sn23.21:0.2": "2. Dutiyamāravagga ",
+    "sn23.21:0.3": "Samudayadhammasutta ",
+    "sn23.21:1.1": "Sāvatthinidānaṁ. ",
+    "sn23.21:1.2": "Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca: ",
+    "sn23.21:1.3": "“‘samudayadhammo, samudayadhammo’ti, bhante, vuccati. ",
+    "sn23.21:1.4": "Katamo nu kho, bhante, samudayadhammo”ti? ",
+    "sn23.21:1.5": "“Rūpaṁ kho, rādha, samudayadhammo, vedanā samudayadhammo, saññā samudayadhammo, saṅkhārā samudayadhammo, viññāṇaṁ samudayadhammo. ",
+    "sn23.21:1.6": "Evaṁ passaṁ …pe… ",
+    "sn23.21:1.7": "nāparaṁ itthattāyāti pajānātī”ti. ",
+    "sn23.21:1.8": "Ekādasamaṁ. "
   },
-  "translation": {
-    "uid": "sn23.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Liable To Originate ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "liable to fall ",
-      "uid": "sn23.20"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Liable To Cease ",
-      "uid": "sn23.22"
-    }
+  "translation_text": {
+    "sn23.21:0.1": "Linked Discourses 23.21 ",
+    "sn23.21:0.2": "2. About Māra (2nd) ",
+    "sn23.21:0.3": "Liable To Originate ",
+    "sn23.21:1.1": "At Sāvatthī. ",
+    "sn23.21:1.2": "Seated to one side, Venerable Rādha said to the Buddha: ",
+    "sn23.21:1.3": "“Sir, they speak of ‘liable to originate’. ",
+    "sn23.21:1.4": "What is liable to originate?” ",
+    "sn23.21:1.5": "“Rādha, form, feeling, perception, choices, and consciousness are liable to originate. ",
+    "sn23.21:1.6": "Seeing this … ",
+    "sn23.21:1.7": "They understand: ‘… there is nothing further for this place.’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 23.21",
-    "volpages": "PTS SN iii 197",
-    "alt_volpages": null,
-    "uid": "sn23.21",
-    "blurb": "Rādha asks the Buddha about what is liable to arise, and the Buddha explains in terms of the five aggregates.",
-    "difficulty": null,
-    "original_title": "Samudayadhammasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Liable To Originate ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn23.21_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Was entstehen muss ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn23.21_translation-en-sujato",
-        "segmented": true,
-        "title": "Liable To Originate ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn23.21_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn23.21_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn23.21_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn23.21_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn23.21_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn23.21_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn23.21_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn23.21_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn23.21_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn23.21_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn23.21_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn23.21_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_868, msdiv180, ndp13.410, sya17.242",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn23.21:0.3": "Samudayadhammasutta → samudaya (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn23.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samudayadhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn23.21:1.1": "ms13S3_868, msdiv180, ndp13.410, sya17.242"
   },
-  "bilara_translated_text": {
-    "uid": "sn23.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Liable To Originate ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn23.21:0.1",
+    "sn23.21:0.2",
+    "sn23.21:0.3",
+    "sn23.21:1.1",
+    "sn23.21:1.2",
+    "sn23.21:1.3",
+    "sn23.21:1.4",
+    "sn23.21:1.5",
+    "sn23.21:1.6",
+    "sn23.21:1.7",
+    "sn23.21:1.8"
+  ]
 }

@@ -1,323 +1,57 @@
 {
+  "html_text": {
+    "an4.117:0.1": "<article id='an4.117'><header><ul><li class='division'>{}</li>",
+    "an4.117:0.2": "<li>{}</li></ul>",
+    "an4.117:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.117:1.1": "<p>{}",
+    "an4.117:1.2": "{}</p>",
+    "an4.117:1.3": "<p>{}</p>",
+    "an4.117:1.4": "<p>{}</p>",
+    "an4.117:1.5": "<p>{}</p>",
+    "an4.117:1.6": "<p>{}</p>",
+    "an4.117:2.1": "<p>{}</p>",
+    "an4.117:2.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an4.117",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ārakkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Diligence ",
-      "uid": "an4.116"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Inspiring ",
-      "uid": "an4.118"
-    }
+    "an4.117:0.1": "Aṅguttara Nikāya 4.117 ",
+    "an4.117:0.2": "12. Kesivagga ",
+    "an4.117:0.3": "Ārakkhasutta ",
+    "an4.117:1.1": "“Catūsu, bhikkhave, ṭhānesu attarūpena appamādo sati cetaso ārakkho karaṇīyo. ",
+    "an4.117:1.2": "Katamesu catūsu? ",
+    "an4.117:1.3": "‘Mā me rajanīyesu dhammesu cittaṁ rajjī’ti attarūpena appamādo sati cetaso ārakkho karaṇīyo; ",
+    "an4.117:1.4": "‘mā me dosanīyesu dhammesu cittaṁ dussī’ti attarūpena appamādo sati cetaso ārakkho karaṇīyo; ",
+    "an4.117:1.5": "‘mā me mohanīyesu dhammesu cittaṁ muyhī’ti attarūpena appamādo sati cetaso ārakkho karaṇīyo; ",
+    "an4.117:1.6": "‘mā me madanīyesu dhammesu cittaṁ majjī’ti attarūpena appamādo sati cetaso ārakkho karaṇīyo. ",
+    "an4.117:2.1": "Yato kho, bhikkhave, bhikkhuno rajanīyesu dhammesu cittaṁ na rajjati vītarāgattā, dosanīyesu dhammesu cittaṁ na dussati vītadosattā, mohanīyesu dhammesu cittaṁ na muyhati vītamohattā, madanīyesu dhammesu cittaṁ na majjati vītamadattā, so na chambhati na kampati na vedhati na santāsaṁ āpajjati, na ca pana samaṇavacanahetupi gacchatī”ti. ",
+    "an4.117:2.2": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an4.117",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Guarding ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Diligence ",
-      "uid": "an4.116"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Inspiring ",
-      "uid": "an4.118"
-    }
+  "translation_text": {
+    "an4.117:0.1": "Numbered Discourses 4.117 ",
+    "an4.117:0.2": "12. With Kesi ",
+    "an4.117:0.3": "Guarding ",
+    "an4.117:1.1": "“Mendicants, in your own way you should practice diligence, mindfulness, and guarding of the mind in four situations. ",
+    "an4.117:1.2": "What four? ",
+    "an4.117:1.3": "‘May my mind not be aroused by things that arouse greed.’ In your own way you should practice diligence, mindfulness, and guarding of the mind. ",
+    "an4.117:1.4": "‘May my mind not be angered by things that provoke hate.’ … ",
+    "an4.117:1.5": "‘May my mind not be deluded by things that promote delusion.’ … ",
+    "an4.117:1.6": "‘May my mind not be intoxicated by things that intoxicate.’ … ",
+    "an4.117:2.1": "When a mendicant’s mind is no longer affected by greed, hate, delusion, or intoxication because they’ve got rid of these things, they don’t shake, tremble, quake, or get nervous, nor are they persuaded by the teachings of other ascetics.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.117",
-    "volpages": "PTS AN ii 120",
-    "alt_volpages": null,
-    "uid": "an4.117",
-    "blurb": "Practice in your own way.",
-    "difficulty": null,
-    "original_title": "Ārakkhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Guarding ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.117_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Bewachen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.117_translation-en-sujato",
-        "segmented": true,
-        "title": "Guarding ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.117_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.117_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.117_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_an4.117_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an4.117_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.117_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.117_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_an4.117_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an4.117_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an4.117_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.117_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.117_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.117_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.117_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj19.232, ms15A4_771, msdiv117,dr21.169, ms15A4_772",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.117:1.1": "bj19.232, ms15A4_771, msdiv117",
+    "an4.117:2.1": "dr21.169, ms15A4_772"
   },
-  "bilara_root_text": {
-    "uid": "an4.117",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ārakkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an4.117",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Guarding ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an4.117:0.1",
+    "an4.117:0.2",
+    "an4.117:0.3",
+    "an4.117:1.1",
+    "an4.117:1.2",
+    "an4.117:1.3",
+    "an4.117:1.4",
+    "an4.117:1.5",
+    "an4.117:1.6",
+    "an4.117:2.1",
+    "an4.117:2.2"
+  ]
 }

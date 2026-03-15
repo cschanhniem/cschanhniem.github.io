@@ -21,6 +21,13 @@ const generatedAt = new Date().toISOString()
 const dhammaSuttasPath = '/phap-bao/kinh-tang'
 const dhammaTeachingsPath = '/phap-bao/giao-phap'
 const sitemapChunkSize = 4000
+const nikayaCollections = [
+  { code: 'dn', title: 'Trường Bộ Kinh', description: 'Tập hợp các bài kinh dài trong tạng Nikāya, phù hợp cho những chủ đề nền tảng và đối thoại quy mô lớn.' },
+  { code: 'mn', title: 'Trung Bộ Kinh', description: 'Tập hợp các bài kinh độ dài trung bình, giàu tính thực hành và phân tích, là cửa ngõ tốt cho việc học và hành.' },
+  { code: 'sn', title: 'Tương Ưng Bộ Kinh', description: 'Tập hợp các bài kinh theo chủ đề tương ưng, tiện cho việc lần theo từng mạch giáo pháp một cách sâu và có hệ thống.' },
+  { code: 'an', title: 'Tăng Chi Bộ Kinh', description: 'Tập hợp các bài kinh sắp theo số mục, thích hợp cho việc học theo cấu trúc và ghi nhớ các pháp số.' },
+  { code: 'kn', title: 'Tiểu Bộ Kinh', description: 'Tập hợp các văn bản đa dạng thuộc Tiểu Bộ, từ kệ tụng đến các bài kinh ngắn và tác phẩm giàu chất văn.' },
+]
 
 function escapeHtml(value) {
   return value
@@ -154,8 +161,23 @@ async function readNikayaRoutes() {
   const items = JSON.parse(raw)
   const lastmod = await getLastModified(nikayaPath)
 
-  return items.map((item) => ({
-    path: `/nikaya/${item.id}`,
+  const collectionRoutes = nikayaCollections.map((collection) => ({
+    path: `/nikaya/${collection.code}`,
+    title: `${collection.title} (${collection.code.toUpperCase()})`,
+    description: `${collection.description} Thư viện giữ cả bản dịch gốc và bản cải tiến để đọc, đối chiếu, và tra cứu nhanh.`,
+    type: 'website',
+    schemaType: 'CollectionPage',
+    indexable: true,
+    lastmod,
+    breadcrumbs: [
+      { name: 'Trang chủ', url: '/' },
+      { name: 'Kinh Điển Pāli', url: '/nikaya' },
+      { name: collection.title, url: `/nikaya/${collection.code}` },
+    ],
+  }))
+
+  const detailRoutes = items.map((item) => ({
+    path: `/nikaya/${String(item.collection).toLowerCase()}/${item.id}`,
     title: `${String(item.id).toUpperCase()} · ${item.title}`,
     description: item.blurb || `Kinh ${item.title} trong thư viện Nikāya của Nhập Lưu.`,
     type: 'article',
@@ -165,11 +187,32 @@ async function readNikayaRoutes() {
     breadcrumbs: [
       { name: 'Trang chủ', url: '/' },
       { name: 'Kinh Điển Pāli', url: '/nikaya' },
+      { name: nikayaCollections.find((collection) => collection.code === String(item.collection).toLowerCase())?.title || String(item.collection).toUpperCase(), url: `/nikaya/${String(item.collection).toLowerCase()}` },
+      { name: item.title, url: `/nikaya/${String(item.collection).toLowerCase()}/${item.id}` },
+    ],
+    author: 'SuttaCentral / Nhập Lưu',
+    authorType: 'Organization',
+  }))
+
+  const legacyRoutes = items.map((item) => ({
+    path: `/nikaya/${item.id}`,
+    title: `${String(item.id).toUpperCase()} · ${item.title}`,
+    description: item.blurb || `Đường dẫn cũ của kinh ${item.title}, giữ lại để chuyển tiếp sang cấu trúc Nikāya mới theo bộ kinh.`,
+    type: 'article',
+    schemaType: 'Article',
+    indexable: false,
+    robots: noindexRobots,
+    lastmod,
+    breadcrumbs: [
+      { name: 'Trang chủ', url: '/' },
+      { name: 'Kinh Điển Pāli', url: '/nikaya' },
       { name: item.title, url: `/nikaya/${item.id}` },
     ],
     author: 'SuttaCentral / Nhập Lưu',
     authorType: 'Organization',
   }))
+
+  return [...collectionRoutes, ...detailRoutes, ...legacyRoutes]
 }
 
 function baseRoutes() {

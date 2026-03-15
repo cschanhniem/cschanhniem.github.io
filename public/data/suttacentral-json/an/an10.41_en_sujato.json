@@ -1,284 +1,47 @@
 {
+  "html_text": {
+    "an10.41:0.1": "<article id='an10.41'><header><ul><li class='division'>{}</li>",
+    "an10.41:0.2": "<li>{}</li></ul>",
+    "an10.41:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.41:1.1": "<p>{}</p>",
+    "an10.41:1.2": "<p>{}</p>",
+    "an10.41:1.3": "<p>{}",
+    "an10.41:1.4": "{}</p>",
+    "an10.41:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.41",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Vivādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Ānanda (2nd) ",
-      "uid": "an10.40"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Roots of Dispute (1st) ",
-      "uid": "an10.42"
-    }
+    "an10.41:0.1": "Aṅguttara Nikāya 10.41 ",
+    "an10.41:0.2": "5. Akkosavagga ",
+    "an10.41:0.3": "Vivādasutta ",
+    "an10.41:1.1": "Atha kho āyasmā upāli yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā upāli bhagavantaṁ etadavoca: ",
+    "an10.41:1.2": "“ko nu kho, bhante, hetu ko paccayo, yena saṅghe bhaṇḍanakalahaviggahavivādā uppajjanti, bhikkhū ca na phāsu viharantī”ti? ",
+    "an10.41:1.3": "“Idhupāli, bhikkhū adhammaṁ dhammoti dīpenti, dhammaṁ adhammoti dīpenti, avinayaṁ vinayoti dīpenti, vinayaṁ avinayoti dīpenti, abhāsitaṁ alapitaṁ tathāgatena bhāsitaṁ lapitaṁ tathāgatenāti dīpenti, bhāsitaṁ lapitaṁ tathāgatena abhāsitaṁ alapitaṁ tathāgatenāti dīpenti, anāciṇṇaṁ tathāgatena āciṇṇaṁ tathāgatenāti dīpenti, āciṇṇaṁ tathāgatena anāciṇṇaṁ tathāgatenāti dīpenti, apaññattaṁ tathāgatena paññattaṁ tathāgatenāti dīpenti, paññattaṁ tathāgatena apaññattaṁ tathāgatenāti dīpenti. ",
+    "an10.41:1.4": "Ayaṁ kho, upāli, hetu ayaṁ paccayo, yena saṅghe bhaṇḍanakalahaviggahavivādā uppajjanti, bhikkhū ca na phāsu viharantī”ti. ",
+    "an10.41:1.5": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an10.41",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dispute ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Ānanda (2nd) ",
-      "uid": "an10.40"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Roots of Dispute (1st) ",
-      "uid": "an10.42"
-    }
+  "translation_text": {
+    "an10.41:0.1": "Numbered Discourses 10.41 ",
+    "an10.41:0.2": "5. Abuse ",
+    "an10.41:0.3": "Dispute ",
+    "an10.41:1.1": "Then Venerable Upāli went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "an10.41:1.2": "“What is the cause, sir, what is the reason, why fights, quarrels, arguments, and disputes arise in the Saṅgha, and the mendicants don’t live happily?” ",
+    "an10.41:1.3": "“Upāli, it’s when a mendicant explains what is not the teaching as the teaching, and what is the teaching as not the teaching. They explain what is not the training as the training, and what is the training as not the training. They explain what was not spoken and stated by the Realized One as spoken and stated by the Realized One, and what was spoken and stated by the Realized One as not spoken and stated by the Realized One. They explain what was not practiced by the Realized One as practiced by the Realized One, and what was practiced by the Realized One as not practiced by the Realized One. They explain what was not prescribed by the Realized One as prescribed by the Realized One, and what was prescribed by the Realized One as not prescribed by the Realized One. ",
+    "an10.41:1.4": "This is the cause, this is the reason why fights, quarrels, arguments, and disputes arise in the Saṅgha, and the mendicants don’t live happily.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.41",
-    "volpages": " PTS 5.78",
-    "alt_volpages": null,
-    "uid": "an10.41",
-    "blurb": "Ten reasons for disputes in the Saṅgha.",
-    "difficulty": null,
-    "original_title": "Vivādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Dispute ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.41_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Streit ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.41_translation-en-sujato",
-        "segmented": true,
-        "title": "Dispute ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.41_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.41_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.41_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.41_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.41_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.41_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an10.41_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.41_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.41_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.41_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.41_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj23.138, cck24.68, csp1ed17.317, csp2ed17.317, dr24.82, ms17A10_295, msdiv41, ndp19.160, pts-vp-pli5.78, sya24.81, vri40.64",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an10.41:1.2": "phāsu → phāsuṁ (?) "
   },
-  "bilara_root_text": {
-    "uid": "an10.41",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Vivādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.41:1.1": "bj23.138, cck24.68, csp1ed17.317, csp2ed17.317, dr24.82, ms17A10_295, msdiv41, ndp19.160, pts-vp-pli5.78, sya24.81, vri40.64"
   },
-  "bilara_translated_text": {
-    "uid": "an10.41",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dispute ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.41:0.1",
+    "an10.41:0.2",
+    "an10.41:0.3",
+    "an10.41:1.1",
+    "an10.41:1.2",
+    "an10.41:1.3",
+    "an10.41:1.4",
+    "an10.41:1.5"
+  ]
 }

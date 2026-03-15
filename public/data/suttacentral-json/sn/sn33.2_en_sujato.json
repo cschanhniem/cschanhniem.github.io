@@ -1,323 +1,79 @@
 {
+  "html_text": {
+    "sn33.2:0.1": "<article id='sn33.2'><header><ul><li class='division'>{}</li>",
+    "sn33.2:0.2": "<li>{}</li></ul>",
+    "sn33.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn33.2:1.1": "<p>{}</p>",
+    "sn33.2:1.2": "<p>{}</p>",
+    "sn33.2:1.3": "<p>{}",
+    "sn33.2:1.4": "{}",
+    "sn33.2:1.5": "{}</p>",
+    "sn33.2:1.6": "<p>{}",
+    "sn33.2:1.7": "{}",
+    "sn33.2:1.8": "{}",
+    "sn33.2:1.9": "{}",
+    "sn33.2:1.10": "{}",
+    "sn33.2:1.11": "{}",
+    "sn33.2:1.12": "{}</p>",
+    "sn33.2:1.13": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn33.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Vedanāaññāṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Not Knowing Form ",
-      "uid": "sn33.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Not Knowing Perception ",
-      "uid": "sn33.3"
-    }
+    "sn33.2:0.1": "Saṁyutta Nikāya 33.2 ",
+    "sn33.2:0.2": "1. Vacchagottavagga ",
+    "sn33.2:0.3": "Vedanāaññāṇasutta ",
+    "sn33.2:1.1": "Sāvatthinidānaṁ. ",
+    "sn33.2:1.2": "Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca: ",
+    "sn33.2:1.3": "“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—",
+    "sn33.2:1.4": "sassato lokoti vā, asassato lokoti vā …pe… ",
+    "sn33.2:1.5": "neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti? ",
+    "sn33.2:1.6": "“Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; ",
+    "sn33.2:1.7": "evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—",
+    "sn33.2:1.8": "sassato lokoti vā, asassato lokoti vā …pe… ",
+    "sn33.2:1.9": "neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. ",
+    "sn33.2:1.10": "Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—",
+    "sn33.2:1.11": "sassato lokoti vā, asassato lokoti vā …pe… ",
+    "sn33.2:1.12": "neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti. ",
+    "sn33.2:1.13": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn33.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Knowing Feeling ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Not Knowing Form ",
-      "uid": "sn33.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Not Knowing Perception ",
-      "uid": "sn33.3"
-    }
+  "translation_text": {
+    "sn33.2:0.1": "Linked Discourses 33.2 ",
+    "sn33.2:0.2": "1. With Vacchagotta ",
+    "sn33.2:0.3": "Not Knowing Feeling ",
+    "sn33.2:1.1": "At Sāvatthī. ",
+    "sn33.2:1.2": "Then the wanderer Vacchagotta said to the Buddha: ",
+    "sn33.2:1.3": "“What is the cause, worthy Gotama, what is the reason why these various misconceptions arise in the world? That is: ",
+    "sn33.2:1.4": "the cosmos is eternal, or not eternal … ",
+    "sn33.2:1.5": "after death, a realized one neither still exists nor no longer exists.” ",
+    "sn33.2:1.6": "“Vaccha, it is because of not knowing feeling, its origin, its cessation, and the practice that leads to its cessation ",
+    "sn33.2:1.7": "that these various misconceptions arise in the world. ",
+    "sn33.2:1.8": "",
+    "sn33.2:1.9": "",
+    "sn33.2:1.10": "This is the cause, this is the reason.” ",
+    "sn33.2:1.11": "",
+    "sn33.2:1.12": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 33.2",
-    "volpages": "PTS SN iii 258",
-    "alt_volpages": null,
-    "uid": "sn33.2",
-    "blurb": "The wanderer Vacchagotta asks the Buddha why the various speculative views come to be. The Buddha replies that it is because of not knowing feeling.",
-    "difficulty": null,
-    "original_title": "Vedanāaññāṇasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Not Knowing Feeling ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn33.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Gefühl nicht erkennen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn33.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Not Knowing Feeling ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn33.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn33.2_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn33.2_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn33.2_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn33.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn33.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn33.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn33.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn33.2_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn33.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn33.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn33.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn33.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn33.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.522, cck17.234, csp1ed13.219, csp2ed13.219, dr17.319, ms13S3_1238, msdiv608, ndp13.473, vri25.256",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn33.2:0.3": "Vedanāaññāṇasutta → aññāṇā 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn33.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Vedanāaññāṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn33.2:1.1": "bj15.522, cck17.234, csp1ed13.219, csp2ed13.219, dr17.319, ms13S3_1238, msdiv608, ndp13.473, vri25.256"
   },
-  "bilara_translated_text": {
-    "uid": "sn33.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Knowing Feeling ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn33.2:0.1",
+    "sn33.2:0.2",
+    "sn33.2:0.3",
+    "sn33.2:1.1",
+    "sn33.2:1.2",
+    "sn33.2:1.3",
+    "sn33.2:1.4",
+    "sn33.2:1.5",
+    "sn33.2:1.6",
+    "sn33.2:1.7",
+    "sn33.2:1.8",
+    "sn33.2:1.9",
+    "sn33.2:1.10",
+    "sn33.2:1.11",
+    "sn33.2:1.12",
+    "sn33.2:1.13"
+  ]
 }

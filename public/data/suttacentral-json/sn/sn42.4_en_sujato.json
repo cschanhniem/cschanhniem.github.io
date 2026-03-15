@@ -1,311 +1,42 @@
 {
+  "comment_text": {
+    "sn42.4:1.1": "This discourse and the next are to be expanded per <a href='https://suttacentral.net/sn42.3/en/sujato'>SN 42.3</a>. "
+  },
+  "html_text": {
+    "sn42.4:0.1": "<article id='sn42.4'><header><ul><li class='division'>{}</li>",
+    "sn42.4:0.2": "<li>{}</li></ul>",
+    "sn42.4:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn42.4:1.1": "<p>{}",
+    "sn42.4:1.2": "{}</p>",
+    "sn42.4:1.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn42.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Hatthārohasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Warrior ",
-      "uid": "sn42.3"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Cavalryman ",
-      "uid": "sn42.5"
-    }
+    "sn42.4:0.1": "Saṁyutta Nikāya 42.4 ",
+    "sn42.4:0.2": "1. Gāmaṇivagga ",
+    "sn42.4:0.3": "Hatthārohasutta ",
+    "sn42.4:1.1": "Atha kho hatthāroho gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ",
+    "sn42.4:1.2": "ajjatagge pāṇupetaṁ saraṇaṁ gatanti. ",
+    "sn42.4:1.3": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn42.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An Elephant Warrior ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Warrior ",
-      "uid": "sn42.3"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Cavalryman ",
-      "uid": "sn42.5"
-    }
+  "translation_text": {
+    "sn42.4:0.1": "Linked Discourses 42.4 ",
+    "sn42.4:0.2": "1. Chiefs ",
+    "sn42.4:0.3": "An Elephant Marshal ",
+    "sn42.4:1.1": "Then an elephant marshal chief went up to the Buddha … ",
+    "sn42.4:1.2": "“From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 42.4",
-    "volpages": " PTS 4.310",
-    "alt_volpages": null,
-    "uid": "sn42.4",
-    "blurb": "Hatthāroha the elephant warrior asks the Buddha whether the belief that warriors have a good rebirth is correct. The Buddha tries to dissuade him, but ultimately reveals that by following the way of violence they head to a bad rebirth. Hatthāroha is distressed and takes refuge.",
-    "difficulty": null,
-    "original_title": "Hatthārohasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "An Elephant Warrior ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn42.4_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Elefantenkrieger ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn42.4_translation-en-sujato",
-        "segmented": true,
-        "title": "An Elephant Warrior ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn42.4_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn42.4_translation-ru-sv",
-        "segmented": true,
-        "title": "Хаттхароха ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn42.4_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn42.4_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn42.4_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn42.4_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn42.4_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn42.4_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn42.4_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn42.4_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn42.4_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn42.4_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn42.4_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed13.497, csp2ed13.497, ms13S4_1556, msdiv356, pts-vp-pli4.310, vri26.298",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn42.4:0.3": "Hatthārohasutta → hatthi (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn42.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Hatthārohasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn42.4:1.1": "csp1ed13.497, csp2ed13.497, ms13S4_1556, msdiv356, pts-vp-pli4.310, vri26.298"
   },
-  "bilara_translated_text": {
-    "uid": "sn42.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An Elephant Warrior ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn42.4:0.1",
+    "sn42.4:0.2",
+    "sn42.4:0.3",
+    "sn42.4:1.1",
+    "sn42.4:1.2",
+    "sn42.4:1.3"
+  ]
 }

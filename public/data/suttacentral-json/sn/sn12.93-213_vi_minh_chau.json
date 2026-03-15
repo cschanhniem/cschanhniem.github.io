@@ -1,0 +1,247 @@
+{
+  "root_text": {
+    "uid": "sn12.93-213",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Không Phóng Dật: Appamāda",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "A Fingernail ",
+      "uid": "sn13.1"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "The Teacher (2nd) ",
+      "uid": "sn12.83-92"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn12.93-213' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 12: Tương Ưng Nhân Duyên</li>\n<li>VIX: Trung Lược Phẩm: <i lang='pli' translate='no'>Antarapeyyālaṁ</i></li>\n</ul>\n<h1>12.93. Không Phóng Dật: <i lang='pli' translate='no'>Appamāda</i></h1>\n</header>\n<p><a class='pts' id='S.ii.132' href='#S.ii.132'></a>… Không phóng dật cần phải thực hành…</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Ayya Vimala</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn12.93-213",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Không Phóng Dật: Appamāda",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "A Fingernail ",
+      "uid": "sn13.1"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "The Teacher (2nd) ",
+      "uid": "sn12.83-92"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn12.93-213' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 12: Tương Ưng Nhân Duyên</li>\n<li>VIX: Trung Lược Phẩm: <i lang='pli' translate='no'>Antarapeyyālaṁ</i></li>\n</ul>\n<h1>12.93. Không Phóng Dật: <i lang='pli' translate='no'>Appamāda</i></h1>\n</header>\n<p><a class='pts' id='S.ii.132' href='#S.ii.132'></a>… Không phóng dật cần phải thực hành…</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Ayya Vimala</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 12.93–213",
+    "volpages": " PTS 2.132, PTS 2.133",
+    "alt_volpages": null,
+    "uid": "sn12.93-213",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sikkhāsuttādipeyyālaekādasaka",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Không Phóng Dật: Appamāda",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn12.93-213_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Elferreihen über Schulung usw. ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn12.93-213_translation-en-sujato",
+        "segmented": true,
+        "title": "Sets of Eleven on Training, Etc. ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn12.93-213_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "o Dhamma.gift",
+        "author_short": "o",
+        "author_uid": "o",
+        "publication_date": null,
+        "id": "sn12.93-213_translation-ru-o",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit",
+        "publication_date": "2018",
+        "id": "bn_sn12.93-213_indragupta-bangish-ajit",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2011",
+        "id": "es_sn12.93-213_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn12.93-213_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2016",
+        "id": "no_sn12.93-213_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn12.93-213_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn12.93-213_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn12.93-213_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Không Phóng Dật: Appamāda"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj14.208, csp1ed12.351, csp2ed12.351, ms12S2_585,ms12S2_587,ms12S2_588, pts-vp-pli2.132,ms12S2_589,cck16.125, ms12S2_590, vri24.117,ms12S2_591,bj14.210, ms12S2_592, ndp13.114,ms12S2_593,dr16.161, ms12S2_594,ms12S2_595,ms12S2_596,ms12S2_599, pts-vp-pli2.133,ms12S2_601, vri24.118",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn12.93-213",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sikkhāsuttādipeyyālaekādasaka",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

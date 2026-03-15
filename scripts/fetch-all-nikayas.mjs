@@ -2,7 +2,7 @@
 /**
  * Bulk SuttaCentral Data Fetcher
  * 
- * Downloads ALL suttas for the 4 main Nikayas (DN, MN, SN, AN).
+ * Downloads ALL suttas for the main Nikaya collections, including KN.
  * Uses robust iteration with "consecutive error" breaking for SN/AN.
  * Skips existing files to allow resuming.
  */
@@ -27,8 +27,27 @@ const TRANSLATORS = {
 const MAX_CONSECUTIVE_ERRORS = 5; // Stop finding suttas in a group after this many 404s
 const DELAY_MS = 300; // Delay between requests
 
+function hasSegmentMapContent(segmentMap) {
+    if (!segmentMap || typeof segmentMap !== 'object') return false;
+    return Object.keys(segmentMap).some(key => key.includes(':'));
+}
+
+function hasContentPayload(data) {
+    if (!data || typeof data !== 'object') return false;
+
+    if (typeof data.translation?.text === 'string' && data.translation.text.trim()) return true;
+    if (typeof data.root_text?.text === 'string' && data.root_text.text.trim()) return true;
+    if (hasSegmentMapContent(data.html_text)) return true;
+    if (hasSegmentMapContent(data.translation_text)) return true;
+    if (hasSegmentMapContent(data.bilara_translated_text)) return true;
+
+    return false;
+}
+
 async function fetchSuttaData(suttaId, authorUid, lang) {
-    const url = `${BASE_URL}/${suttaId}/${authorUid}?lang=${lang}`;
+    const url = lang === 'en'
+        ? `https://suttacentral.net/api/bilarasuttas/${suttaId}/${authorUid}?lang=${lang}`
+        : `${BASE_URL}/${suttaId}/${authorUid}?lang=${lang}`;
     // console.log(`Fetching: ${url}`); 
 
     try {
@@ -42,7 +61,9 @@ async function fetchSuttaData(suttaId, authorUid, lang) {
 
         // Validate content: SuttaCentral API returns 200 even for non-existent IDs sometimes
         if (!data || !data.suttaplex || !data.suttaplex.uid) {
-            // console.log(`Invalid data for ${suttaId}`);
+            if (lang === 'en' && hasContentPayload(data)) {
+                return { status: 200, data };
+            }
             return { status: 404 };
         }
 
@@ -63,6 +84,17 @@ function saveJsonFile(filePath, data) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
 }
 
+function fileHasContent(filePath) {
+    if (!fs.existsSync(filePath)) return false;
+
+    try {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        return hasContentPayload(data);
+    } catch {
+        return false;
+    }
+}
+
 async function processSutta(id, collection) {
     const collectionDir = path.join(DATA_DIR, collection);
     ensureDir(collectionDir);
@@ -72,7 +104,10 @@ async function processSutta(id, collection) {
     const viFile = path.join(collectionDir, `${id}_vi_${TRANSLATORS.vi}.json`);
     const enFile = path.join(collectionDir, `${id}_en_${TRANSLATORS.en}.json`);
 
-    if (fs.existsSync(viFile) && fs.existsSync(enFile)) {
+    const viReady = fileHasContent(viFile);
+    const enReady = fileHasContent(enFile);
+
+    if (viReady && enReady) {
         // console.log(`Skipping ${id} (already exists)`);
         return true; // Treat as found so we don't break loops
     }
@@ -80,7 +115,7 @@ async function processSutta(id, collection) {
     process.stdout.write(`Fetching ${id}... `);
 
     // Fetch Vietnamese
-    if (!fs.existsSync(viFile)) {
+    if (!viReady) {
         const viRes = await fetchSuttaData(id, TRANSLATORS.vi, 'vi');
         if (viRes.status === 200 && viRes.data) {
             saveJsonFile(viFile, viRes.data);
@@ -91,7 +126,7 @@ async function processSutta(id, collection) {
     }
 
     // Fetch English
-    if (!fs.existsSync(enFile)) {
+    if (!enReady) {
         const enRes = await fetchSuttaData(id, TRANSLATORS.en, 'en');
         if (enRes.status === 200 && enRes.data) {
             saveJsonFile(enFile, enRes.data);
@@ -105,6 +140,37 @@ async function processSutta(id, collection) {
     else console.log('❌');
 
     return foundAny;
+}
+
+function getGroupedIdsForCollection(collection) {
+    const indexPath = path.join(DATA_DIR, 'nikaya_index.json');
+    if (!fs.existsSync(indexPath)) {
+        return [];
+    }
+
+    try {
+        const nikayaIndex = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+        return nikayaIndex
+            .filter((item) => item.collection === collection && typeof item.id === 'string' && item.id.includes('-'))
+            .map((item) => item.id)
+            .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+    } catch (error) {
+        console.error(`Failed to read grouped IDs for ${collection}:`, error.message);
+        return [];
+    }
+}
+
+async function fetchGroupedSuttas(collection) {
+    const groupedIds = getGroupedIdsForCollection(collection);
+    if (groupedIds.length === 0) {
+        return;
+    }
+
+    console.log(`\n--- ${collection.toUpperCase()} grouped range IDs (${groupedIds.length}) ---`);
+    for (const id of groupedIds) {
+        await processSutta(id, collection);
+        await new Promise(r => setTimeout(r, DELAY_MS));
+    }
 }
 
 async function fetchCollection(name, generator) {
@@ -161,6 +227,8 @@ async function fetchSN() {
             await new Promise(r => setTimeout(r, DELAY_MS));
         }
     }
+
+    await fetchGroupedSuttas('sn');
 }
 
 async function fetchAN() {
@@ -190,13 +258,16 @@ async function fetchAN() {
             await new Promise(r => setTimeout(r, DELAY_MS));
         }
     }
+
+    await fetchGroupedSuttas('an');
 }
 
 async function generateManifest() {
     console.log('\nGenerating manifest...');
     const manifest = {};
+    const contentManifest = {};
 
-    const collections = ['dn', 'mn', 'sn', 'an'];
+    const collections = ['dn', 'mn', 'sn', 'an', 'kn'];
     for (const collection of collections) {
         const dir = path.join(DATA_DIR, collection);
         if (!fs.existsSync(dir)) continue;
@@ -213,13 +284,22 @@ async function generateManifest() {
 
                 if (!manifest[id]) manifest[id] = [];
                 if (!manifest[id].includes(lang)) manifest[id].push(lang);
+
+                const filePath = path.join(dir, file);
+                if (fileHasContent(filePath)) {
+                    if (!contentManifest[id]) contentManifest[id] = [];
+                    if (!contentManifest[id].includes(lang)) contentManifest[id].push(lang);
+                }
             }
         });
     }
 
     const manifestPath = path.join(DATA_DIR, 'available.json');
+    const contentManifestPath = path.join(DATA_DIR, 'content-availability.json');
     saveJsonFile(manifestPath, manifest);
+    saveJsonFile(contentManifestPath, contentManifest);
     console.log(`Manifest saved to ${manifestPath}`);
+    console.log(`Content manifest saved to ${contentManifestPath}`);
 }
 
 // KN Fetching Utilities
@@ -270,6 +350,8 @@ async function fetchKN() {
             await new Promise(r => setTimeout(r, DELAY_MS));
         }
     }
+
+    await fetchGroupedSuttas(knCollectionName);
 }
 
 async function main() {

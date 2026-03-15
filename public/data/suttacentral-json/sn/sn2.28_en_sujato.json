@@ -1,392 +1,67 @@
 {
+  "comment_text": {
+    "sn2.28:1.1": "At <a href='https://suttacentral.net/pli-tv-bu-vb-pc2/en/sujato'>Bu Pc 2</a> = <a href='https://suttacentral.net/ja28/en/sujato'>Ja 28</a> we meet an ox of this name. Perhaps the virtuous beast was reborn as a god, still concerned with pulling laden carts. Pāṇini lists it as a name, but no such individual has been identified in Sanskrit. ",
+    "sn2.28:2.1": "These verses are also at <a href='https://suttacentral.net/sn1.29/en/sujato'>SN 1.29</a>; see notes there. "
+  },
+  "html_text": {
+    "sn2.28:0.1": "<article id='sn2.28'><header><ul><li class='division'>{}</li>",
+    "sn2.28:0.2": "<li>{}</li></ul>",
+    "sn2.28:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn2.28:1.1": "<p>{}</p>",
+    "sn2.28:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn2.28:2.2": "<span class='verse-line'>{}</span>",
+    "sn2.28:2.3": "<span class='verse-line'>{}</span>",
+    "sn2.28:2.4": "<span class='verse-line'>{}</span></p>",
+    "sn2.28:3.1": "<p><span class='verse-line'>{}</span>",
+    "sn2.28:3.2": "<span class='verse-line'>{}</span>",
+    "sn2.28:3.3": "<span class='verse-line'>{}</span>",
+    "sn2.28:3.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn2.28",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nandivisālasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Nanda ",
-      "uid": "sn2.27"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Susīma ",
-      "uid": "sn2.29"
-    }
+    "sn2.28:0.1": "Saṁyutta Nikāya 2.28 ",
+    "sn2.28:0.2": "3. Nānātitthiyavagga ",
+    "sn2.28:0.3": "Nandivisālasutta ",
+    "sn2.28:1.1": "Ekamantaṁ ṭhito kho nandivisālo devaputto bhagavantaṁ gāthāya ajjhabhāsi: ",
+    "sn2.28:2.1": "“Catucakkaṁ navadvāraṁ, ",
+    "sn2.28:2.2": "puṇṇaṁ lobhena saṁyutaṁ; ",
+    "sn2.28:2.3": "Paṅkajātaṁ mahāvīra, ",
+    "sn2.28:2.4": "kathaṁ yātrā bhavissatī”ti. ",
+    "sn2.28:3.1": "“Chetvā naddhiṁ varattañca, ",
+    "sn2.28:3.2": "icchālobhañca pāpakaṁ; ",
+    "sn2.28:3.3": "Samūlaṁ taṇhamabbuyha, ",
+    "sn2.28:3.4": "evaṁ yātrā bhavissatī”ti. "
   },
-  "translation": {
-    "uid": "sn2.28",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Nandivisāla ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Nanda ",
-      "uid": "sn2.27"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Susīma ",
-      "uid": "sn2.29"
-    }
+  "translation_text": {
+    "sn2.28:0.1": "Linked Discourses 2.28 ",
+    "sn2.28:0.2": "3. Various Sectarians ",
+    "sn2.28:0.3": "With Nandivisāla ",
+    "sn2.28:1.1": "Standing to one side, the godling Nandivisāla addressed the Buddha in verse: ",
+    "sn2.28:2.1": "“Four are its wheels, and nine its doors; ",
+    "sn2.28:2.2": "it’s stuffed full, bound with greed, ",
+    "sn2.28:2.3": "and born from a bog. ",
+    "sn2.28:2.4": "Great hero, how will I keep going?” ",
+    "sn2.28:3.1": "“Having cut the strap and harness—",
+    "sn2.28:3.2": "wicked desire and greed—",
+    "sn2.28:3.3": "and having plucked out craving, root and all: ",
+    "sn2.28:3.4": "that’s how you will keep going.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 2.28",
-    "volpages": "PTS (1st ed) SN i 63",
-    "alt_volpages": "PTS (2nd ed) SN i 146",
-    "uid": "sn2.28",
-    "blurb": "The god Nandivisāla gives an elaborate metaphor for the body, and asks how to escape from it. ",
-    "difficulty": null,
-    "original_title": "Nandivisālasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Nandivisāla ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn2.28_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Nandivisāla ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn2.28_translation-en-sujato",
-        "segmented": true,
-        "title": "With Nandivisāla ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Giovanni Zappa",
-        "author_short": "giovannizappa",
-        "author_uid": "giovannizappa",
-        "publication_date": "2025",
-        "id": "sn2.28_translation-it-giovannizappa",
-        "segmented": true,
-        "title": "Il discorso con Nandivisāla ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn2.28_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Laera et al.",
-        "author_short": "laera",
-        "author_uid": "laera",
-        "publication_date": null,
-        "id": "sn2.28_translation-pt-laera-quaresma",
-        "segmented": true,
-        "title": "Com Nandivisala",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn2.28_translation-ru-sv",
-        "segmented": true,
-        "title": "Нандивисала ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn2.28_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Nandivisāla ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn2.28_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn2.28_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn2.28_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn2.28_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn2.28_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn2.28_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn2.28_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn2.28_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2015",
-        "id": "no_sn2.28_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2015",
-        "id": "ru_sn2.28_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn2.28_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn2.28_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn2.28_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn2.28_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms12S1_538, msdiv109,ms12S1_539,dr15.86, ms12S1_540",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn2.28:1.1": "ms12S1_538, msdiv109",
+    "sn2.28:2.1": "ms12S1_539",
+    "sn2.28:3.1": "dr15.86, ms12S1_540"
   },
-  "bilara_root_text": {
-    "uid": "sn2.28",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nandivisālasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn2.28",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Nandivisāla ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn2.28:0.1",
+    "sn2.28:0.2",
+    "sn2.28:0.3",
+    "sn2.28:1.1",
+    "sn2.28:2.1",
+    "sn2.28:2.2",
+    "sn2.28:2.3",
+    "sn2.28:2.4",
+    "sn2.28:3.1",
+    "sn2.28:3.2",
+    "sn2.28:3.3",
+    "sn2.28:3.4"
+  ]
 }

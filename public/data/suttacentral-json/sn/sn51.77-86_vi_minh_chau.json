@@ -1,0 +1,299 @@
+{
+  "root_text": {
+    "uid": "sn51.77-86",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "In Private (1st) ",
+      "uid": "sn52.1"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Searches ",
+      "uid": "sn51.67-76"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn51.77-86' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 51: Tương Ưng Như Ý Túc</li>\n<li>VIII: Phẩm Bộc Lưu</li>\n</ul>\n<h1>51.77–86</h1>\n</header>\n<p><a class='pts' id='S.v,292' href='#S.v,292'></a>(Tất cả đoạn này giống các đoạn trước, chỉ khác, ở đây là tu tập bốn như ý túc).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn51.77-86",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "In Private (1st) ",
+      "uid": "sn52.1"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Searches ",
+      "uid": "sn51.67-76"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn51.77-86' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 51: Tương Ưng Như Ý Túc</li>\n<li>VIII: Phẩm Bộc Lưu</li>\n</ul>\n<h1>51.77–86</h1>\n</header>\n<p><a class='pts' id='S.v,292' href='#S.v,292'></a>(Tất cả đoạn này giống các đoạn trước, chỉ khác, ở đây là tu tập bốn như ý túc).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 51.77–86",
+    "volpages": null,
+    "alt_volpages": null,
+    "uid": "sn51.77-86",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Oghavagga",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": null,
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn51.77-86_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Das Kapitel über Fluten ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn51.77-86_translation-en-sujato",
+        "segmented": true,
+        "title": "Floods ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn51.77-86_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "o Dhamma.gift",
+        "author_short": "o",
+        "author_uid": "o",
+        "publication_date": null,
+        "id": "sn51.77-86_translation-ru-o",
+        "segmented": true,
+        "title": "Сутта Огха",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn51.77-86_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn51.77-86_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn51.77-86_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn51.77-86_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn51.77-86_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn51.77-86_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_sn51.77-86_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn51.77-86_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn51.77-86_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn51.77-86_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": ""
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn51.77-86_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "csp1ed14.256, csp2ed14.256, dr19.369, ms14S5_1541, msdiv889-898, sya19.375, vri27.364,ms14S5_1544",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn51.77-86",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Oghavagga",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

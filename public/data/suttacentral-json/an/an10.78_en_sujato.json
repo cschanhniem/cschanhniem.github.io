@@ -1,284 +1,80 @@
 {
+  "html_text": {
+    "an10.78:0.1": "<article id='an10.78'><header><ul><li class='division'>{}</li>",
+    "an10.78:0.2": "<li>{}</li></ul>",
+    "an10.78:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.78:1.1": "<p>{}",
+    "an10.78:1.2": "{}",
+    "an10.78:1.3": "{}",
+    "an10.78:1.4": "{}",
+    "an10.78:1.5": "{}",
+    "an10.78:1.6": "{}",
+    "an10.78:1.7": "{}",
+    "an10.78:1.8": "{}",
+    "an10.78:1.9": "{}",
+    "an10.78:1.10": "{}",
+    "an10.78:1.11": "{}",
+    "an10.78:1.12": "{}",
+    "an10.78:1.13": "{}</p>",
+    "an10.78:1.14": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.78",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nigaṇṭhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Crow ",
-      "uid": "an10.77"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Grounds for Resentment ",
-      "uid": "an10.79"
-    }
+    "an10.78:0.1": "Aṅguttara Nikāya 10.78 ",
+    "an10.78:0.2": "8. Ākaṅkhavagga ",
+    "an10.78:0.3": "Nigaṇṭhasutta ",
+    "an10.78:1.1": "“Dasahi, bhikkhave, asaddhammehi samannāgatā nigaṇṭhā. ",
+    "an10.78:1.2": "Katamehi dasahi? ",
+    "an10.78:1.3": "Assaddhā, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.4": "dussīlā, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.5": "ahirikā, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.6": "anottappino, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.7": "asappurisasambhattino, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.8": "attukkaṁsakaparavambhakā, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.9": "sandiṭṭhiparāmāsā ādhānaggāhī duppaṭinissaggino, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.10": "kuhakā, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.11": "pāpicchā, bhikkhave, nigaṇṭhā; ",
+    "an10.78:1.12": "pāpamittā, bhikkhave, nigaṇṭhā—",
+    "an10.78:1.13": "imehi kho, bhikkhave, dasahi asaddhammehi samannāgatā nigaṇṭhā”ti. ",
+    "an10.78:1.14": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an10.78",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Jains ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Crow ",
-      "uid": "an10.77"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Grounds for Resentment ",
-      "uid": "an10.79"
-    }
+  "translation_text": {
+    "an10.78:0.1": "Numbered Discourses 10.78 ",
+    "an10.78:0.2": "8. If You Want ",
+    "an10.78:0.3": "Jains ",
+    "an10.78:1.1": "“Mendicants, Jain ascetics have ten bad qualities. ",
+    "an10.78:1.2": "What ten? ",
+    "an10.78:1.3": "They’re faithless and ",
+    "an10.78:1.4": "unethical, ",
+    "an10.78:1.5": "without conscience ",
+    "an10.78:1.6": "or prudence, ",
+    "an10.78:1.7": "and devoted to untrue persons. ",
+    "an10.78:1.8": "They glorify themselves and put others down. ",
+    "an10.78:1.9": "They’re attached to their own views, holding them tight, and refusing to let go. ",
+    "an10.78:1.10": "They’re deceptive, ",
+    "an10.78:1.11": "with corrupt wishes ",
+    "an10.78:1.12": "and bad friends. ",
+    "an10.78:1.13": "Jain ascetics possess these ten bad qualities.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.78",
-    "volpages": " PTS 5.150",
-    "alt_volpages": null,
-    "uid": "an10.78",
-    "blurb": "Jain ascetics have ten bad qualities.",
-    "difficulty": null,
-    "original_title": "Nigaṇṭhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Jains ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.78_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Jainas ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.78_translation-en-sujato",
-        "segmented": true,
-        "title": "Jains ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.78_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.78_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.78_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.78_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.78_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.78_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an10.78_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.78_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.78_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.78_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.78_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj23.266, ms17A10_601, msdiv78, pts-vp-pli5.150",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.78:1.1": "bj23.266, ms17A10_601, msdiv78, pts-vp-pli5.150"
   },
-  "bilara_root_text": {
-    "uid": "an10.78",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nigaṇṭhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an10.78",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Jains ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.78:0.1",
+    "an10.78:0.2",
+    "an10.78:0.3",
+    "an10.78:1.1",
+    "an10.78:1.2",
+    "an10.78:1.3",
+    "an10.78:1.4",
+    "an10.78:1.5",
+    "an10.78:1.6",
+    "an10.78:1.7",
+    "an10.78:1.8",
+    "an10.78:1.9",
+    "an10.78:1.10",
+    "an10.78:1.11",
+    "an10.78:1.12",
+    "an10.78:1.13",
+    "an10.78:1.14"
+  ]
 }

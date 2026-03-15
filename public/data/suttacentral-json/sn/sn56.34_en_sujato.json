@@ -1,326 +1,54 @@
 {
+  "html_text": {
+    "sn56.34:0.1": "<article id='sn56.34'><header><ul><li class='division'>{}</li>",
+    "sn56.34:0.2": "<li>{}</li></ul>",
+    "sn56.34:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.34:1.1": "<p>{}</p>",
+    "sn56.34:1.2": "<p>{}</p>",
+    "sn56.34:2.1": "<p>{}",
+    "sn56.34:2.2": "{}",
+    "sn56.34:2.3": "{}</p>",
+    "sn56.34:3.1": "<p>{}</p>",
+    "sn56.34:3.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.34",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Celasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Stick ",
-      "uid": "sn56.33"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Hundred Spears ",
-      "uid": "sn56.35"
-    }
+    "sn56.34:0.1": "Saṁyutta Nikāya 56.34 ",
+    "sn56.34:0.2": "4. Sīsapāvanavagga ",
+    "sn56.34:0.3": "Celasutta ",
+    "sn56.34:1.1": "“Āditte, bhikkhave, cele vā sīse vā kimassa karaṇīyan”ti? ",
+    "sn56.34:1.2": "“Āditte, bhante, cele vā sīse vā, tasseva celassa vā sīsassa vā nibbāpanāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyan”ti. ",
+    "sn56.34:2.1": "“Ādittaṁ, bhikkhave, celaṁ vā sīsaṁ vā ajjhupekkhitvā amanasikaritvā anabhisametānaṁ catunnaṁ ariyasaccānaṁ yathābhūtaṁ abhisamayāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyaṁ. ",
+    "sn56.34:2.2": "Katamesaṁ catunnaṁ? ",
+    "sn56.34:2.3": "Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. ",
+    "sn56.34:3.1": "Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. ",
+    "sn56.34:3.2": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn56.34",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Clothes ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Stick ",
-      "uid": "sn56.33"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Hundred Spears ",
-      "uid": "sn56.35"
-    }
+  "translation_text": {
+    "sn56.34:0.1": "Linked Discourses 56.34 ",
+    "sn56.34:0.2": "4. In a Rosewood Forest ",
+    "sn56.34:0.3": "Clothes ",
+    "sn56.34:1.1": "“Mendicants, if your clothes or head were on fire, what would you do about it?” ",
+    "sn56.34:1.2": "“Sir, if our clothes or head were on fire, we’d apply extraordinary enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness in order to extinguish it.” ",
+    "sn56.34:2.1": "“Mendicants, so long as you have not encompassed the four noble truths, regard your burning head or clothes with equanimity, ignore them, and apply extraordinary enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness to truly comprehending the four noble truths. ",
+    "sn56.34:2.2": "What four? ",
+    "sn56.34:2.3": "The noble truths of suffering, its origin, its cessation, and the path. ",
+    "sn56.34:3.1": "That’s why you should practice meditation …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.34",
-    "volpages": "PTS SN v 440",
-    "alt_volpages": null,
-    "uid": "sn56.34",
-    "blurb": "Even more than if your clothes are on fire, you should make an effort to understand the four noble truths.",
-    "difficulty": null,
-    "original_title": "Celasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Clothes ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.34_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Kleider ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.34_translation-en-sujato",
-        "segmented": true,
-        "title": "Clothes ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.34_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.34_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.34_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn56.34_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Clothes"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.34_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.34_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.34_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.34_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn56.34_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn56.34_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.34_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.34_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.34_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.34_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.419, csp1ed14.385, csp2ed14.385, ms14S5_2322, msdiv1104, ndp15.377,ms14S5_2323, sya19.551, vri27.503,ms14S5_2324",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.34:1.1": "cck19.419, csp1ed14.385, csp2ed14.385, ms14S5_2322, msdiv1104, ndp15.377",
+    "sn56.34:2.1": "ms14S5_2323, sya19.551, vri27.503",
+    "sn56.34:3.1": "ms14S5_2324"
   },
-  "bilara_root_text": {
-    "uid": "sn56.34",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Celasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn56.34",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Clothes ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn56.34:0.1",
+    "sn56.34:0.2",
+    "sn56.34:0.3",
+    "sn56.34:1.1",
+    "sn56.34:1.2",
+    "sn56.34:2.1",
+    "sn56.34:2.2",
+    "sn56.34:2.3",
+    "sn56.34:3.1",
+    "sn56.34:3.2"
   ]
 }

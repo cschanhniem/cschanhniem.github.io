@@ -1,338 +1,52 @@
 {
+  "html_text": {
+    "sn54.2:0.1": "<article id='sn54.2'><header><ul><li class='division'>{}</li>",
+    "sn54.2:0.2": "<li>{}</li></ul>",
+    "sn54.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn54.2:1.1": "<p>{}",
+    "sn54.2:1.2": "{}",
+    "sn54.2:1.3": "{}",
+    "sn54.2:1.4": "{}",
+    "sn54.2:1.5": "{}",
+    "sn54.2:1.6": "{}</p>",
+    "sn54.2:1.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn54.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bojjhaṅgasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "One Thing ",
-      "uid": "sn54.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Plain Version ",
-      "uid": "sn54.3"
-    }
+    "sn54.2:0.1": "Saṁyutta Nikāya 54.2 ",
+    "sn54.2:0.2": "1. Ekadhammavagga ",
+    "sn54.2:0.3": "Bojjhaṅgasutta ",
+    "sn54.2:1.1": "“Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā. ",
+    "sn54.2:1.2": "Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā? ",
+    "sn54.2:1.3": "Idha, bhikkhave, bhikkhu ānāpānassatisahagataṁ satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, ",
+    "sn54.2:1.4": "ānāpānassatisahagataṁ dhammavicayasambojjhaṅgaṁ bhāveti …pe… ",
+    "sn54.2:1.5": "ānāpānassatisahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. ",
+    "sn54.2:1.6": "Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā”ti. ",
+    "sn54.2:1.7": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn54.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Awakening Factors ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "One Thing ",
-      "uid": "sn54.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Plain Version ",
-      "uid": "sn54.3"
-    }
+  "translation_text": {
+    "sn54.2:0.1": "Linked Discourses 54.2 ",
+    "sn54.2:0.2": "1. One Thing ",
+    "sn54.2:0.3": "Awakening Factors ",
+    "sn54.2:1.1": "“Mendicants, when mindfulness of breathing is developed and cultivated it’s very fruitful and beneficial. ",
+    "sn54.2:1.2": "And how is mindfulness of breathing developed and cultivated to be very fruitful and beneficial? ",
+    "sn54.2:1.3": "It’s when a mendicant develops mindfulness of breathing together with the awakening factors of mindfulness, ",
+    "sn54.2:1.4": "investigation of principles, energy, rapture, tranquility, immersion, ",
+    "sn54.2:1.5": "and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. ",
+    "sn54.2:1.6": "Mindfulness of breathing, when developed and cultivated in this way, is very fruitful and beneficial.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 54.2",
-    "volpages": " PTS 5.313",
-    "alt_volpages": null,
-    "uid": "sn54.2",
-    "blurb": "Breath meditation is very beneficial. It is developed together with the seven factors of awakening.",
-    "difficulty": null,
-    "original_title": "Bojjhaṅgasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Awakening Factors ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn54.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Faktoren des Erwachens ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn54.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Awakening Factors ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "sn54.2_translation-fr-sekha",
-        "segmented": true,
-        "title": "Les facteurs d’éveil ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2022",
-        "id": "sn54.2_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Nušvitimo veiksniai",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn54.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn54.2_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn54.2_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn54.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn54.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn54.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn54.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pl",
-        "lang_name": "Polski",
-        "is_root": false,
-        "author": "Piotr Jagodziński",
-        "author_short": "Jagodziński",
-        "author_uid": "jagodzinski",
-        "publication_date": null,
-        "id": "pl_sn54.2_jagodzinski",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_sn54.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn54.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn54.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn54.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn54.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms14S5_1652, msdiv978, pts-vp-pli5.313, sya19.396",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn54.2:1.1": "ms14S5_1652, msdiv978, pts-vp-pli5.313, sya19.396"
   },
-  "bilara_root_text": {
-    "uid": "sn54.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bojjhaṅgasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn54.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Awakening Factors ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn54.2:0.1",
+    "sn54.2:0.2",
+    "sn54.2:0.3",
+    "sn54.2:1.1",
+    "sn54.2:1.2",
+    "sn54.2:1.3",
+    "sn54.2:1.4",
+    "sn54.2:1.5",
+    "sn54.2:1.6",
+    "sn54.2:1.7"
+  ]
 }

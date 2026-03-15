@@ -1,337 +1,89 @@
 {
+  "comment_text": {
+    "sn8.11:1.1": "Campā is modern Champapur near Bhagalpur in Bihar state, not far from West Bengal. It is near the eastern-most reach of the Buddha’s journeys. Campā was the capital of Aṅga, one of the sixteen “great nations” (<i lang='pi' translate='no'>mahājanapadā</i>). It was a flourishing trade center, and became a sacred city for the Jains. | <i lang='pi' translate='no'>Gaggarā</i>, an onomatopoeic reduplication (“gargle”), is the name of a number of rivers and whirlpools in Sanskrit (cp. the modern Ghaggar River in north-west India). | This is the only time an assembly of this size is reported. "
+  },
+  "html_text": {
+    "sn8.11:0.1": "<article id='sn8.11'><header><ul><li class='division'>{}</li>",
+    "sn8.11:0.2": "<li>{}</li></ul>",
+    "sn8.11:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn8.11:1.1": "<p>{}",
+    "sn8.11:1.2": "{}</p>",
+    "sn8.11:1.3": "<p>{}",
+    "sn8.11:1.4": "{}",
+    "sn8.11:1.5": "{}",
+    "sn8.11:1.6": "{}</p>",
+    "sn8.11:2.1": "<p>{}",
+    "sn8.11:2.2": "{}</p>",
+    "sn8.11:2.3": "<p>{}</p>",
+    "sn8.11:2.4": "<p>{}</p>",
+    "sn8.11:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn8.11:3.2": "<span class='verse-line'>{}</span>",
+    "sn8.11:3.3": "<span class='verse-line'>{}</span>",
+    "sn8.11:3.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn8.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Gaggarāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Moggallāna ",
-      "uid": "sn8.10"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Vaṅgīsa ",
-      "uid": "sn8.12"
-    }
+    "sn8.11:0.1": "Saṁyutta Nikāya 8.11 ",
+    "sn8.11:0.2": "1. Vaṅgīsavagga ",
+    "sn8.11:0.3": "Gaggarāsutta ",
+    "sn8.11:1.1": "Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi sattahi ca upāsikāsatehi anekehi ca devatāsahassehi. ",
+    "sn8.11:1.2": "Tyāssudaṁ bhagavā atirocati vaṇṇena ceva yasasā ca. ",
+    "sn8.11:1.3": "Atha kho āyasmato vaṅgīsassa etadahosi: ",
+    "sn8.11:1.4": "“ayaṁ kho bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi sattahi ca upāsikāsatehi anekehi ca devatāsahassehi. ",
+    "sn8.11:1.5": "Tyāssudaṁ bhagavā atirocati vaṇṇena ceva yasasā ca. ",
+    "sn8.11:1.6": "Yannūnāhaṁ bhagavantaṁ sammukhā sāruppāya gāthāya abhitthaveyyan”ti. ",
+    "sn8.11:2.1": "Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca: ",
+    "sn8.11:2.2": "“paṭibhāti maṁ, bhagavā, paṭibhāti maṁ, sugatā”ti. ",
+    "sn8.11:2.3": "“Paṭibhātu taṁ, vaṅgīsā”ti bhagavā avoca. ",
+    "sn8.11:2.4": "Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāya gāthāya abhitthavi: ",
+    "sn8.11:3.1": "“Cando yathā vigatavalāhake nabhe, ",
+    "sn8.11:3.2": "Virocati vigatamalova bhāṇumā; ",
+    "sn8.11:3.3": "Evampi aṅgīrasa tvaṁ mahāmuni, ",
+    "sn8.11:3.4": "Atirocasi yasasā sabbalokan”ti. "
   },
-  "translation": {
-    "uid": "sn8.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "At Gaggarā ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Moggallāna ",
-      "uid": "sn8.10"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Vaṅgīsa ",
-      "uid": "sn8.12"
-    }
+  "translation_text": {
+    "sn8.11:0.1": "Linked Discourses 8.11 ",
+    "sn8.11:0.2": "1. With Vaṅgīsa ",
+    "sn8.11:0.3": "At Gaggarā ",
+    "sn8.11:1.1": "At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities. ",
+    "sn8.11:1.2": "But the Buddha outshone them all in beauty and glory. ",
+    "sn8.11:1.3": "Then Venerable Vaṅgīsa thought, ",
+    "sn8.11:1.4": "“The Buddha is staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities. ",
+    "sn8.11:1.5": "And he outshines them all in beauty and glory. ",
+    "sn8.11:1.6": "Why don’t I extoll him in his presence with fitting verses?” ",
+    "sn8.11:2.1": "Then Venerable Vaṅgīsa got up from his seat, arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said, ",
+    "sn8.11:2.2": "“I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!” ",
+    "sn8.11:2.3": "“Then speak as you feel inspired,” said the Buddha. ",
+    "sn8.11:2.4": "Then Vaṅgīsa extolled the Buddha in his presence with fitting verses: ",
+    "sn8.11:3.1": "“Like the moon on a cloudless night, ",
+    "sn8.11:3.2": "like the shining immaculate sun, ",
+    "sn8.11:3.3": "so too Aṅgīrasa, O great sage, ",
+    "sn8.11:3.4": "your glory outshines the entire world.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 8.11",
-    "volpages": " PTS (1st ed) 1.196",
-    "alt_volpages": " PTS (2nd ed) 1.421",
-    "uid": "sn8.11",
-    "blurb": "Vaṅgīsa says the Buddha, like the moon or the sun, outshines the whole world.",
-    "difficulty": null,
-    "original_title": "Gaggarāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "At Gaggarā ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn8.11_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Bei Gaggarā ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn8.11_translation-en-sujato",
-        "segmented": true,
-        "title": "At Gaggarā ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn8.11_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn8.11_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Gaggarā ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn8.11_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn8.11_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn8.11_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn8.11_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn8.11_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn8.11_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn8.11_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn8.11_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn8.11_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn8.11_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn8.11_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn8.11_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn8.11_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj13.350, csp1ed12.197, csp2ed12.197, ms12S1_1366, msdiv219, pts-vp-pli2ed1.421,cck15.256, ms12S1_1367, ndp12.196,ms12S1_1368, pts-vp-pli1ed1.196, sya15.288",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn8.11:1.2": "atirocati → ativirocati (mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn8.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Gaggarāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn8.11:1.1": "bj13.350, csp1ed12.197, csp2ed12.197, ms12S1_1366, msdiv219, pts-vp-pli2ed1.421",
+    "sn8.11:2.1": "cck15.256, ms12S1_1367, ndp12.196",
+    "sn8.11:3.1": "ms12S1_1368, pts-vp-pli1ed1.196, sya15.288"
   },
-  "bilara_translated_text": {
-    "uid": "sn8.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "At Gaggarā ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn8.11:0.1",
+    "sn8.11:0.2",
+    "sn8.11:0.3",
+    "sn8.11:1.1",
+    "sn8.11:1.2",
+    "sn8.11:1.3",
+    "sn8.11:1.4",
+    "sn8.11:1.5",
+    "sn8.11:1.6",
+    "sn8.11:2.1",
+    "sn8.11:2.2",
+    "sn8.11:2.3",
+    "sn8.11:2.4",
+    "sn8.11:3.1",
+    "sn8.11:3.2",
+    "sn8.11:3.3",
+    "sn8.11:3.4"
+  ]
 }

@@ -1,0 +1,51 @@
+{
+  "html_text": {
+    "sn35.171-173:0.1": "<article id='sn35.171-173'><header><ul><li class='division'>{}</li>",
+    "sn35.171-173:0.2": "<li>{}</li></ul>",
+    "sn35.171-173:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.171-173:1.1": "<p>{}",
+    "sn35.171-173:1.2": "{}</p>",
+    "sn35.171-173:1.3": "<p>{}",
+    "sn35.171-173:1.4": "{}",
+    "sn35.171-173:1.5": "{}",
+    "sn35.171-173:1.6": "{}</p></article>"
+  },
+  "root_text": {
+    "sn35.171-173:0.1": "Saṁyutta Nikāya 35.171–173 ",
+    "sn35.171-173:0.2": "17. Saṭṭhipeyyālavagga ",
+    "sn35.171-173:0.3": "Dukkhachandādisutta ",
+    "sn35.171-173:1.1": "“Yaṁ, bhikkhave, dukkhaṁ, tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. ",
+    "sn35.171-173:1.2": "Kiñca, bhikkhave, dukkhaṁ? ",
+    "sn35.171-173:1.3": "Cakkhu, bhikkhave, dukkhaṁ; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo …pe… ",
+    "sn35.171-173:1.4": "jivhā dukkhā …pe… ",
+    "sn35.171-173:1.5": "mano dukkho; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. ",
+    "sn35.171-173:1.6": "Yaṁ, bhikkhave, dukkhaṁ tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti. "
+  },
+  "translation_text": {
+    "sn35.171-173:0.1": "Linked Discourses 35.171–173 ",
+    "sn35.171-173:0.2": "17. Sixty Abbreviated Texts ",
+    "sn35.171-173:0.3": "Desire, Etc. for the Suffering Interior ",
+    "sn35.171-173:1.1": "“Mendicants, you should give up desire … greed … desire and greed for what is suffering. ",
+    "sn35.171-173:1.2": "And what is suffering? ",
+    "sn35.171-173:1.3": "The eye, ear, nose, ",
+    "sn35.171-173:1.4": "tongue, body, ",
+    "sn35.171-173:1.5": "and mind are suffering …” "
+  },
+  "variant_text": {
+    "sn35.171-173:0.3": "Dukkhachandādisutta → dukkhachanda-dukkharāga-dukkhachandarāgasuttāni (bj); 6 (pts1ed) "
+  },
+  "reference_text": {
+    "sn35.171-173:1.1": "dr18.187, ms13S4_893, msdiv171-173, ndp14.136, pts-vp-pli4.150, sya18.188"
+  },
+  "keys_order": [
+    "sn35.171-173:0.1",
+    "sn35.171-173:0.2",
+    "sn35.171-173:0.3",
+    "sn35.171-173:1.1",
+    "sn35.171-173:1.2",
+    "sn35.171-173:1.3",
+    "sn35.171-173:1.4",
+    "sn35.171-173:1.5",
+    "sn35.171-173:1.6"
+  ]
+}

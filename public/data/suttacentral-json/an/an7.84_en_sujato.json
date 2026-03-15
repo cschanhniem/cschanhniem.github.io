@@ -1,298 +1,71 @@
 {
+  "html_text": {
+    "an7.84:0.1": "<article id='an7.84'><header><ul><li class='division'>{}</li>",
+    "an7.84:0.2": "<li>{}</li></ul>",
+    "an7.84:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.84:1.1": "<p>{}",
+    "an7.84:1.2": "{}",
+    "an7.84:1.3": "{}",
+    "an7.84:1.4": "{}</p>",
+    "an7.84:1.5": "<p class='endsutta'>{}</p>",
+    "an7.84:1.6": "<p class='endvagga'>{}</p>",
+    "an7.84:2.0": "<p class='uddana-intro'>{}</p>",
+    "an7.84:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an7.84:2.2": "<span class='verse-line'>{}</span>",
+    "an7.84:2.3": "<span class='verse-line'>{}</span>",
+    "an7.84:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an7.84",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Adhikaraṇasamathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Teacher’s Instructions ",
-      "uid": "an7.83"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Mendicant ",
-      "uid": "an7.85"
-    }
+    "an7.84:0.1": "Aṅguttara Nikāya 7.84 ",
+    "an7.84:0.2": "8. Vinayavagga ",
+    "an7.84:0.3": "Adhikaraṇasamathasutta ",
+    "an7.84:1.1": "“Sattime, bhikkhave, adhikaraṇasamathā dhammā uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya. ",
+    "an7.84:1.2": "Katame satta? ",
+    "an7.84:1.3": "Sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññātakaraṇaṁ dātabbaṁ, yebhuyyasikā dātabbā, tassapāpiyasikā dātabbā, tiṇavatthārako dātabbo. ",
+    "an7.84:1.4": "Ime kho, bhikkhave, satta adhikaraṇasamathā dhammā uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāyā”ti. ",
+    "an7.84:1.5": "Dasamaṁ. ",
+    "an7.84:1.6": "Vinayavaggo aṭṭhamo. ",
+    "an7.84:2.0": "Tassuddānaṁ ",
+    "an7.84:2.1": "Caturo vinayadharā, ",
+    "an7.84:2.2": "caturo ceva sobhanā; ",
+    "an7.84:2.3": "Sāsanaṁ adhikaraṇa—",
+    "an7.84:2.4": "samathenaṭṭhame dasāti. "
   },
-  "translation": {
-    "uid": "an7.84",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Settlement of Disciplinary Issues ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Teacher’s Instructions ",
-      "uid": "an7.83"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Mendicant ",
-      "uid": "an7.85"
-    }
+  "translation_text": {
+    "an7.84:0.1": "Numbered Discourses 7.84 ",
+    "an7.84:0.2": "8. The Monastic Law ",
+    "an7.84:0.3": "Settlement of Disciplinary Issues ",
+    "an7.84:1.1": "“Mendicants, there are these seven principles for the settlement of any disciplinary issues that might arise. ",
+    "an7.84:1.2": "What seven? ",
+    "an7.84:1.3": "Resolution face-to-face to be applied. Resolution through recollection to be granted. Resolution because of past insanity to be granted. Acting according to what has been admitted. Majority decision. Further penalty. Covering over as if with grass. ",
+    "an7.84:1.4": "These are the seven principles for the settlement of any disciplinary issues that might arise.” ",
+    "an7.84:1.5": "",
+    "an7.84:1.6": "",
+    "an7.84:2.1": "",
+    "an7.84:2.2": "",
+    "an7.84:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.84",
-    "volpages": " PTS 4.144",
-    "alt_volpages": null,
-    "uid": "an7.84",
-    "blurb": "Seven principles for settling issues and disputes that have arisen in the community.",
-    "difficulty": null,
-    "original_title": "Adhikaraṇasamathasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Settlement of Disciplinary Issues ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.84_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Beilegen von disziplinarischen Angelegenheiten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.84_translation-en-sujato",
-        "segmented": true,
-        "title": "Settlement of Disciplinary Issues ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.84_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.84_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Урегулирование",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.84_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.84_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.84_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.84_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.84_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an7.84_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.84_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.84_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.84_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.84_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed16.508, csp2ed16.508, ms16A7_627, msdiv84, pts-vp-pli4.144,ms16A7_631, ndp18.264",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an7.84:1.3": "paṭiññātakaraṇaṁ dātabbaṁ, yebhuyyasikā dātabbā, tassapāpiyasikā dātabbā, tiṇavatthārako dātabbo → paṭiññātakaraṇaṁ, yebhuyyasikā, tassa pāpiyasikā, tiṇavatthārako (sya-all) 2V:2094 vinayena ca 8D:1021 saṅgītisuttena ca "
   },
-  "bilara_root_text": {
-    "uid": "an7.84",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Adhikaraṇasamathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.84:1.1": "csp1ed16.508, csp2ed16.508, ms16A7_627, msdiv84, pts-vp-pli4.144",
+    "an7.84:2.1": "ms16A7_631, ndp18.264"
   },
-  "bilara_translated_text": {
-    "uid": "an7.84",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Settlement of Disciplinary Issues ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.84:0.1",
+    "an7.84:0.2",
+    "an7.84:0.3",
+    "an7.84:1.1",
+    "an7.84:1.2",
+    "an7.84:1.3",
+    "an7.84:1.4",
+    "an7.84:1.5",
+    "an7.84:1.6",
+    "an7.84:2.0",
+    "an7.84:2.1",
+    "an7.84:2.2",
+    "an7.84:2.3",
+    "an7.84:2.4"
+  ]
 }

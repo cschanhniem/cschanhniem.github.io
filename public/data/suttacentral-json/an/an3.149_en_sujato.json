@@ -1,297 +1,53 @@
 {
+  "html_text": {
+    "an3.149:0.1": "<article id='an3.149'><header><ul><li class='division'>{}</li>",
+    "an3.149:0.2": "<li>{}</li></ul>",
+    "an3.149:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an3.149:1.1": "<p>{}",
+    "an3.149:1.2": "{}",
+    "an3.149:1.3": "{}</p>",
+    "an3.149:2.1": "<p>{}",
+    "an3.149:2.2": "{}</p>",
+    "an3.149:2.3": "<p>{}</p>",
+    "an3.149:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an3.149",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Asucisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Unethical ",
-      "uid": "an3.148"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Broken (1st) ",
-      "uid": "an3.150"
-    }
+    "an3.149:0.1": "Aṅguttara Nikāya 3.149 ",
+    "an3.149:0.2": "15. Maṅgalavagga ",
+    "an3.149:0.3": "Asucisutta ",
+    "an3.149:1.1": "“Tīhi, bhikkhave …pe… ",
+    "an3.149:1.2": "asucinā kāyakammena, asucinā vacīkammena, asucinā manokammena—",
+    "an3.149:1.3": "imehi kho …pe… evaṁ niraye. ",
+    "an3.149:2.1": "Tīhi, bhikkhave …pe… ",
+    "an3.149:2.2": "sucinā kāyakammena, sucinā vacīkammena, sucinā manokammena—",
+    "an3.149:2.3": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṁ nikkhitto evaṁ sagge”ti. ",
+    "an3.149:2.4": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "an3.149",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Impure ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Unethical ",
-      "uid": "an3.148"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Broken (1st) ",
-      "uid": "an3.150"
-    }
+  "translation_text": {
+    "an3.149:0.1": "Numbered Discourses 3.149 ",
+    "an3.149:0.2": "15. Good Fortune ",
+    "an3.149:0.3": "Impure ",
+    "an3.149:1.1": "“Someone with three qualities is placed in hell as if delivered there. … ",
+    "an3.149:1.2": "Impure deeds by way of body, speech, and mind. … ",
+    "an3.149:1.3": "",
+    "an3.149:2.1": "Someone with three qualities is placed in heaven as if delivered there. … ",
+    "an3.149:2.2": "Pure deeds by way of body, speech, and mind. …” ",
+    "an3.149:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 3.149",
-    "volpages": "PTS AN i 293",
-    "alt_volpages": null,
-    "uid": "an3.149",
-    "blurb": "Pure and impure deeds determine rebirth.",
-    "difficulty": null,
-    "original_title": "Asucisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Impure ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an3.149_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Unrein ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an3.149_translation-en-sujato",
-        "segmented": true,
-        "title": "Impure ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an3.149_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an3.149_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an3.149_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an3.149_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an3.149_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an3.149_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an3.149_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an3.149_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an3.149_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an3.149_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an3.149_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an3.149_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms15A3_1072, msdiv150,dr20.378, ms15A3_1073",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an3.149:1.1": "ms15A3_1072, msdiv150",
+    "an3.149:2.1": "dr20.378, ms15A3_1073"
   },
-  "bilara_root_text": {
-    "uid": "an3.149",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Asucisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an3.149",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Impure ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an3.149:0.1",
+    "an3.149:0.2",
+    "an3.149:0.3",
+    "an3.149:1.1",
+    "an3.149:1.2",
+    "an3.149:1.3",
+    "an3.149:2.1",
+    "an3.149:2.2",
+    "an3.149:2.3",
+    "an3.149:2.4"
+  ]
 }

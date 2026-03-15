@@ -1,327 +1,61 @@
 {
+  "html_text": {
+    "an6.85:0.1": "<article id='an6.85'><header><ul><li class='division'>{}</li>",
+    "an6.85:0.2": "<li>{}</li></ul>",
+    "an6.85:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.85:1.1": "<p>{}",
+    "an6.85:1.2": "{}",
+    "an6.85:1.3": "{}",
+    "an6.85:1.4": "{}</p>",
+    "an6.85:2.1": "<p>{}",
+    "an6.85:2.2": "{}",
+    "an6.85:2.3": "{}",
+    "an6.85:2.4": "{}</p>",
+    "an6.85:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.85",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sītibhāvasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Day and Night ",
-      "uid": "an6.84"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Obstacles ",
-      "uid": "an6.86"
-    }
+    "an6.85:0.1": "Aṅguttara Nikāya 6.85 ",
+    "an6.85:0.2": "9. Sītivagga ",
+    "an6.85:0.3": "Sītibhāvasutta ",
+    "an6.85:1.1": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo anuttaraṁ sītibhāvaṁ sacchikātuṁ. ",
+    "an6.85:1.2": "Katamehi chahi? ",
+    "an6.85:1.3": "Idha, bhikkhave, bhikkhu yasmiṁ samaye cittaṁ niggahetabbaṁ tasmiṁ samaye cittaṁ na niggaṇhāti, yasmiṁ samaye cittaṁ paggahetabbaṁ tasmiṁ samaye cittaṁ na paggaṇhāti, yasmiṁ samaye cittaṁ sampahaṁsitabbaṁ tasmiṁ samaye cittaṁ na sampahaṁseti, yasmiṁ samaye cittaṁ ajjhupekkhitabbaṁ tasmiṁ samaye cittaṁ na ajjhupekkhati, hīnādhimuttiko ca hoti, sakkāyābhirato ca. ",
+    "an6.85:1.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo anuttaraṁ sītibhāvaṁ sacchikātuṁ. ",
+    "an6.85:2.1": "Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo anuttaraṁ sītibhāvaṁ sacchikātuṁ. ",
+    "an6.85:2.2": "Katamehi chahi? ",
+    "an6.85:2.3": "Idha, bhikkhave, bhikkhu yasmiṁ samaye cittaṁ niggahetabbaṁ tasmiṁ samaye cittaṁ niggaṇhāti, yasmiṁ samaye cittaṁ paggahetabbaṁ tasmiṁ samaye cittaṁ paggaṇhāti, yasmiṁ samaye cittaṁ sampahaṁsitabbaṁ tasmiṁ samaye cittaṁ sampahaṁseti, yasmiṁ samaye cittaṁ ajjhupekkhitabbaṁ tasmiṁ samaye cittaṁ ajjhupekkhati, paṇītādhimuttiko ca hoti nibbānābhirato ca. ",
+    "an6.85:2.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo anuttaraṁ sītibhāvaṁ sacchikātun”ti. ",
+    "an6.85:2.5": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an6.85",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Coolness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Day and Night ",
-      "uid": "an6.84"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Obstacles ",
-      "uid": "an6.86"
-    }
+  "translation_text": {
+    "an6.85:0.1": "Numbered Discourses 6.85 ",
+    "an6.85:0.2": "9. Coolness ",
+    "an6.85:0.3": "Coolness ",
+    "an6.85:1.1": "“Mendicants, a mendicant with six qualities can’t realize supreme coolness. ",
+    "an6.85:1.2": "What six? ",
+    "an6.85:1.3": "It’s when a mendicant doesn’t keep their mind in check when they should. They don’t exert their mind when they should. They don’t encourage the mind when they should. They don’t watch over the mind with equanimity when they should. They have inferior convictions. They delight in substantial reality. ",
+    "an6.85:1.4": "A mendicant with these six qualities can’t realize supreme coolness. ",
+    "an6.85:2.1": "A mendicant with six qualities can realize supreme coolness. ",
+    "an6.85:2.2": "What six? ",
+    "an6.85:2.3": "It’s when a mendicant keeps their mind in check when they should. They exert their mind when they should. They encourage the mind when they should. They watch over the mind with equanimity when they should. They have excellent convictions. They delight in extinguishment. ",
+    "an6.85:2.4": "A mendicant with these six qualities can realize supreme coolness.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.85",
-    "volpages": "PTS AN iii 435",
-    "alt_volpages": null,
-    "uid": "an6.85",
-    "blurb": "Possessing six qualities a mendicant attains to coolness.",
-    "difficulty": null,
-    "original_title": "Sītibhāvasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Coolness ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.85_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Kühle ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.85_translation-en-sujato",
-        "segmented": true,
-        "title": "Coolness ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.85_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.85_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Прохлада ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.85_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.85_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an6.85_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "Cooled"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.85_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_an6.85_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.85_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.85_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.85_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.85_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.85_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.85_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.85_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj21.242, dr22.471, ms16A6_684, msdiv85, vri38.136,ms16A6_685, ndp18.137",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.85:1.1": "bj21.242, dr22.471, ms16A6_684, msdiv85, vri38.136",
+    "an6.85:2.1": "ms16A6_685, ndp18.137"
   },
-  "bilara_root_text": {
-    "uid": "an6.85",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sītibhāvasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an6.85",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Coolness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an6.85:0.1",
+    "an6.85:0.2",
+    "an6.85:0.3",
+    "an6.85:1.1",
+    "an6.85:1.2",
+    "an6.85:1.3",
+    "an6.85:1.4",
+    "an6.85:2.1",
+    "an6.85:2.2",
+    "an6.85:2.3",
+    "an6.85:2.4",
+    "an6.85:2.5"
   ]
 }

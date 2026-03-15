@@ -1,0 +1,298 @@
+{
+  "root_text": {
+    "uid": "sn32.13-52",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Ủng Hộ Bố Thí",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Gods of the Cool Thunderclouds ",
+      "uid": "sn32.53"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Ten Discourses On How Giving Helps to Become a Cool Thundercloud God ",
+      "uid": "sn32.3-12"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn32.13-52' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 32: Tương Ưng Thần Mây</li>\n</ul>\n<h1>32.13–52. Ủng Hộ Bố Thí</h1>\n</header>\n<a class='pts' id='S.iii.256' href='#S.iii.256'></a>\n<p class='add'>(Như kinh trên, chỉ khác là “chư Thiên thuộc loại thần mây khác như thần mây nóng” … “thần mây mưa”).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn32.13-52",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Ủng Hộ Bố Thí",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Gods of the Cool Thunderclouds ",
+      "uid": "sn32.53"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Ten Discourses On How Giving Helps to Become a Cool Thundercloud God ",
+      "uid": "sn32.3-12"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn32.13-52' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 32: Tương Ưng Thần Mây</li>\n</ul>\n<h1>32.13–52. Ủng Hộ Bố Thí</h1>\n</header>\n<a class='pts' id='S.iii.256' href='#S.iii.256'></a>\n<p class='add'>(Như kinh trên, chỉ khác là “chư Thiên thuộc loại thần mây khác như thần mây nóng” … “thần mây mưa”).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 32.13–52",
+    "volpages": null,
+    "alt_volpages": null,
+    "uid": "sn32.13-52",
+    "blurb": "Someone of good conduct and appropriate aspiration may be reborn as a cloud god living in various kinds of cloud if they give various gifts.",
+    "difficulty": null,
+    "original_title": "Uṇhavalāhakadānūpakārasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Ủng Hộ Bố Thí",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn32.13-52_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Wie Geben hilft, ein Gott der warmen Wolken usw. zu werden ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn32.13-52_translation-en-sujato",
+        "segmented": true,
+        "title": "How Giving Helps to Become a Warm Thundercloud God, Etc. ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn32.13-52_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
+        "publication_date": "2018",
+        "id": "bn_sn32.13-52_indragupta-suman-adikalyan-sivak-rahul",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": "1967",
+        "id": "de_sn32.13-52_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2011",
+        "id": "es_sn32.13-52_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn32.13-52_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn32.13-52_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn32.13-52_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2017",
+        "id": "no_sn32.13-52_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn32.13-52_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn32.13-52_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn32.13-52_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn32.13-52_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ủng Hộ Bố Thí"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn32.13-52_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj15.516, dr17.315, ms13S3_1222, msdiv562-601, sya17.316",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn32.13-52",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Uṇhavalāhakadānūpakārasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

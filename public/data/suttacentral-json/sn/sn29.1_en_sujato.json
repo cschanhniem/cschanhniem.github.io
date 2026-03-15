@@ -1,323 +1,53 @@
 {
+  "comment_text": {
+    "sn29.1:1.1": "Thus begins a series of four Saṁyuttas on various nonhuman entities. | The primary sense of <i lang='pi' translate='no'>nāga</i> seems to be “snake”, especially the cobra. From there it applies to other powerful beings: the dragon, the bull elephant, and the spiritual “giants” who are enlightened. ",
+    "sn29.1:1.2": "The “dragon” (<i lang='pi' translate='no'>nāga</i>) is a powerful (<a href='https://suttacentral.net/pli-tv-bu-vb-pc51/en/sujato#1.4'>Bu Pc 51:1.4</a>) serpentine (<a href='https://suttacentral.net/sn1.37/en/sujato#7.4'>SN 1.37:7.4</a>, <a href='https://suttacentral.net/cp20/en/sujato#1.2'>Cp 20:1.2</a>) entity with fiery breath (<a href='https://suttacentral.net/sn3.1/en/sujato#8.2'>SN 3.1:8.2</a>), bearing magical gems (<a href='https://suttacentral.net/pli-tv-bu-vb-ss6/en/sujato#1.3.2'>Bu Ss 6:1.3.2</a>, <a href='https://suttacentral.net/ja253/en/sujato'>Ja 253</a>). They dwell underground (<a href='https://suttacentral.net/mn23/en/sujato#2.39'>MN 23:2.39</a>), or in the ocean (<a href='https://suttacentral.net/ud5.5/en/sujato#17.1'>Ud 5.5:17.1</a>), or in the mountains (<a href='https://suttacentral.net/sn46.1/en/sujato#1.2'>SN 46.1:1.2</a>), guarding treasure (<a href='https://suttacentral.net/ja506/en/sujato'>Ja 506</a>) that they may have stolen (<a href='https://suttacentral.net/kp8/en/sujato#4.3'>Kp 8:4.3</a>). They may be man-eaters (<a href='https://suttacentral.net/sn6.4/en/sujato#9.2'>SN 6.4:9.2</a>) or protectors (<a href='https://suttacentral.net/ud2.1/en/sujato#2.2'>Ud 2.1:2.2</a>), and occasionally had to be engaged in magical combat (<a href='https://suttacentral.net/pli-tv-kd1/en/sujato#15.2.3'>Kd 1:15.2.3</a>), <a href='https://suttacentral.net/pli-tv-bu-vb-pc51/en/sujato#1.4'>Bu Pc 51:1.4</a>). They are color-changers (<a href='https://suttacentral.net/sn3.1/en/sujato#8.1'>SN 3.1:8.1</a>, <a href='https://suttacentral.net/cp13/en/sujato#3.1'>Cp 13:3.1</a>) and shape-shifters who, though they revert when they sleep, can temporarily take human form (<a href='https://suttacentral.net/pli-tv-kd1/en/sujato#63.1.1'>Kd 1:63.1.1</a>), even for the purpose of intimate relations (<a href='https://suttacentral.net/pli-tv-bu-vb-pj1/en/sujato#10.14.1'>Bu Pj 1:10.14.1</a>). The line between the supernatural entity and organic snakes is as fluid as a serpent’s form; dragons act as the leaders and protectors of all snakes (<a href='https://suttacentral.net/pli-tv-kd6/en/sujato#23.13.5'>Kd 6:23.13.5</a>), while poorly behaved dragons may be banished to a snake’s existence (<a href='https://suttacentral.net/ja304/en/sujato'>Ja 304</a>). Powerful and feared though they are, they are still no match for the cruelest of predators, man (<a href='https://suttacentral.net/ja524/en/sujato'>Ja 524</a>). ",
+    "sn29.1:1.4": "These four are defined at <a href='https://suttacentral.net/mn12/en/sujato#32.1'>MN 12:32.1</a>; see note there for Vedic and Jain sources. | The Dhammic import of this idea is that even such powerful entities are born, and hence are subject to old age and death. "
+  },
+  "html_text": {
+    "sn29.1:0.1": "<article id='sn29.1'><header><ul><li class='division'>{}</li>",
+    "sn29.1:0.2": "<li>{}</li></ul>",
+    "sn29.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn29.1:1.1": "<p>{}</p>",
+    "sn29.1:1.2": "<p>{}",
+    "sn29.1:1.3": "{}",
+    "sn29.1:1.4": "{}",
+    "sn29.1:1.5": "{}</p>",
+    "sn29.1:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn29.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Sucimukhī ",
-      "uid": "sn28.10"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Better ",
-      "uid": "sn29.2"
-    }
+    "sn29.1:0.1": "Saṁyutta Nikāya 29.1 ",
+    "sn29.1:0.2": "1. Nāgavagga ",
+    "sn29.1:0.3": "Suddhikasutta ",
+    "sn29.1:1.1": "Sāvatthinidānaṁ. ",
+    "sn29.1:1.2": "“Catasso imā, bhikkhave, nāgayoniyo. ",
+    "sn29.1:1.3": "Katamā catasso? ",
+    "sn29.1:1.4": "Aṇḍajā nāgā, jalābujā nāgā, saṁsedajā nāgā, opapātikā nāgā—",
+    "sn29.1:1.5": "imā kho, bhikkhave, catasso nāgayoniyo”ti. ",
+    "sn29.1:1.6": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn29.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Sucimukhī ",
-      "uid": "sn28.10"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Better ",
-      "uid": "sn29.2"
-    }
+  "translation_text": {
+    "sn29.1:0.1": "Linked Discourses 29.1 ",
+    "sn29.1:0.2": "1. Dragons ",
+    "sn29.1:0.3": "Plain Version ",
+    "sn29.1:1.1": "At Sāvatthī. ",
+    "sn29.1:1.2": "“Mendicants, dragons reproduce in these four ways. ",
+    "sn29.1:1.3": "What four? ",
+    "sn29.1:1.4": "Dragons are born from eggs, from a womb, from moisture, or spontaneously. ",
+    "sn29.1:1.5": "These are the four ways that dragons reproduce.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 29.1",
-    "volpages": "PTS SN iii 240",
-    "alt_volpages": null,
-    "uid": "sn29.1",
-    "blurb": "Dragons may be born from eggs, the womb, moisture, or spontaneously.",
-    "difficulty": null,
-    "original_title": "Suddhikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Plain Version ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn29.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Einfache Fassung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn29.1_translation-en-sujato",
-        "segmented": true,
-        "title": "Plain Version ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn29.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn29.1_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn29.1_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn29.1_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn29.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn29.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn29.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn29.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn29.1_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn29.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn29.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn29.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn29.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn29.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.478, cck17.217, csp1ed13.202, csp2ed13.202, dr17.297, ms13S3_1151, msdiv342, ndp13.456, sya17.298, vri25.238",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn29.1:1.1": "bj15.478, cck17.217, csp1ed13.202, csp2ed13.202, dr17.297, ms13S3_1151, msdiv342, ndp13.456, sya17.298, vri25.238"
   },
-  "bilara_root_text": {
-    "uid": "sn29.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Suddhikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn29.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Plain Version ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn29.1:0.1",
+    "sn29.1:0.2",
+    "sn29.1:0.3",
+    "sn29.1:1.1",
+    "sn29.1:1.2",
+    "sn29.1:1.3",
+    "sn29.1:1.4",
+    "sn29.1:1.5",
+    "sn29.1:1.6"
+  ]
 }

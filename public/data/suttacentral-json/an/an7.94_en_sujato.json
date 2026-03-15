@@ -1,285 +1,68 @@
 {
+  "html_text": {
+    "an7.94:0.1": "<article id='an7.94'><header><ul><li class='division'>{}</li>",
+    "an7.94:0.2": "<li>{}</li></ul>",
+    "an7.94:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.94:1.1": "<p>{}",
+    "an7.94:1.2": "{}",
+    "an7.94:1.3": "{}",
+    "an7.94:1.4": "{}</p>",
+    "an7.94:1.5": "<p class='endsutta'>{}</p>",
+    "an7.94:1.6": "<p class='endvagga'>{}</p>",
+    "an7.94:2.0": "<p class='uddana-intro'>{}</p>",
+    "an7.94:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an7.94:2.2": "<span class='verse-line'>{}</span>",
+    "an7.94:2.3": "<span class='verse-line'>{}</span>",
+    "an7.94:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an7.94",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saddhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Bad Qualities ",
-      "uid": "an7.93"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Observing Impermanence in the Eye ",
-      "uid": "an7.95"
-    }
+    "an7.94:0.1": "Aṅguttara Nikāya 7.94 ",
+    "an7.94:0.2": "9. Samaṇavagga ",
+    "an7.94:0.3": "Saddhammasutta ",
+    "an7.94:1.1": "“Sattime, bhikkhave, saddhammā. ",
+    "an7.94:1.2": "Katame satta? ",
+    "an7.94:1.3": "Saddho hoti, hirīmā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. ",
+    "an7.94:1.4": "Ime kho, bhikkhave, satta saddhammā”ti. ",
+    "an7.94:1.5": "Dasamaṁ. ",
+    "an7.94:1.6": "Samaṇavaggo navamo. ",
+    "an7.94:2.0": "Tassuddānaṁ ",
+    "an7.94:2.1": "Bhikkhuṁ samaṇo brāhmaṇo, ",
+    "an7.94:2.2": "sottiyo ceva nhātako; ",
+    "an7.94:2.3": "Vedagū ariyo arahā, ",
+    "an7.94:2.4": "asaddhammā ca saddhammāti. "
   },
-  "translation": {
-    "uid": "an7.94",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Good Qualities ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Bad Qualities ",
-      "uid": "an7.93"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Observing Impermanence in the Eye ",
-      "uid": "an7.95"
-    }
+  "translation_text": {
+    "an7.94:0.1": "Numbered Discourses 7.94 ",
+    "an7.94:0.2": "9. An Ascetic ",
+    "an7.94:0.3": "Good Qualities ",
+    "an7.94:1.1": "“Mendicants, there are these seven good qualities. ",
+    "an7.94:1.2": "What seven? ",
+    "an7.94:1.3": "Someone is faithful, conscientious, prudent, learned, energetic, mindful, and wise. ",
+    "an7.94:1.4": "These are the seven good qualities.” ",
+    "an7.94:1.5": "",
+    "an7.94:1.6": "",
+    "an7.94:2.1": "",
+    "an7.94:2.2": "",
+    "an7.94:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.94",
-    "volpages": "PTS AN iv 145",
-    "alt_volpages": null,
-    "uid": "an7.94",
-    "blurb": "Seven good qualities starting with faith.",
-    "difficulty": null,
-    "original_title": "Saddhammasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Good Qualities ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.94_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Gute Eigenschaften ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.94_translation-en-sujato",
-        "segmented": true,
-        "title": "Good Qualities ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.94_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.94_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Хороший",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.94_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.94_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.94_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.94_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an7.94_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.94_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.94_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.94_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.94_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A7_650, msdiv94,csp1ed16.510, csp2ed16.510, ms16A7_654",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.94:1.1": "ms16A7_650, msdiv94",
+    "an7.94:2.1": "csp1ed16.510, csp2ed16.510, ms16A7_654"
   },
-  "bilara_root_text": {
-    "uid": "an7.94",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saddhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an7.94",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Good Qualities ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.94:0.1",
+    "an7.94:0.2",
+    "an7.94:0.3",
+    "an7.94:1.1",
+    "an7.94:1.2",
+    "an7.94:1.3",
+    "an7.94:1.4",
+    "an7.94:1.5",
+    "an7.94:1.6",
+    "an7.94:2.0",
+    "an7.94:2.1",
+    "an7.94:2.2",
+    "an7.94:2.3",
+    "an7.94:2.4"
+  ]
 }

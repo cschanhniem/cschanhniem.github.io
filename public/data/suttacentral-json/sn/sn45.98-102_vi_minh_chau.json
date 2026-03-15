@@ -1,0 +1,298 @@
+{
+  "root_text": {
+    "uid": "sn45.98-102",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Biển (1-6)",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Slanting East ",
+      "uid": "sn45.103"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Slanting to the Ocean ",
+      "uid": "sn45.97"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn45.98-102' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 45: Tương Ưng Ðạo</li>\n<li>IX: Hằng Hà Lược Thuyết</li>\n</ul>\n<h1>45.98–102. Biển (1-6)</h1>\n</header>\n<p><a class='pts' id='S.v.39-40' href='#S.v.39-40'></a>(Như các kinh 45.91–96, chỉ khác, ở đây là hướng về biển, không phải hướng về hướng Ðông)</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span> and <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn45.98-102",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Biển (1-6)",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Slanting East ",
+      "uid": "sn45.103"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Slanting to the Ocean ",
+      "uid": "sn45.97"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn45.98-102' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 45: Tương Ưng Ðạo</li>\n<li>IX: Hằng Hà Lược Thuyết</li>\n</ul>\n<h1>45.98–102. Biển (1-6)</h1>\n</header>\n<p><a class='pts' id='S.v.39-40' href='#S.v.39-40'></a>(Như các kinh 45.91–96, chỉ khác, ở đây là hướng về biển, không phải hướng về hướng Ðông)</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span> and <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 45.98–102",
+    "volpages": " PTS 5.40",
+    "alt_volpages": null,
+    "uid": "sn45.98-102",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyādisamuddaninnasuttapañcaka",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Biển (1-6)",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn45.98-102_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Fünf Lehrreden über Zum-Meer-Neigen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn45.98-102_translation-en-sujato",
+        "segmented": true,
+        "title": "Five Discourses on Slanting to the Ocean ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn45.98-102_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn45.98-102_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn45.98-102_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2010",
+        "id": "es_sn45.98-102_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn45.98-102_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn45.98-102_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn45.98-102_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2018",
+        "id": "no_sn45.98-102_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn45.98-102_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn45.98-102_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn45.98-102_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn45.98-102_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Biển (1-6)"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn45.98-102_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj17.1.78, cck19.42, csp1ed14.32, csp2ed14.32, dr19.48, ms14S5_208, msdiv98-102, ndp15.35, pts-vp-pli5.40, sya19.51, vri27.38,ms14S5_212",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn45.98-102",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Dutiyādisamuddaninnasuttapañcaka",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

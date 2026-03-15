@@ -1,0 +1,32 @@
+{
+  "html_text": {
+    "sn24.72-95:0.1": "<article id='sn24.72-95'><header><ul><li class='division'>{}</li>",
+    "sn24.72-95:0.2": "<li>{}</li></ul>",
+    "sn24.72-95:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn24.72-95:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn24.72-95:1.2": "<p class='endsutta'>{}</p></article>"
+  },
+  "root_text": {
+    "sn24.72-95:0.1": "Saṁyutta Nikāya 24.72–95 ",
+    "sn24.72-95:0.2": "4. Catutthagamanavagga ",
+    "sn24.72-95:0.3": "Etaṁmamādisutta ",
+    "sn24.72-95:1.1": "(Dutiyavagge viya catuvīsati suttāni pūretabbāni.) ",
+    "sn24.72-95:1.2": "Pañcavīsatimaṁ. "
+  },
+  "translation_text": {
+    "sn24.72-95:0.1": "Linked Discourses 24.72–95 ",
+    "sn24.72-95:0.2": "4. The Fourth Round ",
+    "sn24.72-95:0.3": "This Is Mine, Etc. ",
+    "sn24.72-95:1.1": "(Tell in full as in the 24 discourses of the second chapter.) "
+  },
+  "reference_text": {
+    "sn24.72-95:1.1": "ms13S3_1030, msdiv277-300"
+  },
+  "keys_order": [
+    "sn24.72-95:0.1",
+    "sn24.72-95:0.2",
+    "sn24.72-95:0.3",
+    "sn24.72-95:1.1",
+    "sn24.72-95:1.2"
+  ]
+}

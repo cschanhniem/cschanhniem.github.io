@@ -1,324 +1,57 @@
 {
+  "html_text": {
+    "an6.98:0.1": "<article id='an6.98'><header><ul><li class='division'>{}</li>",
+    "an6.98:0.2": "<li>{}</li></ul>",
+    "an6.98:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.98:1.1": "<p>{}",
+    "an6.98:1.2": "{}",
+    "an6.98:1.3": "{}</p>",
+    "an6.98:2.1": "<p>{}",
+    "an6.98:2.2": "{}",
+    "an6.98:2.3": "{}</p>",
+    "an6.98:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.98",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Aniccasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Benefit ",
-      "uid": "an6.97"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Suffering ",
-      "uid": "an6.99"
-    }
+    "an6.98:0.1": "Aṅguttara Nikāya 6.98 ",
+    "an6.98:0.2": "10. Ānisaṁsavagga ",
+    "an6.98:0.3": "Aniccasutta ",
+    "an6.98:1.1": "“‘So vata, bhikkhave, bhikkhu kañci saṅkhāraṁ niccato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.98:1.2": "‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṁ okkamissatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.98:1.3": "‘Sammattaniyāmaṁ anokkamamāno sotāpattiphalaṁ vā sakadāgāmiphalaṁ vā anāgāmiphalaṁ vā arahattaṁ vā sacchikarissatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.98:2.1": "‘So vata, bhikkhave, bhikkhu sabbasaṅkhāre aniccato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti ṭhānametaṁ vijjati. ",
+    "an6.98:2.2": "‘Anulomikāya khantiyā samannāgato sammattaniyāmaṁ okkamissatī’ti ṭhānametaṁ vijjati. ",
+    "an6.98:2.3": "‘Sammattaniyāmaṁ okkamamāno sotāpattiphalaṁ vā sakadāgāmiphalaṁ vā anāgāmiphalaṁ vā arahattaṁ vā sacchikarissatī’ti ṭhānametaṁ vijjatī”ti. ",
+    "an6.98:2.4": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an6.98",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Impermanence ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Benefit ",
-      "uid": "an6.97"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Suffering ",
-      "uid": "an6.99"
-    }
+  "translation_text": {
+    "an6.98:0.1": "Numbered Discourses 6.98 ",
+    "an6.98:0.2": "10. Benefit ",
+    "an6.98:0.3": "Impermanence ",
+    "an6.98:1.1": "“Mendicants, it is quite impossible for a mendicant who regards any condition as permanent to accept views that conform with the teaching. ",
+    "an6.98:1.2": "Without accepting views that conform with the teaching, it’s impossible to step into the sure path. ",
+    "an6.98:1.3": "Without stepping into the sure path, it’s impossible to realize the fruit of stream-entry, once-return, non-return, or perfection. ",
+    "an6.98:2.1": "It’s quite possible for a mendicant who regards all conditions as impermanent to accept views that conform with the teaching. ",
+    "an6.98:2.2": "Having accepted views that conform with the teaching, it’s possible to step into the sure path. ",
+    "an6.98:2.3": "Having stepped into the sure path, it’s possible to realize the fruit of stream-entry, once-return, non-return, or perfection.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.98",
-    "volpages": " PTS 3.442",
-    "alt_volpages": null,
-    "uid": "an6.98",
-    "blurb": "A mendicant on the path cannot see any condition as permanent.",
-    "difficulty": null,
-    "original_title": "Aniccasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Impermanence ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.98_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Unbeständigkeit ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.98_translation-en-sujato",
-        "segmented": true,
-        "title": "Impermanence ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.98_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.98_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Ненадёжность ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.98_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.98_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2012",
-        "id": "es_an6.98_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.98_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.98_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.98_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an6.98_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.98_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.98_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.98_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.98_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.98_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A6_718, msdiv98,csp1ed16.385, csp2ed16.385, ms16A6_719, ndp18.142, pts-vp-pli3.442, vri38.142",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.98:1.3": "arahattaṁ → arahattaphalaṁ (mr) ",
+    "an6.98:2.1": "sabbasaṅkhāre → sabbasaṅkhāraṁ (bj, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an6.98",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Aniccasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.98:1.1": "ms16A6_718, msdiv98",
+    "an6.98:2.1": "csp1ed16.385, csp2ed16.385, ms16A6_719, ndp18.142, pts-vp-pli3.442, vri38.142"
   },
-  "bilara_translated_text": {
-    "uid": "an6.98",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Impermanence ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.98:0.1",
+    "an6.98:0.2",
+    "an6.98:0.3",
+    "an6.98:1.1",
+    "an6.98:1.2",
+    "an6.98:1.3",
+    "an6.98:2.1",
+    "an6.98:2.2",
+    "an6.98:2.3",
+    "an6.98:2.4"
+  ]
 }

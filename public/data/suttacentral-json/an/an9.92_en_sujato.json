@@ -1,258 +1,97 @@
 {
+  "html_text": {
+    "an9.92:0.1": "<article id='an9.92'><header><ul><li class='division'>{}</li>",
+    "an9.92:0.2": "<li>{}</li></ul>",
+    "an9.92:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.92:1.1": "<p>{}",
+    "an9.92:1.2": "{}",
+    "an9.92:1.3": "{}",
+    "an9.92:1.4": "{}</p>",
+    "an9.92:2.1": "<p>{}",
+    "an9.92:2.2": "{}",
+    "an9.92:2.3": "{}",
+    "an9.92:2.4": "{}",
+    "an9.92:2.5": "{}",
+    "an9.92:2.6": "{}",
+    "an9.92:2.7": "{}</p>",
+    "an9.92:2.8": "<p class='endsutta'>{}</p>",
+    "an9.92:2.9": "<p class='endvagga'>{}</p>",
+    "an9.92:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "an9.92:3.2": "<span class='verse-line'>{}</span>",
+    "an9.92:3.3": "<span class='verse-line'>{}</span>",
+    "an9.92:3.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an9.92",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Cetasovinibandhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Hindrances, Etc. ",
-      "uid": "an9.84-91"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Untitled Discourse on Greed (1st) ",
-      "uid": "an9.93"
-    }
+    "an9.92:0.1": "Aṅguttara Nikāya 9.92 ",
+    "an9.92:0.2": "9. Iddhipādavagga ",
+    "an9.92:0.3": "Cetasovinibandhasutta ",
+    "an9.92:1.1": "“Pañcime, bhikkhave, cetasovinibandhā. ",
+    "an9.92:1.2": "Katame pañca? ",
+    "an9.92:1.3": "Idha, bhikkhave, bhikkhu kāmesu avītarāgo hoti …pe… ",
+    "an9.92:1.4": "ime kho, bhikkhave, pañca cetasovinibandhā. ",
+    "an9.92:2.1": "Imesaṁ kho, bhikkhave, pañcannaṁ cetasovinibandhānaṁ pahānāya ime cattāro iddhipādā bhāvetabbā. ",
+    "an9.92:2.2": "Katame cattāro? ",
+    "an9.92:2.3": "Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, ",
+    "an9.92:2.4": "vīriyasamādhi … ",
+    "an9.92:2.5": "cittasamādhi … ",
+    "an9.92:2.6": "vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. ",
+    "an9.92:2.7": "Imesaṁ kho, bhikkhave, pañcannaṁ cetasovinibandhānaṁ pahānāya ime cattāro iddhipādā bhāvetabbā”ti. ",
+    "an9.92:2.8": "Dasamaṁ. ",
+    "an9.92:2.9": "Iddhipādavaggo catuttho. ",
+    "an9.92:3.1": "Yatheva satipaṭṭhānā, ",
+    "an9.92:3.2": "padhānā caturopi ca; ",
+    "an9.92:3.3": "Cattāro iddhipādā ca, ",
+    "an9.92:3.4": "tatheva sampayojayeti. "
   },
-  "translation": {
-    "uid": "an9.92",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Shackles of the Heart ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Hindrances, Etc. ",
-      "uid": "an9.84-91"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Untitled Discourse on Greed (1st) ",
-      "uid": "an9.93"
-    }
+  "translation_text": {
+    "an9.92:0.1": "Numbered Discourses 9.92 ",
+    "an9.92:0.2": "9. Bases of Psychic Power ",
+    "an9.92:0.3": "Shackles of the Heart ",
+    "an9.92:1.1": "“Mendicants, there are these five shackles of the heart. ",
+    "an9.92:1.2": "What five? ",
+    "an9.92:1.3": "Firstly, a mendicant isn’t free of greed for sensual pleasures. … ",
+    "an9.92:1.4": "These are the five shackles of the heart. ",
+    "an9.92:2.1": "To give up these five shackles of the heart you should develop the four bases of psychic power. ",
+    "an9.92:2.2": "What four? ",
+    "an9.92:2.3": "It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. ",
+    "an9.92:2.4": "They develop the basis of psychic power that has immersion due to energy, and active effort. ",
+    "an9.92:2.5": "They develop the basis of psychic power that has immersion due to mental development, and active effort. ",
+    "an9.92:2.6": "They develop the basis of psychic power that has immersion due to inquiry, and active effort. ",
+    "an9.92:2.7": "To give up these five shackles of the heart you should develop these four bases of psychic power.” ",
+    "an9.92:2.8": "",
+    "an9.92:2.9": "",
+    "an9.92:3.1": "",
+    "an9.92:3.2": "",
+    "an9.92:3.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 9.92",
-    "volpages": "PTS AN iv 464",
-    "alt_volpages": null,
-    "uid": "an9.92",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Cetasovinibandhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Shackles of the Heart ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an9.92_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Seelische Ketten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an9.92_translation-en-sujato",
-        "segmented": true,
-        "title": "Shackles of the Heart ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an9.92_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an9.92_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an9.92_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an9.92_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an9.92_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an9.92_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an9.92_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an9.92_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an9.92_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 10,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj22.568, ms17A9_483, msdiv92,dr23.502, ms17A9_484, vri39.270,csp1ed17.256, csp2ed17.256, ms17A9_487",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an9.92:0.3": "Cetasovinibandhasutta → vinibandhaiddhipādasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an9.92",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Cetasovinibandhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an9.92:1.1": "bj22.568, ms17A9_483, msdiv92",
+    "an9.92:2.1": "dr23.502, ms17A9_484, vri39.270",
+    "an9.92:3.1": "csp1ed17.256, csp2ed17.256, ms17A9_487"
   },
-  "bilara_translated_text": {
-    "uid": "an9.92",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Shackles of the Heart ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an9.92:0.1",
+    "an9.92:0.2",
+    "an9.92:0.3",
+    "an9.92:1.1",
+    "an9.92:1.2",
+    "an9.92:1.3",
+    "an9.92:1.4",
+    "an9.92:2.1",
+    "an9.92:2.2",
+    "an9.92:2.3",
+    "an9.92:2.4",
+    "an9.92:2.5",
+    "an9.92:2.6",
+    "an9.92:2.7",
+    "an9.92:2.8",
+    "an9.92:2.9",
+    "an9.92:3.1",
+    "an9.92:3.2",
+    "an9.92:3.3",
+    "an9.92:3.4"
+  ]
 }

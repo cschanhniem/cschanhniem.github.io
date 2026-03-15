@@ -1,284 +1,47 @@
 {
+  "html_text": {
+    "an10.49:0.1": "<article id='an10.49'><header><ul><li class='division'>{}</li>",
+    "an10.49:0.2": "<li>{}</li></ul>",
+    "an10.49:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.49:1.1": "<p>{}",
+    "an10.49:1.2": "{}",
+    "an10.49:1.3": "{}",
+    "an10.49:1.4": "{}</p>",
+    "an10.49:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an10.49",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sarīraṭṭhadhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ten Regular Reflections for a Renunciate ",
-      "uid": "an10.48"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Fights ",
-      "uid": "an10.50"
-    }
+    "an10.49:0.1": "Aṅguttara Nikāya 10.49 ",
+    "an10.49:0.2": "5. Akkosavagga ",
+    "an10.49:0.3": "Sarīraṭṭhadhammasutta ",
+    "an10.49:1.1": "“Dasayime, bhikkhave, dhammā sarīraṭṭhā. ",
+    "an10.49:1.2": "Katame dasa? ",
+    "an10.49:1.3": "Sītaṁ, uṇhaṁ, jighacchā, pipāsā, uccāro, passāvo, kāyasaṁvaro, vacīsaṁvaro, ājīvasaṁvaro, ponobhaviko bhavasaṅkhāro—",
+    "an10.49:1.4": "ime kho, bhikkhave, dasa dhammā sarīraṭṭhā”ti. ",
+    "an10.49:1.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "an10.49",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Existing Because of the Body ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ten Regular Reflections for a Renunciate ",
-      "uid": "an10.48"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Fights ",
-      "uid": "an10.50"
-    }
+  "translation_text": {
+    "an10.49:0.1": "Numbered Discourses 10.49 ",
+    "an10.49:0.2": "5. Abuse ",
+    "an10.49:0.3": "Existing Because of the Body ",
+    "an10.49:1.1": "“Mendicants, these ten things exist because of the body. ",
+    "an10.49:1.2": "What ten? ",
+    "an10.49:1.3": "Cold, heat, hunger, thirst, feces, urine, restraint of body, speech, and livelihood, and the will to live that leads to future lives. ",
+    "an10.49:1.4": "These ten things exist because of the body.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.49",
-    "volpages": "PTS AN v 88",
-    "alt_volpages": null,
-    "uid": "an10.49",
-    "blurb": "Ten things that depend on the body.",
-    "difficulty": null,
-    "original_title": "Sarīraṭṭhadhammasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Existing Because of the Body ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.49_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vom Körper abhängig ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.49_translation-en-sujato",
-        "segmented": true,
-        "title": "Existing Because of the Body ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.49_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.49_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.49_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.49_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.49_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.49_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2015",
-        "id": "ru_an10.49_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.49_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.49_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.49_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.49_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck24.78, dr24.94, ms17A10_349, msdiv49, sya24.93",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an10.49:1.3": "ponobhaviko → ponobbhaviko (sya-all, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an10.49",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sarīraṭṭhadhammasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.49:1.1": "cck24.78, dr24.94, ms17A10_349, msdiv49, sya24.93"
   },
-  "bilara_translated_text": {
-    "uid": "an10.49",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Existing Because of the Body ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.49:0.1",
+    "an10.49:0.2",
+    "an10.49:0.3",
+    "an10.49:1.1",
+    "an10.49:1.2",
+    "an10.49:1.3",
+    "an10.49:1.4",
+    "an10.49:1.5"
+  ]
 }

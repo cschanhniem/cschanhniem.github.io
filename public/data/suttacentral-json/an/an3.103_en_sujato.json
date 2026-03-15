@@ -1,337 +1,77 @@
 {
+  "html_text": {
+    "an3.103:0.1": "<article id='an3.103'><header><ul><li class='division'>{}</li>",
+    "an3.103:0.2": "<li>{}</li></ul>",
+    "an3.103:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an3.103:1.1": "<p>{}",
+    "an3.103:1.2": "{}</p>",
+    "an3.103:1.3": "<p>{}",
+    "an3.103:1.4": "{}</p>",
+    "an3.103:1.5": "<p>{}</p>",
+    "an3.103:1.6": "<p>{}</p>",
+    "an3.103:1.7": "<p>{}</p>",
+    "an3.103:1.8": "<p>{}</p>",
+    "an3.103:1.9": "<p>{}",
+    "an3.103:1.10": "{}</p>",
+    "an3.103:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an3.103",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pubbevasambodhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Basis ",
-      "uid": "an3.102"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gratification (1st) ",
-      "uid": "an3.104"
-    }
+    "an3.103:0.1": "Aṅguttara Nikāya 3.103 ",
+    "an3.103:0.2": "11. Sambodhavagga ",
+    "an3.103:0.3": "Pubbevasambodhasutta ",
+    "an3.103:1.1": "“Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ",
+    "an3.103:1.2": "‘ko nu kho loke assādo, ko ādīnavo, kiṁ nissaraṇan’ti? ",
+    "an3.103:1.3": "Tassa mayhaṁ, bhikkhave, etadahosi: ",
+    "an3.103:1.4": "‘yaṁ kho lokaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ loke assādo. ",
+    "an3.103:1.5": "Yaṁ loko anicco dukkho vipariṇāmadhammo, ayaṁ loke ādīnavo. ",
+    "an3.103:1.6": "Yo loke chandarāgavinayo chandarāgappahānaṁ, idaṁ loke nissaraṇan’ti. ",
+    "an3.103:1.7": "Yāvakīvañcāhaṁ, bhikkhave, evaṁ lokassa assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ nābbhaññāsiṁ, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ. ",
+    "an3.103:1.8": "Yato ca khvāhaṁ, bhikkhave, evaṁ lokassa assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ abbhaññāsiṁ, athāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ. ",
+    "an3.103:1.9": "Ñāṇañca pana me dassanaṁ udapādi: ",
+    "an3.103:1.10": "‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti. ",
+    "an3.103:1.11": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an3.103",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Before Awakening ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Basis ",
-      "uid": "an3.102"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gratification (1st) ",
-      "uid": "an3.104"
-    }
+  "translation_text": {
+    "an3.103:0.1": "Numbered Discourses 3.103 ",
+    "an3.103:0.2": "11. Awakening ",
+    "an3.103:0.3": "Before Awakening ",
+    "an3.103:1.1": "“Mendicants, before my awakening—when I was still unawakened but intent on awakening—I thought: ",
+    "an3.103:1.2": "‘What’s the gratification in the world? What’s the drawback? What’s the escape?’ ",
+    "an3.103:1.3": "Then it occurred to me: ",
+    "an3.103:1.4": "‘The pleasure and happiness that arise from the world: this is its gratification. ",
+    "an3.103:1.5": "That the world is impermanent, suffering, and perishable: this is its drawback. ",
+    "an3.103:1.6": "Removing and giving up desire and greed for the world: this is its escape.’ ",
+    "an3.103:1.7": "As long as I didn’t truly understand the world’s gratification, drawback, and escape in this way for what they are, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. ",
+    "an3.103:1.8": "But when I did truly understand the world’s gratification, drawback, and escape in this way for what they are, I announced my supreme perfect awakening in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. ",
+    "an3.103:1.9": "Knowledge and vision arose in me: ",
+    "an3.103:1.10": "‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 3.103",
-    "volpages": " PTS 1.259",
-    "alt_volpages": null,
-    "uid": "an3.103",
-    "blurb": "Before awakening, Siddhattha reflected on gratification, danger and escape in the world.",
-    "difficulty": null,
-    "original_title": "Pubbevasambodhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Before Awakening ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an3.103_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vor dem Erwachen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an3.103_translation-en-sujato",
-        "segmented": true,
-        "title": "Before Awakening ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "an3.103_translation-fr-sekha",
-        "segmented": true,
-        "title": "Avant l’éveil ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an3.103_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an3.103_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an3.103_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_an3.103_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an3.103_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an3.103_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an3.103_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_an3.103_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an3.103_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an3.103_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an3.103_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an3.103_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an3.103_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an3.103_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj18.460, cck20.337, csp1ed15.261, csp2ed15.261, dr20.332, ms15A3_872, msdiv104, ndp16.240, pts-vp-pli1.259, sya20.332, vri35.292",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an3.103:0.2": "Sambodhavagga → sambodhivaggo (bj, sya-all) ",
+    "an3.103:1.4": "lokaṁ → loke (bj, sya-all, km, pts1ed) ",
+    "an3.103:1.5": "loko → loke (pts1ed, mr) ",
+    "an3.103:1.6": "loke nissaraṇan’ti → lokanissaraṇaṁ (aṭṭha.) ",
+    "an3.103:1.7": "abhisambuddho’ti → abhisambuddho (bj, sya-all, km, pts1ed, mr) ",
+    "an3.103:1.8": "khvāhaṁ → kho ahaṁ (bj, pts1ed); khohaṁ (sya-all, km, mr) ",
+    "an3.103:1.10": "vimutti → cetovimutti (bj, pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an3.103",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pubbevasambodhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an3.103:1.1": "bj18.460, cck20.337, csp1ed15.261, csp2ed15.261, dr20.332, ms15A3_872, msdiv104, ndp16.240, pts-vp-pli1.259, sya20.332, vri35.292"
   },
-  "bilara_translated_text": {
-    "uid": "an3.103",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Before Awakening ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an3.103:0.1",
+    "an3.103:0.2",
+    "an3.103:0.3",
+    "an3.103:1.1",
+    "an3.103:1.2",
+    "an3.103:1.3",
+    "an3.103:1.4",
+    "an3.103:1.5",
+    "an3.103:1.6",
+    "an3.103:1.7",
+    "an3.103:1.8",
+    "an3.103:1.9",
+    "an3.103:1.10",
+    "an3.103:1.11"
+  ]
 }

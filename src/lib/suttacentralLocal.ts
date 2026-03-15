@@ -8,28 +8,35 @@ import type { NikayaLanguage } from '@/types/nikaya'
 export type SCJsonData = any
 
 // Manifest of available local files
-let manifest: Record<string, string[]> | null = null
+let fileManifest: Record<string, string[]> | null = null
+let contentManifest: Record<string, string[]> | null = null
 let manifestLoading: Promise<void> | null = null
 
 /**
  * Initialize local data by loading the manifest
  */
 export async function initLocalData() {
-    if (manifest) return
+    if (fileManifest && contentManifest) return
     if (manifestLoading) return manifestLoading
 
-    manifestLoading = fetch('/data/suttacentral-json/available.json')
-        .then(res => {
-            if (!res.ok) throw new Error('Manifest not found')
-            return res.json()
+    manifestLoading = Promise.all([
+        fetch('/data/suttacentral-json/available.json'),
+        fetch('/data/suttacentral-json/content-availability.json'),
+    ])
+        .then(async ([fileRes, contentRes]) => {
+            if (!fileRes.ok) throw new Error('File manifest not found')
+            if (!contentRes.ok) throw new Error('Content manifest not found')
+            return Promise.all([fileRes.json(), contentRes.json()])
         })
-        .then(data => {
-            manifest = data
+        .then(([fileData, contentData]) => {
+            fileManifest = fileData
+            contentManifest = contentData
             manifestLoading = null
         })
         .catch(err => {
             console.warn('Failed to load local Nikaya manifest:', err)
-            manifest = {}
+            fileManifest = {}
+            contentManifest = {}
             manifestLoading = null
         })
 
@@ -41,9 +48,18 @@ export async function initLocalData() {
  * Note: requires initLocalData to have been called
  */
 export function hasLocalJson(suttaId: string, lang: NikayaLanguage): boolean {
-    if (!manifest) return false
+    if (!fileManifest) return false
     const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
-    return manifest[normalizedId]?.includes(lang) || false
+    return fileManifest[normalizedId]?.includes(lang) || false
+}
+
+/**
+ * Check if we have local readable content for a sutta
+ */
+export function hasLocalContent(suttaId: string, lang: NikayaLanguage): boolean {
+    if (!contentManifest) return false
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
+    return contentManifest[normalizedId]?.includes(lang) || false
 }
 
 /**
@@ -55,6 +71,7 @@ function getCollection(suttaId: string): string {
     if (id.startsWith('mn')) return 'mn'
     if (id.startsWith('sn')) return 'sn'
     if (id.startsWith('an')) return 'an'
+    if (/^(kp|dhp|ud|iti|snp)/.test(id)) return 'kn'
     return 'other'
 }
 
@@ -93,6 +110,77 @@ export function parseScHtml(html: string): string {
     return article.textContent || ''
 }
 
+function composeBilaraHtmlSegment(template: string, content?: string): string {
+    if (!template.includes('{}')) {
+        return template
+    }
+
+    return template.replace('{}', content ?? '')
+}
+
+function getOrderedBilaraKeys(data: SCJsonData): string[] {
+    if (Array.isArray(data.keys_order)) {
+        return data.keys_order.filter((key: unknown): key is string => typeof key === 'string')
+    }
+
+    if (data.html_text && typeof data.html_text === 'object') {
+        return Object.keys(data.html_text)
+    }
+
+    if (data.translation_text && typeof data.translation_text === 'object') {
+        return Object.keys(data.translation_text)
+    }
+
+    if (data.bilara_translated_text && typeof data.bilara_translated_text === 'object') {
+        return Object.keys(data.bilara_translated_text)
+    }
+
+    return []
+}
+
+function extractBilaraHtml(data: SCJsonData): string {
+    const orderedKeys = getOrderedBilaraKeys(data)
+    if (orderedKeys.length === 0) return ''
+
+    const translationSegments = data.translation_text && typeof data.translation_text === 'object'
+        ? data.translation_text
+        : data.bilara_translated_text && typeof data.bilara_translated_text === 'object'
+            ? data.bilara_translated_text
+            : null
+    const rootSegments = data.root_text && typeof data.root_text === 'object'
+        ? data.root_text
+        : null
+
+    if (data.html_text && typeof data.html_text === 'object') {
+        return orderedKeys
+            .filter((key) => key in data.html_text)
+            .map((key) => {
+                const template = data.html_text[key]
+                if (typeof template !== 'string') return ''
+
+                if (!template.includes('{}')) {
+                    return template
+                }
+
+                const content = translationSegments?.[key] ?? rootSegments?.[key] ?? ''
+                return composeBilaraHtmlSegment(template, typeof content === 'string' ? content : '')
+            })
+            .join('')
+    }
+
+    if (!translationSegments) {
+        return ''
+    }
+
+    return orderedKeys
+        .filter((key) => key in translationSegments)
+        .map((key) => {
+            const segment = translationSegments[key]
+            return typeof segment === 'string' && segment.trim() ? `<p>${segment}</p>` : ''
+        })
+        .join('\n')
+}
+
 /**
  * Fetch raw HTML content for a sutta from local JSON
  */
@@ -115,23 +203,17 @@ export async function fetchLocalSuttaHtml(suttaId: string, lang: NikayaLanguage)
         return htmlContent
     }
 
-    // Strategy 2: Check for bilara segments (keys like "dn1:1.1", "dn1:1.2" etc)
-    // Only process if it looks like segment data, not just metadata
-    if (json.bilara_translated_text) {
-        const keys = Object.keys(json.bilara_translated_text)
-        // Check if keys look like segment IDs (contain colon)
-        const hasSegments = keys.some(k => k.includes(':'))
-
-        if (hasSegments) {
-            const segments = Object.entries(json.bilara_translated_text)
-                .filter(([key]) => key.includes(':')) // Only include actual segment keys
-                .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
-                .map(([, text]) => typeof text === 'string' ? `<p>${text}</p>` : '')
-
-            if (segments.length > 0) {
-                return segments.join('\n')
-            }
+    // Strategy 2: Bilara template HTML + segment text
+    const bilaraHtml = extractBilaraHtml(json)
+    if (bilaraHtml.trim()) {
+        const parser = new DOMParser()
+        const doc = parser.parseFromString(bilaraHtml, 'text/html')
+        const article = doc.querySelector('article')
+        if (article) {
+            article.querySelectorAll('a.ref').forEach(el => el.remove())
+            return article.innerHTML
         }
+        return bilaraHtml
     }
 
     return null

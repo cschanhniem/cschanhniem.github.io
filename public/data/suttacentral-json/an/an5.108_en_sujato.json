@@ -1,298 +1,45 @@
 {
+  "html_text": {
+    "an5.108:0.1": "<article id='an5.108'><header><ul><li class='division'>{}</li>",
+    "an5.108:0.2": "<li>{}</li></ul>",
+    "an5.108:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.108:1.1": "<p>{}</p>",
+    "an5.108:2.1": "<p>{}",
+    "an5.108:2.2": "{}",
+    "an5.108:2.3": "{}</p>",
+    "an5.108:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.108",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Asekhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ethics ",
-      "uid": "an5.107"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "All Four Quarters ",
-      "uid": "an5.109"
-    }
+    "an5.108:0.1": "Aṅguttara Nikāya 5.108 ",
+    "an5.108:0.2": "11. Phāsuvihāravagga ",
+    "an5.108:0.3": "Asekhasutta ",
+    "an5.108:1.1": "“Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+    "an5.108:2.1": "Katamehi, pañcahi? ",
+    "an5.108:2.2": "Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti, asekhena samādhikkhandhena samannāgato hoti, asekhena paññākkhandhena samannāgato hoti, asekhena vimuttikkhandhena samannāgato hoti, asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. ",
+    "an5.108:2.3": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+    "an5.108:2.4": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an5.108",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An adept ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ethics ",
-      "uid": "an5.107"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "All Four Quarters ",
-      "uid": "an5.109"
-    }
+  "translation_text": {
+    "an5.108:0.1": "Numbered Discourses 5.108 ",
+    "an5.108:0.2": "11. Living Comfortably ",
+    "an5.108:0.3": "An adept ",
+    "an5.108:1.1": "“Mendicants, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. ",
+    "an5.108:2.1": "What five? ",
+    "an5.108:2.2": "It’s when they have the entire spectrum of the adept’s ethics, immersion, wisdom, freedom, and knowledge and vision of freedom. ",
+    "an5.108:2.3": "A mendicant with these five qualities … is the supreme field of merit for the world.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.108",
-    "volpages": "PTS AN iii 134",
-    "alt_volpages": null,
-    "uid": "an5.108",
-    "blurb": "Five factors of a worthy mendicant.",
-    "difficulty": null,
-    "original_title": "Asekhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "An adept ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.108_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Der Schulung entwachsen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.108_translation-en-sujato",
-        "segmented": true,
-        "title": "An adept ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.108_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.108_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Тот, кто окончил тренировку ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.108_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.108_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.108_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.108_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.108_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an5.108_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.108_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.108_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.108_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.108_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A5_653, msdiv108,csp1ed16.119, csp2ed16.119, ms16A5_654",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.108:1.1": "ms16A5_653, msdiv108",
+    "an5.108:2.1": "csp1ed16.119, csp2ed16.119, ms16A5_654"
   },
-  "bilara_root_text": {
-    "uid": "an5.108",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Asekhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.108",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An adept ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.108:0.1",
+    "an5.108:0.2",
+    "an5.108:0.3",
+    "an5.108:1.1",
+    "an5.108:2.1",
+    "an5.108:2.2",
+    "an5.108:2.3",
+    "an5.108:2.4"
+  ]
 }

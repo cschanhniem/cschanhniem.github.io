@@ -1,325 +1,73 @@
 {
+  "html_text": {
+    "sn55.4:0.1": "<article id='sn55.4'><header><ul><li class='division'>{}</li>",
+    "sn55.4:0.2": "<li>{}</li></ul>",
+    "sn55.4:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn55.4:1.1": "<p>{}",
+    "sn55.4:1.2": "{}</p>",
+    "sn55.4:1.3": "<p>{}</p>",
+    "sn55.4:1.4": "<p>{}</p>",
+    "sn55.4:2.1": "<p>{}",
+    "sn55.4:2.2": "{}",
+    "sn55.4:2.3": "{}",
+    "sn55.4:2.4": "{}",
+    "sn55.4:2.5": "{}",
+    "sn55.4:2.6": "{}",
+    "sn55.4:2.7": "{}</p>",
+    "sn55.4:2.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn55.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamasāriputtasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Dīghāvu ",
-      "uid": "sn55.3"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Sāriputta (2nd) ",
-      "uid": "sn55.5"
-    }
+    "sn55.4:0.1": "Saṁyutta Nikāya 55.4 ",
+    "sn55.4:0.2": "1. Veḷudvāravagga ",
+    "sn55.4:0.3": "Paṭhamasāriputtasutta ",
+    "sn55.4:1.1": "Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca ānando sāvatthiyaṁ viharanti jetavane anāthapiṇḍikassa ārāme. ",
+    "sn55.4:1.2": "Atha kho āyasmā ānando sāyanhasamayaṁ paṭisallānā vuṭṭhito …pe… ekamantaṁ nisinno kho āyasmā ānando āyasmantaṁ sāriputtaṁ etadavoca: ",
+    "sn55.4:1.3": "“katinaṁ nu kho, āvuso sāriputta, dhammānaṁ samannāgamanahetu evamayaṁ pajā bhagavatā byākatā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā”ti? ",
+    "sn55.4:1.4": "“Catunnaṁ kho, āvuso, dhammānaṁ samannāgamanahetu evamayaṁ pajā bhagavatā byākatā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā. ",
+    "sn55.4:2.1": "Katamesaṁ catunnaṁ? ",
+    "sn55.4:2.2": "Idhāvuso, ariyasāvako buddhe aveccappasādena samannāgato hoti—",
+    "sn55.4:2.3": "itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. ",
+    "sn55.4:2.4": "Dhamme …pe… ",
+    "sn55.4:2.5": "saṅghe …pe… ",
+    "sn55.4:2.6": "ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. ",
+    "sn55.4:2.7": "Imesaṁ kho, āvuso, catunnaṁ dhammānaṁ samannāgamanahetu evamayaṁ pajā bhagavatā byākatā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā”ti. ",
+    "sn55.4:2.8": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn55.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Sāriputta (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Dīghāvu ",
-      "uid": "sn55.3"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Sāriputta (2nd) ",
-      "uid": "sn55.5"
-    }
+  "translation_text": {
+    "sn55.4:0.1": "Linked Discourses 55.4 ",
+    "sn55.4:0.2": "1. At Bamboo Gate ",
+    "sn55.4:0.3": "With Sāriputta (1st) ",
+    "sn55.4:1.1": "At one time Venerable Sāriputta was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "sn55.4:1.2": "Then in the late afternoon, Venerable Ānanda came out of retreat … and said to Sāriputta: ",
+    "sn55.4:1.3": "“Reverend, how many things do people have to possess in order for the Buddha to declare that they’re a stream-enterer, not liable to be reborn in the underworld, destined for awakening?” ",
+    "sn55.4:1.4": "“Reverend, people have to possess four things in order for the Buddha to declare that they’re a stream-enterer, not liable to be reborn in the underworld, destined for awakening. ",
+    "sn55.4:2.1": "What four? ",
+    "sn55.4:2.2": "It’s when a noble disciple has experiential confidence in the Buddha … ",
+    "sn55.4:2.3": "",
+    "sn55.4:2.4": "the teaching … ",
+    "sn55.4:2.5": "the Saṅgha … ",
+    "sn55.4:2.6": "And they have the ethical conduct loved by the noble ones … leading to immersion. ",
+    "sn55.4:2.7": "People have to possess these four things in order for the Buddha to declare that they’re a stream-enterer, not liable to be reborn in the underworld, destined for awakening.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 55.4",
-    "volpages": " PTS 5.347",
-    "alt_volpages": null,
-    "uid": "sn55.4",
-    "blurb": "Sāriputta explains to Ānanda that someone who has the four factors of stream-entry—experiential faith in the Buddha, the teaching, and the Saṅgha, and ethical conduct—is a stream-enterer, destined for awakening.",
-    "difficulty": null,
-    "original_title": "Paṭhamasāriputtasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Sāriputta (1st) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn55.4_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Sāriputta (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn55.4_translation-en-sujato",
-        "segmented": true,
-        "title": "With Sāriputta (1st) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Rémy Zins",
-        "author_short": "sekha",
-        "author_uid": "sekha",
-        "publication_date": "2022",
-        "id": "sn55.4_translation-fr-sekha",
-        "segmented": true,
-        "title": "Avec Saripoutta (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn55.4_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn55.4_translation-ru-sv",
-        "segmented": true,
-        "title": "Сарипутта (I) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn55.4_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn55.4_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn55.4_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn55.4_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn55.4_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn55.4_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn55.4_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn55.4_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn55.4_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn55.4_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn55.4_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed14.302, csp2ed14.302, dr19.431, ms14S5_1805, msdiv1000, ndp15.295, pts-vp-pli5.347, vri27.414,ms14S5_1806, sya19.434",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn55.4:1.1": "csp1ed14.302, csp2ed14.302, dr19.431, ms14S5_1805, msdiv1000, ndp15.295, pts-vp-pli5.347, vri27.414",
+    "sn55.4:2.1": "ms14S5_1806, sya19.434"
   },
-  "bilara_root_text": {
-    "uid": "sn55.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamasāriputtasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn55.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Sāriputta (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn55.4:0.1",
+    "sn55.4:0.2",
+    "sn55.4:0.3",
+    "sn55.4:1.1",
+    "sn55.4:1.2",
+    "sn55.4:1.3",
+    "sn55.4:1.4",
+    "sn55.4:2.1",
+    "sn55.4:2.2",
+    "sn55.4:2.3",
+    "sn55.4:2.4",
+    "sn55.4:2.5",
+    "sn55.4:2.6",
+    "sn55.4:2.7",
+    "sn55.4:2.8"
+  ]
 }

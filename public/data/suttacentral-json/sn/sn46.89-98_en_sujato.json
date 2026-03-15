@@ -1,0 +1,58 @@
+{
+  "html_text": {
+    "sn46.89-98:0.1": "<article id='sn46.89-98'><header><ul><li class='division'>{}</li>",
+    "sn46.89-98:0.2": "<li>{}</li></ul>",
+    "sn46.89-98:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.89-98:1.1": "<p>{}</p>",
+    "sn46.89-98:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.89-98:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.89-98:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.89-98:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.89-98:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.89-98:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn46.89-98:3.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn46.89-98:0.1": "Saṁyutta Nikāya 46.89–98 ",
+    "sn46.89-98:0.2": "10. Appamādavagga ",
+    "sn46.89-98:0.3": "Tathāgatādisutta ",
+    "sn46.89-98:1.1": "“Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā”ti vitthāretabbaṁ. ",
+    "sn46.89-98:1.2": "Appamādavaggo dasamo. ",
+    "sn46.89-98:2.0": "Tassuddānaṁ ",
+    "sn46.89-98:2.1": "Tathāgataṁ padaṁ kūṭaṁ, ",
+    "sn46.89-98:2.2": "mūlaṁ sārena vassikaṁ; ",
+    "sn46.89-98:2.3": "Rājā candimasūriyā ca, ",
+    "sn46.89-98:2.4": "vatthena dasamaṁ padanti. ",
+    "sn46.89-98:3.1": "(Appamādavaggo bojjhaṅgasaṁyuttassa bojjhaṅgavasena vitthāretabbo.) "
+  },
+  "translation_text": {
+    "sn46.89-98:0.1": "Linked Discourses 46.89–98 ",
+    "sn46.89-98:0.2": "10. Diligence ",
+    "sn46.89-98:0.3": "A Realized One, Etc. ",
+    "sn46.89-98:1.1": "“Mendicants, the Realized One, the perfected one, the fully awakened Buddha, is said to be the best of all sentient beings—be they footless, with two feet, four feet, or many feet …” ",
+    "sn46.89-98:1.2": "",
+    "sn46.89-98:2.1": "",
+    "sn46.89-98:2.2": "",
+    "sn46.89-98:2.3": "",
+    "sn46.89-98:2.4": "",
+    "sn46.89-98:3.1": "(Tell in full as in SN 45.139–148.) "
+  },
+  "reference_text": {
+    "sn46.89-98:1.1": "cck19.153, ms14S5_704, msdiv270-279, vri27.170",
+    "sn46.89-98:2.1": "ms14S5_707, ndp15.119",
+    "sn46.89-98:3.1": "ms14S5_708"
+  },
+  "keys_order": [
+    "sn46.89-98:0.1",
+    "sn46.89-98:0.2",
+    "sn46.89-98:0.3",
+    "sn46.89-98:1.1",
+    "sn46.89-98:1.2",
+    "sn46.89-98:2.0",
+    "sn46.89-98:2.1",
+    "sn46.89-98:2.2",
+    "sn46.89-98:2.3",
+    "sn46.89-98:2.4",
+    "sn46.89-98:3.1"
+  ]
+}

@@ -1,297 +1,79 @@
 {
+  "html_text": {
+    "an9.30:0.1": "<article id='an9.30'><header><ul><li class='division'>{}</li>",
+    "an9.30:0.2": "<li>{}</li></ul>",
+    "an9.30:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.30:1.1": "<p>{}",
+    "an9.30:1.2": "{}",
+    "an9.30:1.3": "{}",
+    "an9.30:1.4": "{}",
+    "an9.30:1.5": "{}",
+    "an9.30:1.6": "{}",
+    "an9.30:1.7": "{}",
+    "an9.30:1.8": "{}",
+    "an9.30:1.9": "{}",
+    "an9.30:1.10": "{}",
+    "an9.30:1.11": "{}",
+    "an9.30:1.12": "{}</p>",
+    "an9.30:1.13": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an9.30",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Āghātapaṭivinayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Grounds for Resentment ",
-      "uid": "an9.29"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Progressive Cessations ",
-      "uid": "an9.31"
-    }
+    "an9.30:0.1": "Aṅguttara Nikāya 9.30 ",
+    "an9.30:0.2": "3. Sattāvāsavagga ",
+    "an9.30:0.3": "Āghātapaṭivinayasutta ",
+    "an9.30:1.1": "“Navayime, bhikkhave, āghātapaṭivinayā. ",
+    "an9.30:1.2": "Katame nava? ",
+    "an9.30:1.3": "‘Anatthaṁ me acari, taṁ kutettha labbhā’ti āghātaṁ paṭivineti; ",
+    "an9.30:1.4": "‘anatthaṁ me carati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti; ",
+    "an9.30:1.5": "‘anatthaṁ me carissati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti; ",
+    "an9.30:1.6": "piyassa me manāpassa anatthaṁ acari …pe… ",
+    "an9.30:1.7": "anatthaṁ carati …pe… ",
+    "an9.30:1.8": "‘anatthaṁ carissati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti; ",
+    "an9.30:1.9": "appiyassa me amanāpassa atthaṁ acari …pe… ",
+    "an9.30:1.10": "atthaṁ carati …pe… ",
+    "an9.30:1.11": "‘atthaṁ carissati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti. ",
+    "an9.30:1.12": "Ime kho, bhikkhave, nava āghātapaṭivinayā”ti. ",
+    "an9.30:1.13": "Dasamaṁ. "
   },
-  "translation": {
-    "uid": "an9.30",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Getting Rid of Resentment ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Grounds for Resentment ",
-      "uid": "an9.29"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Progressive Cessations ",
-      "uid": "an9.31"
-    }
+  "translation_text": {
+    "an9.30:0.1": "Numbered Discourses 9.30 ",
+    "an9.30:0.2": "3. Abodes of Sentient Beings ",
+    "an9.30:0.3": "Getting Rid of Resentment ",
+    "an9.30:1.1": "“Mendicants, there are these nine ways to get rid of resentment. ",
+    "an9.30:1.2": "What nine? ",
+    "an9.30:1.3": "Thinking: ‘They harmed me, but what can I possibly do?’ you get rid of resentment. ",
+    "an9.30:1.4": "Thinking: ‘They are harming me …’ … ",
+    "an9.30:1.5": "‘They will harm me …’ … ",
+    "an9.30:1.6": "‘They harmed someone I love …’ … ",
+    "an9.30:1.7": "‘They are harming someone I love …’ ",
+    "an9.30:1.8": "‘They will harm someone I love …’ … ",
+    "an9.30:1.9": "‘They helped someone I dislike …’ … ",
+    "an9.30:1.10": "‘They are helping someone I dislike …’ … ",
+    "an9.30:1.11": "Thinking: ‘They will help someone I dislike, but what can I possibly do?’ you get rid of resentment. ",
+    "an9.30:1.12": "These are the nine ways to get rid of resentment.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 9.30",
-    "volpages": " PTS 4.409",
-    "alt_volpages": null,
-    "uid": "an9.30",
-    "blurb": "Nine ways of removing resentment.",
-    "difficulty": null,
-    "original_title": "Āghātapaṭivinayasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Getting Rid of Resentment ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an9.30_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Sich von Groll losmachen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an9.30_translation-en-sujato",
-        "segmented": true,
-        "title": "Getting Rid of Resentment ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an9.30_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an9.30_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an9.30_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2012",
-        "id": "es_an9.30_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an9.30_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an9.30_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an9.30_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an9.30_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an9.30_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an9.30_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an9.30_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an9.30_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 11,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr23.439, ms17A9_239, msdiv30, pts-vp-pli4.409",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an9.30:1.3": "acari → acarīti (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "an9.30",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Āghātapaṭivinayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an9.30:1.1": "dr23.439, ms17A9_239, msdiv30, pts-vp-pli4.409"
   },
-  "bilara_translated_text": {
-    "uid": "an9.30",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Getting Rid of Resentment ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an9.30:0.1",
+    "an9.30:0.2",
+    "an9.30:0.3",
+    "an9.30:1.1",
+    "an9.30:1.2",
+    "an9.30:1.3",
+    "an9.30:1.4",
+    "an9.30:1.5",
+    "an9.30:1.6",
+    "an9.30:1.7",
+    "an9.30:1.8",
+    "an9.30:1.9",
+    "an9.30:1.10",
+    "an9.30:1.11",
+    "an9.30:1.12",
+    "an9.30:1.13"
+  ]
 }

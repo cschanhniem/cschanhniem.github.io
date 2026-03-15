@@ -1,340 +1,70 @@
 {
+  "html_text": {
+    "an7.59:0.1": "<article id='an7.59'><header><ul><li class='division'>{}</li>",
+    "an7.59:0.2": "<li>{}</li></ul>",
+    "an7.59:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.59:1.1": "<p><span class='evam'>{}</span>",
+    "an7.59:1.2": "{}",
+    "an7.59:1.3": "{}</p>",
+    "an7.59:1.4": "<p>{}</p>",
+    "an7.59:2.1": "<p>{}",
+    "an7.59:2.2": "{}</p>",
+    "an7.59:3.1": "<p>{}</p>",
+    "an7.59:3.2": "<p>{}",
+    "an7.59:3.3": "{}</p>",
+    "an7.59:3.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an7.59",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kimilasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Nothing to Hide ",
-      "uid": "an7.58"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Seven Qualities ",
-      "uid": "an7.60"
-    }
+    "an7.59:0.1": "Aṅguttara Nikāya 7.59 ",
+    "an7.59:0.2": "6. Abyākatavagga ",
+    "an7.59:0.3": "Kimilasutta ",
+    "an7.59:1.1": "Evaṁ me sutaṁ—",
+    "an7.59:1.2": "ekaṁ samayaṁ bhagavā kimilāyaṁ viharati niculavane. ",
+    "an7.59:1.3": "Atha kho āyasmā kimilo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā kimilo bhagavantaṁ etadavoca: ",
+    "an7.59:1.4": "“ko nu kho, bhante, hetu ko paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti? ",
+    "an7.59:2.1": "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, samādhismiṁ agāravā viharanti appatissā, appamāde agāravā viharanti appatissā, paṭisanthāre agāravā viharanti appatissā. ",
+    "an7.59:2.2": "Ayaṁ kho, kimila, hetu ayaṁ paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti. ",
+    "an7.59:3.1": "“Ko pana, bhante, hetu ko paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti? ",
+    "an7.59:3.2": "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari sagāravā viharanti sappatissā, dhamme sagāravā viharanti sappatissā, saṅghe sagāravā viharanti sappatissā, sikkhāya sagāravā viharanti sappatissā, samādhismiṁ sagāravā viharanti sappatissā, appamāde sagāravā viharanti sappatissā, paṭisanthāre sagāravā viharanti sappatissā. ",
+    "an7.59:3.3": "Ayaṁ kho, kimila, hetu ayaṁ paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti. ",
+    "an7.59:3.4": "Chaṭṭhaṁ. "
   },
-  "translation": {
-    "uid": "an7.59",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Kimbila ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Nothing to Hide ",
-      "uid": "an7.58"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Seven Qualities ",
-      "uid": "an7.60"
-    }
+  "translation_text": {
+    "an7.59:0.1": "Numbered Discourses 7.59 ",
+    "an7.59:0.2": "6. The Undeclared Points ",
+    "an7.59:0.3": "With Kimbila ",
+    "an7.59:1.1": "So I have heard. ",
+    "an7.59:1.2": "At one time the Buddha was staying near Kimbilā in the Freshwater Mangrove Wood. ",
+    "an7.59:1.3": "Then Venerable Kimbila went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "an7.59:1.4": "“What is the cause, sir, what is the reason why the true teaching does not last long after the final quenching of the Realized One?” ",
+    "an7.59:2.1": "“Kimbila, it’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, immersion, diligence, and hospitality after the final quenching of the Realized One. ",
+    "an7.59:2.2": "This is the cause, this is the reason why the true teaching does not last long after the final quenching of the Realized One.” ",
+    "an7.59:3.1": "“What is the cause, sir, what is the reason why the true teaching does last long after the final quenching of the Realized One?” ",
+    "an7.59:3.2": "“Kimbila, it’s when the monks, nuns, laymen, and laywomen maintain respect and reverence for the Teacher, the teaching, the Saṅgha, the training, immersion, diligence, and hospitality after the final quenching of the Realized One. ",
+    "an7.59:3.3": "This is the cause, this is the reason why the true teaching does last long after the final quenching of the Realized One.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.59",
-    "volpages": "PTS AN iv 84",
-    "alt_volpages": null,
-    "uid": "an7.59",
-    "blurb": "Venerable Kimbila asks the Buddha the reasons for the long-lasting of Buddhism after the Buddha’s demise.",
-    "difficulty": null,
-    "original_title": "Kimilasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Kimbila ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.59_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Kimbila ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.59_translation-en-sujato",
-        "segmented": true,
-        "title": "With Kimbila ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.59_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.59_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Кимбила",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.59_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.59_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an7.59_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "To Kimila"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an7.59_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.59_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.59_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.59_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an7.59_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an7.59_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.59_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.59_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.59_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.59_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A7_381, msdiv59,csp1ed16.461, csp2ed16.461, dr23.94, ms16A7_382,bj21.406, ms16A7_383, ndp18.218, vri38.224",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an7.59:0.3": "Kimilasutta → kimbilasuttaṁ (bj) ",
+    "an7.59:1.2": "kimilāyaṁ → kimbilāyaṁ (bj, pts1ed) | niculavane → veḷuvane (bj, sya-all, km, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an7.59",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kimilasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.59:1.1": "ms16A7_381, msdiv59",
+    "an7.59:2.1": "csp1ed16.461, csp2ed16.461, dr23.94, ms16A7_382",
+    "an7.59:3.1": "bj21.406, ms16A7_383, ndp18.218, vri38.224"
   },
-  "bilara_translated_text": {
-    "uid": "an7.59",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Kimbila ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an7.59:0.1",
+    "an7.59:0.2",
+    "an7.59:0.3",
+    "an7.59:1.1",
+    "an7.59:1.2",
+    "an7.59:1.3",
+    "an7.59:1.4",
+    "an7.59:2.1",
+    "an7.59:2.2",
+    "an7.59:3.1",
+    "an7.59:3.2",
+    "an7.59:3.3",
+    "an7.59:3.4"
   ]
 }

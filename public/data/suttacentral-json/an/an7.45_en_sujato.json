@@ -1,311 +1,47 @@
 {
+  "html_text": {
+    "an7.45:0.1": "<article id='an7.45'><header><ul><li class='division'>{}</li>",
+    "an7.45:0.2": "<li>{}</li></ul>",
+    "an7.45:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.45:1.1": "<p>{}",
+    "an7.45:1.2": "{}",
+    "an7.45:1.3": "{}",
+    "an7.45:1.4": "{}</p>",
+    "an7.45:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an7.45",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samādhiparikkhārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Planes of Consciousness ",
-      "uid": "an7.44"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Fires (1st) ",
-      "uid": "an7.46"
-    }
+    "an7.45:0.1": "Aṅguttara Nikāya 7.45 ",
+    "an7.45:0.2": "5. Mahāyaññavagga ",
+    "an7.45:0.3": "Samādhiparikkhārasutta ",
+    "an7.45:1.1": "“Sattime, bhikkhave, samādhiparikkhārā. ",
+    "an7.45:1.2": "Katame satta? ",
+    "an7.45:1.3": "Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati. ",
+    "an7.45:1.4": "Yā kho, bhikkhave, imehi sattahaṅgehi cittassekaggatā parikkhatā, ayaṁ vuccati, bhikkhave, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipī”ti. ",
+    "an7.45:1.5": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "an7.45",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Prerequisites for Immersion ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Planes of Consciousness ",
-      "uid": "an7.44"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Fires (1st) ",
-      "uid": "an7.46"
-    }
+  "translation_text": {
+    "an7.45:0.1": "Numbered Discourses 7.45 ",
+    "an7.45:0.2": "5. A Great Sacrifice ",
+    "an7.45:0.3": "Prerequisites for Immersion ",
+    "an7.45:1.1": "“Mendicants, there are these seven prerequisites for immersion. ",
+    "an7.45:1.2": "What seven? ",
+    "an7.45:1.3": "Right view, right thought, right speech, right action, right livelihood, right effort, and right mindfulness. ",
+    "an7.45:1.4": "Unification of mind with these seven factors as prerequisites is what is called noble right immersion ‘with its vital conditions’ and also ‘with its prerequisites’.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.45",
-    "volpages": "PTS AN iv 40",
-    "alt_volpages": null,
-    "uid": "an7.45",
-    "blurb": "The path factors are the prerequisite for right immersion.",
-    "difficulty": null,
-    "original_title": "Samādhiparikkhārasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Prerequisites for Immersion ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.45_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Voraussetzungen für die Versenkung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.45_translation-en-sujato",
-        "segmented": true,
-        "title": "Prerequisites for Immersion ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.45_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.45_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Средства для сосредоточения ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.45_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.45_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.45_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.45_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.45_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an7.45_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an7.45_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.45_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.45_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.45_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.45_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A7_235, msdiv45",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an7.45:1.4": "sammāsamādhi → samādhi (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "an7.45",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samādhiparikkhārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.45:1.1": "ms16A7_235, msdiv45"
   },
-  "bilara_translated_text": {
-    "uid": "an7.45",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Prerequisites for Immersion ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.45:0.1",
+    "an7.45:0.2",
+    "an7.45:0.3",
+    "an7.45:1.1",
+    "an7.45:1.2",
+    "an7.45:1.3",
+    "an7.45:1.4",
+    "an7.45:1.5"
+  ]
 }

@@ -1,324 +1,68 @@
 {
+  "comment_text": {
+    "sn13.7:1.2": "Also at <a href='https://suttacentral.net/sn56.57/en/sujato'>SN 56.57</a>. "
+  },
+  "html_text": {
+    "sn13.7:0.1": "<article id='sn13.7'><header><ul><li class='division'>{}</li>",
+    "sn13.7:0.2": "<li>{}</li></ul>",
+    "sn13.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn13.7:1.1": "<p>{}</p>",
+    "sn13.7:1.2": "<p>{}</p>",
+    "sn13.7:1.3": "<p>{}",
+    "sn13.7:1.4": "{}</p>",
+    "sn13.7:2.1": "<p>{}",
+    "sn13.7:2.2": "{}",
+    "sn13.7:2.3": "{}</p>",
+    "sn13.7:2.4": "<p>{}",
+    "sn13.7:2.5": "{}</p>",
+    "sn13.7:2.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn13.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samuddasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Earth (2nd) ",
-      "uid": "sn13.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ocean (2nd) ",
-      "uid": "sn13.8"
-    }
+    "sn13.7:0.1": "Saṁyutta Nikāya 13.7 ",
+    "sn13.7:0.2": "1. Abhisamayavagga ",
+    "sn13.7:0.3": "Samuddasutta ",
+    "sn13.7:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn13.7:1.2": "“Seyyathāpi, bhikkhave, puriso mahāsamuddato dve vā tīṇi vā udakaphusitāni uddhareyya. ",
+    "sn13.7:1.3": "Taṁ kiṁ maññatha, bhikkhave, ",
+    "sn13.7:1.4": "katamaṁ nu kho bahutaraṁ, yāni vā dve vā tīṇi vā udakaphusitāni ubbhatāni yaṁ vā mahāsamudde udakan”ti? ",
+    "sn13.7:2.1": "“Etadeva, bhante, bahutaraṁ, yadidaṁ mahāsamudde udakaṁ; ",
+    "sn13.7:2.2": "appamattakāni dve vā tīṇi vā udakaphusitāni ubbhatāni. ",
+    "sn13.7:2.3": "Neva satimaṁ kalaṁ upenti na sahassimaṁ kalaṁ upenti na satasahassimaṁ kalaṁ upenti mahāsamudde udakaṁ upanidhāya dve vā tīṇi vā udakaphusitāni ubbhatānī”ti. ",
+    "sn13.7:2.4": "“Evameva kho, bhikkhave …pe… ",
+    "sn13.7:2.5": "dhammacakkhupaṭilābho”ti. ",
+    "sn13.7:2.6": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn13.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ocean ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Earth (2nd) ",
-      "uid": "sn13.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ocean (2nd) ",
-      "uid": "sn13.8"
-    }
+  "translation_text": {
+    "sn13.7:0.1": "Linked Discourses 13.7 ",
+    "sn13.7:0.2": "1. Comprehension ",
+    "sn13.7:0.3": "The Ocean ",
+    "sn13.7:1.1": "At Sāvatthī. ",
+    "sn13.7:1.2": "“Mendicants, suppose a man was to draw up two or three drops of water from the ocean. ",
+    "sn13.7:1.3": "What do you think, mendicants? ",
+    "sn13.7:1.4": "Which is more: the two or three drops drawn out or the water in the ocean?” ",
+    "sn13.7:2.1": "“Sir, the water in the ocean is certainly more. ",
+    "sn13.7:2.2": "The two or three drops drawn out are tiny. ",
+    "sn13.7:2.3": "Compared to the water in the ocean, it’s not nearly a hundredth, a thousandth, or a hundred thousandth part.” ",
+    "sn13.7:2.4": "“In the same way, for a noble disciple, the suffering that’s over and done with is more …” ",
+    "sn13.7:2.5": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 13.7",
-    "volpages": " PTS 2.137",
-    "alt_volpages": null,
-    "uid": "sn13.7",
-    "blurb": "For someone who has seen the truth, the suffering eliminated is like the water in the ocean; what remains is like a few drops.",
-    "difficulty": null,
-    "original_title": "Samuddasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Ocean ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn13.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Meer ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn13.7_translation-en-sujato",
-        "segmented": true,
-        "title": "The Ocean ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn13.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn13.7_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Okean (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn13.7_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn13.7_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn13.7_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn13.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn13.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn13.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn13.7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn13.7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn13.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn13.7_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn13.7_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn13.7_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 5,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed12.355, csp2ed12.355, ms12S2_623, msdiv80, ndp13.118, sya16.166,dr16.167, ms12S2_624, pts-vp-pli2.137",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn13.7:1.1": "csp1ed12.355, csp2ed12.355, ms12S2_623, msdiv80, ndp13.118, sya16.166",
+    "sn13.7:2.1": "dr16.167, ms12S2_624, pts-vp-pli2.137"
   },
-  "bilara_root_text": {
-    "uid": "sn13.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samuddasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn13.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ocean ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn13.7:0.1",
+    "sn13.7:0.2",
+    "sn13.7:0.3",
+    "sn13.7:1.1",
+    "sn13.7:1.2",
+    "sn13.7:1.3",
+    "sn13.7:1.4",
+    "sn13.7:2.1",
+    "sn13.7:2.2",
+    "sn13.7:2.3",
+    "sn13.7:2.4",
+    "sn13.7:2.5",
+    "sn13.7:2.6"
+  ]
 }

@@ -1,327 +1,82 @@
 {
+  "html_text": {
+    "sn11.21:0.1": "<article id='sn11.21'><header><ul><li class='division'>{}</li>",
+    "sn11.21:0.2": "<li>{}</li></ul>",
+    "sn11.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn11.21:1.1": "<p>{}</p>",
+    "sn11.21:1.2": "<p>{}",
+    "sn11.21:1.3": "{}</p>",
+    "sn11.21:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn11.21:2.2": "<span class='verse-line'>{}</span>",
+    "sn11.21:2.3": "<span class='verse-line'>{}</span>",
+    "sn11.21:2.4": "<span class='verse-line'>{}</span></p>",
+    "sn11.21:3.1": "<p><span class='verse-line'>{}</span>",
+    "sn11.21:3.2": "<span class='verse-line'>{}</span>",
+    "sn11.21:3.3": "<span class='verse-line'>{}</span>",
+    "sn11.21:3.4": "<span class='verse-line'>{}</span>",
+    "sn11.21:3.5": "<span class='verse-line'>{}</span>",
+    "sn11.21:3.6": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn11.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Chetvāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Who Sakka Worships ",
-      "uid": "sn11.20"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ugly ",
-      "uid": "sn11.22"
-    }
+    "sn11.21:0.1": "Saṁyutta Nikāya 11.21 ",
+    "sn11.21:0.2": "3. Tatiyavagga ",
+    "sn11.21:0.3": "Chetvāsutta ",
+    "sn11.21:1.1": "Sāvatthiyaṁ jetavane. ",
+    "sn11.21:1.2": "Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. ",
+    "sn11.21:1.3": "Ekamantaṁ ṭhito kho sakko devānamindo bhagavantaṁ gāthāya ajjhabhāsi: ",
+    "sn11.21:2.1": "“Kiṁsu chetvā sukhaṁ seti, ",
+    "sn11.21:2.2": "kiṁsu chetvā na socati; ",
+    "sn11.21:2.3": "Kissassu ekadhammassa, ",
+    "sn11.21:2.4": "vadhaṁ rocesi gotamā”ti. ",
+    "sn11.21:3.1": "“Kodhaṁ chetvā sukhaṁ seti, ",
+    "sn11.21:3.2": "kodhaṁ chetvā na socati; ",
+    "sn11.21:3.3": "Kodhassa visamūlassa, ",
+    "sn11.21:3.4": "madhuraggassa vāsava; ",
+    "sn11.21:3.5": "Vadhaṁ ariyā pasaṁsanti, ",
+    "sn11.21:3.6": "tañhi chetvā na socatī”ti. "
   },
-  "translation": {
-    "uid": "sn11.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Slain ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Who Sakka Worships ",
-      "uid": "sn11.20"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ugly ",
-      "uid": "sn11.22"
-    }
+  "translation_text": {
+    "sn11.21:0.1": "Linked Discourses 11.21 ",
+    "sn11.21:0.2": "Chapter Three ",
+    "sn11.21:0.3": "Slain ",
+    "sn11.21:1.1": "Near Sāvatthī in Jeta’s Grove. ",
+    "sn11.21:1.2": "And then Sakka, lord of gods, went up to the Buddha, bowed, stood to one side, ",
+    "sn11.21:1.3": "and addressed him in verse: ",
+    "sn11.21:2.1": "“When what is slain do you sleep at ease? ",
+    "sn11.21:2.2": "When what is slain is there no sorrow? ",
+    "sn11.21:2.3": "What is the one thing ",
+    "sn11.21:2.4": "whose killing you approve?” ",
+    "sn11.21:3.1": "“When anger’s slain you sleep at ease. ",
+    "sn11.21:3.2": "When anger’s slain there is no sorrow. ",
+    "sn11.21:3.3": "Anger has a poisonous root, ",
+    "sn11.21:3.4": "and a honey tip, O Vāsava. ",
+    "sn11.21:3.5": "The noble ones praise its killing, ",
+    "sn11.21:3.6": "for when it’s slain there is no sorrow.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 11.21",
-    "volpages": " PTS (1st ed) 1.237",
-    "alt_volpages": " PTS (2nd ed) 1.509",
-    "uid": "sn11.21",
-    "blurb": "Anger is the only thing whose slaying the Buddha commends.",
-    "difficulty": null,
-    "original_title": "Chetvāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Slain ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn11.21_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Erschlagen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn11.21_translation-en-sujato",
-        "segmented": true,
-        "title": "Slain ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn11.21_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn11.21_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Ubijanje ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn11.21_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn11.21_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn11.21_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Having Slain"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn11.21_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn11.21_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn11.21_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn11.21_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn11.21_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn11.21_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn11.21_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn11.21_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn11.21_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 27,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj13.422, cck15.300, csp1ed12.239, csp2ed12.239, dr15.329, ms12S1_1683, msdiv267, pts-vp-pli1ed1.237, sya15.348,ms12S1_1684, pts-vp-pli2ed1.509,ms12S1_1685",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn11.21:0.3": "Chetvāsutta → jhatvāsuttaṁ (bj, pts2ed); ghatvāsuttaṁ (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "sn11.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Chetvāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn11.21:1.1": "bj13.422, cck15.300, csp1ed12.239, csp2ed12.239, dr15.329, ms12S1_1683, msdiv267, pts-vp-pli1ed1.237, sya15.348",
+    "sn11.21:2.1": "ms12S1_1684, pts-vp-pli2ed1.509",
+    "sn11.21:3.1": "ms12S1_1685"
   },
-  "bilara_translated_text": {
-    "uid": "sn11.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Slain ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn11.21:0.1",
+    "sn11.21:0.2",
+    "sn11.21:0.3",
+    "sn11.21:1.1",
+    "sn11.21:1.2",
+    "sn11.21:1.3",
+    "sn11.21:2.1",
+    "sn11.21:2.2",
+    "sn11.21:2.3",
+    "sn11.21:2.4",
+    "sn11.21:3.1",
+    "sn11.21:3.2",
+    "sn11.21:3.3",
+    "sn11.21:3.4",
+    "sn11.21:3.5",
+    "sn11.21:3.6"
   ]
 }

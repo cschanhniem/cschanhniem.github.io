@@ -1,327 +1,93 @@
 {
+  "comment_text": {
+    "sn21.9:1.2": "Tissa’s further struggles are at <a href='https://suttacentral.net/sn22.84/en/sujato'>SN 22.84</a>. He is maintaining the tradition of the Buddha’s family members causing issues: Devadatta, Nanda, Upananda, Mahāpajāpati, Daṇḍapāṇi, Channa. ",
+    "sn21.9:1.5": "This misconduct is addressed in the Vinaya with <a href='https://suttacentral.net/pli-tv-bu-vb-ss12/en/sujato'>Bu Ss 12</a>. "
+  },
+  "html_text": {
+    "sn21.9:0.1": "<article id='sn21.9'><header><ul><li class='division'>{}</li>",
+    "sn21.9:0.2": "<li>{}</li></ul>",
+    "sn21.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn21.9:1.1": "<p>{}</p>",
+    "sn21.9:1.2": "<p>{}</p>",
+    "sn21.9:1.3": "<p>{}</p>",
+    "sn21.9:1.4": "<p>{}</p>",
+    "sn21.9:1.5": "<p>{}",
+    "sn21.9:1.6": "{}",
+    "sn21.9:1.7": "{}",
+    "sn21.9:1.8": "{}</p>",
+    "sn21.9:2.1": "<p>{}",
+    "sn21.9:2.2": "{}</p>",
+    "sn21.9:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn21.9:3.2": "<span class='verse-line'>{}</span>",
+    "sn21.9:3.3": "<span class='verse-line'>{}</span>",
+    "sn21.9:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn21.9:3.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn21.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Tissasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Nanda ",
-      "uid": "sn21.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Senior In Name Only ",
-      "uid": "sn21.10"
-    }
+    "sn21.9:0.1": "Saṁyutta Nikāya 21.9 ",
+    "sn21.9:0.2": "1. Bhikkhuvagga ",
+    "sn21.9:0.3": "Tissasutta ",
+    "sn21.9:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn21.9:1.2": "Atha kho āyasmā tisso bhagavato pitucchāputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi dukkhī dummano assūni pavattayamāno. Atha kho bhagavā āyasmantaṁ tissaṁ etadavoca: ",
+    "sn21.9:1.3": "“kiṁ nu kho tvaṁ, tissa, ekamantaṁ nisinno dukkhī dummano assūni pavattayamāno”ti? ",
+    "sn21.9:1.4": "“Tathā hi pana maṁ, bhante, bhikkhū samantā vācāyasannitodakena sañjambharimakaṁsū”ti. ",
+    "sn21.9:1.5": "“Tathāhi pana tvaṁ, tissa, vattā no ca vacanakkhamo; ",
+    "sn21.9:1.6": "na kho te taṁ, tissa, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa, yaṁ tvaṁ vattā no ca vacanakkhamo. ",
+    "sn21.9:1.7": "Etaṁ kho te, tissa, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa: ",
+    "sn21.9:1.8": "‘yaṁ tvaṁ vattā ca assa vacanakkhamo cā’”ti. ",
+    "sn21.9:2.1": "Idamavoca bhagavā. ",
+    "sn21.9:2.2": "Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: ",
+    "sn21.9:3.1": "“Kiṁ nu kujjhasi mā kujjhi, ",
+    "sn21.9:3.2": "Akkodho tissa te varaṁ; ",
+    "sn21.9:3.3": "Kodhamānamakkhavinayatthañhi, ",
+    "sn21.9:3.4": "Tissa brahmacariyaṁ vussatī”ti. ",
+    "sn21.9:3.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn21.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Tissa ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Nanda ",
-      "uid": "sn21.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Senior In Name Only ",
-      "uid": "sn21.10"
-    }
+  "translation_text": {
+    "sn21.9:0.1": "Linked Discourses 21.9 ",
+    "sn21.9:0.2": "1. Monks ",
+    "sn21.9:0.3": "With Tissa ",
+    "sn21.9:1.1": "At Sāvatthī. ",
+    "sn21.9:1.2": "Then Venerable Tissa—the Buddha’s cousin on his father’s side—went to the Buddha, bowed, and sat down to one side. He was miserable and sad, with tears flowing. Then the Buddha said to him: ",
+    "sn21.9:1.3": "“Tissa, why are you sitting there so miserable and sad, with tears flowing?” ",
+    "sn21.9:1.4": "“Sir, it’s because the mendicants beset me on all sides with sneering and jeering.” ",
+    "sn21.9:1.5": "“That’s because you admonish others, but don’t accept admonition yourself. ",
+    "sn21.9:1.6": "As a gentleman who has gone forth out of faith from the lay life to homelessness, it’s not appropriate for you to admonish others without accepting admonition yourself. ",
+    "sn21.9:1.7": "It’s appropriate for you to ",
+    "sn21.9:1.8": "admonish others and accept admonition yourself.” ",
+    "sn21.9:2.1": "That is what the Buddha said. ",
+    "sn21.9:2.2": "Then the Holy One, the Teacher, went on to say: ",
+    "sn21.9:3.1": "“Why are you angry? Don’t be angry! ",
+    "sn21.9:3.2": "It’s better to not be angry, Tissa. ",
+    "sn21.9:3.3": "For this spiritual life is lived ",
+    "sn21.9:3.4": "in order to remove anger, conceit, and denigration.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 21.9",
-    "volpages": " PTS 2.282",
-    "alt_volpages": null,
-    "uid": "sn21.9",
-    "blurb": "Venerable Tissa admonished others but got upset when he was admonished. The Buddha encourages him to let go of his anger.",
-    "difficulty": null,
-    "original_title": "Tissasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Tissa ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn21.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Tissa ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn21.9_translation-en-sujato",
-        "segmented": true,
-        "title": "With Tissa ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn21.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn21.9_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Tissa ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn21.9_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn21.9_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn21.9_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Tissa"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn21.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn21.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn21.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn21.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn21.9_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn21.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn21.9_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn21.9_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn21.9_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck16.251, ms12S2_1292, msdiv243, pts-vp-pli2.282, sya16.328,ms12S2_1293,ms12S2_1294",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn21.9:1.4": "vācāyasannitodakena → vācāsannitodakena (bj) | sañjambharimakaṁsū”ti → sañjambhariṁ akaṁsūti (bj, sya-all); sañjabbharimakaṁsūti (?) "
   },
-  "bilara_root_text": {
-    "uid": "sn21.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Tissasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn21.9:1.1": "cck16.251, ms12S2_1292, msdiv243, pts-vp-pli2.282, sya16.328",
+    "sn21.9:2.1": "ms12S2_1293",
+    "sn21.9:3.1": "ms12S2_1294"
   },
-  "bilara_translated_text": {
-    "uid": "sn21.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Tissa ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn21.9:0.1",
+    "sn21.9:0.2",
+    "sn21.9:0.3",
+    "sn21.9:1.1",
+    "sn21.9:1.2",
+    "sn21.9:1.3",
+    "sn21.9:1.4",
+    "sn21.9:1.5",
+    "sn21.9:1.6",
+    "sn21.9:1.7",
+    "sn21.9:1.8",
+    "sn21.9:2.1",
+    "sn21.9:2.2",
+    "sn21.9:3.1",
+    "sn21.9:3.2",
+    "sn21.9:3.3",
+    "sn21.9:3.4",
+    "sn21.9:3.5"
   ]
 }

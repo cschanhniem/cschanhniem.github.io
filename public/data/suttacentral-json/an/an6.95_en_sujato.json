@@ -1,311 +1,79 @@
 {
+  "html_text": {
+    "an6.95:0.1": "<article id='an6.95'><header><ul><li class='division'>{}</li>",
+    "an6.95:0.2": "<li>{}</li></ul>",
+    "an6.95:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.95:1.1": "<p>{}",
+    "an6.95:1.2": "{}",
+    "an6.95:1.3": "{}",
+    "an6.95:1.4": "{}",
+    "an6.95:1.5": "{}",
+    "an6.95:1.6": "{}</p>",
+    "an6.95:1.7": "<p class='endsutta'>{}</p>",
+    "an6.95:1.8": "<p class='endvagga'>{}</p>",
+    "an6.95:2.0": "<p class='uddana-intro'>{}</p>",
+    "an6.95:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an6.95:2.2": "<span class='verse-line'>{}</span>",
+    "an6.95:2.3": "<span class='verse-line'>{}</span>",
+    "an6.95:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an6.95",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Catutthaabhabbaṭṭhānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Things That Can’t Be Done (3rd) ",
-      "uid": "an6.94"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Appearance ",
-      "uid": "an6.96"
-    }
+    "an6.95:0.1": "Aṅguttara Nikāya 6.95 ",
+    "an6.95:0.2": "9. Sītivagga ",
+    "an6.95:0.3": "Catutthaabhabbaṭṭhānasutta ",
+    "an6.95:1.1": "“Chayimāni, bhikkhave, abhabbaṭṭhānāni. ",
+    "an6.95:1.2": "Katamāni cha? ",
+    "an6.95:1.3": "Abhabbo diṭṭhisampanno puggalo sayaṅkataṁ sukhadukkhaṁ paccāgantuṁ, abhabbo diṭṭhisampanno puggalo paraṅkataṁ sukhadukkhaṁ paccāgantuṁ, abhabbo diṭṭhisampanno puggalo sayaṅkatañca paraṅkatañca sukhadukkhaṁ paccāgantuṁ, abhabbo diṭṭhisampanno puggalo asayaṅkāraṁ adhiccasamuppannaṁ sukhadukkhaṁ paccāgantuṁ, abhabbo diṭṭhisampanno puggalo aparaṅkāraṁ adhiccasamuppannaṁ sukhadukkhaṁ paccāgantuṁ, abhabbo diṭṭhisampanno puggalo asayaṅkārañca aparaṅkārañca adhiccasamuppannaṁ sukhadukkhaṁ paccāgantuṁ. ",
+    "an6.95:1.4": "Taṁ kissa hetu? ",
+    "an6.95:1.5": "Tathā hissa, bhikkhave, diṭṭhisampannassa puggalassa hetu ca sudiṭṭho hetusamuppannā ca dhammā. ",
+    "an6.95:1.6": "Imāni kho, bhikkhave, cha abhabbaṭṭhānānī”ti. ",
+    "an6.95:1.7": "Ekādasamaṁ. ",
+    "an6.95:1.8": "Sītivaggo navamo. ",
+    "an6.95:2.0": "Tassuddānaṁ ",
+    "an6.95:2.1": "Sītibhāvaṁ āvaraṇaṁ, ",
+    "an6.95:2.2": "voropitā sussūsati; ",
+    "an6.95:2.3": "Appahāya pahīnābhabbo, ",
+    "an6.95:2.4": "taṭṭhānā caturopi cāti. "
   },
-  "translation": {
-    "uid": "an6.95",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Things That Can’t Be Done (4th) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Things That Can’t Be Done (3rd) ",
-      "uid": "an6.94"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Appearance ",
-      "uid": "an6.96"
-    }
+  "translation_text": {
+    "an6.95:0.1": "Numbered Discourses 6.95 ",
+    "an6.95:0.2": "9. Coolness ",
+    "an6.95:0.3": "Things That Can’t Be Done (4th) ",
+    "an6.95:1.1": "“Mendicants, these six things can’t be done. ",
+    "an6.95:1.2": "What six? ",
+    "an6.95:1.3": "An individual accomplished in view can’t fall back on the idea that pleasure and pain are made by oneself, or that they’re made by another, or that they’re made by both. Nor can they fall back on the idea that pleasure and pain arise anomalously, not made by oneself, by another, or by both. ",
+    "an6.95:1.4": "Why is that? ",
+    "an6.95:1.5": "It is because an individual accomplished in view has clearly seen causes and the phenomena that arise from causes. ",
+    "an6.95:1.6": "These are the six things that can’t be done.” ",
+    "an6.95:1.7": "",
+    "an6.95:1.8": "",
+    "an6.95:2.1": "",
+    "an6.95:2.2": "",
+    "an6.95:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.95",
-    "volpages": " PTS 3.440",
-    "alt_volpages": null,
-    "uid": "an6.95",
-    "blurb": "Things impossible for a stream-enterer.",
-    "difficulty": null,
-    "original_title": "Catutthaabhabbaṭṭhānasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Things That Can’t Be Done (4th) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.95_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Dinge, die nicht geschehen können (4) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.95_translation-en-sujato",
-        "segmented": true,
-        "title": "Things That Can’t Be Done (4th) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.95_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.95_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Случаи Четвёртая",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.95_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.95_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.95_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.95_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.95_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an6.95_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.95_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.95_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.95_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.95_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.95_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr22.476, ms16A6_709, msdiv95, pts-vp-pli3.440,ms16A6_713",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.95:1.3": "paraṅkataṁ → parakataṁ (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "an6.95",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Catutthaabhabbaṭṭhānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.95:1.1": "dr22.476, ms16A6_709, msdiv95, pts-vp-pli3.440",
+    "an6.95:2.1": "ms16A6_713"
   },
-  "bilara_translated_text": {
-    "uid": "an6.95",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Things That Can’t Be Done (4th) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.95:0.1",
+    "an6.95:0.2",
+    "an6.95:0.3",
+    "an6.95:1.1",
+    "an6.95:1.2",
+    "an6.95:1.3",
+    "an6.95:1.4",
+    "an6.95:1.5",
+    "an6.95:1.6",
+    "an6.95:1.7",
+    "an6.95:1.8",
+    "an6.95:2.0",
+    "an6.95:2.1",
+    "an6.95:2.2",
+    "an6.95:2.3",
+    "an6.95:2.4"
+  ]
 }

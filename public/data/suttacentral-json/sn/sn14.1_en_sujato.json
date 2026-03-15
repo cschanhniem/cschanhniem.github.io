@@ -1,324 +1,69 @@
 {
+  "comment_text": {
+    "sn14.1:1.2": "The “elements” (<i lang='pi' translate='no'>dhātu</i>) are the many different phenomena that can be observed in the world and in experience. These can be the various aspects of sense experience, diverse character types (<a href='https://suttacentral.net/sn14.14/en/sujato'>SN 14.14</a>–29), states of matter ((<a href='https://suttacentral.net/sn14.30/en/sujato'>SN 14.30</a>–39), or other things. Vedic <i lang='pi' translate='no'>dhātu</i> has a special affinity for the numbers three (as in worlds) and seven. Chāndogya Upaniṣad 6.5.1–3 discusses how food, water, and heat each break down into three elements. ",
+    "sn14.1:2.1": "For <i lang='pi' translate='no'>nānatta</i> (“diversity”), compare <i lang='pi' translate='no'>puthutta</i> (“expansiveness”) at <a href='https://suttacentral.net/sn12.48/en/sujato#5.1'>SN 12.48:5.1</a> and <i lang='pi' translate='no'>vemattatā</i> (“disparity”) at <a href='https://suttacentral.net/sn48.13/en/sujato#1.6'>SN 48.13:1.6</a>. At <a href='https://suttacentral.net/mn1/en/sujato#24.1'>MN 1:24.1</a>, the Buddha taught “diversity” as the opposite fallacy to “oneness”; based on the diversity of sense experience, it interprets the world as irreducibly manifold. An example would be the Jains, who believed the world was made up of countless separate entities, a view criticized in Māṇḍūkya Upaniṣad 3.13 (<i lang='pi' translate='no'>nānātvaṁ nindyate</i>). Both these fallacies take a particular mode of perception which is true in certain respects and make it into an absolute. The Buddha treats diversity as a way of analyzing experience, not as a metaphysical postulate. ",
+    "sn14.1:2.2": "The chapter is structured in two “pentads” (<i lang='pi' translate='no'>pañcaka</i>), a formalism that gained prominence in the Abhidhamma. The first discourse merely lists the eighteen elements. Subsequent discourses elaborate, each one introducing a new complexity. Discourses 2–5 treat the internal sense fields, while 6–10 treat the external sense fields. In this way the student is introduced to new concepts gradually, and can spend time contemplating each topic before the next is introduced. | For these eighteen elements, see <a href='https://suttacentral.net/mn28/en/sujato#37.1'>MN 28:37.1</a>, <a href='https://suttacentral.net/mn115/en/sujato#4.8'>MN 115:4.8</a>, and notes there. "
+  },
+  "html_text": {
+    "sn14.1:0.1": "<article id='sn14.1'><header><ul><li class='division'>{}</li>",
+    "sn14.1:0.2": "<li>{}</li></ul>",
+    "sn14.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn14.1:1.1": "<p>{}</p>",
+    "sn14.1:1.2": "<p>{}",
+    "sn14.1:1.3": "{}</p>",
+    "sn14.1:1.4": "<p>{}",
+    "sn14.1:1.5": "{}</p>",
+    "sn14.1:2.1": "<p>{}",
+    "sn14.1:2.2": "{}",
+    "sn14.1:2.3": "{}</p>",
+    "sn14.1:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn14.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dhātunānattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Mountain (3rd) ",
-      "uid": "sn13.11"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Diversity of Contacts ",
-      "uid": "sn14.2"
-    }
+    "sn14.1:0.1": "Saṁyutta Nikāya 14.1 ",
+    "sn14.1:0.2": "1. Nānattavagga ",
+    "sn14.1:0.3": "Dhātunānattasutta ",
+    "sn14.1:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn14.1:1.2": "“Dhātunānattaṁ vo, bhikkhave, desessāmi. ",
+    "sn14.1:1.3": "Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. ",
+    "sn14.1:1.4": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. ",
+    "sn14.1:1.5": "Bhagavā etadavoca: ",
+    "sn14.1:2.1": "“Katamañca, bhikkhave, dhātunānattaṁ? ",
+    "sn14.1:2.2": "Cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu—",
+    "sn14.1:2.3": "idaṁ vuccati, bhikkhave, dhātunānattan”ti. ",
+    "sn14.1:2.4": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn14.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Diversity of Elements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Mountain (3rd) ",
-      "uid": "sn13.11"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Diversity of Contacts ",
-      "uid": "sn14.2"
-    }
+  "translation_text": {
+    "sn14.1:0.1": "Linked Discourses 14.1 ",
+    "sn14.1:0.2": "1. Diversity ",
+    "sn14.1:0.3": "Diversity of Elements ",
+    "sn14.1:1.1": "At Sāvatthī. ",
+    "sn14.1:1.2": "“Mendicants, I will teach you the diversity of elements. ",
+    "sn14.1:1.3": "Listen and apply your mind well, I will speak.” ",
+    "sn14.1:1.4": "“Yes, sir,” they replied. ",
+    "sn14.1:1.5": "The Buddha said this: ",
+    "sn14.1:2.1": "“And what is the diversity of elements? ",
+    "sn14.1:2.2": "The eye element, sight element, and eye consciousness element. The ear element, sound element, and ear consciousness element. The nose element, smell element, and nose consciousness element. The tongue element, taste element, and tongue consciousness element. The body element, touch element, and body consciousness element. The mind element, ideas element, and mind consciousness element. ",
+    "sn14.1:2.3": "This is called the diversity of elements.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 14.1",
-    "volpages": " PTS 2.140",
-    "alt_volpages": null,
-    "uid": "sn14.1",
-    "blurb": "The senses function due to the various different elements of sense experience, namely, the internal sense organ, the external sense stimulus, and consciousness.",
-    "difficulty": null,
-    "original_title": "Dhātunānattasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Diversity of Elements ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn14.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Vielfalt der Elemente ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn14.1_translation-en-sujato",
-        "segmented": true,
-        "title": "Diversity of Elements ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn14.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn14.1_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Raznolikost elemenata (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn14.1_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn14.1_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn14.1_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn14.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn14.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn14.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn14.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn14.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn14.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn14.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn14.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn14.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj14.222, cck16.131, csp1ed12.358, csp2ed12.358, dr16.171, ms12S2_643, msdiv85, ndp13.121, pts-vp-pli2.140, sya16.170, vri24.125,ms12S2_644",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn14.1:0.3": "Dhātunānattasutta → dhātu (pts1ed, pts2ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn14.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dhātunānattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn14.1:1.1": "bj14.222, cck16.131, csp1ed12.358, csp2ed12.358, dr16.171, ms12S2_643, msdiv85, ndp13.121, pts-vp-pli2.140, sya16.170, vri24.125",
+    "sn14.1:2.1": "ms12S2_644"
   },
-  "bilara_translated_text": {
-    "uid": "sn14.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Diversity of Elements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn14.1:0.1",
+    "sn14.1:0.2",
+    "sn14.1:0.3",
+    "sn14.1:1.1",
+    "sn14.1:1.2",
+    "sn14.1:1.3",
+    "sn14.1:1.4",
+    "sn14.1:1.5",
+    "sn14.1:2.1",
+    "sn14.1:2.2",
+    "sn14.1:2.3",
+    "sn14.1:2.4"
+  ]
 }

@@ -1,0 +1,77 @@
+{
+  "html_text": {
+    "an1.248:0.1": "<section class='range' id='an1.248-257'><header><ul><li class='division'>{}</li></ul>",
+    "an1.248:0.2": "<h1 class='range-title'>{}</h1></header>",
+    "an1.248:1.1": "<article id='an1.248'><p data-counter='1'>{}</p></article>",
+    "an1.249:1.1": "<article id='an1.249'><p data-counter='2'>{}</p></article>",
+    "an1.250:1.1": "<article id='an1.250'><p data-counter='3'>{}</p></article>",
+    "an1.251:1.1": "<article id='an1.251'><p data-counter='4'>{}</p></article>",
+    "an1.252:1.1": "<article id='an1.252'><p data-counter='5'>{}</p></article>",
+    "an1.253:1.1": "<article id='an1.253'><p data-counter='6'>{}</p></article>",
+    "an1.254:1.1": "<article id='an1.254'><p data-counter='7'>{}</p></article>",
+    "an1.255:1.1": "<article id='an1.255'><p data-counter='8'>{}</p></article>",
+    "an1.256:1.1": "<article id='an1.256'><p data-counter='9'>{}</p></article>",
+    "an1.257:1.1": "<article id='an1.257'><p data-counter='10'>{}</p>",
+    "an1.257:1.2": "<p class='endsutta'>{}</p></article></section>"
+  },
+  "root_text": {
+    "an1.248:0.1": "Aṅguttara Nikāya 1 ",
+    "an1.248:0.2": "19. Chaṭṭhavagga ",
+    "an1.248:1.1": "“Etadaggaṁ, bhikkhave, mama sāvakānaṁ upāsakānaṁ paṭhamaṁ saraṇaṁ gacchantānaṁ yadidaṁ tapussabhallikā vāṇijā. ",
+    "an1.249:1.1": "… Dāyakānaṁ yadidaṁ sudatto gahapati anāthapiṇḍiko. ",
+    "an1.250:1.1": "… Dhammakathikānaṁ yadidaṁ citto gahapati macchikāsaṇḍiko. ",
+    "an1.251:1.1": "… Catūhi saṅgahavatthūhi parisaṁ saṅgaṇhantānaṁ yadidaṁ hatthako āḷavako. ",
+    "an1.252:1.1": "… Paṇītadāyakānaṁ yadidaṁ mahānāmo sakko. ",
+    "an1.253:1.1": "… Manāpadāyakānaṁ yadidaṁ uggo gahapati vesāliko. ",
+    "an1.254:1.1": "… Saṅghupaṭṭhākānaṁ yadidaṁ hatthigāmako uggato gahapati. ",
+    "an1.255:1.1": "… Aveccappasannānaṁ yadidaṁ sūrambaṭṭho. ",
+    "an1.256:1.1": "… Puggalappasannānaṁ yadidaṁ jīvako komārabhacco. ",
+    "an1.257:1.1": "… Vissāsakānaṁ yadidaṁ nakulapitā gahapatī”ti. ",
+    "an1.257:1.2": "Vaggo chaṭṭho. "
+  },
+  "translation_text": {
+    "an1.248:0.1": "Numbered Discourses 1 ",
+    "an1.248:0.2": "Chapter Six ",
+    "an1.248:1.1": "“The foremost of my laymen in first going for refuge are the merchants Tapussa and Bhallika. ",
+    "an1.249:1.1": "… as a donor is the householder Sudatta Anāthapiṇḍika. ",
+    "an1.250:1.1": "… who speak on the teaching is the householder Citta Macchikāsaṇḍika. ",
+    "an1.251:1.1": "… who attract a congregation by the four ways of being inclusive is Hatthaka of Āḷavī. ",
+    "an1.252:1.1": "… who donate fine things is Mahānāma Sakka. ",
+    "an1.253:1.1": "… who donate nice things is the householder Ugga of Vesālī. ",
+    "an1.254:1.1": "… who attend on the Saṅgha is the householder Uggata of Elephant Village. ",
+    "an1.255:1.1": "… who have experiential confidence is Sūrambaṭṭha. ",
+    "an1.256:1.1": "… who have confidence in an individual is Jīvaka Komārabhacca. ",
+    "an1.257:1.1": "… who are intimate is the householder Nakula’s father.” "
+  },
+  "variant_text": {
+    "an1.248:1.1": "tapussabhallikā → tapassubhallikā (bj, pts1ed) ",
+    "an1.255:1.1": "sūrambaṭṭho → sūro ambaṭṭho (bj, sya-all, km, pts1ed); surabandho (mr) "
+  },
+  "reference_text": {
+    "an1.248:1.1": "csp1ed15.27, csp2ed15.27, ms15A1_336, msdiv248, pts-vp-pli1.26",
+    "an1.249:1.1": "ms15A1_337, msdiv249",
+    "an1.250:1.1": "ms15A1_338, msdiv250",
+    "an1.251:1.1": "ms15A1_339, msdiv251",
+    "an1.252:1.1": "ms15A1_340, msdiv252",
+    "an1.253:1.1": "ms15A1_341, msdiv253",
+    "an1.254:1.1": "ms15A1_342, msdiv254",
+    "an1.255:1.1": "ms15A1_343, msdiv255",
+    "an1.256:1.1": "ms15A1_344, msdiv256",
+    "an1.257:1.1": "cck20.33, ms15A1_345, msdiv257, vri35.37"
+  },
+  "keys_order": [
+    "an1.248:0.1",
+    "an1.248:0.2",
+    "an1.248:1.1",
+    "an1.249:1.1",
+    "an1.250:1.1",
+    "an1.251:1.1",
+    "an1.252:1.1",
+    "an1.253:1.1",
+    "an1.254:1.1",
+    "an1.255:1.1",
+    "an1.256:1.1",
+    "an1.257:1.1",
+    "an1.257:1.2"
+  ]
+}

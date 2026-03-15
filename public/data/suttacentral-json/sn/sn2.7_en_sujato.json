@@ -1,391 +1,78 @@
 {
+  "comment_text": {
+    "sn2.7:1.2": "This saying by Pañcālacaṇḍa is quoted by Udāyī and explained by Ānanda at <a href='https://suttacentral.net/an9.42/en/sujato'>AN 9.42</a>. Pañcālacaṇḍa appears alongside Āḷavaka, the tutelary deity of Āḷavī, hinting that he may be the fierce (<i lang='pi' translate='no'>caṇḍa</i>) protector of the Pañcāla clan (<a href='https://suttacentral.net/dn32/en/sujato#10.16'>DN 32:10.16</a>). Several Pañcālacaṇḍas appear in the Jātakas: a licentious youth and a misogynistic chaplain (<a href='https://suttacentral.net/ja536/en/sujato'>Ja 536</a>), and a prince of Pañcāla (<a href='https://suttacentral.net/ja546/en/sujato'>Ja 546</a>). A Pañcālacaṇḍa appears as a Vedic teacher of the idea that speech is what unifies (Aitereya Āraṇyaka 3.1.6 = Śāṅkhāyana Āraṇyaka 7.19, Gopatha Brāhmaṇa 1.1.27n). None of these, however, have any obvious relation to our text. ",
+    "sn2.7:2.3": "The compound <i lang='pi' translate='no'>jhānamabujjhi</i> can be resolved as either <i lang='pi' translate='no'>jhānaṁ abujjhi</i> (“awakened to absorption”) or <i lang='pi' translate='no'>jhānena abujjhi</i> (“awakened by means of absorption”). At <a href='https://suttacentral.net/an9.42/en/sujato'>AN 9.42</a>, Ānanda explains that each stage of absorption is an “opening” relative to what came before, but still a “confinement”, and only Nibbāna is the opening without confinement. The thrust of the verse, therefore, is the Buddha’s insight into the nature of absorption, supporting the sense “awakened to absorption”. "
+  },
+  "html_text": {
+    "sn2.7:0.1": "<article id='sn2.7'><header><ul><li class='division'>{}</li>",
+    "sn2.7:0.2": "<li>{}</li></ul>",
+    "sn2.7:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn2.7:1.1": "<p>{}</p>",
+    "sn2.7:1.2": "<p>{}</p>",
+    "sn2.7:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn2.7:2.2": "<span class='verse-line'>{}</span>",
+    "sn2.7:2.3": "<span class='verse-line'>{}</span>",
+    "sn2.7:2.4": "<span class='verse-line'>{}</span></p>",
+    "sn2.7:3.1": "<p><span class='verse-line'>{}</span>",
+    "sn2.7:3.2": "<span class='speaker'>{}</span>",
+    "sn2.7:3.3": "<span class='verse-line'>{}</span>",
+    "sn2.7:3.4": "<span class='verse-line'>{}</span>",
+    "sn2.7:3.5": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn2.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pañcālacaṇḍasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Kāmada ",
-      "uid": "sn2.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Tāyana ",
-      "uid": "sn2.8"
-    }
+    "sn2.7:0.1": "Saṁyutta Nikāya 2.7 ",
+    "sn2.7:0.2": "1. Paṭhamavagga ",
+    "sn2.7:0.3": "Pañcālacaṇḍasutta ",
+    "sn2.7:1.1": "Sāvatthinidānaṁ. ",
+    "sn2.7:1.2": "Ekamantaṁ ṭhito kho pañcālacaṇḍo devaputto bhagavato santike imaṁ gāthaṁ abhāsi: ",
+    "sn2.7:2.1": "“Sambādhe vata okāsaṁ, ",
+    "sn2.7:2.2": "Avindi bhūrimedhaso; ",
+    "sn2.7:2.3": "Yo jhānamabujjhi buddho, ",
+    "sn2.7:2.4": "Paṭilīnanisabho munī”ti. ",
+    "sn2.7:3.1": "“Sambādhe vāpi vindanti, ",
+    "sn2.7:3.2": "(pañcālacaṇḍāti bhagavā) ",
+    "sn2.7:3.3": "Dhammaṁ nibbānapattiyā; ",
+    "sn2.7:3.4": "Ye satiṁ paccalatthaṁsu, ",
+    "sn2.7:3.5": "Sammā te susamāhitā”ti. "
   },
-  "translation": {
-    "uid": "sn2.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Pañcālacaṇḍa ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Kāmada ",
-      "uid": "sn2.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Tāyana ",
-      "uid": "sn2.8"
-    }
+  "translation_text": {
+    "sn2.7:0.1": "Linked Discourses 2.7 ",
+    "sn2.7:0.2": "Chapter One ",
+    "sn2.7:0.3": "With Pañcālacaṇḍa ",
+    "sn2.7:1.1": "At Sāvatthī. ",
+    "sn2.7:1.2": "Standing to one side, the godling Pañcālacaṇḍa spoke this verse in the Buddha’s presence: ",
+    "sn2.7:2.1": "“The opening amid confinement ",
+    "sn2.7:2.2": "was discovered by the Buddha of vast intelligence, ",
+    "sn2.7:2.3": "who awakened to absorption, ",
+    "sn2.7:2.4": "the sage, the solitary boss bull.” ",
+    "sn2.7:3.1": "“Even amid confinement they understand,” ",
+    "sn2.7:3.2": "said the Buddha to Pañcālacaṇḍa, ",
+    "sn2.7:3.3": "“the principle for attaining extinguishment. ",
+    "sn2.7:3.4": "Those who have acquired mindfulness ",
+    "sn2.7:3.5": "are perfectly serene in samādhi.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 2.7",
-    "volpages": "PTS (1st ed) SN i 48",
-    "alt_volpages": " PTS (2nd ed) 1.111",
-    "uid": "sn2.7",
-    "blurb": "Pañcālacaṇḍa praises the Buddha for finding the opening amid the confinement of the world. But the Buddha affirms that anyone with mindfulness and stillness may find such an escape.",
-    "difficulty": null,
-    "original_title": "Pañcālacaṇḍasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Pañcālacaṇḍa ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn2.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Pañcālacaṇḍa ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn2.7_translation-en-sujato",
-        "segmented": true,
-        "title": "With Pañcālacaṇḍa ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Giovanni Zappa",
-        "author_short": "giovannizappa",
-        "author_uid": "giovannizappa",
-        "publication_date": "2025",
-        "id": "sn2.7_translation-it-giovannizappa",
-        "segmented": true,
-        "title": "Il discorso con Pañcālacaṇḍa ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn2.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn2.7_translation-ru-sv",
-        "segmented": true,
-        "title": "Панчалачанда ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn2.7_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Pañcālacaṇḍa ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn2.7_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn2.7_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn2.7_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn2.7_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn2.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn2.7_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn2.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn2.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2015",
-        "id": "no_sn2.7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2006",
-        "id": "pt_sn2.7_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn2.7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn2.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn2.7_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn2.7_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn2.7_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj13.92, cck15.64, ms12S1_395, msdiv88, sya15.67, vri23.58,ms12S1_396, ndp12.46,ms12S1_397, pts-vp-pli2ed1.111",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn2.7:2.3": "jhānamabujjhi → jhānamabudhā (bj, pts2ed); jhānamabuddhi (sya-all, km, pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn2.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pañcālacaṇḍasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn2.7:1.1": "bj13.92, cck15.64, ms12S1_395, msdiv88, sya15.67, vri23.58",
+    "sn2.7:2.1": "ms12S1_396, ndp12.46",
+    "sn2.7:3.1": "ms12S1_397, pts-vp-pli2ed1.111"
   },
-  "bilara_translated_text": {
-    "uid": "sn2.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Pañcālacaṇḍa ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn2.7:0.1",
+    "sn2.7:0.2",
+    "sn2.7:0.3",
+    "sn2.7:1.1",
+    "sn2.7:1.2",
+    "sn2.7:2.1",
+    "sn2.7:2.2",
+    "sn2.7:2.3",
+    "sn2.7:2.4",
+    "sn2.7:3.1",
+    "sn2.7:3.2",
+    "sn2.7:3.3",
+    "sn2.7:3.4",
+    "sn2.7:3.5"
+  ]
 }

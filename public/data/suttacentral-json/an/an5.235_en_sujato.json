@@ -1,311 +1,73 @@
 {
+  "html_text": {
+    "an5.235:0.1": "<article id='an5.235'><header><ul><li class='division'>{}</li>",
+    "an5.235:0.2": "<li>{}</li></ul>",
+    "an5.235:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.235:1.1": "<p>{}",
+    "an5.235:1.2": "{}",
+    "an5.235:1.3": "{}",
+    "an5.235:1.4": "{}",
+    "an5.235:1.5": "{}",
+    "an5.235:1.6": "{}",
+    "an5.235:1.7": "{}",
+    "an5.235:1.8": "{}",
+    "an5.235:1.9": "{}",
+    "an5.235:1.10": "{}</p>",
+    "an5.235:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.235",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Anukampasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Very Helpful ",
-      "uid": "an5.234"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Deserving Criticism (1st) ",
-      "uid": "an5.236"
-    }
+    "an5.235:0.1": "Aṅguttara Nikāya 5.235 ",
+    "an5.235:0.2": "24. Āvāsikavagga ",
+    "an5.235:0.3": "Anukampasutta ",
+    "an5.235:1.1": "“Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu gihīnaṁ anukampati. ",
+    "an5.235:1.2": "Katamehi pañcahi? ",
+    "an5.235:1.3": "Adhisīle samādapeti; ",
+    "an5.235:1.4": "dhammadassane niveseti; ",
+    "an5.235:1.5": "gilānake upasaṅkamitvā satiṁ uppādeti: ",
+    "an5.235:1.6": "‘arahaggataṁ āyasmanto satiṁ upaṭṭhāpethā’ti; ",
+    "an5.235:1.7": "mahā kho pana bhikkhusaṅgho abhikkanto nānāverajjakā bhikkhū gihīnaṁ upasaṅkamitvā āroceti: ",
+    "an5.235:1.8": "‘mahā kho, āvuso, bhikkhusaṅgho abhikkanto nānāverajjakā bhikkhū, karotha puññāni, samayo puññāni kātun’ti; ",
+    "an5.235:1.9": "yaṁ kho panassa bhojanaṁ denti lūkhaṁ vā paṇītaṁ vā taṁ attanā paribhuñjati, saddhādeyyaṁ na vinipāteti. ",
+    "an5.235:1.10": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu gihīnaṁ anukampatī”ti. ",
+    "an5.235:1.11": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "an5.235",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Sympathetic Mendicant ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Very Helpful ",
-      "uid": "an5.234"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Deserving Criticism (1st) ",
-      "uid": "an5.236"
-    }
+  "translation_text": {
+    "an5.235:0.1": "Numbered Discourses 5.235 ",
+    "an5.235:0.2": "24. A Resident Mendicant ",
+    "an5.235:0.3": "A Sympathetic Mendicant ",
+    "an5.235:1.1": "“Mendicants, a resident mendicant with five qualities shows sympathy to the lay people. ",
+    "an5.235:1.2": "What five? ",
+    "an5.235:1.3": "They encourage them in higher ethics. ",
+    "an5.235:1.4": "They equip them to see the truth of the teachings. ",
+    "an5.235:1.5": "When they are sick, they go to them and prompt their mindfulness, saying: ",
+    "an5.235:1.6": "‘Establish your mindfulness, good fellows, in what is worthy.’ ",
+    "an5.235:1.7": "When a large mendicant Saṅgha is arriving with mendicants from abroad, they go to the lay people and announce: ",
+    "an5.235:1.8": "‘A large mendicant Saṅgha is arriving with mendicants from abroad. Make merit! Now is the time to make merit!’ ",
+    "an5.235:1.9": "And they eat whatever food they give them, coarse or fine, not wasting a gift given in faith. ",
+    "an5.235:1.10": "A resident mendicant with these five qualities shows sympathy to the lay people.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.235",
-    "volpages": " PTS 3.264",
-    "alt_volpages": null,
-    "uid": "an5.235",
-    "blurb": "How a mendicant shows compassion to lay folk.",
-    "difficulty": null,
-    "original_title": "Anukampasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Sympathetic Mendicant ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.235_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Anteilnahme ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.235_translation-en-sujato",
-        "segmented": true,
-        "title": "A Sympathetic Mendicant ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.235_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.235_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Сострадательный",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.235_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.235_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.235_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.235_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.235_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an5.235_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.235_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.235_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.235_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.235_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.235_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr22.287, ms16A5_1298, msdiv235, pts-vp-pli3.264, vri37.244",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an5.235:0.3": "Anukampasutta → anukampakasuttaṁ (bj) ",
+    "an5.235:1.1": "gihīnaṁ → gihiṁ (sya-all); gihī (katthaci) ",
+    "an5.235:1.3": "Adhisīle → adhisīlesu (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "an5.235",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Anukampasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.235:1.1": "dr22.287, ms16A5_1298, msdiv235, pts-vp-pli3.264, vri37.244"
   },
-  "bilara_translated_text": {
-    "uid": "an5.235",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Sympathetic Mendicant ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.235:0.1",
+    "an5.235:0.2",
+    "an5.235:0.3",
+    "an5.235:1.1",
+    "an5.235:1.2",
+    "an5.235:1.3",
+    "an5.235:1.4",
+    "an5.235:1.5",
+    "an5.235:1.6",
+    "an5.235:1.7",
+    "an5.235:1.8",
+    "an5.235:1.9",
+    "an5.235:1.10",
+    "an5.235:1.11"
+  ]
 }

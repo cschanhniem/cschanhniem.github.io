@@ -52,6 +52,64 @@ Use this pass whenever a content release adds or changes a public route. The sit
 6. Verify account or tool surfaces are excluded from the sitemap and carry `noindex,nofollow`.
 7. Keep the default social image crawler-safe. Use the shared `og-default.png` unless the route genuinely warrants a bespoke asset.
 
+## URL-Driven Library Branch Release
+
+Use this pass when a library filter stops being local UI state and becomes a canonical branch route, as with `Nikaya` collection pages.
+
+1. Move the filter source of truth from component state to pathname parsing.
+2. Give each branch a stable collection URL and each detail page a canonical nested URL.
+3. Preserve old detail URLs with a redirect route and static fallback HTML when direct deep links may already exist.
+4. Pass `state.from` from listing to detail so back navigation lands on the right branch.
+5. Update runtime metadata and build-time SEO enumeration together. Treat either half drifting out of sync as a release defect.
+6. Verify branch pages are indexable only when they are canonical. Legacy redirect surfaces should be `noindex`.
+
+### Branch State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> UnscopedLibrary
+    UnscopedLibrary --> BranchLibrary: pathname selects collection
+    BranchLibrary --> CanonicalDetail: click sutta card
+    CanonicalDetail --> BranchLibrary: state.from or inferred branch
+    LegacyDetail --> Redirected
+    Redirected --> CanonicalDetail
+    CanonicalDetail --> Redirected: slug mismatch
+```
+
+### Branch Sequence
+
+```mermaid
+sequenceDiagram
+    participant User
+    participant Library
+    participant Router
+    participant Detail
+    participant BuildSEO
+
+    User->>Library: choose collection branch
+    Library->>Router: navigate to /library/<branch>
+    User->>Library: choose sutta
+    Library->>Router: navigate to /library/<branch>/<id> with state.from
+    Router->>Detail: render canonical detail
+    User->>Router: open old detail link
+    Router->>Detail: redirect to canonical nested path
+    BuildSEO->>Router: generate branch + legacy fallback HTML
+```
+
+### Branch Data Flow
+
+```mermaid
+flowchart LR
+    A[Sidebar filter intent] --> B[Branch pathname]
+    B --> C[Collection parser]
+    C --> D[Filtered listing]
+    D --> E[Detail pathname with branch]
+    E --> F[Canonical metadata]
+    F --> G[Static route generation]
+    H[Legacy detail path] --> I[Redirect resolver]
+    I --> E
+```
+
 ### SEO State Machine
 
 ```mermaid
@@ -96,6 +154,74 @@ flowchart LR
     C --> F[Search crawler]
     D --> F
     E --> F
+```
+
+## Nikaya Sutta Data QA
+
+Use this branch when Nikaya detail pages show placeholder prose, raw Bilara templates, or version options that claim to exist without readable content.
+
+1. Inspect one affected local file under `public/data/suttacentral-json/<collection>/`.
+2. Distinguish file presence from readable content. `available.json` is not enough for UI truth.
+3. If the English payload comes from Bilara, inspect `html_text`, `translation_text`, `root_text`, and `keys_order`.
+4. Compose Bilara `html_text` templates with `translation_text` before rendering. Do not render raw `{}` placeholders.
+5. Publish content truth into `content-availability.json`.
+6. Keep disabled any dropdown option that lacks local readable content.
+7. Audit collection triad readiness with `npm run audit:nikaya -- <dn|mn|sn|an|kn>`.
+8. If the collection is `SN` or another peyyala-heavy branch, inspect `nikaya_index.json` for grouped range IDs such as `sn12.72-81` and fetch those exact IDs too.
+9. Treat Bilara `200 {"msg":"Not Found"}` responses as missing English, not success.
+10. For `KN`, remember that collection inference must map `kp`, `dhp`, `ud`, `iti`, and `snp` into the `kn` folder.
+11. Verify one collection route and one detail route in a browser after the patch.
+
+### Nikaya State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> RawJsonPresent
+    RawJsonPresent --> GroupedIdsResolved
+    GroupedIdsResolved --> ContentAudited
+    ContentAudited --> ManifestSynced
+    ManifestSynced --> DetailSelectable
+    DetailSelectable --> BrowserVerified
+    RawJsonPresent --> RawJsonPresent: refetch if metadata only
+    GroupedIdsResolved --> RawJsonPresent: grouped route absent locally
+    ContentAudited --> RawJsonPresent: Bilara composition defect
+    BrowserVerified --> DetailSelectable: UI regression
+```
+
+### Nikaya Sequence
+
+```mermaid
+sequenceDiagram
+    participant Agent
+    participant File
+    participant Manifest
+    participant Parser
+    participant Index
+    participant Detail
+    participant Browser
+
+    Agent->>File: inspect one sutta JSON
+    Agent->>Manifest: compare available.json vs content-availability.json
+    Agent->>Index: inspect grouped range IDs when the collection is peyyala-heavy
+    Agent->>Parser: confirm KN book prefixes resolve to the kn directory
+    Agent->>Parser: patch Bilara composition if needed
+    Parser->>Detail: return rendered HTML only when content exists
+    Detail->>Browser: expose selectable versions
+    Browser->>Agent: confirm readable EN output
+```
+
+### Nikaya Data Flow
+
+```mermaid
+flowchart LR
+    A[Raw sutta JSON] --> B[Content audit]
+    X[Grouped range IDs] --> B
+    B --> C[content-availability.json]
+    A --> D[suttacentralLocal parser]
+    D --> E[Rendered HTML]
+    C --> F[NikayaLibrary badges]
+    C --> G[NikayaDetail dropdown]
+    E --> G
 ```
 
 ### State Machine

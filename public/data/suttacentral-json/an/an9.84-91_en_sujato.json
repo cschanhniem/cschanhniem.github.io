@@ -1,0 +1,29 @@
+{
+  "html_text": {
+    "an9.84-91:0.1": "<article id='an9.84-91'><header><ul><li class='division'>{}</li>",
+    "an9.84-91:0.2": "<li>{}</li></ul>",
+    "an9.84-91:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.84-91:1.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "an9.84-91:0.1": "Aṅguttara Nikāya 9.84–91 ",
+    "an9.84-91:0.2": "9. Iddhipādavagga ",
+    "an9.84-91:0.3": "Nīvaraṇasuttādi ",
+    "an9.84-91:1.1": "(Yathā satipaṭṭhānavagge tathā iddhipādavasena vitthāretabbā.) "
+  },
+  "translation_text": {
+    "an9.84-91:0.1": "Numbered Discourses 9.84–91 ",
+    "an9.84-91:0.2": "9. Bases of Psychic Power ",
+    "an9.84-91:0.3": "Hindrances, Etc. ",
+    "an9.84-91:1.1": "(Tell in full as in the chapter on mindfulness meditation.) "
+  },
+  "reference_text": {
+    "an9.84-91:1.1": "ms17A9_482, msdiv84-91"
+  },
+  "keys_order": [
+    "an9.84-91:0.1",
+    "an9.84-91:0.2",
+    "an9.84-91:0.3",
+    "an9.84-91:1.1"
+  ]
+}

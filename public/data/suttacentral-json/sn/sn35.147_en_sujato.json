@@ -1,326 +1,59 @@
 {
+  "html_text": {
+    "sn35.147:0.1": "<article id='sn35.147'><header><ul><li class='division'>{}</li>",
+    "sn35.147:0.2": "<li>{}</li></ul>",
+    "sn35.147:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.147:1.1": "<p>{}",
+    "sn35.147:1.2": "{}</p>",
+    "sn35.147:1.3": "<p>{}</p>",
+    "sn35.147:1.4": "<p>{}</p>",
+    "sn35.147:1.5": "<p>{}",
+    "sn35.147:1.6": "{}</p>",
+    "sn35.147:1.7": "<p>{}</p>",
+    "sn35.147:1.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.147",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Aniccanibbānasappāyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Cessation of Deeds ",
-      "uid": "sn35.146"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Suffering as Conducive to Extinguishment ",
-      "uid": "sn35.148"
-    }
+    "sn35.147:0.1": "Saṁyutta Nikāya 35.147 ",
+    "sn35.147:0.2": "15. Navapurāṇavagga ",
+    "sn35.147:0.3": "Aniccanibbānasappāyasutta ",
+    "sn35.147:1.1": "“Nibbānasappāyaṁ vo, bhikkhave, paṭipadaṁ desessāmi. ",
+    "sn35.147:1.2": "Taṁ suṇātha …pe… ",
+    "sn35.147:1.3": "katamā ca sā, bhikkhave, nibbānasappāyā paṭipadā? ",
+    "sn35.147:1.4": "Idha, bhikkhave, bhikkhu cakkhuṁ aniccanti passati, rūpā aniccāti passati, cakkhuviññāṇaṁ aniccanti passati, cakkhusamphasso aniccoti passati. Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti passati …pe… ",
+    "sn35.147:1.5": "jivhā aniccāti passati, rasā aniccāti passati, jivhāviññāṇaṁ aniccanti passati, jivhāsamphasso aniccoti passati, yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti passati …pe… ",
+    "sn35.147:1.6": "mano aniccoti passati, dhammā aniccāti passati, manoviññāṇaṁ aniccanti passati, manosamphasso aniccoti passati, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti passati. ",
+    "sn35.147:1.7": "Ayaṁ kho sā, bhikkhave, nibbānasappāyā paṭipadā”ti. ",
+    "sn35.147:1.8": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn35.147",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Impermanent as Conducive to Extinguishment ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Cessation of Deeds ",
-      "uid": "sn35.146"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Suffering as Conducive to Extinguishment ",
-      "uid": "sn35.148"
-    }
+  "translation_text": {
+    "sn35.147:0.1": "Linked Discourses 35.147 ",
+    "sn35.147:0.2": "15. The Old and the New ",
+    "sn35.147:0.3": "The Impermanent as Conducive to Extinguishment ",
+    "sn35.147:1.1": "“Mendicants, I will teach you a practice that’s conducive to extinguishment. ",
+    "sn35.147:1.2": "Listen … ",
+    "sn35.147:1.3": "And what is that practice that’s conducive to extinguishment? ",
+    "sn35.147:1.4": "It’s when a mendicant sees that the eye, sights, eye consciousness, and eye contact are impermanent. And they see that the painful, pleasant, or neutral feeling that arises dependent on eye contact is also impermanent. ",
+    "sn35.147:1.5": "They see that the ear … nose … tongue … body … ",
+    "sn35.147:1.6": "mind, ideas, mind-consciousness, and mind contact are impermanent. And they see that the painful, pleasant, or neutral feeling that arises dependent on mind contact is also impermanent. ",
+    "sn35.147:1.7": "This is that practice that’s conducive to extinguishment.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.147",
-    "volpages": " PTS 4.134",
-    "alt_volpages": null,
-    "uid": "sn35.147",
-    "blurb": "The way suitable for realizing extinguishment is to contemplate the process of sense experience as impermanent.",
-    "difficulty": null,
-    "original_title": "Aniccanibbānasappāyasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Impermanent as Conducive to Extinguishment ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.147_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Unbeständige als dem Erlöschen förderlich ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.147_translation-en-sujato",
-        "segmented": true,
-        "title": "The Impermanent as Conducive to Extinguishment ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.147_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.147_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.147_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.147_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Suitable for Attaining Nibbāna (1)"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn35.147_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.147_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.147_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.147_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.147_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.147_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.147_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.147_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.147_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.147_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.268, cck18.166, ms13S4_812, msdiv147, pts-vp-pli4.134",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.147:0.3": "Aniccanibbānasappāyasutta → sappāyasuttaṁ (bj); sappāya 1 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.147",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Aniccanibbānasappāyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.147:1.1": "bj16.268, cck18.166, ms13S4_812, msdiv147, pts-vp-pli4.134"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.147",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Impermanent as Conducive to Extinguishment ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.147:0.1",
+    "sn35.147:0.2",
+    "sn35.147:0.3",
+    "sn35.147:1.1",
+    "sn35.147:1.2",
+    "sn35.147:1.3",
+    "sn35.147:1.4",
+    "sn35.147:1.5",
+    "sn35.147:1.6",
+    "sn35.147:1.7",
+    "sn35.147:1.8"
   ]
 }

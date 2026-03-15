@@ -1,285 +1,81 @@
 {
+  "html_text": {
+    "an5.190:0.1": "<article id='an5.190'><header><ul><li class='division'>{}</li>",
+    "an5.190:0.2": "<li>{}</li></ul>",
+    "an5.190:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.190:1.1": "<p>{}",
+    "an5.190:1.2": "{}",
+    "an5.190:1.3": "{}",
+    "an5.190:1.4": "{}",
+    "an5.190:1.5": "{}</p>",
+    "an5.190:2.1": "<p>{}",
+    "an5.190:2.2": "{}</p>",
+    "an5.190:2.3": "<p class='endsutta'>{}</p>",
+    "an5.190:2.4": "<p class='endvagga'>{}</p>",
+    "an5.190:3.0": "<p class='uddana-intro'>{}</p>",
+    "an5.190:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an5.190:3.2": "<span class='verse-line'>{}</span>",
+    "an5.190:3.3": "<span class='verse-line'>{}</span>",
+    "an5.190:3.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an5.190",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pattapiṇḍikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Refusers of Late Food ",
-      "uid": "an5.189"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Hounds ",
-      "uid": "an5.191"
-    }
+    "an5.190:0.1": "Aṅguttara Nikāya 5.190 ",
+    "an5.190:0.2": "19. Araññavagga ",
+    "an5.190:0.3": "Pattapiṇḍikasutta ",
+    "an5.190:1.1": "“Pañcime, bhikkhave, pattapiṇḍikā. ",
+    "an5.190:1.2": "Katame pañca? ",
+    "an5.190:1.3": "Mandattā momūhattā pattapiṇḍiko hoti, pāpiccho icchāpakato pattapiṇḍiko hoti, ummādā cittakkhepā pattapiṇḍiko hoti, ‘vaṇṇitaṁ buddhehi buddhasāvakehī’ti pattapiṇḍiko hoti, appicchataṁyeva nissāya santuṭṭhiṁyeva nissāya sallekhaṁyeva nissāya pavivekaṁyeva nissāya idamatthitaṁyeva nissāya pattapiṇḍiko hoti. ",
+    "an5.190:1.4": "Ime kho, bhikkhave, pañca pattapiṇḍikā. ",
+    "an5.190:1.5": "Imesaṁ kho, bhikkhave, pañcannaṁ pattapiṇḍikānaṁ yvāyaṁ pattapiṇḍiko appicchataṁyeva nissāya santuṭṭhiṁyeva nissāya sallekhaṁyeva nissāya pavivekaṁyeva nissāya idamatthitaṁyeva nissāya pattapiṇḍiko hoti, ayaṁ imesaṁ pañcannaṁ pattapiṇḍikānaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. ",
+    "an5.190:2.1": "Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati; ",
+    "an5.190:2.2": "evamevaṁ kho, bhikkhave, imesaṁ pañcannaṁ pattapiṇḍikānaṁ yvāyaṁ pattapiṇḍiko appicchataṁyeva nissāya santuṭṭhiṁyeva nissāya sallekhaṁyeva nissāya pavivekaṁyeva nissāya idamatthitaṁyeva nissāya pattapiṇḍiko hoti, ayaṁ imesaṁ pañcannaṁ pattapiṇḍikānaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti. ",
+    "an5.190:2.3": "Dasamaṁ. ",
+    "an5.190:2.4": "Araññavaggo catuttho. ",
+    "an5.190:3.0": "Tassuddānaṁ ",
+    "an5.190:3.1": "Araññaṁ cīvaraṁ rukkha, ",
+    "an5.190:3.2": "Susānaṁ abbhokāsikaṁ; ",
+    "an5.190:3.3": "Nesajjaṁ santhataṁ ekāsanikaṁ, ",
+    "an5.190:3.4": "Khalupacchāpiṇḍikena cāti. "
   },
-  "translation": {
-    "uid": "an5.190",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Those Who Eat Only From the Almsbowl ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Refusers of Late Food ",
-      "uid": "an5.189"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Hounds ",
-      "uid": "an5.191"
-    }
+  "translation_text": {
+    "an5.190:0.1": "Numbered Discourses 5.190 ",
+    "an5.190:0.2": "19. Wilderness Dwellers ",
+    "an5.190:0.3": "Those Who Eat Only From the Almsbowl ",
+    "an5.190:1.1": "“Mendicants, these five eat only from the almsbowl. ",
+    "an5.190:1.2": "What five? ",
+    "an5.190:1.3": "One may eat only from the almsbowl because of stupidity and folly. Or because of corrupt wishes, being of wishful temperament. Or because of madness and mental disorder. Or because it is praised by the Buddhas and their disciples. Or for the sake of having few wishes, for the sake of contentment, self-effacement, seclusion, and simplicity. ",
+    "an5.190:1.4": "These are the five who eat only from the almsbowl. ",
+    "an5.190:1.5": "But the person who eats only from the almsbowl for the sake of having few wishes is the foremost, best, chief, highest, and finest of the five. ",
+    "an5.190:2.1": "From a cow comes milk, from milk comes curds, from curds come butter, from butter comes ghee, and from ghee comes cream of ghee. And the cream of ghee is said to be the best of these. ",
+    "an5.190:2.2": "In the same way, the one who eats only from the almsbowl for the sake of having few wishes is the foremost, best, chief, highest, and finest of the five.” ",
+    "an5.190:2.3": "",
+    "an5.190:2.4": "",
+    "an5.190:3.1": "",
+    "an5.190:3.2": "",
+    "an5.190:3.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.190",
-    "volpages": " PTS 3.221",
-    "alt_volpages": null,
-    "uid": "an5.190",
-    "blurb": "Different reasons why someone might eat only from their bowl.",
-    "difficulty": null,
-    "original_title": "Pattapiṇḍikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Those Who Eat Only From the Almsbowl ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.190_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die nur aus der Almosenschale essen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.190_translation-en-sujato",
-        "segmented": true,
-        "title": "Those Who Eat Only From the Almsbowl ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.190_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.190_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Пропитание из Чаши",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.190_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.190_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.190_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.190_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an5.190_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.190_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.190_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.190_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.190_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj20.360, csp1ed16.195, csp2ed16.195, dr22.242, ms16A5_1092, msdiv190,ms16A5_1093, ndp17.466, pts-vp-pli3.221,ms16A5_1097",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.190:1.1": "bj20.360, csp1ed16.195, csp2ed16.195, dr22.242, ms16A5_1092, msdiv190",
+    "an5.190:2.1": "ms16A5_1093, ndp17.466, pts-vp-pli3.221",
+    "an5.190:3.1": "ms16A5_1097"
   },
-  "bilara_root_text": {
-    "uid": "an5.190",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pattapiṇḍikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.190",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Those Who Eat Only From the Almsbowl ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.190:0.1",
+    "an5.190:0.2",
+    "an5.190:0.3",
+    "an5.190:1.1",
+    "an5.190:1.2",
+    "an5.190:1.3",
+    "an5.190:1.4",
+    "an5.190:1.5",
+    "an5.190:2.1",
+    "an5.190:2.2",
+    "an5.190:2.3",
+    "an5.190:2.4",
+    "an5.190:3.0",
+    "an5.190:3.1",
+    "an5.190:3.2",
+    "an5.190:3.3",
+    "an5.190:3.4"
+  ]
 }

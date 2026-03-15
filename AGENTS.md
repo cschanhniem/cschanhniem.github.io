@@ -205,7 +205,115 @@ sequenceDiagram
 - Update navigation in `src/components/layout/Header.tsx` when adding top-level pages.
 - `Pháp Bảo` is split into two first-class tab routes: `/phap-bao/kinh-tang` and `/phap-bao/giao-phap`. Keep the library tabs URL-driven, not local-state-only.
 - Detail pages reached from the library should carry a `state.from` back target and fall back to the correct branch: suttas return to `/phap-bao/kinh-tang`, teachings return to `/phap-bao/giao-phap`.
+- `Nikaya` is now branch-driven as well: `/nikaya` for all, `/nikaya/dn|mn|sn|an|kn` for each collection, and `/nikaya/<collection>/<suttaId>` for canonical detail URLs.
+- Keep old `/nikaya/<suttaId>` links alive through a redirect route plus static fallback HTML, but do not treat them as canonical or sitemap-worthy.
+- `Nikaya` detail links should carry a `state.from` back target and otherwise fall back to their inferred collection branch.
 - If you add a new public route namespace, extend `scripts/build-seo-assets.mjs` so the namespace gets static HTML and sitemap coverage.
+
+## Nikaya Collection Routing
+
+```mermaid
+stateDiagram-v2
+    [*] --> AllCollections
+    AllCollections --> CollectionBranch: click DN | MN | SN | AN | KN
+    CollectionBranch --> SuttaDetail: click sutta card
+    SuttaDetail --> CollectionBranch: back via state.from or inferred collection
+    LegacyDetailUrl --> CanonicalRedirect
+    CanonicalRedirect --> SuttaDetail
+    CollectionBranch --> AllCollections: click Tất cả
+    SuttaDetail --> CanonicalRedirect: collection slug mismatch
+```
+
+```mermaid
+sequenceDiagram
+    participant User
+    participant Library as NikayaLibrary
+    participant Router
+    participant Detail as NikayaDetail
+    participant SEO as build-seo-assets
+
+    User->>Library: open /nikaya/dn
+    Library->>Router: Link to /nikaya/dn/dn1 with state.from
+    Router->>Detail: render canonical detail route
+    Detail->>Detail: infer collection from suttaId
+    Detail->>Router: back to /nikaya/dn
+    User->>Router: open legacy /nikaya/dn1
+    Router->>Detail: redirect to /nikaya/dn/dn1
+    SEO->>Router: emit static HTML for /nikaya/dn and legacy fallback
+```
+
+```mermaid
+flowchart LR
+    A[Sidebar collection click] --> B[/nikaya/<collection>/]
+    B --> C[NikayaLibrary pathname parser]
+    C --> D[Filtered sutta list]
+    D --> E[/nikaya/<collection>/<suttaId>/]
+    E --> F[NikayaDetail canonical + back-path logic]
+    F --> G[SEO metadata]
+    G --> H[dist/nikaya/** static HTML]
+    I[/nikaya/<legacySuttaId>/] --> J[Legacy redirect route]
+    J --> E
+```
+
+## Nikaya Content Integrity
+- Treat `public/data/suttacentral-json/available.json` as file-presence only. Use `public/data/suttacentral-json/content-availability.json` whenever UI or QA needs to know whether a language has real readable content.
+- Bilara English payloads from `/api/bilarasuttas` are template-based. `html_text` contains one `{}` placeholder per segment and must be composed with `translation_text` before rendering.
+- For `SN`, and likely other peyyala-heavy collections, do not assume every detail route is a single numeric UID. The library index can contain grouped range IDs such as `sn12.72-81`, and the fetch pass must ingest those exact IDs as first-class local files.
+- Bilara may respond with HTTP `200` and a body like `{"msg":"Not Found"}` for missing English routes. Treat that as absent content, not a success.
+- `KN` detail routes use book-specific prefixes such as `kp`, `dhp`, `ud`, `iti`, and `snp`. Any route inference or local file resolver that only keys off `dn|mn|sn|an|kn` prefixes is incomplete.
+- Current sampled `KN` local JSON is metadata-only. Do not mark `KN` as content-complete unless the files actually contain readable body text or segment maps.
+- Do not mark a Nikaya version as selectable based only on SuttaCentral metadata. If the local rendered content is absent, disable the option and fall back to SuttaCentral as an external link only.
+- For collection triad audits, run `npm run audit:nikaya -- <dn|mn|sn|an|kn>`. Keep `npm run audit:nikaya-dn` only as a DN shortcut.
+
+```mermaid
+stateDiagram-v2
+    [*] --> FileFetched
+    FileFetched --> GroupedIdsResolved
+    GroupedIdsResolved --> ContentVerified
+    ContentVerified --> ManifestPublished
+    ManifestPublished --> VersionSelectable
+    VersionSelectable --> RenderReady
+    FileFetched --> FileFetched: metadata only, refetch
+    GroupedIdsResolved --> FileFetched: grouped range missing locally
+    ContentVerified --> FileFetched: Bilara template mismatch
+    RenderReady --> VersionSelectable: local content removed
+```
+
+```mermaid
+sequenceDiagram
+    participant Fetcher as fetch-all-nikayas
+    participant SC as SuttaCentral Bilara
+    participant JSON as *_en_sujato.json
+    participant Manifest as content-availability.json
+    participant Index as nikaya_index.json
+    participant Detail as NikayaDetail
+    participant Local as suttacentralLocal
+
+    Fetcher->>SC: request /api/bilarasuttas/<id>/sujato?lang=en
+    SC->>Fetcher: html_text template + translation_text
+    Fetcher->>Index: read grouped range IDs such as sn12.72-81
+    Index->>Fetcher: supplemental route list
+    Fetcher->>JSON: save one sutta per language file
+    Fetcher->>Manifest: publish readable-content map
+    Detail->>Manifest: check selectable versions
+    Detail->>Local: load local JSON
+    Detail->>Local: infer KN from kp|dhp|ud|iti|snp when needed
+    Local->>Local: compose html_text with translation_text
+    Local->>Detail: return rendered HTML
+```
+
+```mermaid
+flowchart LR
+    A[SuttaCentral Bilara EN] --> B[scripts/fetch-all-nikayas.mjs]
+    I[nikaya_index grouped IDs] --> B
+    B --> C[dn/dn1_en_sujato.json]
+    B --> D[content-availability.json]
+    C --> E[src/lib/suttacentralLocal.ts]
+    E --> F[Bilara template composition]
+    D --> G[NikayaLibrary]
+    D --> H[NikayaDetail]
+    F --> H
+```
 
 ## Backend Notes
 - API client lives in `src/lib/api.ts`.

@@ -1,364 +1,75 @@
 {
+  "comment_text": {
+    "sn6.11:1.2": "The Serpentine (<i lang='pi' translate='no'>sappinī</i>) is probably the modern Panchane (from <i lang='pi' translate='no'>pañcānana</i>, “five-mouthed”). There was a wanderer’s hermitage on its banks (<a href='https://suttacentral.net/an3.64/en/sujato'>AN 3.64</a>, <a href='https://suttacentral.net/an4.30/en/sujato'>AN 4.30</a>, <a href='https://suttacentral.net/an4.185/en/sujato'>AN 4.185</a>). ",
+    "sn6.11:1.3": "Sanaṅkumāra (“Everyoung”) became a Hindu deity closely associated with the worship of Krishna. He first appears in the seventh chapter of the Chāndogya Upaniṣad. He speaks this verse also at <a href='https://suttacentral.net/dn3/en/sujato#1.28.2'>DN 3:1.28.2</a>, <a href='https://suttacentral.net/dn27/en/sujato#32.2'>DN 27:32.2</a>, <a href='https://suttacentral.net/mn53/en/sujato#25.3'>MN 53:25.3</a>, <a href='https://suttacentral.net/an11.10/en/sujato#6.1'>AN 11.10:6.1</a>, and it was endorsed by the Buddha. He features in two extended discussions among the gods, his appearance heralded by a great light in the north (<a href='https://suttacentral.net/dn18/en/sujato#15.1'>DN 18:15.1</a>, <a href='https://suttacentral.net/dn19/en/sujato#15.1'>DN 19:15.1</a>). He also appears in <a href='https://suttacentral.net/dn20/en/sujato#20.3'>DN 20:20.3</a>. "
+  },
+  "html_text": {
+    "sn6.11:0.1": "<article id='sn6.11'><header><ul><li class='division'>{}</li>",
+    "sn6.11:0.2": "<li>{}</li></ul>",
+    "sn6.11:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn6.11:1.1": "<p><span class='evam'>{}</span>",
+    "sn6.11:1.2": "{}</p>",
+    "sn6.11:1.3": "<p>{}",
+    "sn6.11:1.4": "{}</p>",
+    "sn6.11:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn6.11:2.2": "<span class='verse-line'>{}</span>",
+    "sn6.11:2.3": "<span class='verse-line'>{}</span>",
+    "sn6.11:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn6.11:3.1": "<p>{}",
+    "sn6.11:3.2": "{}",
+    "sn6.11:3.3": "{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn6.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sanaṅkumārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Kokālika ",
-      "uid": "sn6.10"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "About Devadatta ",
-      "uid": "sn6.12"
-    }
+    "sn6.11:0.1": "Saṁyutta Nikāya 6.11 ",
+    "sn6.11:0.2": "2. Dutiyavagga ",
+    "sn6.11:0.3": "Sanaṅkumārasutta ",
+    "sn6.11:1.1": "Evaṁ me sutaṁ—",
+    "sn6.11:1.2": "ekaṁ samayaṁ bhagavā rājagahe viharati sappinītīre. ",
+    "sn6.11:1.3": "Atha kho brahmā sanaṅkumāro abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ sappinītīraṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. ",
+    "sn6.11:1.4": "Ekamantaṁ ṭhito kho brahmā sanaṅkumāro bhagavato santike imaṁ gāthaṁ abhāsi: ",
+    "sn6.11:2.1": "“Khattiyo seṭṭho janetasmiṁ, ",
+    "sn6.11:2.2": "ye gottapaṭisārino; ",
+    "sn6.11:2.3": "Vijjācaraṇasampanno, ",
+    "sn6.11:2.4": "so seṭṭho devamānuse”ti. ",
+    "sn6.11:3.1": "Idamavoca brahmā sanaṅkumāro. ",
+    "sn6.11:3.2": "Samanuñño satthā ahosi. ",
+    "sn6.11:3.3": "Atha kho brahmā sanaṅkumāro “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti. "
   },
-  "translation": {
-    "uid": "sn6.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Sanaṅkumāra ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Kokālika ",
-      "uid": "sn6.10"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "About Devadatta ",
-      "uid": "sn6.12"
-    }
+  "translation_text": {
+    "sn6.11:0.1": "Linked Discourses 6.11 ",
+    "sn6.11:0.2": "Chapter Two ",
+    "sn6.11:0.3": "With Sanaṅkumāra ",
+    "sn6.11:1.1": "So I have heard. ",
+    "sn6.11:1.2": "At one time the Buddha was staying near Rājagaha, on the bank of the Serpentine river. ",
+    "sn6.11:1.3": "Then, late at night, the glorious divinity Sanaṅkumāra, lighting up the entire Serpentine riverbank, went up to the Buddha, bowed, stood to one side, ",
+    "sn6.11:1.4": "and spoke this verse in the Buddha’s presence: ",
+    "sn6.11:2.1": "“The aristocrat is best among people ",
+    "sn6.11:2.2": "who take clan as the standard. ",
+    "sn6.11:2.3": "But one accomplished in knowledge and conduct ",
+    "sn6.11:2.4": "is best among gods and humans.” ",
+    "sn6.11:3.1": "That’s what the divinity Sanaṅkumāra said, ",
+    "sn6.11:3.2": "and the teacher approved. ",
+    "sn6.11:3.3": "Then the divinity Sanaṅkumāra, knowing that the teacher approved, bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 6.11",
-    "volpages": "PTS (1st ed) SN i 153",
-    "alt_volpages": " PTS (2nd ed) 1.332",
-    "uid": "sn6.11",
-    "blurb": "Brahmā Sanaṅkumāra appears to the Buddha and asserts that the aristocrat or khattiya is the best caste, but the Buddha is the best of people.",
-    "difficulty": null,
-    "original_title": "Sanaṅkumārasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Sanaṅkumāra ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn6.11_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Sanaṅkumāra ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn6.11_translation-en-sujato",
-        "segmented": true,
-        "title": "With Sanaṅkumāra ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn6.11_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn6.11_translation-ru-sv",
-        "segmented": true,
-        "title": "Сананкумара ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn6.11_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Sanaṅkumāra ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn6.11_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn6.11_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn6.11_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn6.11_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn6.11_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn6.11_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn6.11_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2015",
-        "id": "no_sn6.11_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn6.11_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn6.11_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn6.11_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn6.11_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn6.11_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn6.11_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 6,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj13.276, dr15.212, ms12S1_1092, msdiv182, sya15.225, vri23.180,ms12S1_1093, pts-vp-pli2ed1.332,cck15.206, ms12S1_1094",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn6.11:1.1": "bj13.276, dr15.212, ms12S1_1092, msdiv182, sya15.225, vri23.180",
+    "sn6.11:2.1": "ms12S1_1093, pts-vp-pli2ed1.332",
+    "sn6.11:3.1": "cck15.206, ms12S1_1094"
   },
-  "bilara_root_text": {
-    "uid": "sn6.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sanaṅkumārasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn6.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Sanaṅkumāra ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn6.11:0.1",
+    "sn6.11:0.2",
+    "sn6.11:0.3",
+    "sn6.11:1.1",
+    "sn6.11:1.2",
+    "sn6.11:1.3",
+    "sn6.11:1.4",
+    "sn6.11:2.1",
+    "sn6.11:2.2",
+    "sn6.11:2.3",
+    "sn6.11:2.4",
+    "sn6.11:3.1",
+    "sn6.11:3.2",
+    "sn6.11:3.3"
+  ]
 }

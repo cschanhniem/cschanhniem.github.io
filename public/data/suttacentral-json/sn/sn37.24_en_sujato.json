@@ -1,297 +1,79 @@
 {
+  "html_text": {
+    "sn37.24:0.1": "<article id='sn37.24'><header><ul><li class='division'>{}</li>",
+    "sn37.24:0.2": "<li>{}</li></ul>",
+    "sn37.24:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn37.24:1.1": "<p>{}",
+    "sn37.24:1.2": "{}",
+    "sn37.24:1.3": "{}",
+    "sn37.24:1.4": "{}</p>",
+    "sn37.24:1.5": "<p class='endsutta'>{}</p>",
+    "sn37.24:1.6": "<p class='endvagga'>{}</p>",
+    "sn37.24:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn37.24:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn37.24:2.2": "<span class='verse-line'>{}</span>",
+    "sn37.24:2.3": "<span class='verse-line'>{}</span>",
+    "sn37.24:2.4": "<span class='verse-line'>{}</span>",
+    "sn37.24:2.5": "<span class='verse-line'>{}</span>",
+    "sn37.24:2.6": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn37.24",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pañcasīlasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Mindful ",
-      "uid": "sn37.23"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Assured ",
-      "uid": "sn37.25"
-    }
+    "sn37.24:0.1": "Saṁyutta Nikāya 37.24 ",
+    "sn37.24:0.2": "2. Dutiyapeyyālavagga ",
+    "sn37.24:0.3": "Pañcasīlasutta ",
+    "sn37.24:1.1": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. ",
+    "sn37.24:1.2": "Katamehi pañcahi? ",
+    "sn37.24:1.3": "Pāṇātipātā paṭivirato ca hoti, adinnādānā paṭivirato ca hoti, kāmesumicchācārā paṭivirato ca hoti, musāvādā paṭivirato ca hoti, surāmerayamajjappamādaṭṭhānā paṭivirato ca hoti—",
+    "sn37.24:1.4": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti. ",
+    "sn37.24:1.5": "Dasamaṁ. ",
+    "sn37.24:1.6": "Dutiyapeyyālavaggo. ",
+    "sn37.24:2.0": "Tassuddānaṁ ",
+    "sn37.24:2.1": "Dutiye ca akkodhano, ",
+    "sn37.24:2.2": "anupanāhī anissukī; ",
+    "sn37.24:2.3": "Amaccharī anaticārī, ",
+    "sn37.24:2.4": "sīlavā ca bahussuto; ",
+    "sn37.24:2.5": "Vīriyaṁ sati sīlañca, ",
+    "sn37.24:2.6": "sukkapakkhe pakāsito. "
   },
-  "translation": {
-    "uid": "sn37.24",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Five Precepts ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Mindful ",
-      "uid": "sn37.23"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Assured ",
-      "uid": "sn37.25"
-    }
+  "translation_text": {
+    "sn37.24:0.1": "Linked Discourses 37.24 ",
+    "sn37.24:0.2": "2. Abbreviated Texts ",
+    "sn37.24:0.3": "Five Precepts ",
+    "sn37.24:1.1": "“Anuruddha, when ladies have five qualities, when their body breaks up, after death, they are reborn in a good place, a heavenly realm. ",
+    "sn37.24:1.2": "What five? ",
+    "sn37.24:1.3": "They don’t kill living creatures, steal, commit sexual misconduct, lie, or consume beer, wine, and liquor intoxicants. ",
+    "sn37.24:1.4": "When ladies possess these five qualities, when their body breaks up, after death, they are reborn in a good place, a heavenly realm.” ",
+    "sn37.24:1.5": "",
+    "sn37.24:1.6": "",
+    "sn37.24:2.1": "",
+    "sn37.24:2.2": "",
+    "sn37.24:2.3": "",
+    "sn37.24:2.4": "",
+    "sn37.24:2.5": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 37.24",
-    "volpages": "PTS SN iv 245",
-    "alt_volpages": null,
-    "uid": "sn37.24",
-    "blurb": "A woman who keeps the five precepts has a good rebirth.",
-    "difficulty": null,
-    "original_title": "Pañcasīlasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Five Precepts ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn37.24_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Fünf Tugendregeln ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn37.24_translation-en-sujato",
-        "segmented": true,
-        "title": "Five Precepts ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn37.24_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn37.24_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn37.24_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn37.24_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn37.24_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn37.24_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn37.24_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn37.24_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn37.24_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn37.24_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn37.24_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn37.24_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S4_1293, msdiv303,cck18.302, dr18.300, ms13S4_1297",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn37.24:2.1": "ca → anuruddho (bj, sya-all, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn37.24",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Pañcasīlasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn37.24:1.1": "ms13S4_1293, msdiv303",
+    "sn37.24:2.1": "cck18.302, dr18.300, ms13S4_1297"
   },
-  "bilara_translated_text": {
-    "uid": "sn37.24",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Five Precepts ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn37.24:0.1",
+    "sn37.24:0.2",
+    "sn37.24:0.3",
+    "sn37.24:1.1",
+    "sn37.24:1.2",
+    "sn37.24:1.3",
+    "sn37.24:1.4",
+    "sn37.24:1.5",
+    "sn37.24:1.6",
+    "sn37.24:2.0",
+    "sn37.24:2.1",
+    "sn37.24:2.2",
+    "sn37.24:2.3",
+    "sn37.24:2.4",
+    "sn37.24:2.5",
+    "sn37.24:2.6"
+  ]
 }

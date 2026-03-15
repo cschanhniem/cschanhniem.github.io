@@ -1,297 +1,48 @@
 {
+  "html_text": {
+    "sn24.16:0.1": "<article id='sn24.16'><header><ul><li class='division'>{}</li>",
+    "sn24.16:0.2": "<li>{}</li></ul>",
+    "sn24.16:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn24.16:1.1": "<p>{}</p>",
+    "sn24.16:1.2": "<p>{}",
+    "sn24.16:1.3": "{}</p>",
+    "sn24.16:1.4": "<p>{}",
+    "sn24.16:1.5": "{}</p>",
+    "sn24.16:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn24.16",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nahotitathāgatosutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Realized One Still Exists ",
-      "uid": "sn24.15"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Realized One Both Still Exists and No Longer Exists ",
-      "uid": "sn24.17"
-    }
+    "sn24.16:0.1": "Saṁyutta Nikāya 24.16 ",
+    "sn24.16:0.2": "1. Sotāpattivagga ",
+    "sn24.16:0.3": "Nahotitathāgatosutta ",
+    "sn24.16:1.1": "Sāvatthinidānaṁ. ",
+    "sn24.16:1.2": "“Kismiṁ nu kho, bhikkhave, sati, kiṁ upādāya, kiṁ abhinivissa evaṁ diṭṭhi uppajjati: ",
+    "sn24.16:1.3": "‘na hoti tathāgato paraṁ maraṇā’”ti? ",
+    "sn24.16:1.4": "“Bhagavaṁmūlakā no, bhante, dhammā …pe… ",
+    "sn24.16:1.5": "niyato sambodhiparāyano”ti. ",
+    "sn24.16:1.6": "Soḷasamaṁ. "
   },
-  "translation": {
-    "uid": "sn24.16",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Realized One No Longer Exists ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Realized One Still Exists ",
-      "uid": "sn24.15"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Realized One Both Still Exists and No Longer Exists ",
-      "uid": "sn24.17"
-    }
+  "translation_text": {
+    "sn24.16:0.1": "Linked Discourses 24.16 ",
+    "sn24.16:0.2": "1. Stream-Entry ",
+    "sn24.16:0.3": "A Realized One No Longer Exists ",
+    "sn24.16:1.1": "At Sāvatthī. ",
+    "sn24.16:1.2": "“Mendicants, when what exists, because of grasping what and insisting on what, does the view arise: ",
+    "sn24.16:1.3": "‘A realized one no longer exists after death’?” … ",
+    "sn24.16:1.4": "",
+    "sn24.16:1.5": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 24.16",
-    "volpages": "PTS SN iii 215",
-    "alt_volpages": null,
-    "uid": "sn24.16",
-    "blurb": "The view that a realized one no longer exists after death is given up by seeing the aggregates, as well as what is seen, heard, thought, and known, as impermanent.",
-    "difficulty": null,
-    "original_title": "Nahotitathāgatosutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Realized One No Longer Exists ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn24.16_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Klargewordener besteht nicht fort ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn24.16_translation-en-sujato",
-        "segmented": true,
-        "title": "A Realized One No Longer Exists ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn24.16_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn24.16_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn24.16_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn24.16_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn24.16_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn24.16_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn24.16_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn24.16_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn24.16_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn24.16_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn24.16_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn24.16_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.414, ms13S3_967, msdiv221, vri25.204",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn24.16:1.1": "bj15.414, ms13S3_967, msdiv221, vri25.204"
   },
-  "bilara_root_text": {
-    "uid": "sn24.16",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nahotitathāgatosutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn24.16",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Realized One No Longer Exists ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn24.16:0.1",
+    "sn24.16:0.2",
+    "sn24.16:0.3",
+    "sn24.16:1.1",
+    "sn24.16:1.2",
+    "sn24.16:1.3",
+    "sn24.16:1.4",
+    "sn24.16:1.5",
+    "sn24.16:1.6"
+  ]
 }

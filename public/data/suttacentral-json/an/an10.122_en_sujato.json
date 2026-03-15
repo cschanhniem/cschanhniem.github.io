@@ -1,297 +1,68 @@
 {
+  "html_text": {
+    "an10.122:0.1": "<article id='an10.122'><header><ul><li class='division'>{}</li>",
+    "an10.122:0.2": "<li>{}</li></ul>",
+    "an10.122:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an10.122:1.1": "<p>{}",
+    "an10.122:1.2": "{}",
+    "an10.122:1.3": "{}",
+    "an10.122:1.4": "{}</p>",
+    "an10.122:1.5": "<p class='endsutta'>{}</p>",
+    "an10.122:1.6": "<p class='endvagga'>{}</p>",
+    "an10.122:2.0": "<p class='uddana-intro'>{}</p>",
+    "an10.122:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an10.122:2.2": "<span class='verse-line'>{}</span>",
+    "an10.122:2.3": "<span class='verse-line'>{}</span>",
+    "an10.122:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an10.122",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Āsavakkhayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Forerunner ",
-      "uid": "an10.121"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "First ",
-      "uid": "an10.123"
-    }
+    "an10.122:0.1": "Aṅguttara Nikāya 10.122 ",
+    "an10.122:0.2": "12. Paccorohaṇivagga ",
+    "an10.122:0.3": "Āsavakkhayasutta ",
+    "an10.122:1.1": "“Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattanti. ",
+    "an10.122:1.2": "Katame dasa? ",
+    "an10.122:1.3": "Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṁ, sammāvimutti—",
+    "an10.122:1.4": "ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattantī”ti. ",
+    "an10.122:1.5": "Dasamaṁ. ",
+    "an10.122:1.6": "Paccorohaṇivaggo dutiyo. ",
+    "an10.122:2.0": "Tassuddānaṁ ",
+    "an10.122:2.1": "Tayo adhammā ajito, ",
+    "an10.122:2.2": "Saṅgāravo ca orimaṁ; ",
+    "an10.122:2.3": "Dve ceva paccorohaṇī, ",
+    "an10.122:2.4": "Pubbaṅgamaṁ āsavakkhayoti. "
   },
-  "translation": {
-    "uid": "an10.122",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ending of Defilements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Forerunner ",
-      "uid": "an10.121"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "First ",
-      "uid": "an10.123"
-    }
+  "translation_text": {
+    "an10.122:0.1": "Numbered Discourses 10.122 ",
+    "an10.122:0.2": "12. The Ceremony of Descent ",
+    "an10.122:0.3": "The Ending of Defilements ",
+    "an10.122:1.1": "“Mendicants, these ten things, when developed and cultivated, lead to the ending of defilements. ",
+    "an10.122:1.2": "What ten? ",
+    "an10.122:1.3": "Right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right immersion, right knowledge, and right freedom. ",
+    "an10.122:1.4": "These ten things, when developed and cultivated, lead to the ending of defilements.” ",
+    "an10.122:1.5": "",
+    "an10.122:1.6": "",
+    "an10.122:2.1": "",
+    "an10.122:2.2": "",
+    "an10.122:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 10.122",
-    "volpages": "PTS AN v 237",
-    "alt_volpages": null,
-    "uid": "an10.122",
-    "blurb": "The ten path factors lead to the end of the defilements.",
-    "difficulty": null,
-    "original_title": "Āsavakkhayasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Ending of Defilements ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an10.122_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Auflösung der Befleckungen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an10.122_translation-en-sujato",
-        "segmented": true,
-        "title": "The Ending of Defilements ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an10.122_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an10.122_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an10.122_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an10.122_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an10.122_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an10.122_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an10.122_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an10.122_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an10.122_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an10.122_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an10.122_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an10.122_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj23.432, cck24.214, ms17A10_1077, msdiv122, sya24.255, vri40.204,ms17A10_1081, ndp19.294",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an10.122:1.1": "bj23.432, cck24.214, ms17A10_1077, msdiv122, sya24.255, vri40.204",
+    "an10.122:2.1": "ms17A10_1081, ndp19.294"
   },
-  "bilara_root_text": {
-    "uid": "an10.122",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Āsavakkhayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an10.122",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ending of Defilements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an10.122:0.1",
+    "an10.122:0.2",
+    "an10.122:0.3",
+    "an10.122:1.1",
+    "an10.122:1.2",
+    "an10.122:1.3",
+    "an10.122:1.4",
+    "an10.122:1.5",
+    "an10.122:1.6",
+    "an10.122:2.0",
+    "an10.122:2.1",
+    "an10.122:2.2",
+    "an10.122:2.3",
+    "an10.122:2.4"
+  ]
 }

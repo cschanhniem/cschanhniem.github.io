@@ -8,6 +8,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.10",
+    "title": "AN1.10",
+    "collection": "an"
+  },
+  {
     "id": "an1.1",
     "title": "AN1.1",
     "collection": "an"
@@ -58,16 +63,21 @@
     "collection": "an"
   },
   {
-    "id": "an1.110",
-    "title": "AN1.110",
-    "collection": "an"
-  },
-  {
     "id": "an1.11-20",
     "title": "Tịnh Tướng v.v…",
     "paliTitle": "Nīvaraṇappahānavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.110",
+    "title": "AN1.110",
+    "collection": "an"
+  },
+  {
+    "id": "an1.11",
+    "title": "AN1.11",
     "collection": "an"
   },
   {
@@ -234,6 +244,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.140",
+    "title": "AN1.140",
+    "collection": "an"
+  },
+  {
     "id": "an1.14",
     "title": "AN1.14",
     "collection": "an"
@@ -289,6 +304,11 @@
     "paliTitle": "Anāpattivagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.150",
+    "title": "AN1.150",
     "collection": "an"
   },
   {
@@ -405,6 +425,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.170",
+    "title": "AN1.170",
+    "collection": "an"
+  },
+  {
     "id": "an1.17",
     "title": "AN1.17",
     "collection": "an"
@@ -508,6 +533,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.188",
+    "title": "AN1.188",
+    "collection": "an"
+  },
+  {
     "id": "an1.189",
     "title": "AN1.189",
     "collection": "an"
@@ -563,6 +593,11 @@
     "paliTitle": "Dutiyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.198",
+    "title": "AN1.198",
     "collection": "an"
   },
   {
@@ -634,8 +669,8 @@
     "collection": "an"
   },
   {
-    "id": "an1.210",
-    "title": "AN1.210",
+    "id": "an1.209",
+    "title": "AN1.209",
     "collection": "an"
   },
   {
@@ -644,6 +679,16 @@
     "paliTitle": "Akammaniyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.210",
+    "title": "AN1.210",
+    "collection": "an"
+  },
+  {
+    "id": "an1.21",
+    "title": "AN1.21",
     "collection": "an"
   },
   {
@@ -692,6 +737,11 @@
     "paliTitle": "Catutthavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.219",
+    "title": "AN1.219",
     "collection": "an"
   },
   {
@@ -788,6 +838,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.235",
+    "title": "AN1.235",
+    "collection": "an"
+  },
+  {
     "id": "an1.236",
     "title": "AN1.236",
     "collection": "an"
@@ -861,6 +916,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.248",
+    "title": "AN1.248",
+    "collection": "an"
+  },
+  {
     "id": "an1.249",
     "title": "AN1.249",
     "collection": "an"
@@ -916,6 +976,11 @@
     "paliTitle": "Sattamavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.258",
+    "title": "AN1.258",
     "collection": "an"
   },
   {
@@ -977,6 +1042,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.268",
+    "title": "AN1.268",
+    "collection": "an"
+  },
+  {
     "id": "an1.269",
     "title": "AN1.269",
     "collection": "an"
@@ -1035,6 +1105,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.278",
+    "title": "AN1.278",
+    "collection": "an"
+  },
+  {
     "id": "an1.279",
     "title": "AN1.279",
     "collection": "an"
@@ -1088,6 +1163,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.287",
+    "title": "AN1.287",
+    "collection": "an"
+  },
+  {
     "id": "an1.288",
     "title": "AN1.288",
     "collection": "an"
@@ -1138,6 +1218,11 @@
     "paliTitle": "Paṭhamavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.296",
+    "title": "AN1.296",
     "collection": "an"
   },
   {
@@ -1204,6 +1289,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.306",
+    "title": "AN1.306",
+    "collection": "an"
+  },
+  {
     "id": "an1.307",
     "title": "AN1.307",
     "collection": "an"
@@ -1219,16 +1309,21 @@
     "collection": "an"
   },
   {
-    "id": "an1.310",
-    "title": "AN1.310",
-    "collection": "an"
-  },
-  {
     "id": "an1.31-40",
     "title": "Tâm Không Ðiều Phục",
     "paliTitle": "Adantavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.310",
+    "title": "AN1.310",
+    "collection": "an"
+  },
+  {
+    "id": "an1.31",
+    "title": "AN1.31",
     "collection": "an"
   },
   {
@@ -1262,6 +1357,11 @@
     "paliTitle": "Tatiyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.316",
+    "title": "AN1.316",
     "collection": "an"
   },
   {
@@ -1360,6 +1460,11 @@
     "paliTitle": "Catutthavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.333",
+    "title": "AN1.333",
     "collection": "an"
   },
   {
@@ -1611,6 +1716,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.378",
+    "title": "AN1.378",
+    "collection": "an"
+  },
+  {
     "id": "an1.379",
     "title": "AN1.379",
     "collection": "an"
@@ -1704,6 +1814,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.394",
+    "title": "AN1.394",
+    "collection": "an"
+  },
+  {
     "id": "an1.395",
     "title": "AN1.395",
     "collection": "an"
@@ -1789,16 +1904,21 @@
     "collection": "an"
   },
   {
-    "id": "an1.410",
-    "title": "AN1.410",
-    "collection": "an"
-  },
-  {
     "id": "an1.41-50",
     "title": "Tâm Ðặt Sai Hướng v.v…",
     "paliTitle": "Paṇihitaacchavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.410",
+    "title": "AN1.410",
+    "collection": "an"
+  },
+  {
+    "id": "an1.41",
+    "title": "AN1.41",
     "collection": "an"
   },
   {
@@ -2347,16 +2467,21 @@
     "collection": "an"
   },
   {
-    "id": "an1.510",
-    "title": "AN1.510",
-    "collection": "an"
-  },
-  {
     "id": "an1.51-60",
     "title": "Tâm Ðược Tu Tập",
     "paliTitle": "Accharāsaṅghātavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.510",
+    "title": "AN1.510",
+    "collection": "an"
+  },
+  {
+    "id": "an1.51",
+    "title": "AN1.51",
     "collection": "an"
   },
   {
@@ -2718,6 +2843,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.575",
+    "title": "AN1.575",
+    "collection": "an"
+  },
+  {
     "id": "an1.576",
     "title": "AN1.576",
     "collection": "an"
@@ -2908,16 +3038,21 @@
     "collection": "an"
   },
   {
-    "id": "an1.610",
-    "title": "AN1.610",
-    "collection": "an"
-  },
-  {
     "id": "an1.61-70",
     "title": "Tinh Cần Tinh Tấn",
     "paliTitle": "Vīriyārambhādivagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.610",
+    "title": "AN1.610",
+    "collection": "an"
+  },
+  {
+    "id": "an1.61",
+    "title": "AN1.61",
     "collection": "an"
   },
   {
@@ -2951,6 +3086,11 @@
     "paliTitle": "Amatavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.616",
+    "title": "AN1.616",
     "collection": "an"
   },
   {
@@ -3067,6 +3207,11 @@
     "collection": "an"
   },
   {
+    "id": "an1.71",
+    "title": "AN1.71",
+    "collection": "an"
+  },
+  {
     "id": "an1.72",
     "title": "AN1.72",
     "collection": "an"
@@ -3127,6 +3272,11 @@
     "paliTitle": "Pamādādivagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an1.82",
+    "title": "AN1.82",
     "collection": "an"
   },
   {
@@ -3236,6 +3386,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.10",
+    "title": "AN2.10",
+    "collection": "an"
+  },
+  {
     "id": "an2.1",
     "title": "AN2.1",
     "collection": "an"
@@ -3286,16 +3441,21 @@
     "collection": "an"
   },
   {
-    "id": "an2.110",
-    "title": "AN2.110",
-    "collection": "an"
-  },
-  {
     "id": "an2.11-20",
     "title": "Các Sức Mạnh",
     "paliTitle": "Adhikaraṇavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.110",
+    "title": "AN2.110",
+    "collection": "an"
+  },
+  {
+    "id": "an2.11",
+    "title": "AN2.11",
     "collection": "an"
   },
   {
@@ -3339,6 +3499,11 @@
     "paliTitle": "Āsāduppajahavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.118",
+    "title": "AN2.118",
     "collection": "an"
   },
   {
@@ -3410,6 +3575,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.130",
+    "title": "AN2.130",
+    "collection": "an"
+  },
+  {
     "id": "an2.13",
     "title": "AN2.13",
     "collection": "an"
@@ -3478,6 +3648,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.141",
+    "title": "AN2.141",
+    "collection": "an"
+  },
+  {
     "id": "an2.142",
     "title": "AN2.142",
     "collection": "an"
@@ -3533,6 +3708,11 @@
     "paliTitle": "Santhāravagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.151",
+    "title": "AN2.151",
     "collection": "an"
   },
   {
@@ -3601,6 +3781,11 @@
     "paliTitle": "Samāpattivagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.163",
+    "title": "AN2.163",
     "collection": "an"
   },
   {
@@ -3694,6 +3879,11 @@
     "paliTitle": "Kodhapeyyālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.180",
+    "title": "AN2.180",
     "collection": "an"
   },
   {
@@ -3862,16 +4052,21 @@
     "collection": "an"
   },
   {
-    "id": "an2.210",
-    "title": "AN2.210",
-    "collection": "an"
-  },
-  {
     "id": "an2.21-31",
     "title": "Bālavagga",
     "paliTitle": "Bālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.210",
+    "title": "AN2.210",
+    "collection": "an"
+  },
+  {
+    "id": "an2.21",
+    "title": "AN2.21",
     "collection": "an"
   },
   {
@@ -3980,6 +4175,11 @@
     "paliTitle": "Akusalapeyyālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.230",
+    "title": "AN2.230",
     "collection": "an"
   },
   {
@@ -4261,6 +4461,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.280",
+    "title": "AN2.280",
+    "collection": "an"
+  },
+  {
     "id": "an2.28",
     "title": "AN2.28",
     "collection": "an"
@@ -4434,6 +4639,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.310",
+    "title": "AN2.310",
+    "collection": "an"
+  },
+  {
     "id": "an2.31",
     "title": "AN2.31",
     "collection": "an"
@@ -4484,16 +4694,21 @@
     "collection": "an"
   },
   {
-    "id": "an2.320",
-    "title": "AN2.320",
-    "collection": "an"
-  },
-  {
     "id": "an2.32-41",
     "title": "Ðất",
     "paliTitle": "Samacittavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.320",
+    "title": "AN2.320",
+    "collection": "an"
+  },
+  {
+    "id": "an2.32",
+    "title": "AN2.32",
     "collection": "an"
   },
   {
@@ -5042,16 +5257,21 @@
     "collection": "an"
   },
   {
-    "id": "an2.420",
-    "title": "AN2.420",
-    "collection": "an"
-  },
-  {
     "id": "an2.42-51",
     "title": "Parisavagga",
     "paliTitle": "Parisavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.420",
+    "title": "AN2.420",
+    "collection": "an"
+  },
+  {
+    "id": "an2.42",
+    "title": "AN2.42",
     "collection": "an"
   },
   {
@@ -5408,6 +5628,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.52",
+    "title": "AN2.52",
+    "collection": "an"
+  },
+  {
     "id": "an2.53",
     "title": "AN2.53",
     "collection": "an"
@@ -5473,6 +5698,11 @@
     "paliTitle": "Sukhavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.64",
+    "title": "AN2.64",
     "collection": "an"
   },
   {
@@ -5549,6 +5779,11 @@
     "collection": "an"
   },
   {
+    "id": "an2.77",
+    "title": "AN2.77",
+    "collection": "an"
+  },
+  {
     "id": "an2.78",
     "title": "AN2.78",
     "collection": "an"
@@ -5604,6 +5839,11 @@
     "paliTitle": "Dhammavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an2.87",
+    "title": "AN2.87",
     "collection": "an"
   },
   {
@@ -6192,6 +6432,11 @@
     "collection": "an"
   },
   {
+    "id": "an3.156",
+    "title": "AN3.156",
+    "collection": "an"
+  },
+  {
     "id": "an3.157",
     "title": "AN3.157",
     "collection": "an"
@@ -6235,6 +6480,11 @@
     "paliTitle": "Kammapathapeyyāla",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an3.163",
+    "title": "AN3.163",
     "collection": "an"
   },
   {
@@ -6354,6 +6604,11 @@
     "paliTitle": "Rāgapeyyāla",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an3.183",
+    "title": "AN3.183",
     "collection": "an"
   },
   {
@@ -9498,6 +9753,11 @@
     "collection": "an"
   },
   {
+    "id": "an4.277",
+    "title": "AN4.277",
+    "collection": "an"
+  },
+  {
     "id": "an4.278",
     "title": "AN4.278",
     "collection": "an"
@@ -9665,6 +9925,11 @@
     "paliTitle": "Dosaabhiññādisutta",
     "blurb": "Develop complete understanding, etc., of hate, etc. ",
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an4.304",
+    "title": "AN4.304",
     "collection": "an"
   },
   {
@@ -14831,6 +15096,11 @@
     "collection": "an"
   },
   {
+    "id": "an5.257",
+    "title": "AN5.257",
+    "collection": "an"
+  },
+  {
     "id": "an5.258",
     "title": "AN5.258",
     "collection": "an"
@@ -14885,6 +15155,11 @@
     "collection": "an"
   },
   {
+    "id": "an5.265",
+    "title": "AN5.265",
+    "collection": "an"
+  },
+  {
     "id": "an5.266",
     "title": "AN5.266",
     "collection": "an"
@@ -14936,6 +15211,11 @@
     "paliTitle": "Senāsanapaññāpakasuttādi",
     "blurb": "Qualities of one who is appointed to assign lodgings, and other monastery responsibilities.",
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an5.273",
+    "title": "AN5.273",
     "collection": "an"
   },
   {
@@ -15023,6 +15303,11 @@
     "collection": "an"
   },
   {
+    "id": "an5.287",
+    "title": "AN5.287",
+    "collection": "an"
+  },
+  {
     "id": "an5.288",
     "title": "AN5.288",
     "collection": "an"
@@ -15069,6 +15354,11 @@
     "paliTitle": "Nigaṇṭhasuttādi",
     "blurb": "Why various ascetics are cast down to hell or raised up to heaven.",
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an5.294",
+    "title": "AN5.294",
     "collection": "an"
   },
   {
@@ -19428,6 +19718,11 @@
     "collection": "an"
   },
   {
+    "id": "an6.120",
+    "title": "AN6.120",
+    "collection": "an"
+  },
+  {
     "id": "an6.12",
     "title": "Cần Phải Nhớ (2)",
     "paliTitle": "Dutiyasāraṇīyasutta",
@@ -19576,6 +19871,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an6.143",
+    "title": "AN6.143",
     "collection": "an"
   },
   {
@@ -19730,6 +20030,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an6.170",
+    "title": "AN6.170",
     "collection": "an"
   },
   {
@@ -26542,6 +26847,11 @@
     "collection": "an"
   },
   {
+    "id": "an7.618",
+    "title": "AN7.618",
+    "collection": "an"
+  },
+  {
     "id": "an7.619",
     "title": "AN7.619",
     "collection": "an"
@@ -28928,6 +29238,11 @@
     "collection": "an"
   },
   {
+    "id": "an8.121",
+    "title": "AN8.121",
+    "collection": "an"
+  },
+  {
     "id": "an8.122",
     "title": "AN8.122",
     "collection": "an"
@@ -29079,6 +29394,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an8.148",
+    "title": "AN8.148",
     "collection": "an"
   },
   {
@@ -32294,6 +32614,11 @@
     "collection": "an"
   },
   {
+    "id": "an9.113",
+    "title": "AN9.113",
+    "collection": "an"
+  },
+  {
     "id": "an9.114",
     "title": "AN9.114",
     "collection": "an"
@@ -34441,6 +34766,11 @@
     "collection": "an"
   },
   {
+    "id": "an9.74",
+    "title": "AN9.74",
+    "collection": "an"
+  },
+  {
     "id": "an9.75",
     "title": "AN9.75",
     "collection": "an"
@@ -34505,6 +34835,11 @@
     "paliTitle": "Nīvaraṇasuttādi",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an9.84",
+    "title": "AN9.84",
     "collection": "an"
   },
   {
@@ -35120,6 +35455,11 @@
     "collection": "an"
   },
   {
+    "id": "an10.156",
+    "title": "AN10.156",
+    "collection": "an"
+  },
+  {
     "id": "an10.157",
     "title": "AN10.157",
     "collection": "an"
@@ -35466,6 +35806,11 @@
     "collection": "an"
   },
   {
+    "id": "an10.199",
+    "title": "AN10.199",
+    "collection": "an"
+  },
+  {
     "id": "an10.200",
     "title": "AN10.200",
     "collection": "an"
@@ -35673,6 +36018,11 @@
     "collection": "an"
   },
   {
+    "id": "an10.225",
+    "title": "AN10.225",
+    "collection": "an"
+  },
+  {
     "id": "an10.226",
     "title": "AN10.226",
     "collection": "an"
@@ -35693,6 +36043,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an10.229",
+    "title": "AN10.229",
     "collection": "an"
   },
   {
@@ -35724,6 +36079,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an10.233",
+    "title": "AN10.233",
     "collection": "an"
   },
   {
@@ -35771,6 +36131,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an10.240",
+    "title": "AN10.240",
     "collection": "an"
   },
   {
@@ -35933,6 +36298,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an10.267",
+    "title": "AN10.267",
     "collection": "an"
   },
   {
@@ -39843,6 +40213,11 @@
     "collection": "an"
   },
   {
+    "id": "an11.118",
+    "title": "AN11.118",
+    "collection": "an"
+  },
+  {
     "id": "an11.119",
     "title": "AN11.119",
     "collection": "an"
@@ -40123,6 +40498,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.166",
+    "title": "AN11.166",
     "collection": "an"
   },
   {
@@ -40417,6 +40797,11 @@
     "collection": "an"
   },
   {
+    "id": "an11.214",
+    "title": "AN11.214",
+    "collection": "an"
+  },
+  {
     "id": "an11.215",
     "title": "AN11.215",
     "collection": "an"
@@ -40442,16 +40827,21 @@
     "collection": "an"
   },
   {
-    "id": "an11.220",
-    "title": "AN11.220",
-    "collection": "an"
-  },
-  {
     "id": "an11.22-29",
     "title": "Người Chăn Bò",
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.220",
+    "title": "AN11.220",
+    "collection": "an"
+  },
+  {
+    "id": "an11.22",
+    "title": "AN11.22",
     "collection": "an"
   },
   {
@@ -40688,6 +41078,11 @@
     "collection": "an"
   },
   {
+    "id": "an11.262",
+    "title": "AN11.262",
+    "collection": "an"
+  },
+  {
     "id": "an11.263",
     "title": "AN11.263",
     "collection": "an"
@@ -40888,16 +41283,21 @@
     "collection": "an"
   },
   {
-    "id": "an11.300",
-    "title": "AN11.300",
-    "collection": "an"
-  },
-  {
     "id": "an11.30-69",
     "title": "",
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.300",
+    "title": "AN11.300",
+    "collection": "an"
+  },
+  {
+    "id": "an11.30",
+    "title": "AN11.30",
     "collection": "an"
   },
   {
@@ -40959,6 +41359,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.310",
+    "title": "AN11.310",
     "collection": "an"
   },
   {
@@ -41227,6 +41632,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.358",
+    "title": "AN11.358",
     "collection": "an"
   },
   {
@@ -41506,6 +41916,11 @@
     "collection": "an"
   },
   {
+    "id": "an11.406",
+    "title": "AN11.406",
+    "collection": "an"
+  },
+  {
     "id": "an11.407",
     "title": "AN11.407",
     "collection": "an"
@@ -41771,6 +42186,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.454",
+    "title": "AN11.454",
     "collection": "an"
   },
   {
@@ -42047,6 +42467,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.502",
+    "title": "AN11.502",
     "collection": "an"
   },
   {
@@ -44738,6 +45163,11 @@
     "paliTitle": "",
     "blurb": null,
     "difficulty": null,
+    "collection": "an"
+  },
+  {
+    "id": "an11.983",
+    "title": "AN11.983",
     "collection": "an"
   },
   {
@@ -52776,6 +53206,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn12.72",
+    "title": "SN12.72",
+    "collection": "sn"
+  },
+  {
     "id": "sn12.73",
     "title": "SN12.73",
     "collection": "sn"
@@ -52842,6 +53277,11 @@
     "paliTitle": "Dutiyasatthusuttādidasaka",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn12.83",
+    "title": "SN12.83",
     "collection": "sn"
   },
   {
@@ -53645,6 +54085,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn17.13",
+    "title": "SN17.13",
+    "collection": "sn"
+  },
+  {
     "id": "sn17.14",
     "title": "SN17.14",
     "collection": "sn"
@@ -53840,6 +54285,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn17.38",
+    "title": "SN17.38",
+    "collection": "sn"
+  },
+  {
     "id": "sn17.39",
     "title": "SN17.39",
     "collection": "sn"
@@ -53942,6 +54392,11 @@
     "paliTitle": "Rūpādisuttanavaka",
     "blurb": "The Buddha teaches Rāhula about the senses, aggregates, and elements in light of the three characteristics.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn18.12",
+    "title": "SN18.12",
     "collection": "sn"
   },
   {
@@ -55825,6 +56280,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn23.23",
+    "title": "SN23.23",
+    "collection": "sn"
+  },
+  {
     "id": "sn23.24",
     "title": "SN23.24",
     "collection": "sn"
@@ -55896,6 +56356,11 @@
     "paliTitle": "Mārādisuttaekādasaka",
     "blurb": "The Buddha tells Rādha that he should abandon desire, explaining in terms of the various teachings in SN 23.11–21.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn23.35",
+    "title": "SN23.35",
     "collection": "sn"
   },
   {
@@ -56101,6 +56566,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn24.20",
+    "title": "SN24.20",
+    "collection": "sn"
+  },
+  {
     "id": "sn24.2",
     "title": "Cái Này Là Của Tôi",
     "paliTitle": "Etaṁmamasutta",
@@ -56288,6 +56758,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn24.46",
+    "title": "SN24.46",
+    "collection": "sn"
+  },
+  {
     "id": "sn24.47",
     "title": "SN24.47",
     "collection": "sn"
@@ -56448,6 +56923,11 @@
     "paliTitle": "Etaṁmamādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn24.72",
+    "title": "SN24.72",
     "collection": "sn"
   },
   {
@@ -56934,6 +57414,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn29.11",
+    "title": "SN29.11",
+    "collection": "sn"
+  },
+  {
     "id": "sn29.12",
     "title": "SN29.12",
     "collection": "sn"
@@ -56992,6 +57477,11 @@
     "paliTitle": "Jalābujādidānūpakārasuttattiṁsaka",
     "blurb": "One becomes a womb born, moisture born, or spontaneously born dragon due to ambivalent deeds in a past life, the appropriate aspiration, and giving various gifts",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn29.21",
+    "title": "SN29.21",
     "collection": "sn"
   },
   {
@@ -57242,6 +57732,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn30.17",
+    "title": "SN30.17",
+    "collection": "sn"
+  },
+  {
     "id": "sn30.18",
     "title": "SN30.18",
     "collection": "sn"
@@ -57368,16 +57863,21 @@
     "collection": "sn"
   },
   {
-    "id": "sn30.40",
-    "title": "SN30.40",
-    "collection": "sn"
-  },
-  {
     "id": "sn30.4-6",
     "title": "Làm Hại Hạnh",
     "paliTitle": "Dutiyādidvayakārīsuttattika",
     "blurb": "One becomes a womb born, moisture born, or spontaneously born phoenix due to ambivalent deeds in a past life and the appropriate aspiration.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn30.40",
+    "title": "SN30.40",
+    "collection": "sn"
+  },
+  {
+    "id": "sn30.4",
+    "title": "SN30.4",
     "collection": "sn"
   },
   {
@@ -57527,6 +58027,11 @@
     "paliTitle": "Mūlagandhadānūpakārasuttadasaka",
     "blurb": "Someone of good conduct and appropriate aspiration may be reborn as a god living in fragrant roots if they give various gifts.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn31.13",
+    "title": "SN31.13",
     "collection": "sn"
   },
   {
@@ -58048,6 +58553,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn32.13",
+    "title": "SN32.13",
+    "collection": "sn"
+  },
+  {
     "id": "sn32.14",
     "title": "SN32.14",
     "collection": "sn"
@@ -58350,6 +58860,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn33.11",
+    "title": "SN33.11",
+    "collection": "sn"
+  },
+  {
     "id": "sn33.12",
     "title": "SN33.12",
     "collection": "sn"
@@ -58375,6 +58890,11 @@
     "paliTitle": "Rūpaananubodhādisuttapañcaka",
     "blurb": "The wanderer Vacchagotta asks the Buddha why the various speculative views come to be. The Buddha replies that it is because of not comprehending the five aggregates.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn33.16",
+    "title": "SN33.16",
     "collection": "sn"
   },
   {
@@ -58414,6 +58934,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn33.21",
+    "title": "SN33.21",
+    "collection": "sn"
+  },
+  {
     "id": "sn33.22",
     "title": "SN33.22",
     "collection": "sn"
@@ -58439,6 +58964,11 @@
     "paliTitle": "Rūpaasallakkhaṇādisuttapañcaka",
     "blurb": "The wanderer Vacchagotta asks the Buddha why the various speculative views come to be. The Buddha replies that it is because of not discerning the five aggregates.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn33.26",
+    "title": "SN33.26",
     "collection": "sn"
   },
   {
@@ -58478,6 +59008,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn33.31",
+    "title": "SN33.31",
+    "collection": "sn"
+  },
+  {
     "id": "sn33.32",
     "title": "SN33.32",
     "collection": "sn"
@@ -58503,6 +59038,11 @@
     "paliTitle": "Rūpaappaccupalakkhaṇādisuttapañcaka",
     "blurb": "The wanderer Vacchagotta asks the Buddha why the various speculative views come to be. The Buddha replies that it is because of not differntiating the five aggregates.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn33.36",
+    "title": "SN33.36",
     "collection": "sn"
   },
   {
@@ -58542,6 +59082,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn33.41",
+    "title": "SN33.41",
+    "collection": "sn"
+  },
+  {
     "id": "sn33.42",
     "title": "SN33.42",
     "collection": "sn"
@@ -58567,6 +59112,11 @@
     "paliTitle": "Rūpaappaccupekkhaṇādisuttapañcaka",
     "blurb": "The wanderer Vacchagotta asks the Buddha why the various speculative views come to be. The Buddha replies that it is because of not closely examining the five aggregates.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn33.46",
+    "title": "SN33.46",
     "collection": "sn"
   },
   {
@@ -58603,6 +59153,11 @@
     "paliTitle": "Rūpaappaccakkhakammādisuttacatukka",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn33.51",
+    "title": "SN33.51",
     "collection": "sn"
   },
   {
@@ -58753,6 +59308,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn34.20",
+    "title": "SN34.20",
+    "collection": "sn"
+  },
+  {
     "id": "sn34.2",
     "title": "Chỉ Trú",
     "paliTitle": "Samādhimūlakaṭhitisutta",
@@ -58804,6 +59364,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn34.28",
+    "title": "SN34.28",
+    "collection": "sn"
+  },
+  {
     "id": "sn34.29",
     "title": "SN34.29",
     "collection": "sn"
@@ -58850,6 +59415,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn34.35",
+    "title": "SN34.35",
+    "collection": "sn"
+  },
+  {
     "id": "sn34.36",
     "title": "SN34.36",
     "collection": "sn"
@@ -58891,6 +59461,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn34.41",
+    "title": "SN34.41",
+    "collection": "sn"
+  },
+  {
     "id": "sn34.42",
     "title": "SN34.42",
     "collection": "sn"
@@ -58919,6 +59494,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn34.46",
+    "title": "SN34.46",
+    "collection": "sn"
+  },
+  {
     "id": "sn34.47",
     "title": "SN34.47",
     "collection": "sn"
@@ -58939,6 +59519,11 @@
     "paliTitle": "Abhinīhāramūlakasakkaccasuttāditika",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn34.50",
+    "title": "SN34.50",
     "collection": "sn"
   },
   {
@@ -58965,6 +59550,11 @@
     "paliTitle": "Sakkaccamūlakasātaccakārīsuttadukādi",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn34.53",
+    "title": "SN34.53",
     "collection": "sn"
   },
   {
@@ -59661,6 +60251,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.171",
+    "title": "SN35.171",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.172",
     "title": "SN35.172",
     "collection": "sn"
@@ -59676,6 +60271,11 @@
     "paliTitle": "Anattachandādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.174",
+    "title": "SN35.174",
     "collection": "sn"
   },
   {
@@ -59697,6 +60297,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.177",
+    "title": "SN35.177",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.178",
     "title": "SN35.178",
     "collection": "sn"
@@ -59712,6 +60317,11 @@
     "paliTitle": "Bāhiradukkhachandādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.180",
+    "title": "SN35.180",
     "collection": "sn"
   },
   {
@@ -59738,6 +60348,11 @@
     "paliTitle": "Bāhirānattachandādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.183",
+    "title": "SN35.183",
     "collection": "sn"
   },
   {
@@ -59783,6 +60398,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.189",
+    "title": "SN35.189",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.190",
     "title": "SN35.190",
     "collection": "sn"
@@ -59809,6 +60429,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.192",
+    "title": "SN35.192",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.193",
     "title": "SN35.193",
     "collection": "sn"
@@ -59827,6 +60452,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.195",
+    "title": "SN35.195",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.196",
     "title": "SN35.196",
     "collection": "sn"
@@ -59842,6 +60472,11 @@
     "paliTitle": "Bāhirātītādidukkhasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.198",
+    "title": "SN35.198",
     "collection": "sn"
   },
   {
@@ -59876,6 +60511,11 @@
     "paliTitle": "Bāhirātītādianattasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.201",
+    "title": "SN35.201",
     "collection": "sn"
   },
   {
@@ -59921,6 +60561,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.207",
+    "title": "SN35.207",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.208",
     "title": "SN35.208",
     "collection": "sn"
@@ -59936,6 +60581,11 @@
     "paliTitle": "Ajjhattātītādiyadanattasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.210",
+    "title": "SN35.210",
     "collection": "sn"
   },
   {
@@ -59965,6 +60615,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.213",
+    "title": "SN35.213",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.214",
     "title": "SN35.214",
     "collection": "sn"
@@ -59983,6 +60638,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.216",
+    "title": "SN35.216",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.217",
     "title": "SN35.217",
     "collection": "sn"
@@ -59998,6 +60658,11 @@
     "paliTitle": "Bāhirātītādiyadanattasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.219",
+    "title": "SN35.219",
     "collection": "sn"
   },
   {
@@ -60331,6 +60996,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn35.33",
+    "title": "SN35.33",
+    "collection": "sn"
+  },
+  {
     "id": "sn35.34",
     "title": "SN35.34",
     "collection": "sn"
@@ -60389,6 +61059,11 @@
     "paliTitle": "Aniccādisuttanavaka",
     "blurb": "The “all” consisting of the six interior and exterior sense fields is impermanent, etc.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn35.43",
+    "title": "SN35.43",
     "collection": "sn"
   },
   {
@@ -61512,6 +62187,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn39.10",
+    "title": "SN39.10",
+    "collection": "sn"
+  },
+  {
     "id": "sn39.1",
     "title": "SN39.1",
     "collection": "sn"
@@ -61910,6 +62590,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn43.14",
+    "title": "SN43.14",
+    "collection": "sn"
+  },
+  {
     "id": "sn43.15",
     "title": "SN43.15",
     "collection": "sn"
@@ -62257,6 +62942,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.104",
+    "title": "SN45.104",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.105",
     "title": "SN45.105",
     "collection": "sn"
@@ -62290,6 +62980,11 @@
     "paliTitle": "Dutiyādisamuddaninnasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.110",
+    "title": "SN45.110",
     "collection": "sn"
   },
   {
@@ -62337,6 +63032,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.116",
+    "title": "SN45.116",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.117",
     "title": "SN45.117",
     "collection": "sn"
@@ -62381,6 +63081,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.122",
+    "title": "SN45.122",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.123",
     "title": "SN45.123",
     "collection": "sn"
@@ -62414,6 +63119,11 @@
     "paliTitle": "Dutiyādipācīnaninnasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.128",
+    "title": "SN45.128",
     "collection": "sn"
   },
   {
@@ -62458,6 +63168,11 @@
     "paliTitle": "Dutiyādisamuddaninnasutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.134",
+    "title": "SN45.134",
     "collection": "sn"
   },
   {
@@ -62513,6 +63228,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.141",
+    "title": "SN45.141",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.142",
     "title": "SN45.142",
     "collection": "sn"
@@ -62538,6 +63258,11 @@
     "paliTitle": "Candimādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.146",
+    "title": "SN45.146",
     "collection": "sn"
   },
   {
@@ -63055,6 +63780,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.42",
+    "title": "SN45.42",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.43",
     "title": "SN45.43",
     "collection": "sn"
@@ -63101,6 +63831,11 @@
     "paliTitle": "Sīlasampadādisuttapañcaka",
     "blurb": "As the dawn precedes the sun, ethics, enthusiasm, confidence, right view, and diligence precede the eightfold path.",
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.50",
+    "title": "SN45.50",
     "collection": "sn"
   },
   {
@@ -63156,6 +63891,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.57",
+    "title": "SN45.57",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.58",
     "title": "SN45.58",
     "collection": "sn"
@@ -63205,6 +63945,11 @@
     "paliTitle": "Sīlasampadādisuttapañcaka",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.64",
+    "title": "SN45.64",
     "collection": "sn"
   },
   {
@@ -63260,6 +64005,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.71",
+    "title": "SN45.71",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.72",
     "title": "SN45.72",
     "collection": "sn"
@@ -63301,6 +64051,11 @@
     "paliTitle": "Sīlasampadādisuttapañcaka",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.78",
+    "title": "SN45.78",
     "collection": "sn"
   },
   {
@@ -63356,6 +64111,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn45.85",
+    "title": "SN45.85",
+    "collection": "sn"
+  },
+  {
     "id": "sn45.86",
     "title": "SN45.86",
     "collection": "sn"
@@ -63405,6 +64165,11 @@
     "paliTitle": "Dutiyādipācīnaninnasuttacatukka",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn45.92",
+    "title": "SN45.92",
     "collection": "sn"
   },
   {
@@ -63539,6 +64304,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn46.111",
+    "title": "SN46.111",
+    "collection": "sn"
+  },
+  {
     "id": "sn46.112",
     "title": "SN46.112",
     "collection": "sn"
@@ -63597,6 +64367,11 @@
     "paliTitle": "Oghādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn46.121",
+    "title": "SN46.121",
     "collection": "sn"
   },
   {
@@ -63661,6 +64436,11 @@
     "paliTitle": "Punagaṅgāpeyyālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn46.131",
+    "title": "SN46.131",
     "collection": "sn"
   },
   {
@@ -63735,6 +64515,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn46.143",
+    "title": "SN46.143",
+    "collection": "sn"
+  },
+  {
     "id": "sn46.144",
     "title": "SN46.144",
     "collection": "sn"
@@ -63793,6 +64578,11 @@
     "paliTitle": "Punabalakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn46.153",
+    "title": "SN46.153",
     "collection": "sn"
   },
   {
@@ -63867,6 +64657,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn46.165",
+    "title": "SN46.165",
+    "collection": "sn"
+  },
+  {
     "id": "sn46.166",
     "title": "SN46.166",
     "collection": "sn"
@@ -63925,6 +64720,11 @@
     "paliTitle": "Punaoghavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn46.175",
+    "title": "SN46.175",
     "collection": "sn"
   },
   {
@@ -64501,6 +65301,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn46.77",
+    "title": "SN46.77",
+    "collection": "sn"
+  },
+  {
     "id": "sn46.78",
     "title": "SN46.78",
     "collection": "sn"
@@ -64569,6 +65374,11 @@
     "paliTitle": "Appamādavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn46.89",
+    "title": "SN46.89",
     "collection": "sn"
   },
   {
@@ -65034,6 +65844,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn47.51",
+    "title": "SN47.51",
+    "collection": "sn"
+  },
+  {
     "id": "sn47.52",
     "title": "SN47.52",
     "collection": "sn"
@@ -65105,6 +65920,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn47.63",
+    "title": "SN47.63",
+    "collection": "sn"
+  },
+  {
     "id": "sn47.64",
     "title": "SN47.64",
     "collection": "sn"
@@ -65163,6 +65983,11 @@
     "paliTitle": "Balakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn47.73",
+    "title": "SN47.73",
     "collection": "sn"
   },
   {
@@ -65234,6 +66059,11 @@
     "paliTitle": "Esanāvagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn47.85",
+    "title": "SN47.85",
     "collection": "sn"
   },
   {
@@ -65367,6 +66197,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn48.105",
+    "title": "SN48.105",
+    "collection": "sn"
+  },
+  {
     "id": "sn48.106",
     "title": "SN48.106",
     "collection": "sn"
@@ -65428,6 +66263,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn48.115",
+    "title": "SN48.115",
+    "collection": "sn"
+  },
+  {
     "id": "sn48.116",
     "title": "SN48.116",
     "collection": "sn"
@@ -65486,6 +66326,11 @@
     "paliTitle": "Punagaṅgāpeyyālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn48.125",
+    "title": "SN48.125",
     "collection": "sn"
   },
   {
@@ -65560,6 +66405,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn48.137",
+    "title": "SN48.137",
+    "collection": "sn"
+  },
+  {
     "id": "sn48.138",
     "title": "SN48.138",
     "collection": "sn"
@@ -65618,6 +66468,11 @@
     "paliTitle": "Punagaṅgāpeyyālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn48.147",
+    "title": "SN48.147",
     "collection": "sn"
   },
   {
@@ -65692,6 +66547,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn48.159",
+    "title": "SN48.159",
+    "collection": "sn"
+  },
+  {
     "id": "sn48.160",
     "title": "SN48.160",
     "collection": "sn"
@@ -65750,6 +66610,11 @@
     "paliTitle": "Punaoghavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn48.169",
+    "title": "SN48.169",
     "collection": "sn"
   },
   {
@@ -66286,6 +67151,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn48.71",
+    "title": "SN48.71",
+    "collection": "sn"
+  },
+  {
     "id": "sn48.72",
     "title": "SN48.72",
     "collection": "sn"
@@ -66354,6 +67224,11 @@
     "paliTitle": "Appamādavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn48.83",
+    "title": "SN48.83",
     "collection": "sn"
   },
   {
@@ -66461,6 +67336,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn49.10",
+    "title": "SN49.10",
+    "collection": "sn"
+  },
+  {
     "id": "sn49.1",
     "title": "SN49.1",
     "collection": "sn"
@@ -66481,6 +67361,11 @@
     "paliTitle": "Appamādavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn49.13",
+    "title": "SN49.13",
     "collection": "sn"
   },
   {
@@ -66539,6 +67424,11 @@
     "paliTitle": "Balakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn49.23",
+    "title": "SN49.23",
     "collection": "sn"
   },
   {
@@ -66610,6 +67500,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn49.35",
+    "title": "SN49.35",
+    "collection": "sn"
+  },
+  {
     "id": "sn49.36",
     "title": "SN49.36",
     "collection": "sn"
@@ -66665,6 +67560,11 @@
     "paliTitle": "Oghavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn49.45",
+    "title": "SN49.45",
     "collection": "sn"
   },
   {
@@ -66746,6 +67646,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn50.10",
+    "title": "SN50.10",
+    "collection": "sn"
+  },
+  {
     "id": "sn50.1",
     "title": "SN50.1",
     "collection": "sn"
@@ -66809,6 +67714,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn50.13",
+    "title": "SN50.13",
+    "collection": "sn"
+  },
+  {
     "id": "sn50.14",
     "title": "SN50.14",
     "collection": "sn"
@@ -66864,6 +67774,11 @@
     "paliTitle": "Balakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn50.23",
+    "title": "SN50.23",
     "collection": "sn"
   },
   {
@@ -66935,6 +67850,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn50.35",
+    "title": "SN50.35",
+    "collection": "sn"
+  },
+  {
     "id": "sn50.36",
     "title": "SN50.36",
     "collection": "sn"
@@ -66993,6 +67913,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn50.45",
+    "title": "SN50.45",
+    "collection": "sn"
+  },
+  {
     "id": "sn50.46",
     "title": "SN50.46",
     "collection": "sn"
@@ -67048,6 +67973,11 @@
     "paliTitle": "Punagaṅgāpeyyālavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn50.55",
+    "title": "SN50.55",
     "collection": "sn"
   },
   {
@@ -67119,6 +68049,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn50.67",
+    "title": "SN50.67",
+    "collection": "sn"
+  },
+  {
     "id": "sn50.68",
     "title": "SN50.68",
     "collection": "sn"
@@ -67174,6 +68109,11 @@
     "paliTitle": "Punabalakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn50.77",
+    "title": "SN50.77",
     "collection": "sn"
   },
   {
@@ -67242,6 +68182,11 @@
     "paliTitle": "Punaesanāvagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn50.89",
+    "title": "SN50.89",
     "collection": "sn"
   },
   {
@@ -67524,6 +68469,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn51.33",
+    "title": "SN51.33",
+    "collection": "sn"
+  },
+  {
     "id": "sn51.34",
     "title": "SN51.34",
     "collection": "sn"
@@ -67595,6 +68545,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn51.45",
+    "title": "SN51.45",
+    "collection": "sn"
+  },
+  {
     "id": "sn51.46",
     "title": "SN51.46",
     "collection": "sn"
@@ -67653,6 +68608,11 @@
     "paliTitle": "Balakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn51.55",
+    "title": "SN51.55",
     "collection": "sn"
   },
   {
@@ -67727,6 +68687,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn51.67",
+    "title": "SN51.67",
+    "collection": "sn"
+  },
+  {
     "id": "sn51.68",
     "title": "SN51.68",
     "collection": "sn"
@@ -67785,6 +68750,11 @@
     "paliTitle": "Oghavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn51.77",
+    "title": "SN51.77",
     "collection": "sn"
   },
   {
@@ -68049,6 +69019,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn53.10",
+    "title": "SN53.10",
+    "collection": "sn"
+  },
+  {
     "id": "sn53.1",
     "title": "SN53.1",
     "collection": "sn"
@@ -68069,6 +69044,11 @@
     "paliTitle": "Appamādavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn53.13",
+    "title": "SN53.13",
     "collection": "sn"
   },
   {
@@ -68127,6 +69107,11 @@
     "paliTitle": "Balakaraṇīyavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn53.23",
+    "title": "SN53.23",
     "collection": "sn"
   },
   {
@@ -68198,6 +69183,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn53.35",
+    "title": "SN53.35",
+    "collection": "sn"
+  },
+  {
     "id": "sn53.36",
     "title": "SN53.36",
     "collection": "sn"
@@ -68253,6 +69243,11 @@
     "paliTitle": "Oghavagga",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn53.45",
+    "title": "SN53.45",
     "collection": "sn"
   },
   {
@@ -69131,6 +70126,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn56.105",
+    "title": "SN56.105",
+    "collection": "sn"
+  },
+  {
     "id": "sn56.106",
     "title": "SN56.106",
     "collection": "sn"
@@ -69146,6 +70146,11 @@
     "paliTitle": "Devacutinirayādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn56.108",
+    "title": "SN56.108",
     "collection": "sn"
   },
   {
@@ -69175,6 +70180,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn56.111",
+    "title": "SN56.111",
+    "collection": "sn"
+  },
+  {
     "id": "sn56.112",
     "title": "SN56.112",
     "collection": "sn"
@@ -69190,6 +70200,11 @@
     "paliTitle": "Nirayamanussanirayādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn56.114",
+    "title": "SN56.114",
     "collection": "sn"
   },
   {
@@ -69211,6 +70226,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn56.117",
+    "title": "SN56.117",
+    "collection": "sn"
+  },
+  {
     "id": "sn56.118",
     "title": "SN56.118",
     "collection": "sn"
@@ -69226,6 +70246,11 @@
     "paliTitle": "Tiracchānamanussanirayādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn56.120",
+    "title": "SN56.120",
     "collection": "sn"
   },
   {
@@ -69255,6 +70280,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn56.123",
+    "title": "SN56.123",
+    "collection": "sn"
+  },
+  {
     "id": "sn56.124",
     "title": "SN56.124",
     "collection": "sn"
@@ -69273,6 +70303,11 @@
     "collection": "sn"
   },
   {
+    "id": "sn56.126",
+    "title": "SN56.126",
+    "collection": "sn"
+  },
+  {
     "id": "sn56.127",
     "title": "SN56.127",
     "collection": "sn"
@@ -69288,6 +70323,11 @@
     "paliTitle": "Pettidevanirayādisutta",
     "blurb": null,
     "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn56.129",
+    "title": "SN56.129",
     "collection": "sn"
   },
   {

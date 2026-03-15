@@ -1,349 +1,82 @@
 {
+  "comment_text": {
+    "sn22.121:1.2": "See <a href='https://suttacentral.net/sn22.48/en/sujato'>SN 22.48</a> and notes. "
+  },
+  "html_text": {
+    "sn22.121:0.1": "<article id='sn22.121'><header><ul><li class='division'>{}</li>",
+    "sn22.121:0.2": "<li>{}</li></ul>",
+    "sn22.121:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.121:1.1": "<p>{}</p>",
+    "sn22.121:1.2": "<p>{}",
+    "sn22.121:1.3": "{}</p>",
+    "sn22.121:1.4": "<p>{}</p>",
+    "sn22.121:1.5": "<p>{}",
+    "sn22.121:1.6": "{}</p>",
+    "sn22.121:1.7": "<p>{}</p>",
+    "sn22.121:1.8": "<p>{}</p>",
+    "sn22.121:1.9": "<p>{}</p>",
+    "sn22.121:1.10": "<p>{}",
+    "sn22.121:1.11": "{}</p>",
+    "sn22.121:1.12": "<p>{}</p>",
+    "sn22.121:1.13": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.121",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upādāniyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Things That Tighten Fetters ",
-      "uid": "sn22.120"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "An Ethical Mendicant ",
-      "uid": "sn22.122"
-    }
+    "sn22.121:0.1": "Saṁyutta Nikāya 22.121 ",
+    "sn22.121:0.2": "12. Dhammakathikavagga ",
+    "sn22.121:0.3": "Upādāniyasutta ",
+    "sn22.121:1.1": "Sāvatthinidānaṁ. ",
+    "sn22.121:1.2": "“Upādāniye ca, bhikkhave, dhamme desessāmi upādānañca. ",
+    "sn22.121:1.3": "Taṁ suṇātha. ",
+    "sn22.121:1.4": "Katame ca, bhikkhave, upādāniyā dhammā, katamaṁ upādānaṁ? ",
+    "sn22.121:1.5": "Rūpaṁ, bhikkhave, upādāniyo dhammo, ",
+    "sn22.121:1.6": "yo tattha chandarāgo, taṁ tattha upādānaṁ. ",
+    "sn22.121:1.7": "Vedanā …pe… ",
+    "sn22.121:1.8": "saññā … ",
+    "sn22.121:1.9": "saṅkhārā … ",
+    "sn22.121:1.10": "viññāṇaṁ upādāniyo dhammo; ",
+    "sn22.121:1.11": "yo tattha chandarāgo, taṁ tattha upādānaṁ. ",
+    "sn22.121:1.12": "Ime vuccanti, bhikkhave, upādāniyā dhammā, idaṁ upādānan”ti. ",
+    "sn22.121:1.13": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn22.121",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Things That Fuel Grasping ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Things That Tighten Fetters ",
-      "uid": "sn22.120"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "An Ethical Mendicant ",
-      "uid": "sn22.122"
-    }
+  "translation_text": {
+    "sn22.121:0.1": "Linked Discourses 22.121 ",
+    "sn22.121:0.2": "12. A Dhamma speaker ",
+    "sn22.121:0.3": "Things That Fuel Grasping ",
+    "sn22.121:1.1": "At Sāvatthī. ",
+    "sn22.121:1.2": "“Mendicants, I will teach you the things that fuel grasping, and the grasping. ",
+    "sn22.121:1.3": "Listen … ",
+    "sn22.121:1.4": "What are the things that fuel grasping? And what is the grasping? ",
+    "sn22.121:1.5": "Form is something that fuels grasping. ",
+    "sn22.121:1.6": "The desire and greed for it is the grasping. ",
+    "sn22.121:1.7": "Feeling … ",
+    "sn22.121:1.8": "Perception … ",
+    "sn22.121:1.9": "Choices … ",
+    "sn22.121:1.10": "Consciousness is something that fuels grasping. ",
+    "sn22.121:1.11": "The desire and greed for it is the grasping. ",
+    "sn22.121:1.12": "These are called the things that fuel grasping, and this is the grasping.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.121",
-    "volpages": "PTS SN iii 167",
-    "alt_volpages": null,
-    "uid": "sn22.121",
-    "blurb": "The aggregates are the things that are graspable, the craving is the grasping.",
-    "difficulty": null,
-    "original_title": "Upādāniyasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Things That Fuel Grasping ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.121_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Dinge, die das Ergreifen nähren ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.121_translation-en-sujato",
-        "segmented": true,
-        "title": "Things That Fuel Grasping ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.121_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.121_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.121_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn22.121_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.121_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn22.121_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.121_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.121_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_sn22.121_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.121_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn22.121_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn22.121_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.121_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.121_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.121_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.121_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr17.199, ms13S3_698, msdiv121, sya17.203",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn22.121:0.3": "Upādāniyasutta → upādānam (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn22.121",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upādāniyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.121:1.1": "dr17.199, ms13S3_698, msdiv121, sya17.203"
   },
-  "bilara_translated_text": {
-    "uid": "sn22.121",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Things That Fuel Grasping ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn22.121:0.1",
+    "sn22.121:0.2",
+    "sn22.121:0.3",
+    "sn22.121:1.1",
+    "sn22.121:1.2",
+    "sn22.121:1.3",
+    "sn22.121:1.4",
+    "sn22.121:1.5",
+    "sn22.121:1.6",
+    "sn22.121:1.7",
+    "sn22.121:1.8",
+    "sn22.121:1.9",
+    "sn22.121:1.10",
+    "sn22.121:1.11",
+    "sn22.121:1.12",
+    "sn22.121:1.13"
+  ]
 }

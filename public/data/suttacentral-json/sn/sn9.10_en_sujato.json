@@ -1,337 +1,80 @@
 {
+  "comment_text": {
+    "sn9.10:1.2": "The verb <i lang='pi' translate='no'>saṅkasāyati</i> is a synonym of <i lang='pi' translate='no'>allīyati</i>, to stick or adhere to (<a href='https://suttacentral.net/pli-tv-kd3/en/sujato#1.2.3'>Kd 3:1.2.3</a>). ",
+    "sn9.10:2.1": "At <a href='https://suttacentral.net/an4.191/en/sujato#1.7'>AN 4.191:1.7</a>, <i lang='pi' translate='no'>dhammapada</i> refers to all nine categories of the teaching, and I think it has the same sense here. ",
+    "sn9.10:3.1": "The sense of this unusual five-line verse is not entirely clear to me, and I suspect it is corrupt. "
+  },
+  "html_text": {
+    "sn9.10:0.1": "<article id='sn9.10'><header><ul><li class='division'>{}</li>",
+    "sn9.10:0.2": "<li>{}</li></ul>",
+    "sn9.10:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn9.10:1.1": "<p>{}</p>",
+    "sn9.10:1.2": "<p>{}",
+    "sn9.10:1.3": "{}</p>",
+    "sn9.10:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn9.10:2.2": "<span class='verse-line'>{}</span>",
+    "sn9.10:2.3": "<span class='verse-line'>{}</span>",
+    "sn9.10:2.4": "<span class='verse-line'>{}</span></p>",
+    "sn9.10:3.1": "<p><span class='verse-line'>{}</span>",
+    "sn9.10:3.2": "<span class='verse-line'>{}</span>",
+    "sn9.10:3.3": "<span class='verse-line'>{}</span>",
+    "sn9.10:3.4": "<span class='verse-line'>{}</span>",
+    "sn9.10:3.5": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn9.10",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sajjhāyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Vajji ",
-      "uid": "sn9.9"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Unskillful Thoughts ",
-      "uid": "sn9.11"
-    }
+    "sn9.10:0.1": "Saṁyutta Nikāya 9.10 ",
+    "sn9.10:0.2": "1. Vanavagga ",
+    "sn9.10:0.3": "Sajjhāyasutta ",
+    "sn9.10:1.1": "Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. ",
+    "sn9.10:1.2": "Tena kho pana samayena so bhikkhu yaṁ sudaṁ pubbe ativelaṁ sajjhāyabahulo viharati so aparena samayena appossukko tuṇhībhūto saṅkasāyati. ",
+    "sn9.10:1.3": "Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno dhammaṁ asuṇantī yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāya ajjhabhāsi: ",
+    "sn9.10:2.1": "“Kasmā tuvaṁ dhammapadāni bhikkhu, ",
+    "sn9.10:2.2": "Nādhīyasi bhikkhuhi saṁvasanto; ",
+    "sn9.10:2.3": "Sutvāna dhammaṁ labhatippasādaṁ, ",
+    "sn9.10:2.4": "Diṭṭheva dhamme labhatippasaṁsan”ti. ",
+    "sn9.10:3.1": "“Ahu pure dhammapadesu chando, ",
+    "sn9.10:3.2": "Yāva virāgena samāgamimha; ",
+    "sn9.10:3.3": "Yato virāgena samāgamimha, ",
+    "sn9.10:3.4": "Yaṁ kiñci diṭṭhaṁva sutaṁ mutaṁ vā; ",
+    "sn9.10:3.5": "Aññāya nikkhepanamāhu santo”ti. "
   },
-  "translation": {
-    "uid": "sn9.10",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Recitation ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Vajji ",
-      "uid": "sn9.9"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Unskillful Thoughts ",
-      "uid": "sn9.11"
-    }
+  "translation_text": {
+    "sn9.10:0.1": "Linked Discourses 9.10 ",
+    "sn9.10:0.2": "1. In the Woods ",
+    "sn9.10:0.3": "Recitation ",
+    "sn9.10:1.1": "At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove. ",
+    "sn9.10:1.2": "Now at that time that mendicant had previously been spending too much time rehearsing. But some time later they adhered to passivity and silence. ",
+    "sn9.10:1.3": "Not hearing the teaching, the deity haunting that forest approached that mendicant, and addressed them in verse: ",
+    "sn9.10:2.1": "“Mendicant, why don’t you recite <j>passages of the teaching, ",
+    "sn9.10:2.2": "living together with other mendicants? ",
+    "sn9.10:2.3": "Hearing the teaching, one garners confidence; ",
+    "sn9.10:2.4": "and in this very life, one garners praise.” ",
+    "sn9.10:3.1": "“I used to be zealous for <j>passages of the teaching, ",
+    "sn9.10:3.2": "until I encountered dispassion. ",
+    "sn9.10:3.3": "When I encountered dispassion, ",
+    "sn9.10:3.4": "whatever was seen, heard, and thought, ",
+    "sn9.10:3.5": "this, good people say, <j>is the laying down by complete understanding.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 9.10",
-    "volpages": " PTS (1st ed) 1.203",
-    "alt_volpages": " PTS (2nd ed) 1.436",
-    "uid": "sn9.10",
-    "blurb": "When a mendicant gives up their habit of reciting the texts, a deity questions them. But it seems they have now found peace.",
-    "difficulty": null,
-    "original_title": "Sajjhāyasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Recitation ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn9.10_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Aufsagen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn9.10_translation-en-sujato",
-        "segmented": true,
-        "title": "Recitation ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn9.10_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn9.10_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Recitovanje ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn9.10_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn9.10_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn9.10_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn9.10_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn9.10_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn9.10_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn9.10_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn9.10_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn9.10_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn9.10_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn9.10_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn9.10_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn9.10_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms12S1_1421, msdiv230, pts-vp-pli2ed1.436, sya15.298,dr15.281, ms12S1_1422,ms12S1_1423, ndp12.204, pts-vp-pli1ed1.203",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn9.10:1.1": "ms12S1_1421, msdiv230, pts-vp-pli2ed1.436, sya15.298",
+    "sn9.10:2.1": "dr15.281, ms12S1_1422",
+    "sn9.10:3.1": "ms12S1_1423, ndp12.204, pts-vp-pli1ed1.203"
   },
-  "bilara_root_text": {
-    "uid": "sn9.10",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sajjhāyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn9.10",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Recitation ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn9.10:0.1",
+    "sn9.10:0.2",
+    "sn9.10:0.3",
+    "sn9.10:1.1",
+    "sn9.10:1.2",
+    "sn9.10:1.3",
+    "sn9.10:2.1",
+    "sn9.10:2.2",
+    "sn9.10:2.3",
+    "sn9.10:2.4",
+    "sn9.10:3.1",
+    "sn9.10:3.2",
+    "sn9.10:3.3",
+    "sn9.10:3.4",
+    "sn9.10:3.5"
+  ]
 }

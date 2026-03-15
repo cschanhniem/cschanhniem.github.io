@@ -1,298 +1,61 @@
 {
+  "html_text": {
+    "an6.71:0.1": "<article id='an6.71'><header><ul><li class='division'>{}</li>",
+    "an6.71:0.2": "<li>{}</li></ul>",
+    "an6.71:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.71:1.1": "<p>{}",
+    "an6.71:1.2": "{}",
+    "an6.71:1.3": "{}",
+    "an6.71:1.4": "{}</p>",
+    "an6.71:2.1": "<p>{}",
+    "an6.71:2.2": "{}",
+    "an6.71:2.3": "{}",
+    "an6.71:2.4": "{}</p>",
+    "an6.71:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.71",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sakkhibhabbasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Immersion ",
-      "uid": "an6.70"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Strength ",
-      "uid": "an6.72"
-    }
+    "an6.71:0.1": "Aṅguttara Nikāya 6.71 ",
+    "an6.71:0.2": "7. Devatāvagga ",
+    "an6.71:0.3": "Sakkhibhabbasutta ",
+    "an6.71:1.1": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo tatra tatreva sakkhibhabbataṁ pāpuṇituṁ sati sati āyatane. ",
+    "an6.71:1.2": "Katamehi chahi? ",
+    "an6.71:1.3": "Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, asakkaccakārī ca hoti, asappāyakārī ca. ",
+    "an6.71:1.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo tatra tatreva sakkhibhabbataṁ pāpuṇituṁ sati sati āyatane. ",
+    "an6.71:2.1": "Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo tatra tatreva sakkhibhabbataṁ pāpuṇituṁ sati sati āyatane. ",
+    "an6.71:2.2": "Katamehi chahi? ",
+    "an6.71:2.3": "Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, sakkaccakārī ca hoti, sappāyakārī ca. ",
+    "an6.71:2.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo tatra tatreva sakkhibhabbataṁ pāpuṇituṁ sati sati āyatane”ti. ",
+    "an6.71:2.5": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an6.71",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Capable of Realizing ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Immersion ",
-      "uid": "an6.70"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Strength ",
-      "uid": "an6.72"
-    }
+  "translation_text": {
+    "an6.71:0.1": "Numbered Discourses 6.71 ",
+    "an6.71:0.2": "7. A God ",
+    "an6.71:0.3": "Capable of Realizing ",
+    "an6.71:1.1": "“Mendicants, a mendicant with six qualities is incapable of realizing anything that can be realized, since each and every one is within range. ",
+    "an6.71:1.2": "What six? ",
+    "an6.71:1.3": "It’s when a mendicant doesn’t truly understand which qualities make things worse, which keep things steady, which lead to distinction, and which lead to penetration. And they don’t practice carefully or do what’s suitable. ",
+    "an6.71:1.4": "A mendicant with these six qualities is incapable of realizing anything that can be realized, since each and every one is within range. ",
+    "an6.71:2.1": "A mendicant with six qualities is capable of realizing anything that can be realized, since each and every one is within range. ",
+    "an6.71:2.2": "What six? ",
+    "an6.71:2.3": "It’s when a mendicant truly understands which qualities make things worse, which keep things steady, which lead to distinction, and which lead to penetration. And they practice carefully and do what’s suitable. ",
+    "an6.71:2.4": "A mendicant with these six qualities is capable of realizing anything that can be realized, since each and every one is within range.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.71",
-    "volpages": " PTS 3.427",
-    "alt_volpages": null,
-    "uid": "an6.71",
-    "blurb": "Six qualities that enable a mendicant to gain understanding.",
-    "difficulty": null,
-    "original_title": "Sakkhibhabbasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Capable of Realizing ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.71_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "In der Lage, zu erlangen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.71_translation-en-sujato",
-        "segmented": true,
-        "title": "Capable of Realizing ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.71_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.71_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Способен реализовать ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.71_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.71_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.71_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.71_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.71_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.71_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.71_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.71_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.71_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.71_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A6_638, msdiv71, pts-vp-pli3.427,csp1ed16.373, csp2ed16.373, dr22.463, ms16A6_639, ndp18.130, vri38.129",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.71:1.1": "ms16A6_638, msdiv71, pts-vp-pli3.427",
+    "an6.71:2.1": "csp1ed16.373, csp2ed16.373, dr22.463, ms16A6_639, ndp18.130, vri38.129"
   },
-  "bilara_root_text": {
-    "uid": "an6.71",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sakkhibhabbasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an6.71",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Capable of Realizing ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.71:0.1",
+    "an6.71:0.2",
+    "an6.71:0.3",
+    "an6.71:1.1",
+    "an6.71:1.2",
+    "an6.71:1.3",
+    "an6.71:1.4",
+    "an6.71:2.1",
+    "an6.71:2.2",
+    "an6.71:2.3",
+    "an6.71:2.4",
+    "an6.71:2.5"
+  ]
 }

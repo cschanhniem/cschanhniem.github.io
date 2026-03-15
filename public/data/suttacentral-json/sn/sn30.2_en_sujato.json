@@ -1,310 +1,71 @@
 {
+  "comment_text": {
+    "sn30.2:1.6": "The enmity between snakes and birds is legendary (<a href='https://suttacentral.net/ja518/en/sujato'>Ja 518</a>), its origins related in the story of Suparṇa and Kadrū, mother of dragons (Śatapatha Brāhmaṇa 3.6.2). It is rooted as much in the common sight of birds attacking snakes as it is in the cosmic opposition between the solar and the chthonic, the forces of light in the sky and darkness beneath the earth. Only the Buddha could reconcile them (<a href='https://suttacentral.net/dn20/en/sujato#11.16'>DN 20:11.16</a>). "
+  },
+  "html_text": {
+    "sn30.2:0.1": "<article id='sn30.2'><header><ul><li class='division'>{}</li>",
+    "sn30.2:0.2": "<li>{}</li></ul>",
+    "sn30.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn30.2:1.1": "<p>{}</p>",
+    "sn30.2:1.2": "<p>{}",
+    "sn30.2:1.3": "{}",
+    "sn30.2:1.4": "{}",
+    "sn30.2:1.5": "{}",
+    "sn30.2:1.6": "{}",
+    "sn30.2:1.7": "{}",
+    "sn30.2:1.8": "{}",
+    "sn30.2:1.9": "{}",
+    "sn30.2:1.10": "{}</p>",
+    "sn30.2:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn30.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Harantisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Plain Version ",
-      "uid": "sn30.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Both Kinds of Deeds ",
-      "uid": "sn30.3"
-    }
+    "sn30.2:0.1": "Saṁyutta Nikāya 30.2 ",
+    "sn30.2:0.2": "1. Supaṇṇavagga ",
+    "sn30.2:0.3": "Harantisutta ",
+    "sn30.2:1.1": "Sāvatthinidānaṁ. ",
+    "sn30.2:1.2": "“Catasso imā, bhikkhave, supaṇṇayoniyo. ",
+    "sn30.2:1.3": "Katamā catasso? ",
+    "sn30.2:1.4": "Aṇḍajā …pe… ",
+    "sn30.2:1.5": "imā kho, bhikkhave, catasso supaṇṇayoniyo. ",
+    "sn30.2:1.6": "Tatra, bhikkhave, aṇḍajā supaṇṇā aṇḍajeva nāge haranti, na jalābuje, na saṁsedaje, na opapātike. ",
+    "sn30.2:1.7": "Tatra, bhikkhave, jalābujā supaṇṇā aṇḍaje ca jalābuje ca nāge haranti, na saṁsedaje, na opapātike. ",
+    "sn30.2:1.8": "Tatra, bhikkhave, saṁsedajā supaṇṇā aṇḍaje ca jalābuje ca saṁsedaje ca nāge haranti, na opapātike. ",
+    "sn30.2:1.9": "Tatra, bhikkhave, opapātikā supaṇṇā aṇḍaje ca jalābuje ca saṁsedaje ca opapātike ca nāge haranti. ",
+    "sn30.2:1.10": "Imā kho, bhikkhave, catasso supaṇṇayoniyo”ti. ",
+    "sn30.2:1.11": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn30.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "They Carry Off ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Plain Version ",
-      "uid": "sn30.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Both Kinds of Deeds ",
-      "uid": "sn30.3"
-    }
+  "translation_text": {
+    "sn30.2:0.1": "Linked Discourses 30.2 ",
+    "sn30.2:0.2": "1. Phoenixes ",
+    "sn30.2:0.3": "They Carry Off ",
+    "sn30.2:1.1": "At Sāvatthī. ",
+    "sn30.2:1.2": "“Mendicants, phoenixes reproduce in these four ways. ",
+    "sn30.2:1.3": "What four? ",
+    "sn30.2:1.4": "Phoenixes are born from eggs, from a womb, from moisture, or spontaneously. ",
+    "sn30.2:1.5": "These are the four ways that phoenixes reproduce. ",
+    "sn30.2:1.6": "Of these, phoenixes born from an egg can only carry off dragons born from an egg, not those born from a womb, from moisture, or spontaneously. ",
+    "sn30.2:1.7": "Phoenixes born from a womb can carry off dragons born from an egg or from a womb, but not those born from moisture or spontaneously. ",
+    "sn30.2:1.8": "Phoenixes born from moisture can carry off dragons born from an egg, from a womb, or from moisture, but not those born spontaneously. ",
+    "sn30.2:1.9": "Phoenixes born spontaneously can carry off dragons born from an egg, from a womb, from moisture, or spontaneously. ",
+    "sn30.2:1.10": "These are the four ways that phoenixes reproduce.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 30.2",
-    "volpages": " PTS 3.247",
-    "alt_volpages": null,
-    "uid": "sn30.2",
-    "blurb": "Phoenixes may be born from eggs, the womb, moisture, or spontaneously. Each of them may carry off a dragon of lower birth.",
-    "difficulty": null,
-    "original_title": "Harantisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "They Carry Off ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn30.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Sie tragen fort ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn30.2_translation-en-sujato",
-        "segmented": true,
-        "title": "They Carry Off ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn30.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn30.2_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn30.2_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn30.2_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn30.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn30.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn30.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn30.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn30.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn30.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn30.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn30.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn30.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_1187, msdiv393, pts-vp-pli3.247",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn30.2:1.1": "ms13S3_1187, msdiv393, pts-vp-pli3.247"
   },
-  "bilara_root_text": {
-    "uid": "sn30.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Harantisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn30.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "They Carry Off ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn30.2:0.1",
+    "sn30.2:0.2",
+    "sn30.2:0.3",
+    "sn30.2:1.1",
+    "sn30.2:1.2",
+    "sn30.2:1.3",
+    "sn30.2:1.4",
+    "sn30.2:1.5",
+    "sn30.2:1.6",
+    "sn30.2:1.7",
+    "sn30.2:1.8",
+    "sn30.2:1.9",
+    "sn30.2:1.10",
+    "sn30.2:1.11"
+  ]
 }

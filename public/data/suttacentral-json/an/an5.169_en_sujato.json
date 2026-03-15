@@ -1,311 +1,89 @@
 {
+  "html_text": {
+    "an5.169:0.1": "<article id='an5.169'><header><ul><li class='division'>{}</li>",
+    "an5.169:0.2": "<li>{}</li></ul>",
+    "an5.169:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.169:1.1": "<p>{}",
+    "an5.169:1.2": "{}</p>",
+    "an5.169:2.1": "<p>{}</p>",
+    "an5.169:2.2": "<p>{}",
+    "an5.169:2.3": "{}</p>",
+    "an5.169:2.4": "<p>{}</p>",
+    "an5.169:2.5": "<p>{}",
+    "an5.169:2.6": "{}</p>",
+    "an5.169:3.1": "<p>{}",
+    "an5.169:3.2": "{}</p>",
+    "an5.169:3.3": "<p>{}",
+    "an5.169:3.4": "{}",
+    "an5.169:3.5": "{}",
+    "an5.169:3.6": "{}</p>",
+    "an5.169:3.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an5.169",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Khippanisantisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ethics ",
-      "uid": "an5.168"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Bhaddaji ",
-      "uid": "an5.170"
-    }
+    "an5.169:0.1": "Aṅguttara Nikāya 5.169 ",
+    "an5.169:0.2": "17. Āghātavagga ",
+    "an5.169:0.3": "Khippanisantisutta ",
+    "an5.169:1.1": "Atha kho āyasmā ānando yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṁ sammodi. ",
+    "an5.169:1.2": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando āyasmantaṁ sāriputtaṁ etadavoca: ",
+    "an5.169:2.1": "“Kittāvatā nu kho, āvuso sāriputta, bhikkhu khippanisanti ca hoti, kusalesu dhammesu suggahitaggāhī ca, bahuñca gaṇhāti, gahitañcassa nappamussatī”ti? ",
+    "an5.169:2.2": "“Āyasmā kho ānando bahussuto. ",
+    "an5.169:2.3": "Paṭibhātu āyasmantaṁyeva ānandan”ti. ",
+    "an5.169:2.4": "“Tenahāvuso sāriputta, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti. ",
+    "an5.169:2.5": "“Evamāvuso”ti kho āyasmā sāriputto āyasmato ānandassa paccassosi. ",
+    "an5.169:2.6": "Āyasmā ānando etadavoca: ",
+    "an5.169:3.1": "“Idhāvuso sāriputta, bhikkhu atthakusalo ca hoti, dhammakusalo ca, byañjanakusalo ca, niruttikusalo ca, pubbāparakusalo ca. ",
+    "an5.169:3.2": "Ettāvatā kho, āvuso sāriputta, bhikkhu khippanisanti ca hoti kusalesu dhammesu, suggahitaggāhī ca, bahuñca gaṇhāti, gahitañcassa nappamussatī”ti. ",
+    "an5.169:3.3": "“Acchariyaṁ, āvuso, abbhutaṁ, āvuso. ",
+    "an5.169:3.4": "Yāva subhāsitañcidaṁ āyasmatā ānandena. ",
+    "an5.169:3.5": "Imehi ca mayaṁ pañcahi dhammehi samannāgataṁ āyasmantaṁ ānandaṁ dhārema: ",
+    "an5.169:3.6": "‘āyasmā ānando atthakusalo dhammakusalo byañjanakusalo niruttikusalo pubbāparakusalo’”ti. ",
+    "an5.169:3.7": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "an5.169",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Quick-witted ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ethics ",
-      "uid": "an5.168"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Bhaddaji ",
-      "uid": "an5.170"
-    }
+  "translation_text": {
+    "an5.169:0.1": "Numbered Discourses 5.169 ",
+    "an5.169:0.2": "17. Resentment ",
+    "an5.169:0.3": "Quick-witted ",
+    "an5.169:1.1": "Then Venerable Ānanda went up to Venerable Sāriputta, and exchanged greetings with him. ",
+    "an5.169:1.2": "When the greetings and polite conversation were over, he sat down to one side and said to him: ",
+    "an5.169:2.1": "“Reverend Sāriputta, how are we to define a mendicant who is quick-witted when it comes to skillful teachings, who learns well, learns much, and does not forget what they’ve learned?” ",
+    "an5.169:2.2": "“Well, Venerable Ānanda, you’re very learned. ",
+    "an5.169:2.3": "Why don’t you clarify this yourself?” ",
+    "an5.169:2.4": "“Well then, Reverend Sāriputta, listen and apply your mind well, I will speak.” ",
+    "an5.169:2.5": "“Yes, reverend,” Sāriputta replied. ",
+    "an5.169:2.6": "Venerable Ānanda said this: ",
+    "an5.169:3.1": "“It’s when a mendicant is skilled in the meaning, skilled in the teaching, skilled in definition, skilled in phrasing, and skilled in sequence. ",
+    "an5.169:3.2": "That is how to define a mendicant who is quick-witted when it comes to skillful teachings, who learns well, learns much, and does not forget what they’ve learned.” ",
+    "an5.169:3.3": "“It’s incredible, it’s amazing! ",
+    "an5.169:3.4": "How well this was said by Venerable Ānanda! ",
+    "an5.169:3.5": "And we will remember Venerable Ānanda as someone who possesses these five qualities: ",
+    "an5.169:3.6": "‘Reverend Ānanda is skilled in the meaning, skilled in the teaching, skilled in definition, skilled in phrasing, and skilled in sequence.’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.169",
-    "volpages": "PTS AN iii 201",
-    "alt_volpages": null,
-    "uid": "an5.169",
-    "blurb": "Ānanda asks Sāriputta to explain what it means to be quick-witted, but Sāriputta gets Ānanda to explain it himself.",
-    "difficulty": null,
-    "original_title": "Khippanisantisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Quick-witted ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.169_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Von flinkem Verstand ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.169_translation-en-sujato",
-        "segmented": true,
-        "title": "Quick-witted ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.169_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.169_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Способность к быстрому пониманию",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.169_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.169_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.169_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.169_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.169_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an5.169_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an5.169_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.169_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.169_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.169_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.169_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr22.220, ms16A5_985, msdiv169,bj20.326, csp1ed16.177, csp2ed16.177, ms16A5_986, ndp17.448,ms16A5_987, vri37.187",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an5.169:1.2": "sāraṇīyaṁ → sārāṇīyaṁ (bj, sya-all, km, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an5.169",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Khippanisantisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.169:1.1": "dr22.220, ms16A5_985, msdiv169",
+    "an5.169:2.1": "bj20.326, csp1ed16.177, csp2ed16.177, ms16A5_986, ndp17.448",
+    "an5.169:3.1": "ms16A5_987, vri37.187"
   },
-  "bilara_translated_text": {
-    "uid": "an5.169",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Quick-witted ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.169:0.1",
+    "an5.169:0.2",
+    "an5.169:0.3",
+    "an5.169:1.1",
+    "an5.169:1.2",
+    "an5.169:2.1",
+    "an5.169:2.2",
+    "an5.169:2.3",
+    "an5.169:2.4",
+    "an5.169:2.5",
+    "an5.169:2.6",
+    "an5.169:3.1",
+    "an5.169:3.2",
+    "an5.169:3.3",
+    "an5.169:3.4",
+    "an5.169:3.5",
+    "an5.169:3.6",
+    "an5.169:3.7"
+  ]
 }

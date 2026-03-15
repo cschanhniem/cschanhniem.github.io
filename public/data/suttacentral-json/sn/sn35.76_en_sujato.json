@@ -1,326 +1,98 @@
 {
+  "comment_text": {
+    "sn35.76:1.5": "The following discourses have a brief question at this point, whereas the MS edition repeats the phrase “you should give up desire”. I follow the shorter version, found here in PTS and Bodhi. "
+  },
+  "html_text": {
+    "sn35.76:0.1": "<article id='sn35.76'><header><ul><li class='division'>{}</li>",
+    "sn35.76:0.2": "<li>{}</li></ul>",
+    "sn35.76:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.76:1.1": "<p>{}",
+    "sn35.76:1.2": "{}",
+    "sn35.76:1.3": "{}</p>",
+    "sn35.76:1.4": "<p>{}",
+    "sn35.76:1.5": "{}",
+    "sn35.76:1.6": "{}",
+    "sn35.76:1.7": "{}",
+    "sn35.76:1.8": "{}</p>",
+    "sn35.76:1.9": "<p>{}",
+    "sn35.76:1.10": "{}",
+    "sn35.76:1.11": "{}",
+    "sn35.76:1.12": "{}",
+    "sn35.76:1.13": "{}",
+    "sn35.76:1.14": "{}",
+    "sn35.76:1.15": "{}</p>",
+    "sn35.76:1.16": "<p>{}</p>",
+    "sn35.76:1.17": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.76",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Rādhaaniccasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sick (2nd) ",
-      "uid": "sn35.75"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Rādha on Suffering ",
-      "uid": "sn35.77"
-    }
+    "sn35.76:0.1": "Saṁyutta Nikāya 35.76 ",
+    "sn35.76:0.2": "8. Gilānavagga ",
+    "sn35.76:0.3": "Rādhaaniccasutta ",
+    "sn35.76:1.1": "Atha kho āyasmā rādho …pe… ",
+    "sn35.76:1.2": "ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca: ",
+    "sn35.76:1.3": "“sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti. ",
+    "sn35.76:1.4": "“Yaṁ kho, rādha, aniccaṁ tatra te chando pahātabbo. ",
+    "sn35.76:1.5": "Kiñca, rādha, aniccaṁ tatra te chando pahātabbo? ",
+    "sn35.76:1.6": "Cakkhu aniccaṁ, rūpā aniccā, cakkhuviññāṇaṁ … ",
+    "sn35.76:1.7": "cakkhusamphasso … ",
+    "sn35.76:1.8": "yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccaṁ. Tatra te chando pahātabbo …pe… ",
+    "sn35.76:1.9": "jivhā … ",
+    "sn35.76:1.10": "kāyo … ",
+    "sn35.76:1.11": "mano anicco. Tatra te chando pahātabbo. ",
+    "sn35.76:1.12": "Dhammā … ",
+    "sn35.76:1.13": "manoviññāṇaṁ … ",
+    "sn35.76:1.14": "manosamphasso … ",
+    "sn35.76:1.15": "yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccaṁ. Tatra te chando pahātabbo. ",
+    "sn35.76:1.16": "Yaṁ kho, rādha, aniccaṁ tatra te chando pahātabbo”ti. ",
+    "sn35.76:1.17": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn35.76",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Rādha on Impermanence ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sick (2nd) ",
-      "uid": "sn35.75"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Rādha on Suffering ",
-      "uid": "sn35.77"
-    }
+  "translation_text": {
+    "sn35.76:0.1": "Linked Discourses 35.76 ",
+    "sn35.76:0.2": "8. Sick ",
+    "sn35.76:0.3": "With Rādha on Impermanence ",
+    "sn35.76:1.1": "The Venerable Rādha went up to the Buddha … ",
+    "sn35.76:1.2": "and said to him, ",
+    "sn35.76:1.3": "“Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” ",
+    "sn35.76:1.4": "“Rādha, you should give up desire for what is impermanent. ",
+    "sn35.76:1.5": "And what is impermanent? ",
+    "sn35.76:1.6": "The eye, sights, eye consciousness, ",
+    "sn35.76:1.7": "and eye contact are impermanent. ",
+    "sn35.76:1.8": "And the pleasant, painful, or neutral feeling that arises dependent on eye contact is also impermanent. You should give up desire for it. ",
+    "sn35.76:1.9": "The ear … nose … tongue … ",
+    "sn35.76:1.10": "body … ",
+    "sn35.76:1.11": "The mind, ",
+    "sn35.76:1.12": "ideas, ",
+    "sn35.76:1.13": "mind consciousness, ",
+    "sn35.76:1.14": "and mind contact are impermanent. ",
+    "sn35.76:1.15": "And the pleasant, painful, or neutral feeling that arises dependent on mind contact is also impermanent. You should give up desire for it. ",
+    "sn35.76:1.16": "You should give up desire for what is impermanent.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.76",
-    "volpages": " PTS 4.49",
-    "alt_volpages": null,
-    "uid": "sn35.76",
-    "blurb": "Venerable Rādha asks for a teaching to take on retreat. The Buddha told him to abandon desire for sense experience, which is impermanent.",
-    "difficulty": null,
-    "original_title": "Rādhaaniccasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Rādha on Impermanence ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.76_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Rādha über Unbeständigkeit ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.76_translation-en-sujato",
-        "segmented": true,
-        "title": "With Rādha on Impermanence ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.76_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.76_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.76_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.76_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Radha (1)"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn35.76_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.76_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.76_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.76_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.76_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.76_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.76_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.76_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.76_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.76_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.110, csp1ed13.275, csp2ed13.275, dr18.58, ms13S4_321, msdiv76, pts-vp-pli4.49, sya18.60, vri26.54",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.76:0.3": "Rādhaaniccasutta → aniccasuttaṁ (bj); rādha 1 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.76",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Rādhaaniccasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.76:1.1": "bj16.110, csp1ed13.275, csp2ed13.275, dr18.58, ms13S4_321, msdiv76, pts-vp-pli4.49, sya18.60, vri26.54"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.76",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Rādha on Impermanence ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.76:0.1",
+    "sn35.76:0.2",
+    "sn35.76:0.3",
+    "sn35.76:1.1",
+    "sn35.76:1.2",
+    "sn35.76:1.3",
+    "sn35.76:1.4",
+    "sn35.76:1.5",
+    "sn35.76:1.6",
+    "sn35.76:1.7",
+    "sn35.76:1.8",
+    "sn35.76:1.9",
+    "sn35.76:1.10",
+    "sn35.76:1.11",
+    "sn35.76:1.12",
+    "sn35.76:1.13",
+    "sn35.76:1.14",
+    "sn35.76:1.15",
+    "sn35.76:1.16",
+    "sn35.76:1.17"
   ]
 }

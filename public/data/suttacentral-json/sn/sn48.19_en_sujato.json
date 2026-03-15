@@ -1,310 +1,52 @@
 {
+  "html_text": {
+    "sn48.19:0.1": "<article id='sn48.19'><header><ul><li class='division'>{}</li>",
+    "sn48.19:0.2": "<li>{}</li></ul>",
+    "sn48.19:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.19:1.1": "<p>{}</p>",
+    "sn48.19:2.1": "<p>{}",
+    "sn48.19:2.2": "{}</p>",
+    "sn48.19:2.3": "<p>{}",
+    "sn48.19:2.4": "{}</p>",
+    "sn48.19:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn48.19",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sampannasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Practicing ",
-      "uid": "sn48.18"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ending of Defilements ",
-      "uid": "sn48.20"
-    }
+    "sn48.19:0.1": "Saṁyutta Nikāya 48.19 ",
+    "sn48.19:0.2": "2. Mudutaravagga ",
+    "sn48.19:0.3": "Sampannasutta ",
+    "sn48.19:1.1": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn48.19:2.1": "“‘Indriyasampanno, indriyasampanno’ti, bhante, vuccati. ",
+    "sn48.19:2.2": "Kittāvatā nu kho, bhante, indriyasampanno hotī”ti? ",
+    "sn48.19:2.3": "“Idha, bhikkhu, bhikkhu saddhindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ, vīriyindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ, satindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ, samādhindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ, paññindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ. ",
+    "sn48.19:2.4": "Ettāvatā kho, bhikkhu, bhikkhu indriyasampanno hotī”ti. ",
+    "sn48.19:2.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn48.19",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Endowed ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Practicing ",
-      "uid": "sn48.18"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ending of Defilements ",
-      "uid": "sn48.20"
-    }
+  "translation_text": {
+    "sn48.19:0.1": "Linked Discourses 48.19 ",
+    "sn48.19:0.2": "2. Weaker ",
+    "sn48.19:0.3": "Endowed ",
+    "sn48.19:1.1": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "sn48.19:2.1": "“Sir, they speak of someone who is ‘accomplished in the faculties’. ",
+    "sn48.19:2.2": "How is someone accomplished in the faculties defined?” ",
+    "sn48.19:2.3": "“Mendicant, it’s when a mendicant develops the faculties of faith, energy, mindfulness, immersion, and wisdom that lead to peace and awakening. ",
+    "sn48.19:2.4": "This is how someone who is accomplished in the faculties is defined.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 48.19",
-    "volpages": " PTS 5.203",
-    "alt_volpages": null,
-    "uid": "sn48.19",
-    "blurb": "Someone who develops the faculties is said to be equipped with faculties.",
-    "difficulty": null,
-    "original_title": "Sampannasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Endowed ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn48.19_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vervollkommnet ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn48.19_translation-en-sujato",
-        "segmented": true,
-        "title": "Endowed ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn48.19_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn48.19_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn48.19_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn48.19_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn48.19_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn48.19_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn48.19_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn48.19_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn48.19_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn48.19_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn48.19_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn48.19_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn48.19_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.362, ms14S5_1053, msdiv489,cck19.213, ms14S5_1054, pts-vp-pli5.203, vri27.279",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn48.19:0.3": "Sampannasutta → upasanno (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn48.19",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sampannasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn48.19:1.1": "bj17.1.362, ms14S5_1053, msdiv489",
+    "sn48.19:2.1": "cck19.213, ms14S5_1054, pts-vp-pli5.203, vri27.279"
   },
-  "bilara_translated_text": {
-    "uid": "sn48.19",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Endowed ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn48.19:0.1",
+    "sn48.19:0.2",
+    "sn48.19:0.3",
+    "sn48.19:1.1",
+    "sn48.19:2.1",
+    "sn48.19:2.2",
+    "sn48.19:2.3",
+    "sn48.19:2.4",
+    "sn48.19:2.5"
+  ]
 }

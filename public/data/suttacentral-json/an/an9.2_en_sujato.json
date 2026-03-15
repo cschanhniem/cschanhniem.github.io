@@ -1,310 +1,84 @@
 {
+  "html_text": {
+    "an9.2:0.1": "<article id='an9.2'><header><ul><li class='division'>{}</li>",
+    "an9.2:0.2": "<li>{}</li></ul>",
+    "an9.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an9.2:1.1": "<p>{}</p>",
+    "an9.2:1.2": "<p>{}",
+    "an9.2:1.3": "{}</p>",
+    "an9.2:1.4": "<p>{}</p>",
+    "an9.2:1.5": "<p>{}</p>",
+    "an9.2:1.6": "<p>{}</p>",
+    "an9.2:1.7": "<p>{}</p>",
+    "an9.2:1.8": "<p>{}",
+    "an9.2:1.9": "{}</p>",
+    "an9.2:2.1": "<p>{}",
+    "an9.2:2.2": "{}",
+    "an9.2:2.3": "{}",
+    "an9.2:2.4": "{}</p>",
+    "an9.2:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an9.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nissayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Awakening ",
-      "uid": "an9.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Meghiya ",
-      "uid": "an9.3"
-    }
+    "an9.2:0.1": "Aṅguttara Nikāya 9.2 ",
+    "an9.2:0.2": "1. Sambodhivagga ",
+    "an9.2:0.3": "Nissayasutta ",
+    "an9.2:1.1": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "an9.2:1.2": "“‘nissayasampanno nissayasampanno’ti, bhante, vuccati. ",
+    "an9.2:1.3": "Kittāvatā nu kho, bhante, bhikkhu nissayasampanno hotī”ti? ",
+    "an9.2:1.4": "“Saddhañce, bhikkhu, bhikkhu nissāya akusalaṁ pajahati kusalaṁ bhāveti, pahīnamevassa taṁ akusalaṁ hoti. ",
+    "an9.2:1.5": "Hiriñce, bhikkhu, bhikkhu nissāya …pe… ",
+    "an9.2:1.6": "ottappañce, bhikkhu, bhikkhu nissāya …pe… ",
+    "an9.2:1.7": "vīriyañce, bhikkhu, bhikkhu nissāya …pe… ",
+    "an9.2:1.8": "paññañce, bhikkhu, bhikkhu nissāya akusalaṁ pajahati kusalaṁ bhāveti, pahīnamevassa taṁ akusalaṁ hoti. ",
+    "an9.2:1.9": "Taṁ hissa bhikkhuno akusalaṁ pahīnaṁ hoti suppahīnaṁ, yaṁsa ariyāya paññāya disvā pahīnaṁ. ",
+    "an9.2:2.1": "Tena ca pana, bhikkhu, bhikkhunā imesu pañcasu dhammesu patiṭṭhāya cattāro upanissāya vihātabbā. ",
+    "an9.2:2.2": "Katame cattāro? ",
+    "an9.2:2.3": "Idha, bhikkhu, bhikkhu saṅkhāyekaṁ paṭisevati, saṅkhāyekaṁ adhivāseti, saṅkhāyekaṁ parivajjeti, saṅkhāyekaṁ vinodeti. ",
+    "an9.2:2.4": "Evaṁ kho, bhikkhu, bhikkhu nissayasampanno hotī”ti. ",
+    "an9.2:2.5": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "an9.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Supported ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Awakening ",
-      "uid": "an9.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Meghiya ",
-      "uid": "an9.3"
-    }
+  "translation_text": {
+    "an9.2:0.1": "Numbered Discourses 9.2 ",
+    "an9.2:0.2": "1. Awakening ",
+    "an9.2:0.3": "Supported ",
+    "an9.2:1.1": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "an9.2:1.2": "“Sir, they speak of being ‘supported’. ",
+    "an9.2:1.3": "How is a mendicant who is supported defined?” ",
+    "an9.2:1.4": "“Mendicant, if a mendicant supported by faith gives up the unskillful and develops the skillful, the unskillful is actually given up by them. ",
+    "an9.2:1.5": "If a mendicant supported by conscience … ",
+    "an9.2:1.6": "If a mendicant supported by prudence … ",
+    "an9.2:1.7": "If a mendicant supported by energy … ",
+    "an9.2:1.8": "If a mendicant supported by wisdom gives up the unskillful and develops the skillful, the unskillful is actually given up by them. ",
+    "an9.2:1.9": "What’s been given up is completely given up when it has been given up by seeing with noble wisdom. ",
+    "an9.2:2.1": "But then, a mendicant grounded on these five things should rely on four things. ",
+    "an9.2:2.2": "What four? ",
+    "an9.2:2.3": "After appraisal, a mendicant uses some things, endures some things, avoids some things, and gets rid of some things. ",
+    "an9.2:2.4": "That’s how a mendicant is supported.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 9.2",
-    "volpages": " PTS 4.354",
-    "alt_volpages": null,
-    "uid": "an9.2",
-    "blurb": "The things that a mendicant relies on as supports in spiritual practice.",
-    "difficulty": null,
-    "original_title": "Nissayasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Supported ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an9.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Eine Stütze haben ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an9.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Supported ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an9.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an9.2_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an9.2_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an9.2_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an9.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an9.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an9.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an9.2_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an9.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an9.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an9.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an9.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an9.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms17A9_17, msdiv2, pts-vp-pli4.354, vri39.174,bj22.372, csp1ed17.166, csp2ed17.166, dr23.383, ms17A9_18",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an9.2:0.3": "Nissayasutta → nissayasampannasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an9.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nissayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an9.2:1.1": "ms17A9_17, msdiv2, pts-vp-pli4.354, vri39.174",
+    "an9.2:2.1": "bj22.372, csp1ed17.166, csp2ed17.166, dr23.383, ms17A9_18"
   },
-  "bilara_translated_text": {
-    "uid": "an9.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Supported ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an9.2:0.1",
+    "an9.2:0.2",
+    "an9.2:0.3",
+    "an9.2:1.1",
+    "an9.2:1.2",
+    "an9.2:1.3",
+    "an9.2:1.4",
+    "an9.2:1.5",
+    "an9.2:1.6",
+    "an9.2:1.7",
+    "an9.2:1.8",
+    "an9.2:1.9",
+    "an9.2:2.1",
+    "an9.2:2.2",
+    "an9.2:2.3",
+    "an9.2:2.4",
+    "an9.2:2.5"
+  ]
 }

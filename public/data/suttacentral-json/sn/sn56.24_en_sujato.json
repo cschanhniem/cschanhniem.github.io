@@ -1,339 +1,73 @@
 {
+  "html_text": {
+    "sn56.24:0.1": "<article id='sn56.24'><header><ul><li class='division'>{}</li>",
+    "sn56.24:0.2": "<li>{}</li></ul>",
+    "sn56.24:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.24:1.1": "<p>{}</p>",
+    "sn56.24:1.2": "<p>{}",
+    "sn56.24:1.3": "{}",
+    "sn56.24:1.4": "{}</p>",
+    "sn56.24:2.1": "<p>{}",
+    "sn56.24:2.2": "{}",
+    "sn56.24:2.3": "{}",
+    "sn56.24:2.4": "{}",
+    "sn56.24:2.5": "{}</p>",
+    "sn56.24:3.1": "<p>{}</p>",
+    "sn56.24:3.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.24",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Arahantasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Fully Awakened Buddha ",
-      "uid": "sn56.23"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ending of Defilements ",
-      "uid": "sn56.25"
-    }
+    "sn56.24:0.1": "Saṁyutta Nikāya 56.24 ",
+    "sn56.24:0.2": "3. Koṭigāmavagga ",
+    "sn56.24:0.3": "Arahantasutta ",
+    "sn56.24:1.1": "Sāvatthinidānaṁ. ",
+    "sn56.24:1.2": "“Ye hi keci, bhikkhave, atītamaddhānaṁ arahanto sammāsambuddhā yathābhūtaṁ abhisambujjhiṁsu, sabbe te cattāri ariyasaccāni yathābhūtaṁ abhisambujjhiṁsu. ",
+    "sn56.24:1.3": "Ye hi keci, bhikkhave, anāgatamaddhānaṁ arahanto sammāsambuddhā yathābhūtaṁ abhisambujjhissanti, sabbe te cattāri ariyasaccāni yathābhūtaṁ abhisambujjhissanti. ",
+    "sn56.24:1.4": "Ye hi keci, bhikkhave, etarahi arahanto sammāsambuddhā yathābhūtaṁ abhisambujjhanti, sabbe te cattāri ariyasaccāni yathābhūtaṁ abhisambujjhanti. ",
+    "sn56.24:2.1": "Katamāni cattāri? ",
+    "sn56.24:2.2": "Dukkhaṁ ariyasaccaṁ, dukkhasamudayaṁ ariyasaccaṁ, dukkhanirodhaṁ ariyasaccaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ. ",
+    "sn56.24:2.3": "Ye hi, keci, bhikkhave, atītamaddhānaṁ arahanto sammāsambuddhā yathābhūtaṁ abhisambujjhiṁsu …pe… ",
+    "sn56.24:2.4": "abhisambujjhissanti … ",
+    "sn56.24:2.5": "abhisambujjhanti, sabbe te imāni cattāri ariyasaccāni yathābhūtaṁ abhisambujjhanti. ",
+    "sn56.24:3.1": "Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. ",
+    "sn56.24:3.2": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn56.24",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Perfected Ones ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Fully Awakened Buddha ",
-      "uid": "sn56.23"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ending of Defilements ",
-      "uid": "sn56.25"
-    }
+  "translation_text": {
+    "sn56.24:0.1": "Linked Discourses 56.24 ",
+    "sn56.24:0.2": "3. At the Village of Koṭi ",
+    "sn56.24:0.3": "The Perfected Ones ",
+    "sn56.24:1.1": "At Sāvatthī. ",
+    "sn56.24:1.2": "“Mendicants, whatever perfected ones, fully awakened Buddhas truly awaken—in the past, ",
+    "sn56.24:1.3": "future, ",
+    "sn56.24:1.4": "or present—all of them truly awaken to the four noble truths. ",
+    "sn56.24:2.1": "What four? ",
+    "sn56.24:2.2": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. ",
+    "sn56.24:2.3": "Whatever perfected ones, fully awakened Buddhas truly awaken—in the past, ",
+    "sn56.24:2.4": "future, ",
+    "sn56.24:2.5": "or present—all of them truly awaken to the four noble truths. ",
+    "sn56.24:3.1": "That’s why you should practice meditation …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.24",
-    "volpages": " PTS 5.434",
-    "alt_volpages": null,
-    "uid": "sn56.24",
-    "blurb": "All Buddhas become awakened through the four noble truths.",
-    "difficulty": null,
-    "original_title": "Arahantasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Perfected Ones ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.24_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Vollendeten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.24_translation-en-sujato",
-        "segmented": true,
-        "title": "The Perfected Ones ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.24_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.24_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.24_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn56.24_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Arahants"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn56.24_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.24_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.24_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.24_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.24_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn56.24_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_sn56.24_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.24_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.24_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.24_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.24_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed14.380, csp2ed14.380, ms14S5_2281, msdiv1094, ndp15.372, pts-vp-pli5.434, sya19.544,cck19.414, ms14S5_2282, vri27.497,ms14S5_2283",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn56.24:1.3": "hi → yepi hi (sya-all, km, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn56.24",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Arahantasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.24:1.1": "csp1ed14.380, csp2ed14.380, ms14S5_2281, msdiv1094, ndp15.372, pts-vp-pli5.434, sya19.544",
+    "sn56.24:2.1": "cck19.414, ms14S5_2282, vri27.497",
+    "sn56.24:3.1": "ms14S5_2283"
   },
-  "bilara_translated_text": {
-    "uid": "sn56.24",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Perfected Ones ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn56.24:0.1",
+    "sn56.24:0.2",
+    "sn56.24:0.3",
+    "sn56.24:1.1",
+    "sn56.24:1.2",
+    "sn56.24:1.3",
+    "sn56.24:1.4",
+    "sn56.24:2.1",
+    "sn56.24:2.2",
+    "sn56.24:2.3",
+    "sn56.24:2.4",
+    "sn56.24:2.5",
+    "sn56.24:3.1",
+    "sn56.24:3.2"
   ]
 }

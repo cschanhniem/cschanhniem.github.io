@@ -1,313 +1,64 @@
 {
+  "html_text": {
+    "an4.262:0.1": "<article id='an4.262'><header><ul><li class='division'>{}</li>",
+    "an4.262:0.2": "<li>{}</li></ul>",
+    "an4.262:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.262:1.1": "<p>{}",
+    "an4.262:1.2": "{}",
+    "an4.262:1.3": "{}",
+    "an4.262:1.4": "{}</p>",
+    "an4.262:2.1": "<p>{}",
+    "an4.262:2.2": "{}",
+    "an4.262:2.3": "{}",
+    "an4.262:2.4": "{}</p>",
+    "an4.262:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an4.262",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Araññasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Powers ",
-      "uid": "an4.261"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Deeds ",
-      "uid": "an4.263"
-    }
+    "an4.262:0.1": "Aṅguttara Nikāya 4.262 ",
+    "an4.262:0.2": "26. Abhiññāvagga ",
+    "an4.262:0.3": "Araññasutta ",
+    "an4.262:1.1": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu nālaṁ araññavanapatthāni pantāni senāsanāni paṭisevituṁ. ",
+    "an4.262:1.2": "Katamehi catūhi? ",
+    "an4.262:1.3": "Kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena, duppañño hoti jaḷo elamūgo—",
+    "an4.262:1.4": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu nālaṁ araññavanapatthāni pantāni senāsanāni paṭisevituṁ. ",
+    "an4.262:2.1": "Catūhi, bhikkhave, dhammehi samannāgato bhikkhu alaṁ araññavanapatthāni pantāni senāsanāni paṭisevituṁ. ",
+    "an4.262:2.2": "Katamehi catūhi? ",
+    "an4.262:2.3": "Nekkhammavitakkena, abyāpādavitakkena, avihiṁsāvitakkena, paññavā hoti ajaḷo anelamūgo—",
+    "an4.262:2.4": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu alaṁ araññavanapatthāni pantāni senāsanāni paṭisevitun”ti. ",
+    "an4.262:2.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "an4.262",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Wilderness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Powers ",
-      "uid": "an4.261"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Deeds ",
-      "uid": "an4.263"
-    }
+  "translation_text": {
+    "an4.262:0.1": "Numbered Discourses 4.262 ",
+    "an4.262:0.2": "26. Insight ",
+    "an4.262:0.3": "Wilderness ",
+    "an4.262:1.1": "“Mendicants, when a mendicant has four qualities they’re not ready to frequent remote lodgings in the wilderness and the forest. ",
+    "an4.262:1.2": "What four? ",
+    "an4.262:1.3": "They have sensual, malicious, and cruel thoughts; or they’re witless, dull, and idiotic. ",
+    "an4.262:1.4": "When a mendicant possesses these four qualities they’re not ready to frequent remote lodgings in the wilderness and the forest. ",
+    "an4.262:2.1": "When a mendicant has four qualities they’re ready to frequent remote lodgings in the wilderness and the forest. ",
+    "an4.262:2.2": "What four? ",
+    "an4.262:2.3": "They have thoughts of renunciation, good will, and harmlessness; and they’re wise, bright, and clever. ",
+    "an4.262:2.4": "When a mendicant possesses these four qualities they’re ready to frequent remote lodgings in the wilderness and the forest.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.262",
-    "volpages": "PTS AN ii 252",
-    "alt_volpages": null,
-    "uid": "an4.262",
-    "blurb": "Things that make you unfit for living secluded in the wilderness.",
-    "difficulty": null,
-    "original_title": "Araññasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Wilderness ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.262_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Wildnis ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.262_translation-en-sujato",
-        "segmented": true,
-        "title": "Wilderness ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.262_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.262_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.262_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an4.262_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "A Wilderness Dweller"
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_an4.262_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an4.262_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.262_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.262_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an4.262_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.262_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.262_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.262_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.262_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj19.484, csp1ed15.575, csp2ed15.575, ms15A4_1559, msdiv262, ndp17.267,dr21.359, ms15A4_1560, vri36.289",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an4.262:0.3": "Araññasutta → araññasenāsanasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an4.262",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Araññasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.262:1.1": "bj19.484, csp1ed15.575, csp2ed15.575, ms15A4_1559, msdiv262, ndp17.267",
+    "an4.262:2.1": "dr21.359, ms15A4_1560, vri36.289"
   },
-  "bilara_translated_text": {
-    "uid": "an4.262",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Wilderness ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an4.262:0.1",
+    "an4.262:0.2",
+    "an4.262:0.3",
+    "an4.262:1.1",
+    "an4.262:1.2",
+    "an4.262:1.3",
+    "an4.262:1.4",
+    "an4.262:2.1",
+    "an4.262:2.2",
+    "an4.262:2.3",
+    "an4.262:2.4",
+    "an4.262:2.5"
   ]
 }

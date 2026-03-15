@@ -1,298 +1,71 @@
 {
+  "html_text": {
+    "an6.40:0.1": "<article id='an6.40'><header><ul><li class='division'>{}</li>",
+    "an6.40:0.2": "<li>{}</li></ul>",
+    "an6.40:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.40:1.1": "<p><span class='evam'>{}</span>",
+    "an6.40:1.2": "{}",
+    "an6.40:1.3": "{}</p>",
+    "an6.40:1.4": "<p>{}</p>",
+    "an6.40:1.5": "<p>{}",
+    "an6.40:1.6": "{}</p>",
+    "an6.40:2.1": "<p>{}</p>",
+    "an6.40:2.2": "<p>{}",
+    "an6.40:2.3": "{}</p>",
+    "an6.40:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.40",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kimilasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sources ",
-      "uid": "an6.39"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Tree Trunk ",
-      "uid": "an6.41"
-    }
+    "an6.40:0.1": "Aṅguttara Nikāya 6.40 ",
+    "an6.40:0.2": "4. Devatāvagga ",
+    "an6.40:0.3": "Kimilasutta ",
+    "an6.40:1.1": "Evaṁ me sutaṁ—",
+    "an6.40:1.2": "ekaṁ samayaṁ bhagavā kimilāyaṁ viharati niculavane. ",
+    "an6.40:1.3": "Atha kho āyasmā kimilo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā kimilo bhagavantaṁ etadavoca: ",
+    "an6.40:1.4": "“ko nu kho, bhante, hetu ko paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti? ",
+    "an6.40:1.5": "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, appamāde agāravā viharanti appatissā, paṭisanthāre agāravā viharanti appatissā. ",
+    "an6.40:1.6": "Ayaṁ kho, kimila, hetu ayaṁ paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti”. ",
+    "an6.40:2.1": "“Ko pana, bhante, hetu ko paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti? ",
+    "an6.40:2.2": "“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari sagāravā viharanti sappatissā, dhamme sagāravā viharanti sappatissā, saṅghe sagāravā viharanti sappatissā, sikkhāya sagāravā viharanti sappatissā, appamāde sagāravā viharanti sappatissā, paṭisanthāre sagāravā viharanti sappatissā. ",
+    "an6.40:2.3": "Ayaṁ kho, kimila, hetu ayaṁ paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti. ",
+    "an6.40:2.4": "Dasamaṁ. "
   },
-  "translation": {
-    "uid": "an6.40",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Kimbila ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sources ",
-      "uid": "an6.39"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Tree Trunk ",
-      "uid": "an6.41"
-    }
+  "translation_text": {
+    "an6.40:0.1": "Numbered Discourses 6.40 ",
+    "an6.40:0.2": "4. Deities ",
+    "an6.40:0.3": "With Kimbila ",
+    "an6.40:1.1": "So I have heard. ",
+    "an6.40:1.2": "At one time the Buddha was staying near Kimbilā in the Freshwater Mangrove Wood. ",
+    "an6.40:1.3": "Then Venerable Kimbila went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "an6.40:1.4": "“What is the cause, sir, what is the reason why the true teaching does not last long after the final quenching of the Realized One?” ",
+    "an6.40:1.5": "“Kimbila, it’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, diligence, and hospitality after the final quenching of the Realized One. ",
+    "an6.40:1.6": "This is the cause, this is the reason why the true teaching does not last long after the final quenching of the Realized One.” ",
+    "an6.40:2.1": "“What is the cause, sir, what is the reason why the true teaching does last long after the final quenching of the Realized One?” ",
+    "an6.40:2.2": "“Kimbila, it’s when the monks, nuns, laymen, and laywomen maintain respect and reverence for the Teacher, the teaching, the Saṅgha, the training, diligence, and hospitality after the final quenching of the Realized One. ",
+    "an6.40:2.3": "This is the cause, this is the reason why the true teaching does last long after the final quenching of the Realized One.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.40",
-    "volpages": " PTS 3.340",
-    "alt_volpages": null,
-    "uid": "an6.40",
-    "blurb": "The Buddha explains to Venerable Kimbila the reasons why Buddhism lasts long after the Buddha’s demise.",
-    "difficulty": null,
-    "original_title": "Kimilasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Kimbila ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.40_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Kimbila ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.40_translation-en-sujato",
-        "segmented": true,
-        "title": "With Kimbila ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.40_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.40_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Кимбила",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.40_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.40_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.40_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.40_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.40_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an6.40_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.40_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.40_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.40_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.40_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A6_261, msdiv40, pts-vp-pli3.340, vri38.55,bj21.100, csp1ed16.299, csp2ed16.299, dr22.371, ms16A6_262",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.40:0.3": "Kimilasutta → kimbilasuttaṁ (bj) ",
+    "an6.40:1.2": "kimilāyaṁ → kimbilāyaṁ (bj, pts1ed); kimmilāyaṁ (sya-all) ",
+    "an6.40:1.3": "kimilo → kimbilo (bj, pts1ed); kimmilo (sya-all) ",
+    "an6.40:1.5": "paṭisanthāre → paṭisandhāre (mr) "
   },
-  "bilara_root_text": {
-    "uid": "an6.40",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kimilasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.40:1.1": "ms16A6_261, msdiv40, pts-vp-pli3.340, vri38.55",
+    "an6.40:2.1": "bj21.100, csp1ed16.299, csp2ed16.299, dr22.371, ms16A6_262"
   },
-  "bilara_translated_text": {
-    "uid": "an6.40",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Kimbila ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.40:0.1",
+    "an6.40:0.2",
+    "an6.40:0.3",
+    "an6.40:1.1",
+    "an6.40:1.2",
+    "an6.40:1.3",
+    "an6.40:1.4",
+    "an6.40:1.5",
+    "an6.40:1.6",
+    "an6.40:2.1",
+    "an6.40:2.2",
+    "an6.40:2.3",
+    "an6.40:2.4"
+  ]
 }

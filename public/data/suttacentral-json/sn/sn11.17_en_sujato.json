@@ -1,353 +1,92 @@
 {
+  "comment_text": {
+    "sn11.17:1.3": "The form of this discourse echoes that of <a href='https://suttacentral.net/sn11.8/en/sujato'>SN 11.8</a>, with Sakka and Sahampati in the roles of Verocana and Sakka. This time it is Sakka who gives the inferior verse that is trumped by Sahampati. ",
+    "sn11.17:2.4": "Sakka speaks to the personal liberation of the Buddha. ",
+    "sn11.17:4.4": "Sahampati encourages the Buddha to teach for the liberation of all beings, as he did after the Buddha’s awakening (<a href='https://suttacentral.net/sn6.1/en/sujato#8.1'>SN 6.1:8.1</a>). "
+  },
+  "html_text": {
+    "sn11.17:0.1": "<article id='sn11.17'><header><ul><li class='division'>{}</li>",
+    "sn11.17:0.2": "<li>{}</li></ul>",
+    "sn11.17:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn11.17:1.1": "<p>{}</p>",
+    "sn11.17:1.2": "<p>{}",
+    "sn11.17:1.3": "{}</p>",
+    "sn11.17:1.4": "<p>{}</p>",
+    "sn11.17:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn11.17:2.2": "<span class='verse-line'>{}</span>",
+    "sn11.17:2.3": "<span class='verse-line'>{}</span>",
+    "sn11.17:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn11.17:3.1": "<p>{}",
+    "sn11.17:3.2": "{}</p>",
+    "sn11.17:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn11.17:4.2": "<span class='verse-line'>{}</span>",
+    "sn11.17:4.3": "<span class='verse-line'>{}</span>",
+    "sn11.17:4.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn11.17",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Buddhavandanāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sponsoring Sacrifice ",
-      "uid": "sn11.16"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Who Sakka Worships ",
-      "uid": "sn11.18"
-    }
+    "sn11.17:0.1": "Saṁyutta Nikāya 11.17 ",
+    "sn11.17:0.2": "2. Dutiyavagga ",
+    "sn11.17:0.3": "Buddhavandanāsutta ",
+    "sn11.17:1.1": "Sāvatthiyaṁ jetavane. ",
+    "sn11.17:1.2": "Tena kho pana samayena bhagavā divāvihāragato hoti paṭisallīno. ",
+    "sn11.17:1.3": "Atha kho sakko ca devānamindo brahmā ca sahampati yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā paccekaṁ dvārabāhaṁ nissāya aṭṭhaṁsu. ",
+    "sn11.17:1.4": "Atha kho sakko devānamindo bhagavato santike imaṁ gāthaṁ abhāsi: ",
+    "sn11.17:2.1": "“Uṭṭhehi vīra vijitasaṅgāma, ",
+    "sn11.17:2.2": "Pannabhāra anaṇa vicara loke; ",
+    "sn11.17:2.3": "Cittañca te suvimuttaṁ, ",
+    "sn11.17:2.4": "Cando yathā pannarasāya rattin”ti. ",
+    "sn11.17:3.1": "“Na kho, devānaminda, tathāgatā evaṁ vanditabbā. ",
+    "sn11.17:3.2": "Evañca kho, devānaminda, tathāgatā vanditabbā: ",
+    "sn11.17:4.1": "‘Uṭṭhehi vīra vijitasaṅgāma, ",
+    "sn11.17:4.2": "Satthavāha anaṇa vicara loke; ",
+    "sn11.17:4.3": "Desassu bhagavā dhammaṁ, ",
+    "sn11.17:4.4": "Aññātāro bhavissantī’”ti. "
   },
-  "translation": {
-    "uid": "sn11.17",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Homage to the Buddha ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sponsoring Sacrifice ",
-      "uid": "sn11.16"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Who Sakka Worships ",
-      "uid": "sn11.18"
-    }
+  "translation_text": {
+    "sn11.17:0.1": "Linked Discourses 11.17 ",
+    "sn11.17:0.2": "Chapter Two ",
+    "sn11.17:0.3": "Homage to the Buddha ",
+    "sn11.17:1.1": "Near Sāvatthī in Jeta’s Grove. ",
+    "sn11.17:1.2": "Now at that time the Buddha had gone into retreat for the day’s meditation. ",
+    "sn11.17:1.3": "Then Sakka, lord of gods, and the divinity Sahampati approached the Buddha and stationed themselves one by each door-post. ",
+    "sn11.17:1.4": "Then Sakka spoke this verse in the Buddha’s presence: ",
+    "sn11.17:2.1": "“Rise, hero! Victor in battle, with burden put down, ",
+    "sn11.17:2.2": "wander the world free of debt. ",
+    "sn11.17:2.3": "Your mind is fully liberated, ",
+    "sn11.17:2.4": "like the moon on the fifteenth night.” ",
+    "sn11.17:3.1": "“Lord of gods, that’s not how to pay homage to the Realized Ones. ",
+    "sn11.17:3.2": "This is how it should be done: ",
+    "sn11.17:4.1": "‘Rise, hero! Victor in battle, caravan leader, ",
+    "sn11.17:4.2": "wander the world free of debt. ",
+    "sn11.17:4.3": "Let the Blessed One teach the Dhamma! ",
+    "sn11.17:4.4": "There will be those who understand!’” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 11.17",
-    "volpages": " PTS (1st ed) 1.234",
-    "alt_volpages": " PTS (2nd ed) 1.502",
-    "uid": "sn11.17",
-    "blurb": "Sakka and Brahmā Sahampati come to the Buddha’s hut and speak in his praise.",
-    "difficulty": null,
-    "original_title": "Buddhavandanāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Homage to the Buddha ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn11.17_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Dem Buddha Ehre erweisen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn11.17_translation-en-sujato",
-        "segmented": true,
-        "title": "Homage to the Buddha ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn11.17_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn11.17_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Poštovanje Budi ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn11.17_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn11.17_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn11.17_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Veneration of the Buddha"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn11.17_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn11.17_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn11.17_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn11.17_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn11.17_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn11.17_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn11.17_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn11.17_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn11.17_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn11.17_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn11.17_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 6,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck15.296, ms12S1_1653, msdiv263, vri23.270,bj13.416, ms12S1_1654, sya15.343,ms12S1_1655, pts-vp-pli1ed1.234,ms12S1_1656, pts-vp-pli2ed1.502",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn11.17:0.3": "Buddhavandanāsutta → vandanāsuttaṁ (bj); vandanasuttaṁ (sya-all); vandanā (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn11.17",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Buddhavandanāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn11.17:1.1": "cck15.296, ms12S1_1653, msdiv263, vri23.270",
+    "sn11.17:2.1": "bj13.416, ms12S1_1654, sya15.343",
+    "sn11.17:3.1": "ms12S1_1655, pts-vp-pli1ed1.234",
+    "sn11.17:4.1": "ms12S1_1656, pts-vp-pli2ed1.502"
   },
-  "bilara_translated_text": {
-    "uid": "sn11.17",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Homage to the Buddha ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn11.17:0.1",
+    "sn11.17:0.2",
+    "sn11.17:0.3",
+    "sn11.17:1.1",
+    "sn11.17:1.2",
+    "sn11.17:1.3",
+    "sn11.17:1.4",
+    "sn11.17:2.1",
+    "sn11.17:2.2",
+    "sn11.17:2.3",
+    "sn11.17:2.4",
+    "sn11.17:3.1",
+    "sn11.17:3.2",
+    "sn11.17:4.1",
+    "sn11.17:4.2",
+    "sn11.17:4.3",
+    "sn11.17:4.4"
   ]
 }

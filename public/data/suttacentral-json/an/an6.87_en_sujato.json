@@ -1,340 +1,64 @@
 {
+  "html_text": {
+    "an6.87:0.1": "<article id='an6.87'><header><ul><li class='division'>{}</li>",
+    "an6.87:0.2": "<li>{}</li></ul>",
+    "an6.87:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.87:1.1": "<p>{}",
+    "an6.87:1.2": "{}",
+    "an6.87:1.3": "{}",
+    "an6.87:1.4": "{}</p>",
+    "an6.87:2.1": "<p>{}",
+    "an6.87:2.2": "{}",
+    "an6.87:2.3": "{}",
+    "an6.87:2.4": "{}</p>",
+    "an6.87:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.87",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Voropitasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Obstacles ",
-      "uid": "an6.86"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Wanting to Listen ",
-      "uid": "an6.88"
-    }
+    "an6.87:0.1": "Aṅguttara Nikāya 6.87 ",
+    "an6.87:0.2": "9. Sītivagga ",
+    "an6.87:0.3": "Voropitasutta ",
+    "an6.87:1.1": "“Chahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṁ abhabbo niyāmaṁ okkamituṁ kusalesu dhammesu sammattaṁ. ",
+    "an6.87:1.2": "Katamehi chahi? ",
+    "an6.87:1.3": "Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṁ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, saṅgho bhinno hoti, duppañño hoti jaḷo eḷamūgo. ",
+    "an6.87:1.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇantopi saddhammaṁ abhabbo niyāmaṁ okkamituṁ kusalesu dhammesu sammattaṁ. ",
+    "an6.87:2.1": "Chahi, bhikkhave, dhammehi samannāgato suṇanto saddhammaṁ bhabbo niyāmaṁ okkamituṁ kusalesu dhammesu sammattaṁ. ",
+    "an6.87:2.2": "Katamehi chahi? ",
+    "an6.87:2.3": "Na mātā jīvitā voropitā hoti, na pitā jīvitā voropito hoti, na arahaṁ jīvitā voropito hoti, na tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, na saṅgho bhinno hoti, paññavā hoti ajaḷo aneḷamūgo. ",
+    "an6.87:2.4": "Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇanto saddhammaṁ bhabbo niyāmaṁ okkamituṁ kusalesu dhammesu sammattan”ti. ",
+    "an6.87:2.5": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "an6.87",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Murderer ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Obstacles ",
-      "uid": "an6.86"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Wanting to Listen ",
-      "uid": "an6.88"
-    }
+  "translation_text": {
+    "an6.87:0.1": "Numbered Discourses 6.87 ",
+    "an6.87:0.2": "9. Coolness ",
+    "an6.87:0.3": "A Murderer ",
+    "an6.87:1.1": "“Mendicants, someone with six qualities is unable to step into the sure path with regards to skillful qualities even when listening to the true teaching. ",
+    "an6.87:1.2": "What six? ",
+    "an6.87:1.3": "They murder their mother or father or a perfected one. They maliciously shed the blood of a Realized One. They cause a schism in the Saṅgha. They’re witless, dull, and idiotic. ",
+    "an6.87:1.4": "Someone with these six qualities is unable to step into the sure path with regards to skillful qualities, even when listening to the true teaching. ",
+    "an6.87:2.1": "Someone with six qualities is able to step into the sure path with regards to skillful qualities when listening to the true teaching. ",
+    "an6.87:2.2": "What six? ",
+    "an6.87:2.3": "They don’t murder their mother or father or a perfected one. They don’t maliciously shed the blood of a Realized One. They don’t cause a schism in the Saṅgha. They’re wise, bright, and clever. ",
+    "an6.87:2.4": "Someone with these six qualities is able to step into the sure path with regards to skillful qualities when listening to the true teaching.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.87",
-    "volpages": " PTS 3.437",
-    "alt_volpages": null,
-    "uid": "an6.87",
-    "blurb": "Things that enable or obstruct true understanding while listening to the teachings. ",
-    "difficulty": null,
-    "original_title": "Voropitasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Murderer ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.87_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Mörder ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.87_translation-en-sujato",
-        "segmented": true,
-        "title": "A Murderer ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.87_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.87_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Убийца ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.87_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.87_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Thanissaro Bhikkhu",
-        "author_short": "Thanissaro",
-        "author_uid": "thanissaro",
-        "has_comment": false,
-        "id": "en_an6.87_thanissaro",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1998",
-        "segmented": false,
-        "volpage": null,
-        "title": "Kamma Obstructions"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.87_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_an6.87_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.87_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.87_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an6.87_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.87_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.87_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.87_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.87_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.87_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A6_690, msdiv87,csp1ed16.381, csp2ed16.381, ms16A6_691, ndp18.138, pts-vp-pli3.437",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.87:1.3": "arahaṁ → arahā (sya-all, km, pts1ed); arahanto (mr) "
   },
-  "bilara_root_text": {
-    "uid": "an6.87",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Voropitasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.87:1.1": "ms16A6_690, msdiv87",
+    "an6.87:2.1": "csp1ed16.381, csp2ed16.381, ms16A6_691, ndp18.138, pts-vp-pli3.437"
   },
-  "bilara_translated_text": {
-    "uid": "an6.87",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Murderer ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "thanissaro"
+  "keys_order": [
+    "an6.87:0.1",
+    "an6.87:0.2",
+    "an6.87:0.3",
+    "an6.87:1.1",
+    "an6.87:1.2",
+    "an6.87:1.3",
+    "an6.87:1.4",
+    "an6.87:2.1",
+    "an6.87:2.2",
+    "an6.87:2.3",
+    "an6.87:2.4",
+    "an6.87:2.5"
   ]
 }

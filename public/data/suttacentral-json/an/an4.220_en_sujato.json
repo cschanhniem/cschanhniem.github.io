@@ -1,297 +1,88 @@
 {
+  "html_text": {
+    "an4.220:0.1": "<article id='an4.220'><header><ul><li class='division'>{}</li>",
+    "an4.220:0.2": "<li>{}</li></ul>",
+    "an4.220:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.220:1.1": "<p>{}",
+    "an4.220:1.2": "{}",
+    "an4.220:1.3": "{}",
+    "an4.220:1.4": "{}</p>",
+    "an4.220:2.1": "<p>{}",
+    "an4.220:2.2": "{}",
+    "an4.220:2.3": "{}",
+    "an4.220:2.4": "{}</p>",
+    "an4.220:2.5": "<p class='endsutta'>{}</p>",
+    "an4.220:2.6": "<p class='endvagga'>{}</p>",
+    "an4.220:3.0": "<p class='uddana-intro'>{}</p>",
+    "an4.220:3.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an4.220:3.2": "<span class='verse-line'>{}</span>",
+    "an4.220:3.3": "<span class='verse-line'>{}</span>",
+    "an4.220:3.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an4.220",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dussīlasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Lack of Conscience ",
-      "uid": "an4.219"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Verbal Conduct ",
-      "uid": "an4.221"
-    }
+    "an4.220:0.1": "Aṅguttara Nikāya 4.220 ",
+    "an4.220:0.2": "22. Parisāvagga ",
+    "an4.220:0.3": "Dussīlasutta ",
+    "an4.220:1.1": "“Catūhi, bhikkhave, dhammehi samannāgato yathābhataṁ nikkhitto evaṁ niraye. ",
+    "an4.220:1.2": "Katamehi catūhi? ",
+    "an4.220:1.3": "Assaddho hoti, dussīlo hoti, kusīto hoti, duppañño hoti—",
+    "an4.220:1.4": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṁ nikkhitto evaṁ niraye. ",
+    "an4.220:2.1": "Catūhi, bhikkhave, dhammehi samannāgato yathābhataṁ nikkhitto evaṁ sagge. ",
+    "an4.220:2.2": "Katamehi catūhi? ",
+    "an4.220:2.3": "Saddho hoti, sīlavā hoti, āraddhavīriyo hoti, paññavā hoti—",
+    "an4.220:2.4": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṁ nikkhitto evaṁ sagge”ti. ",
+    "an4.220:2.5": "Dasamaṁ. ",
+    "an4.220:2.6": "Parisasobhaṇavaggo dutiyo. ",
+    "an4.220:3.0": "Tassuddānaṁ ",
+    "an4.220:3.1": "Parisā diṭṭhi akataññutā, ",
+    "an4.220:3.2": "Pāṇātipātāpi dve maggā; ",
+    "an4.220:3.3": "Dve vohārapathā vuttā, ",
+    "an4.220:3.4": "Ahirikaṁ duppaññena cāti. "
   },
-  "translation": {
-    "uid": "an4.220",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Unethical ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Lack of Conscience ",
-      "uid": "an4.219"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Verbal Conduct ",
-      "uid": "an4.221"
-    }
+  "translation_text": {
+    "an4.220:0.1": "Numbered Discourses 4.220 ",
+    "an4.220:0.2": "22. Assembly ",
+    "an4.220:0.3": "Unethical ",
+    "an4.220:1.1": "“Mendicants, someone with four qualities is placed in hell as if delivered there. ",
+    "an4.220:1.2": "What four? ",
+    "an4.220:1.3": "They’re faithless, unethical, lazy, and witless. ",
+    "an4.220:1.4": "Someone with these four qualities is placed in hell as if delivered there. ",
+    "an4.220:2.1": "Someone with four qualities is placed in heaven as if delivered there. ",
+    "an4.220:2.2": "What four? ",
+    "an4.220:2.3": "They’re faithful, ethical, energetic, and wise. ",
+    "an4.220:2.4": "Someone with these four qualities is placed in heaven as if delivered there.” ",
+    "an4.220:2.5": "",
+    "an4.220:2.6": "",
+    "an4.220:3.1": "",
+    "an4.220:3.2": "",
+    "an4.220:3.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.220",
-    "volpages": " PTS 2.228",
-    "alt_volpages": null,
-    "uid": "an4.220",
-    "blurb": "Faith and other qualities determine rebirth.",
-    "difficulty": null,
-    "original_title": "Dussīlasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Unethical ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.220_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Tugendlos ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.220_translation-en-sujato",
-        "segmented": true,
-        "title": "Unethical ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.220_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.220_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.220_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2014",
-        "id": "es_an4.220_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an4.220_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.220_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.220_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an4.220_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.220_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.220_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.220_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.220_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed15.550, csp2ed15.550, dr21.321, ms15A4_1394, msdiv220, ndp17.242,ms15A4_1395, pts-vp-pli2.228, vri36.260,ms15A4_1399",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an4.220:0.3": "Dussīlasutta → navamaniraya-sagganikkhittasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an4.220",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dussīlasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.220:1.1": "csp1ed15.550, csp2ed15.550, dr21.321, ms15A4_1394, msdiv220, ndp17.242",
+    "an4.220:2.1": "ms15A4_1395, pts-vp-pli2.228, vri36.260",
+    "an4.220:3.1": "ms15A4_1399"
   },
-  "bilara_translated_text": {
-    "uid": "an4.220",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Unethical ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an4.220:0.1",
+    "an4.220:0.2",
+    "an4.220:0.3",
+    "an4.220:1.1",
+    "an4.220:1.2",
+    "an4.220:1.3",
+    "an4.220:1.4",
+    "an4.220:2.1",
+    "an4.220:2.2",
+    "an4.220:2.3",
+    "an4.220:2.4",
+    "an4.220:2.5",
+    "an4.220:2.6",
+    "an4.220:3.0",
+    "an4.220:3.1",
+    "an4.220:3.2",
+    "an4.220:3.3",
+    "an4.220:3.4"
+  ]
 }

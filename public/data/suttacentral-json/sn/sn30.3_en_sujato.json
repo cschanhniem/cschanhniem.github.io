@@ -1,323 +1,68 @@
 {
+  "html_text": {
+    "sn30.3:0.1": "<article id='sn30.3'><header><ul><li class='division'>{}</li>",
+    "sn30.3:0.2": "<li>{}</li></ul>",
+    "sn30.3:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn30.3:1.1": "<p>{}</p>",
+    "sn30.3:1.2": "<p>{}</p>",
+    "sn30.3:1.3": "<p>{}</p>",
+    "sn30.3:1.4": "<p>{}",
+    "sn30.3:1.5": "{}",
+    "sn30.3:1.6": "{}",
+    "sn30.3:1.7": "{}",
+    "sn30.3:1.8": "{}",
+    "sn30.3:1.9": "{}",
+    "sn30.3:1.10": "{}</p>",
+    "sn30.3:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn30.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dvayakārīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "They Carry Off ",
-      "uid": "sn30.2"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Both Kinds of Deeds (2nd–4th) ",
-      "uid": "sn30.4-6"
-    }
+    "sn30.3:0.1": "Saṁyutta Nikāya 30.3 ",
+    "sn30.3:0.2": "1. Supaṇṇavagga ",
+    "sn30.3:0.3": "Dvayakārīsutta ",
+    "sn30.3:1.1": "Sāvatthinidānaṁ. ",
+    "sn30.3:1.2": "Aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn30.3:1.3": "“ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti? ",
+    "sn30.3:1.4": "“Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī. ",
+    "sn30.3:1.5": "Tassa sutaṁ hoti: ",
+    "sn30.3:1.6": "‘aṇḍajā supaṇṇā dīghāyukā vaṇṇavanto sukhabahulā’ti. ",
+    "sn30.3:1.7": "Tassa evaṁ hoti: ",
+    "sn30.3:1.8": "‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti. ",
+    "sn30.3:1.9": "So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjati. ",
+    "sn30.3:1.10": "Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti. ",
+    "sn30.3:1.11": "Tatiyaṁ. "
   },
-  "translation": {
-    "uid": "sn30.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Both Kinds of Deeds ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "They Carry Off ",
-      "uid": "sn30.2"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Both Kinds of Deeds (2nd–4th) ",
-      "uid": "sn30.4-6"
-    }
+  "translation_text": {
+    "sn30.3:0.1": "Linked Discourses 30.3 ",
+    "sn30.3:0.2": "1. Phoenixes ",
+    "sn30.3:0.3": "Both Kinds of Deeds ",
+    "sn30.3:1.1": "At Sāvatthī. ",
+    "sn30.3:1.2": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "sn30.3:1.3": "“Sir, what is the cause, what is the reason why someone, when their body breaks up, after death, is reborn in the company of the egg-born phoenixes?” ",
+    "sn30.3:1.4": "“Mendicant, it’s when someone does both kinds of deeds by body, speech, and mind. ",
+    "sn30.3:1.5": "And they’ve heard: ",
+    "sn30.3:1.6": "‘The egg-born phoenixes are long-lived, beautiful, and very happy.’ ",
+    "sn30.3:1.7": "They think: ",
+    "sn30.3:1.8": "‘If only, when my body breaks up, after death, I would be reborn in the company of the egg-born phoenixes!’ ",
+    "sn30.3:1.9": "When their body breaks up, after death, they’re reborn in the company of the egg-born phoenixes. ",
+    "sn30.3:1.10": "This is the cause, this is the reason why someone, when their body breaks up, after death, is reborn in the company of the egg-born phoenixes.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 30.3",
-    "volpages": "PTS SN iii 247",
-    "alt_volpages": null,
-    "uid": "sn30.3",
-    "blurb": "One becomes an egg born phoenix due to ambivalent deeds in a past life and the appropriate aspiration.",
-    "difficulty": null,
-    "original_title": "Dvayakārīsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Both Kinds of Deeds ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn30.3_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Beide Arten von Taten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn30.3_translation-en-sujato",
-        "segmented": true,
-        "title": "Both Kinds of Deeds ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn30.3_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn30.3_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn30.3_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn30.3_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn30.3_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn30.3_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn30.3_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn30.3_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn30.3_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn30.3_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn30.3_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn30.3_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn30.3_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn30.3_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.496, csp1ed13.208, csp2ed13.208, dr17.305, ms13S3_1189, msdiv394, ndp13.462, sya17.306, vri25.245",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn30.3:1.1": "bj15.496, csp1ed13.208, csp2ed13.208, dr17.305, ms13S3_1189, msdiv394, ndp13.462, sya17.306, vri25.245"
   },
-  "bilara_root_text": {
-    "uid": "sn30.3",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dvayakārīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn30.3",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Both Kinds of Deeds ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn30.3:0.1",
+    "sn30.3:0.2",
+    "sn30.3:0.3",
+    "sn30.3:1.1",
+    "sn30.3:1.2",
+    "sn30.3:1.3",
+    "sn30.3:1.4",
+    "sn30.3:1.5",
+    "sn30.3:1.6",
+    "sn30.3:1.7",
+    "sn30.3:1.8",
+    "sn30.3:1.9",
+    "sn30.3:1.10",
+    "sn30.3:1.11"
+  ]
 }

@@ -1,0 +1,312 @@
+{
+  "root_text": {
+    "uid": "sn46.121-129",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Higher Fetters ",
+      "uid": "sn46.130"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Searches ",
+      "uid": "sn46.111-120"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn46.121-129' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 46: Tương Ưng Giác Chi</li>\n<li>XIII: Phẩm Bộc Lưu</li>\n</ul>\n<h1>46.121–129</h1>\n</header>\n<p><a class='pts' id='S.v,136' href='#S.v,136'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> Nhân duyên ở <i lang='pli' translate='no'>Sāvatthi</i> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Có bốn bộc lưu, này các Tỷ-kheo. Thế nào là bốn? Dục bộc lưu, hữu bộc lưu, kiến bộc lưu, vô minh bộc lưu …</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span> and <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn46.121-129",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Higher Fetters ",
+      "uid": "sn46.130"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Searches ",
+      "uid": "sn46.111-120"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn46.121-129' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 46: Tương Ưng Giác Chi</li>\n<li>XIII: Phẩm Bộc Lưu</li>\n</ul>\n<h1>46.121–129</h1>\n</header>\n<p><a class='pts' id='S.v,136' href='#S.v,136'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> Nhân duyên ở <i lang='pli' translate='no'>Sāvatthi</i> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Có bốn bộc lưu, này các Tỷ-kheo. Thế nào là bốn? Dục bộc lưu, hữu bộc lưu, kiến bộc lưu, vô minh bộc lưu …</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span> and <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 46.121–129",
+    "volpages": null,
+    "alt_volpages": null,
+    "uid": "sn46.121-129",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Oghādisutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": null,
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn46.121-129_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Fluten usw. ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn46.121-129_translation-en-sujato",
+        "segmented": true,
+        "title": "Floods, Etc. ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn46.121-129_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "o Dhamma.gift",
+        "author_short": "o",
+        "author_uid": "o",
+        "publication_date": null,
+        "id": "sn46.121-129_translation-ru-o",
+        "segmented": true,
+        "title": "Сутты начинающиеся с Наводнния",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn46.121-129_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn46.121-129_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2014",
+        "id": "es_sn46.121-129_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn46.121-129_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn46.121-129_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn46.121-129_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2018",
+        "id": "no_sn46.121-129_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_sn46.121-129_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn46.121-129_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn46.121-129_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn46.121-129_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": ""
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn46.121-129_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "dr19.178, ms14S5_719, msdiv302-310, vri27.186",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn46.121-129",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Oghādisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

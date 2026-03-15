@@ -1,311 +1,77 @@
 {
+  "html_text": {
+    "an7.27:0.1": "<article id='an7.27'><header><ul><li class='division'>{}</li>",
+    "an7.27:0.2": "<li>{}</li></ul>",
+    "an7.27:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an7.27:1.1": "<p>{}",
+    "an7.27:1.2": "{}",
+    "an7.27:1.3": "{}",
+    "an7.27:1.4": "{}</p>",
+    "an7.27:2.1": "<p>{}",
+    "an7.27:2.2": "{}",
+    "an7.27:2.3": "{}",
+    "an7.27:2.4": "{}",
+    "an7.27:2.5": "{}",
+    "an7.27:2.6": "{}",
+    "an7.27:3.1": "{}</p>",
+    "an7.27:3.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an7.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saññāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Awakening Factors ",
-      "uid": "an7.26"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Non-decline for a Mendicant Trainee ",
-      "uid": "an7.28"
-    }
+    "an7.27:0.1": "Aṅguttara Nikāya 7.27 ",
+    "an7.27:0.2": "3. Vajjisattakavagga ",
+    "an7.27:0.3": "Saññāsutta ",
+    "an7.27:1.1": "“Satta vo, bhikkhave, aparihāniye dhamme desessāmi. ",
+    "an7.27:1.2": "Taṁ suṇātha, sādhukaṁ manasi karotha …pe…. ",
+    "an7.27:1.3": "Katame ca, bhikkhave, satta aparihāniyā dhammā? ",
+    "an7.27:1.4": "Yāvakīvañca, bhikkhave, bhikkhū aniccasaññaṁ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni. ",
+    "an7.27:2.1": "Yāvakīvañca, bhikkhave, bhikkhū anattasaññaṁ bhāvessanti …pe… ",
+    "an7.27:2.2": "asubhasaññaṁ bhāvessanti … ",
+    "an7.27:2.3": "ādīnavasaññaṁ bhāvessanti … ",
+    "an7.27:2.4": "pahānasaññaṁ bhāvessanti … ",
+    "an7.27:2.5": "virāgasaññaṁ bhāvessanti … ",
+    "an7.27:2.6": "nirodhasaññaṁ bhāvessanti; ",
+    "an7.27:3.1": "vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni. Yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu, bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihānī”ti. ",
+    "an7.27:3.2": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "an7.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Perceptions ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Awakening Factors ",
-      "uid": "an7.26"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Non-decline for a Mendicant Trainee ",
-      "uid": "an7.28"
-    }
+  "translation_text": {
+    "an7.27:0.1": "Numbered Discourses 7.27 ",
+    "an7.27:0.2": "3. The Vajji Seven ",
+    "an7.27:0.3": "Perceptions ",
+    "an7.27:1.1": "“Mendicants, I will teach you seven principles that prevent decline. ",
+    "an7.27:1.2": "Listen and apply your mind well … ",
+    "an7.27:1.3": "And what are the seven principles that prevent decline? ",
+    "an7.27:1.4": "As long as the mendicants develop the perception of impermanence … ",
+    "an7.27:2.1": "not-self … ",
+    "an7.27:2.2": "ugliness … ",
+    "an7.27:2.3": "drawbacks … ",
+    "an7.27:2.4": "giving up … ",
+    "an7.27:2.5": "fading away … ",
+    "an7.27:2.6": "cessation, ",
+    "an7.27:3.1": "they can expect growth, not decline. As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 7.27",
-    "volpages": " PTS 4.24",
-    "alt_volpages": null,
-    "uid": "an7.27",
-    "blurb": "The Buddha teaches seven principles of non-decline to the mendicants.",
-    "difficulty": null,
-    "original_title": "Saññāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Perceptions ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an7.27_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Wahrnehmungen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an7.27_translation-en-sujato",
-        "segmented": true,
-        "title": "Perceptions ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an7.27_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an7.27_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Сознавание или Не-упадок Пятая",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an7.27_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an7.27_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an7.27_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an7.27_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an7.27_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an7.27_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an7.27_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an7.27_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an7.27_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an7.27_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an7.27_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed16.415, csp2ed16.415, dr23.29, ms16A7_141, msdiv27, pts-vp-pli4.24,ms16A7_142, ndp18.171, vri38.176,ms16A7_143",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an7.27:0.3": "Saññāsutta → pañcamabhikkhuaparibhāgiyasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an7.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saññāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an7.27:1.1": "csp1ed16.415, csp2ed16.415, dr23.29, ms16A7_141, msdiv27, pts-vp-pli4.24",
+    "an7.27:2.1": "ms16A7_142, ndp18.171, vri38.176",
+    "an7.27:3.1": "ms16A7_143"
   },
-  "bilara_translated_text": {
-    "uid": "an7.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Perceptions ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an7.27:0.1",
+    "an7.27:0.2",
+    "an7.27:0.3",
+    "an7.27:1.1",
+    "an7.27:1.2",
+    "an7.27:1.3",
+    "an7.27:1.4",
+    "an7.27:2.1",
+    "an7.27:2.2",
+    "an7.27:2.3",
+    "an7.27:2.4",
+    "an7.27:2.5",
+    "an7.27:2.6",
+    "an7.27:3.1",
+    "an7.27:3.2"
+  ]
 }

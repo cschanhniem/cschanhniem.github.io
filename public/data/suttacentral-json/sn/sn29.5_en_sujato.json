@@ -1,310 +1,48 @@
 {
+  "html_text": {
+    "sn29.5:0.1": "<article id='sn29.5'><header><ul><li class='division'>{}</li>",
+    "sn29.5:0.2": "<li>{}</li></ul>",
+    "sn29.5:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn29.5:1.1": "<p>{}</p>",
+    "sn29.5:1.2": "<p>{}</p>",
+    "sn29.5:1.3": "<p>{}</p>",
+    "sn29.5:1.4": "<p class='expansion-instructions'>{}</p>",
+    "sn29.5:1.5": "<p>{}</p>",
+    "sn29.5:1.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn29.5",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Tatiyauposathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sabbath (2nd) ",
-      "uid": "sn29.4"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Sabbath (4th) ",
-      "uid": "sn29.6"
-    }
+    "sn29.5:0.1": "Saṁyutta Nikāya 29.5 ",
+    "sn29.5:0.2": "1. Nāgavagga ",
+    "sn29.5:0.3": "Tatiyauposathasutta ",
+    "sn29.5:1.1": "Sāvatthinidānaṁ. ",
+    "sn29.5:1.2": "Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn29.5:1.3": "“ko nu kho, bhante, hetu, ko paccayo, yena m’idhekacce saṁsedajā nāgā uposathaṁ upavasanti vossaṭṭhakāyā ca bhavantī”ti? ",
+    "sn29.5:1.4": "(Sabbaṁ vitthāretabbaṁ.) ",
+    "sn29.5:1.5": "“Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena m’idhekacce saṁsedajā nāgā uposathaṁ upavasanti vossaṭṭhakāyā ca bhavantī”ti. ",
+    "sn29.5:1.6": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "sn29.5",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sabbath (3rd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sabbath (2nd) ",
-      "uid": "sn29.4"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Sabbath (4th) ",
-      "uid": "sn29.6"
-    }
+  "translation_text": {
+    "sn29.5:0.1": "Linked Discourses 29.5 ",
+    "sn29.5:0.2": "1. Dragons ",
+    "sn29.5:0.3": "Sabbath (3rd) ",
+    "sn29.5:1.1": "At Sāvatthī. ",
+    "sn29.5:1.2": "Seated to one side, that mendicant said to the Buddha: ",
+    "sn29.5:1.3": "“Sir, what is the cause, what is the reason why some moisture-born dragons keep the sabbath, having transformed their bodies?” ",
+    "sn29.5:1.4": "(Tell all in full.) ",
+    "sn29.5:1.5": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 29.5",
-    "volpages": "PTS SN iii 242",
-    "alt_volpages": null,
-    "uid": "sn29.5",
-    "blurb": "Moisture born dragons sometimes transform their bodies and observe the sabbath in order to get a good rebirth.",
-    "difficulty": null,
-    "original_title": "Tatiyauposathasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Sabbath (3rd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn29.5_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Besinnungstag (3) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn29.5_translation-en-sujato",
-        "segmented": true,
-        "title": "Sabbath (3rd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn29.5_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn29.5_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn29.5_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn29.5_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn29.5_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn29.5_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn29.5_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn29.5_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn29.5_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn29.5_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn29.5_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn29.5_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn29.5_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr17.299, ms13S3_1160, msdiv346, sya17.300",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn29.5:1.1": "dr17.299, ms13S3_1160, msdiv346, sya17.300"
   },
-  "bilara_root_text": {
-    "uid": "sn29.5",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Tatiyauposathasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn29.5",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sabbath (3rd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn29.5:0.1",
+    "sn29.5:0.2",
+    "sn29.5:0.3",
+    "sn29.5:1.1",
+    "sn29.5:1.2",
+    "sn29.5:1.3",
+    "sn29.5:1.4",
+    "sn29.5:1.5",
+    "sn29.5:1.6"
+  ]
 }

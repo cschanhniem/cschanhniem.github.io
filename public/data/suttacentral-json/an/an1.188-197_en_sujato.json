@@ -1,0 +1,79 @@
+{
+  "html_text": {
+    "an1.188:0.1": "<section class='range' id='an1.188-197'><header><ul><li class='division'>{}</li></ul>",
+    "an1.188:0.2": "<h1 class='range-title'>{}</h1></header>",
+    "an1.188:1.1": "<article id='an1.188'><p data-counter='1'>{}</p></article>",
+    "an1.189:1.1": "<article id='an1.189'><p data-counter='2'>{}</p></article>",
+    "an1.190:1.1": "<article id='an1.190'><p data-counter='3'>{}</p></article>",
+    "an1.191:1.1": "<article id='an1.191'><p data-counter='4'>{}</p></article>",
+    "an1.192:1.1": "<article id='an1.192'><p data-counter='5'>{}</p></article>",
+    "an1.193:1.1": "<article id='an1.193'><p data-counter='6'>{}</p></article>",
+    "an1.194:1.1": "<article id='an1.194'><p data-counter='7'>{}</p></article>",
+    "an1.195:1.1": "<article id='an1.195'><p data-counter='8'>{}</p></article>",
+    "an1.196:1.1": "<article id='an1.196'><p data-counter='9'>{}</p></article>",
+    "an1.197:1.1": "<article id='an1.197'><p data-counter='10'>{}</p>",
+    "an1.197:1.2": "<p class='endsutta'>{}</p></article></section>"
+  },
+  "root_text": {
+    "an1.188:0.1": "Aṅguttara Nikāya 1 ",
+    "an1.188:0.2": "14. Paṭhamavagga ",
+    "an1.188:1.1": "“Etadaggaṁ, bhikkhave, mama sāvakānaṁ bhikkhūnaṁ rattaññūnaṁ yadidaṁ aññāsikoṇḍañño. ",
+    "an1.189:1.1": "… Mahāpaññānaṁ yadidaṁ sāriputto. ",
+    "an1.190:1.1": "… Iddhimantānaṁ yadidaṁ mahāmoggallāno. ",
+    "an1.191:1.1": "… Dhutavādānaṁ yadidaṁ mahākassapo. ",
+    "an1.192:1.1": "… Dibbacakkhukānaṁ yadidaṁ anuruddho. ",
+    "an1.193:1.1": "… Uccākulikānaṁ yadidaṁ bhaddiyo kāḷigodhāya putto. ",
+    "an1.194:1.1": "… Mañjussarānaṁ yadidaṁ lakuṇḍaka bhaddiyo. ",
+    "an1.195:1.1": "… Sīhanādikānaṁ yadidaṁ piṇḍolabhāradvājo. ",
+    "an1.196:1.1": "… Dhammakathikānaṁ yadidaṁ puṇṇo mantāṇiputto. ",
+    "an1.197:1.1": "… saṅkhittena bhāsitassa vitthārena atthaṁ vibhajantānaṁ yadidaṁ mahākaccāno”ti. ",
+    "an1.197:1.2": "Vaggo paṭhamo. "
+  },
+  "translation_text": {
+    "an1.188:0.1": "Numbered Discourses 1 ",
+    "an1.188:0.2": "Chapter One ",
+    "an1.188:1.1": "“The foremost of my monk disciples in long standing is Koṇḍañña Who Understood. ",
+    "an1.189:1.1": "… with great wisdom is Sāriputta. ",
+    "an1.190:1.1": "… with psychic power is Mahāmoggallāna. ",
+    "an1.191:1.1": "… who advocate austerities is Mahākassapa. ",
+    "an1.192:1.1": "… with clairvoyance is Anuruddha. ",
+    "an1.193:1.1": "… from eminent families is Bhaddiya son of Kāḷīgodhā. ",
+    "an1.194:1.1": "… with a charming voice is Bhaddiya the Dwarf. ",
+    "an1.195:1.1": "… with a lion’s roar is Bhāradvāja the Alms-Gatherer. ",
+    "an1.196:1.1": "… who speak on the teaching is Puṇṇa son of Mantāṇī. ",
+    "an1.197:1.1": "… who explain in detail the meaning of a brief statement is Mahākaccāna.” "
+  },
+  "variant_text": {
+    "an1.188:0.2": "Paṭhamavagga → etadaggapāḷi (bj) ",
+    "an1.188:1.1": "aññāsikoṇḍañño → aññākoṇḍañño (bj, sya-all, km, pts1ed); aññātakoṇḍaññoti (mr) ",
+    "an1.191:1.1": "Dhutavādānaṁ → dhūtavādānaṁ (sya-all); dhutaṅgadharānaṁ (katthaci) ",
+    "an1.194:1.1": "lakuṇḍaka → lakuṇṭaka (bj, sya-all, km, pts1ed) "
+  },
+  "reference_text": {
+    "an1.188:1.1": "ms15A1_271, msdiv188, sya20.31, vri35.31",
+    "an1.189:1.1": "ms15A1_272, msdiv189",
+    "an1.190:1.1": "ms15A1_273, msdiv190",
+    "an1.191:1.1": "ms15A1_274, msdiv191",
+    "an1.192:1.1": "ms15A1_275, msdiv192",
+    "an1.193:1.1": "ms15A1_276, msdiv193",
+    "an1.194:1.1": "ms15A1_277, msdiv194",
+    "an1.195:1.1": "csp1ed15.24, csp2ed15.24, ms15A1_278, msdiv195",
+    "an1.196:1.1": "ms15A1_279, msdiv196, ndp16.24",
+    "an1.197:1.1": "ms15A1_280, msdiv197"
+  },
+  "keys_order": [
+    "an1.188:0.1",
+    "an1.188:0.2",
+    "an1.188:1.1",
+    "an1.189:1.1",
+    "an1.190:1.1",
+    "an1.191:1.1",
+    "an1.192:1.1",
+    "an1.193:1.1",
+    "an1.194:1.1",
+    "an1.195:1.1",
+    "an1.196:1.1",
+    "an1.197:1.1",
+    "an1.197:1.2"
+  ]
+}

@@ -1,352 +1,72 @@
 {
+  "comment_text": {
+    "sn22.91:1.1": "This discourse is also found at <a href='https://suttacentral.net/sn18.21/en/sujato'>SN 18.21</a> and <a href='https://suttacentral.net/sn22.71/en/sujato'>SN 22.71</a>. "
+  },
+  "html_text": {
+    "sn22.91:0.1": "<article id='sn22.91'><header><ul><li class='division'>{}</li>",
+    "sn22.91:0.2": "<li>{}</li></ul>",
+    "sn22.91:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn22.91:1.1": "<p>{}</p>",
+    "sn22.91:1.2": "<p>{}</p>",
+    "sn22.91:1.3": "<p>{}</p>",
+    "sn22.91:2.1": "<p>{}</p>",
+    "sn22.91:2.2": "<p>{}",
+    "sn22.91:2.3": "{}",
+    "sn22.91:2.4": "{}",
+    "sn22.91:2.5": "{}",
+    "sn22.91:2.6": "{}</p>",
+    "sn22.91:2.7": "<p>{}</p>",
+    "sn22.91:2.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn22.91",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Rāhulasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Channa ",
-      "uid": "sn22.90"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Rāhula (2nd) ",
-      "uid": "sn22.92"
-    }
+    "sn22.91:0.1": "Saṁyutta Nikāya 22.91 ",
+    "sn22.91:0.2": "9. Theravagga ",
+    "sn22.91:0.3": "Rāhulasutta ",
+    "sn22.91:1.1": "Sāvatthinidānaṁ. ",
+    "sn22.91:1.2": "Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca: ",
+    "sn22.91:1.3": "“kathaṁ nu kho, bhante, jānato kathaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti? ",
+    "sn22.91:2.1": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+    "sn22.91:2.2": "Yā kāci vedanā … ",
+    "sn22.91:2.3": "yā kāci saññā … ",
+    "sn22.91:2.4": "ye keci saṅkhārā … ",
+    "sn22.91:2.5": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā …pe… ",
+    "sn22.91:2.6": "sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+    "sn22.91:2.7": "Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti. ",
+    "sn22.91:2.8": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn22.91",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Rāhula ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Channa ",
-      "uid": "sn22.90"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Rāhula (2nd) ",
-      "uid": "sn22.92"
-    }
+  "translation_text": {
+    "sn22.91:0.1": "Linked Discourses 22.91 ",
+    "sn22.91:0.2": "9. Senior Mendicants ",
+    "sn22.91:0.3": "Rāhula ",
+    "sn22.91:1.1": "At Sāvatthī. ",
+    "sn22.91:1.2": "Then Venerable Rāhula went up to the Buddha, bowed, sat down to one side, and said to him: ",
+    "sn22.91:1.3": "“Sir, how does one know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs?” ",
+    "sn22.91:2.1": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+    "sn22.91:2.2": "One truly sees any kind of feeling … ",
+    "sn22.91:2.3": "perception … ",
+    "sn22.91:2.4": "choices … ",
+    "sn22.91:2.5": "consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+    "sn22.91:2.6": "",
+    "sn22.91:2.7": "That’s how to know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 22.91",
-    "volpages": " PTS 3.136",
-    "alt_volpages": null,
-    "uid": "sn22.91",
-    "blurb": "Rāhula asks how to contemplate to let go of conceit. The Buddha urges him to see the aggregates as not-self.",
-    "difficulty": null,
-    "original_title": "Rāhulasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Rāhula ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn22.91_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Rāhula ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn22.91_translation-en-sujato",
-        "segmented": true,
-        "title": "Rāhula ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn22.91_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn22.91_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn22.91_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn22.91_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Rahula (1)"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn22.91_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Fodor Tibor",
-        "author_short": "Fodor",
-        "author_uid": "fodor",
-        "publication_date": "2009",
-        "id": "hu_sn22.91_fodor",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn22.91_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn22.91_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn22.91_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn22.91_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_sn22.91_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn22.91_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn22.91_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn22.91_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn22.91_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn22.91_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 3,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck17.122, csp1ed13.111, csp2ed13.111, dr17.162, ms13S3_570, msdiv91, pts-vp-pli3.136,bj15.234, ms13S3_571, vri25.123",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn22.91:1.1": "cck17.122, csp1ed13.111, csp2ed13.111, dr17.162, ms13S3_570, msdiv91, pts-vp-pli3.136",
+    "sn22.91:2.1": "bj15.234, ms13S3_571, vri25.123"
   },
-  "bilara_root_text": {
-    "uid": "sn22.91",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Rāhulasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn22.91",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Rāhula ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn22.91:0.1",
+    "sn22.91:0.2",
+    "sn22.91:0.3",
+    "sn22.91:1.1",
+    "sn22.91:1.2",
+    "sn22.91:1.3",
+    "sn22.91:2.1",
+    "sn22.91:2.2",
+    "sn22.91:2.3",
+    "sn22.91:2.4",
+    "sn22.91:2.5",
+    "sn22.91:2.6",
+    "sn22.91:2.7",
+    "sn22.91:2.8"
   ]
 }

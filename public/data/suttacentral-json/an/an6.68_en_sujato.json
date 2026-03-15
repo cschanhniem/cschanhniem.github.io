@@ -1,311 +1,77 @@
 {
+  "html_text": {
+    "an6.68:0.1": "<article id='an6.68'><header><ul><li class='division'>{}</li>",
+    "an6.68:0.2": "<li>{}</li></ul>",
+    "an6.68:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.68:1.1": "<p>{}",
+    "an6.68:1.2": "{}",
+    "an6.68:1.3": "{}",
+    "an6.68:1.4": "{}",
+    "an6.68:1.5": "{}",
+    "an6.68:1.6": "{}</p>",
+    "an6.68:2.1": "<p>{}",
+    "an6.68:2.2": "{}",
+    "an6.68:2.3": "{}",
+    "an6.68:2.4": "{}",
+    "an6.68:2.5": "{}",
+    "an6.68:2.6": "{}</p>",
+    "an6.68:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.68",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saṅgaṇikārāmasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Friends ",
-      "uid": "an6.67"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A God ",
-      "uid": "an6.69"
-    }
+    "an6.68:0.1": "Aṅguttara Nikāya 6.68 ",
+    "an6.68:0.2": "7. Devatāvagga ",
+    "an6.68:0.3": "Saṅgaṇikārāmasutta ",
+    "an6.68:1.1": "“‘So vata, bhikkhave, bhikkhu saṅgaṇikārāmo saṅgaṇikarato saṅgaṇikārāmataṁ anuyutto, gaṇārāmo gaṇarato gaṇārāmataṁ anuyutto, eko paviveke abhiramissatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.68:1.2": "‘Eko paviveke anabhiramanto cittassa nimittaṁ gahessatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.68:1.3": "‘Cittassa nimittaṁ agaṇhanto sammādiṭṭhiṁ paripūressatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.68:1.4": "‘Sammādiṭṭhiṁ aparipūretvā sammāsamādhiṁ paripūressatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.68:1.5": "‘Sammāsamādhiṁ aparipūretvā saṁyojanāni pajahissatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.68:1.6": "‘Saṁyojanāni appahāya nibbānaṁ sacchikarissatī’ti netaṁ ṭhānaṁ vijjati. ",
+    "an6.68:2.1": "‘So vata, bhikkhave, bhikkhu na saṅgaṇikārāmo na saṅgaṇikarato na saṅgaṇikārāmataṁ anuyutto, na gaṇārāmo na gaṇarato na gaṇārāmataṁ anuyutto, eko paviveke abhiramissatī’ti ṭhānametaṁ vijjati. ",
+    "an6.68:2.2": "‘Eko paviveke abhiramanto cittassa nimittaṁ gahessatī’ti ṭhānametaṁ vijjati. ",
+    "an6.68:2.3": "‘Cittassa nimittaṁ gaṇhanto sammādiṭṭhiṁ paripūressatī’ti ṭhānametaṁ vijjati. ",
+    "an6.68:2.4": "‘Sammādiṭṭhiṁ paripūretvā sammāsamādhiṁ paripūressatī’ti ṭhānametaṁ vijjati. ",
+    "an6.68:2.5": "‘Sammāsamādhiṁ paripūretvā saṁyojanāni pajahissatī’ti ṭhānametaṁ vijjati. ",
+    "an6.68:2.6": "‘Saṁyojanāni pahāya nibbānaṁ sacchikarissatī’ti ṭhānametaṁ vijjatī”ti. ",
+    "an6.68:2.7": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "an6.68",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Enjoying Company ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Friends ",
-      "uid": "an6.67"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A God ",
-      "uid": "an6.69"
-    }
+  "translation_text": {
+    "an6.68:0.1": "Numbered Discourses 6.68 ",
+    "an6.68:0.2": "7. A God ",
+    "an6.68:0.3": "Enjoying Company ",
+    "an6.68:1.1": "“Mendicants, it is quite impossible that a mendicant who enjoys company and groups, who loves them and likes to enjoy them, should take pleasure in being alone in seclusion. ",
+    "an6.68:1.2": "Without taking pleasure in being alone in seclusion, it’s impossible to learn the patterns of the mind. ",
+    "an6.68:1.3": "Without learning the mind’s character, it’s impossible to fulfill right view. ",
+    "an6.68:1.4": "Without fulfilling right view, it’s impossible to fulfill right immersion. ",
+    "an6.68:1.5": "Without fulfilling right immersion, it’s impossible to give up the fetters. ",
+    "an6.68:1.6": "Without giving up the fetters, it’s impossible to realize extinguishment. ",
+    "an6.68:2.1": "It’s quite possible that a mendicant who doesn’t enjoy company and groups, who doesn’t love them and like to enjoy them, should take pleasure in being alone in seclusion. ",
+    "an6.68:2.2": "For someone who takes pleasure in being alone in seclusion, it’s possible to learn the mind’s character. ",
+    "an6.68:2.3": "For someone who learns the mind’s character, it’s possible to fulfill right view. ",
+    "an6.68:2.4": "Having fulfilled right view, it’s possible to fulfill right immersion. ",
+    "an6.68:2.5": "Having fulfilled right immersion, it’s possible to give up the fetters. ",
+    "an6.68:2.6": "Having given up the fetters, it’s possible to realize extinguishment.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.68",
-    "volpages": " PTS 3.423",
-    "alt_volpages": null,
-    "uid": "an6.68",
-    "blurb": "A mendicant who loves to socialize can’t find peace in meditation, but one who loves solitude can.",
-    "difficulty": null,
-    "original_title": "Saṅgaṇikārāmasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Enjoying Company ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.68_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Gesellschaft genießen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.68_translation-en-sujato",
-        "segmented": true,
-        "title": "Enjoying Company ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.68_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.68_translation-ru-sv",
-        "segmented": true,
-        "title": "СуттаНаслаждение компанией ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.68_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.68_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.68_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.68_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.68_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2008",
-        "id": "pt_an6.68_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.68_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.68_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.68_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.68_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.68_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A6_627, msdiv68, pts-vp-pli3.423,dr22.459, ms16A6_628, vri38.126",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.68:1.1": "ms16A6_627, msdiv68, pts-vp-pli3.423",
+    "an6.68:2.1": "dr22.459, ms16A6_628, vri38.126"
   },
-  "bilara_root_text": {
-    "uid": "an6.68",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saṅgaṇikārāmasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an6.68",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Enjoying Company ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.68:0.1",
+    "an6.68:0.2",
+    "an6.68:0.3",
+    "an6.68:1.1",
+    "an6.68:1.2",
+    "an6.68:1.3",
+    "an6.68:1.4",
+    "an6.68:1.5",
+    "an6.68:1.6",
+    "an6.68:2.1",
+    "an6.68:2.2",
+    "an6.68:2.3",
+    "an6.68:2.4",
+    "an6.68:2.5",
+    "an6.68:2.6",
+    "an6.68:2.7"
+  ]
 }

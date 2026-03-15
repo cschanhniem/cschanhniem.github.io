@@ -1,339 +1,47 @@
 {
+  "html_text": {
+    "sn46.9:0.1": "<article id='sn46.9'><header><ul><li class='division'>{}</li>",
+    "sn46.9:0.2": "<li>{}</li></ul>",
+    "sn46.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.9:1.1": "<p>{}",
+    "sn46.9:1.2": "{}",
+    "sn46.9:1.3": "{}",
+    "sn46.9:1.4": "{}</p>",
+    "sn46.9:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn46.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamauppannasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Upavāṇa ",
-      "uid": "sn46.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Arisen (2nd) ",
-      "uid": "sn46.10"
-    }
+    "sn46.9:0.1": "Saṁyutta Nikāya 46.9 ",
+    "sn46.9:0.2": "1. Pabbatavagga ",
+    "sn46.9:0.3": "Paṭhamauppannasutta ",
+    "sn46.9:1.1": "“Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. ",
+    "sn46.9:1.2": "Katame satta? ",
+    "sn46.9:1.3": "Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—",
+    "sn46.9:1.4": "ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā”ti. ",
+    "sn46.9:1.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn46.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Arisen (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Upavāṇa ",
-      "uid": "sn46.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Arisen (2nd) ",
-      "uid": "sn46.10"
-    }
+  "translation_text": {
+    "sn46.9:0.1": "Linked Discourses 46.9 ",
+    "sn46.9:0.2": "1. Mountains ",
+    "sn46.9:0.3": "Arisen (1st) ",
+    "sn46.9:1.1": "“Mendicants, these seven awakening factors don’t arise to be developed and cultivated except when a Realized One, a perfected one, a fully awakened Buddha has appeared. ",
+    "sn46.9:1.2": "What seven? ",
+    "sn46.9:1.3": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. ",
+    "sn46.9:1.4": "These seven awakening factors don’t arise to be developed and cultivated except when a Realized One, a perfected one, a fully awakened Buddha has appeared.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 46.9",
-    "volpages": "PTS SN v 77",
-    "alt_volpages": null,
-    "uid": "sn46.9",
-    "blurb": "The awakening factors do not arise apart from a Realized One.",
-    "difficulty": null,
-    "original_title": "Paṭhamauppannasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Arisen (1st) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn46.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Erschienen (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn46.9_translation-en-sujato",
-        "segmented": true,
-        "title": "Arisen (1st) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn46.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn46.9_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn46.9_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn46.9_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Arisen or Arising (1)"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn46.9_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn46.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn46.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn46.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn46.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn46.9_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn46.9_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn46.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn46.9_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn46.9_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn46.9_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.160, ms14S5_416, msdiv190, vri27.95",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn46.9:0.3": "Paṭhamauppannasutta → uppādasuttaṁ (bj); uppannā 1 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn46.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamauppannasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn46.9:1.1": "bj17.1.160, ms14S5_416, msdiv190, vri27.95"
   },
-  "bilara_translated_text": {
-    "uid": "sn46.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Arisen (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn46.9:0.1",
+    "sn46.9:0.2",
+    "sn46.9:0.3",
+    "sn46.9:1.1",
+    "sn46.9:1.2",
+    "sn46.9:1.3",
+    "sn46.9:1.4",
+    "sn46.9:1.5"
   ]
 }

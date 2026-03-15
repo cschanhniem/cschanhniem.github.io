@@ -1,0 +1,32 @@
+{
+  "html_text": {
+    "sn24.20-35:0.1": "<article id='sn24.20-35'><header><ul><li class='division'>{}</li>",
+    "sn24.20-35:0.2": "<li>{}</li></ul>",
+    "sn24.20-35:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn24.20-35:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn24.20-35:1.2": "<p class='endsutta'>{}</p></article>"
+  },
+  "root_text": {
+    "sn24.20-35:0.1": "Saṁyutta Nikāya 24.20–35 ",
+    "sn24.20-35:0.2": "2. Dutiyagamanavagga ",
+    "sn24.20-35:0.3": "Etaṁmamādisutta ",
+    "sn24.20-35:1.1": "(Purimavagge viya aṭṭhārasa veyyākaraṇāni vitthāretabbānīti.) ",
+    "sn24.20-35:1.2": "Sattarasamaṁ. "
+  },
+  "translation_text": {
+    "sn24.20-35:0.1": "Linked Discourses 24.20–35 ",
+    "sn24.20-35:0.2": "2. The Second Round ",
+    "sn24.20-35:0.3": "This Is Mine, Etc. ",
+    "sn24.20-35:1.1": "(Tell these in full as in discourses 2 through 17 of the previous chapter.) "
+  },
+  "reference_text": {
+    "sn24.20-35:1.1": "bj15.420, csp1ed13.179, csp2ed13.179, ms13S3_984, msdiv225-240"
+  },
+  "keys_order": [
+    "sn24.20-35:0.1",
+    "sn24.20-35:0.2",
+    "sn24.20-35:0.3",
+    "sn24.20-35:1.1",
+    "sn24.20-35:1.2"
+  ]
+}

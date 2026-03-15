@@ -1,339 +1,64 @@
 {
+  "html_text": {
+    "sn45.27:0.1": "<article id='sn45.27'><header><ul><li class='division'>{}</li>",
+    "sn45.27:0.2": "<li>{}</li></ul>",
+    "sn45.27:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn45.27:1.1": "<p>{}</p>",
+    "sn45.27:1.2": "<p>{}",
+    "sn45.27:1.3": "{}</p>",
+    "sn45.27:1.4": "<p>{}",
+    "sn45.27:1.5": "{}",
+    "sn45.27:1.6": "{}",
+    "sn45.27:1.7": "{}</p>",
+    "sn45.27:1.8": "<p>{}",
+    "sn45.27:1.9": "{}</p>",
+    "sn45.27:1.10": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn45.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kumbhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "An Untrue Person (2nd) ",
-      "uid": "sn45.26"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Immersion ",
-      "uid": "sn45.28"
-    }
+    "sn45.27:0.1": "Saṁyutta Nikāya 45.27 ",
+    "sn45.27:0.2": "3. Micchattavagga ",
+    "sn45.27:0.3": "Kumbhasutta ",
+    "sn45.27:1.1": "Sāvatthinidānaṁ. ",
+    "sn45.27:1.2": "“Seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti; ",
+    "sn45.27:1.3": "evameva kho, bhikkhave, cittaṁ anādhāraṁ suppavattiyaṁ hoti, sādhāraṁ duppavattiyaṁ hoti. ",
+    "sn45.27:1.4": "Ko ca, bhikkhave, cittassa ādhāro? ",
+    "sn45.27:1.5": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+    "sn45.27:1.6": "sammādiṭṭhi …pe… sammāsamādhi. ",
+    "sn45.27:1.7": "Ayaṁ cittassa ādhāro. ",
+    "sn45.27:1.8": "Seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti; ",
+    "sn45.27:1.9": "evameva kho, bhikkhave, cittaṁ anādhāraṁ suppavattiyaṁ hoti, sādhāraṁ duppavattiyaṁ hotī”ti. ",
+    "sn45.27:1.10": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn45.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Pots ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "An Untrue Person (2nd) ",
-      "uid": "sn45.26"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Immersion ",
-      "uid": "sn45.28"
-    }
+  "translation_text": {
+    "sn45.27:0.1": "Linked Discourses 45.27 ",
+    "sn45.27:0.2": "3. The Wrong Way ",
+    "sn45.27:0.3": "Pots ",
+    "sn45.27:1.1": "At Sāvatthī. ",
+    "sn45.27:1.2": "“A pot without a stand is easy to overturn, but if it has a stand it’s hard to overturn. ",
+    "sn45.27:1.3": "In the same way, a mind without a stand is easy to overturn, but if it has a stand it’s hard to overturn. ",
+    "sn45.27:1.4": "And what’s the stand for the mind? ",
+    "sn45.27:1.5": "It is simply this noble eightfold path, that is: ",
+    "sn45.27:1.6": "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. ",
+    "sn45.27:1.7": "This is the stand for the mind. ",
+    "sn45.27:1.8": "A pot without a stand is easy to overturn, but if it has a stand it’s hard to overturn. ",
+    "sn45.27:1.9": "In the same way, a mind without a stand is easy to overturn, but if it has a stand it’s hard to overturn.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 45.27",
-    "volpages": " PTS 5.21",
-    "alt_volpages": null,
-    "uid": "sn45.27",
-    "blurb": "Someone without the eightfold path is easily knocked over, like a pot without a stand.",
-    "difficulty": null,
-    "original_title": "Kumbhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Pots ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn45.27_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Krüge ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn45.27_translation-en-sujato",
-        "segmented": true,
-        "title": "Pots ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn45.27_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn45.27_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn45.27_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn45.27_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Pot"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2010",
-        "id": "es_sn45.27_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn45.27_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn45.27_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn45.27_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn45.27_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn45.27_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn45.27_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn45.27_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn45.27_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn45.27_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn45.27_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.22, csp1ed14.17, csp2ed14.17, ms14S5_106, msdiv27, pts-vp-pli5.21, vri27.20",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn45.27:1.1": "cck19.22, csp1ed14.17, csp2ed14.17, ms14S5_106, msdiv27, pts-vp-pli5.21, vri27.20"
   },
-  "bilara_root_text": {
-    "uid": "sn45.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kumbhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn45.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Pots ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn45.27:0.1",
+    "sn45.27:0.2",
+    "sn45.27:0.3",
+    "sn45.27:1.1",
+    "sn45.27:1.2",
+    "sn45.27:1.3",
+    "sn45.27:1.4",
+    "sn45.27:1.5",
+    "sn45.27:1.6",
+    "sn45.27:1.7",
+    "sn45.27:1.8",
+    "sn45.27:1.9",
+    "sn45.27:1.10"
   ]
 }

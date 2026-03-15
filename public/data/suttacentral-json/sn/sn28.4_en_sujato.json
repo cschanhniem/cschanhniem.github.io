@@ -1,323 +1,69 @@
 {
+  "html_text": {
+    "sn28.4:0.1": "<article id='sn28.4'><header><ul><li class='division'>{}</li>",
+    "sn28.4:0.2": "<li>{}</li></ul>",
+    "sn28.4:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn28.4:1.1": "<p>{}</p>",
+    "sn28.4:1.2": "<p>{}</p>",
+    "sn28.4:1.3": "<p>{}",
+    "sn28.4:1.4": "{}</p>",
+    "sn28.4:2.1": "<p>{}",
+    "sn28.4:2.2": "{}",
+    "sn28.4:2.3": "{}</p>",
+    "sn28.4:2.4": "<p>{}",
+    "sn28.4:2.5": "{}",
+    "sn28.4:2.6": "{}</p>",
+    "sn28.4:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn28.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upekkhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Rapture ",
-      "uid": "sn28.3"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Dimension of Infinite Space ",
-      "uid": "sn28.5"
-    }
+    "sn28.4:0.1": "Saṁyutta Nikāya 28.4 ",
+    "sn28.4:0.2": "1. Sāriputtavagga ",
+    "sn28.4:0.3": "Upekkhāsutta ",
+    "sn28.4:1.1": "Sāvatthinidānaṁ. ",
+    "sn28.4:1.2": "Addasā kho āyasmā ānando …pe… ",
+    "sn28.4:1.3": "“vippasannāni kho te, āvuso sāriputta, indriyāni; parisuddho mukhavaṇṇo pariyodāto. ",
+    "sn28.4:1.4": "Katamenāyasmā sāriputto ajja vihārena vihāsī”ti? ",
+    "sn28.4:2.1": "“Idhāhaṁ, āvuso, sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharāmi. ",
+    "sn28.4:2.2": "Tassa mayhaṁ, āvuso, na evaṁ hoti: ",
+    "sn28.4:2.3": "‘ahaṁ catutthaṁ jhānaṁ samāpajjāmī’ti vā ‘ahaṁ catutthaṁ jhānaṁ samāpanno’ti vā ‘ahaṁ catutthā jhānā vuṭṭhito’ti vā”ti. ",
+    "sn28.4:2.4": "Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramānānusayā susamūhatā. ",
+    "sn28.4:2.5": "Tasmā āyasmato sāriputtassa na evaṁ hoti: ",
+    "sn28.4:2.6": "“‘ahaṁ catutthaṁ jhānaṁ samāpajjāmī’ti vā ‘ahaṁ catutthaṁ jhānaṁ samāpanno’ti vā ‘ahaṁ catutthā jhānā vuṭṭhito’ti vā”ti. ",
+    "sn28.4:2.7": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn28.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Equanimity ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Rapture ",
-      "uid": "sn28.3"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Dimension of Infinite Space ",
-      "uid": "sn28.5"
-    }
+  "translation_text": {
+    "sn28.4:0.1": "Linked Discourses 28.4 ",
+    "sn28.4:0.2": "1. With Sāriputta ",
+    "sn28.4:0.3": "Equanimity ",
+    "sn28.4:1.1": "At Sāvatthī. ",
+    "sn28.4:1.2": "Venerable Ānanda saw Venerable Sāriputta and said to him: ",
+    "sn28.4:1.3": "“Reverend Sāriputta, your faculties are so very clear, and your complexion is pure and bright. ",
+    "sn28.4:1.4": "What meditation were you practicing today?” ",
+    "sn28.4:2.1": "“Reverend, with the giving up of pleasure and pain, and the ending of former happiness and sadness, I entered and remained in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. ",
+    "sn28.4:2.2": "But it didn’t occur to me: ",
+    "sn28.4:2.3": "‘I am entering the fourth absorption’ or ‘I have entered the fourth absorption’ or ‘I am emerging from the fourth absorption’.” ",
+    "sn28.4:2.4": "“That must be because Venerable Sāriputta has long ago totally eradicated I-making, mine-making, and the underlying tendency to conceit. ",
+    "sn28.4:2.5": "That’s why it didn’t occur to you: ",
+    "sn28.4:2.6": "‘I am entering the fourth absorption’ or ‘I have entered the fourth absorption’ or ‘I am emerging from the fourth absorption’.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 28.4",
-    "volpages": "PTS SN iii 237",
-    "alt_volpages": null,
-    "uid": "sn28.4",
-    "blurb": "Sāriputta goes to Mirkwood for meditation, and afterwards Ānanda asks why his face is so radiant. Sāriputta replies that he was practicing fourth absorption without any thought of self.",
-    "difficulty": null,
-    "original_title": "Upekkhāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Equanimity ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn28.4_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Gleichmut ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn28.4_translation-en-sujato",
-        "segmented": true,
-        "title": "Equanimity ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn28.4_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn28.4_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn28.4_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn28.4_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn28.4_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn28.4_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn28.4_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn28.4_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2006",
-        "id": "pt_sn28.4_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn28.4_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn28.4_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn28.4_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn28.4_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn28.4_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_1127, msdiv335, vri25.234,bj15.470, cck17.214, csp1ed13.199, csp2ed13.199, dr17.292, ms13S3_1128, ndp13.452",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn28.4:1.1": "ms13S3_1127, msdiv335, vri25.234",
+    "sn28.4:2.1": "bj15.470, cck17.214, csp1ed13.199, csp2ed13.199, dr17.292, ms13S3_1128, ndp13.452"
   },
-  "bilara_root_text": {
-    "uid": "sn28.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upekkhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn28.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Equanimity ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn28.4:0.1",
+    "sn28.4:0.2",
+    "sn28.4:0.3",
+    "sn28.4:1.1",
+    "sn28.4:1.2",
+    "sn28.4:1.3",
+    "sn28.4:1.4",
+    "sn28.4:2.1",
+    "sn28.4:2.2",
+    "sn28.4:2.3",
+    "sn28.4:2.4",
+    "sn28.4:2.5",
+    "sn28.4:2.6",
+    "sn28.4:2.7"
+  ]
 }

@@ -1,310 +1,89 @@
 {
+  "html_text": {
+    "sn52.9:0.1": "<article id='sn52.9'><header><ul><li class='division'>{}</li>",
+    "sn52.9:0.2": "<li>{}</li></ul>",
+    "sn52.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn52.9:1.1": "<p>{}",
+    "sn52.9:1.2": "{}</p>",
+    "sn52.9:2.1": "<p>{}",
+    "sn52.9:2.2": "{}</p>",
+    "sn52.9:2.3": "<p>{}",
+    "sn52.9:2.4": "{}",
+    "sn52.9:2.5": "{}",
+    "sn52.9:2.6": "{}",
+    "sn52.9:2.7": "{}",
+    "sn52.9:2.8": "{}",
+    "sn52.9:2.9": "{}",
+    "sn52.9:2.10": "{}</p>",
+    "sn52.9:3.1": "<p>{}",
+    "sn52.9:3.2": "{}</p>",
+    "sn52.9:3.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn52.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ambapālivanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Frankincense-Tree Hut ",
-      "uid": "sn52.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gravely Ill ",
-      "uid": "sn52.10"
-    }
+    "sn52.9:0.1": "Saṁyutta Nikāya 52.9 ",
+    "sn52.9:0.2": "1. Rahogatavagga ",
+    "sn52.9:0.3": "Ambapālivanasutta ",
+    "sn52.9:1.1": "Ekaṁ samayaṁ āyasmā ca anuruddho āyasmā ca sāriputto vesāliyaṁ viharanti ambapālivane. ",
+    "sn52.9:1.2": "Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito …pe… ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca: ",
+    "sn52.9:2.1": "“Vippasannāni kho te, āvuso anuruddha, indriyāni, parisuddho mukhavaṇṇo pariyodāto. ",
+    "sn52.9:2.2": "Katamenāyasmā anuruddho vihārena etarahi bahulaṁ viharatī”ti? ",
+    "sn52.9:2.3": "“Catūsu khvāhaṁ, āvuso, satipaṭṭhānesu suppatiṭṭhitacitto etarahi bahulaṁ viharāmi. ",
+    "sn52.9:2.4": "Katamesu catūsu? ",
+    "sn52.9:2.5": "Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; ",
+    "sn52.9:2.6": "vedanāsu …pe… ",
+    "sn52.9:2.7": "citte …pe… ",
+    "sn52.9:2.8": "dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—",
+    "sn52.9:2.9": "imesu khvāhaṁ, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacitto etarahi bahulaṁ viharāmi. ",
+    "sn52.9:2.10": "Yo so, āvuso, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, so imesu catūsu satipaṭṭhānesu suppatiṭṭhitacitto bahulaṁ viharatī”ti. ",
+    "sn52.9:3.1": "“Lābhā vata no, āvuso, suladdhaṁ vata no, āvuso. ",
+    "sn52.9:3.2": "Ye mayaṁ āyasmato anuruddhassa sammukhāva assumha āsabhiṁ vācaṁ bhāsamānassā”ti. ",
+    "sn52.9:3.3": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn52.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "In Ambapālī’s Mango Grove ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Frankincense-Tree Hut ",
-      "uid": "sn52.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gravely Ill ",
-      "uid": "sn52.10"
-    }
+  "translation_text": {
+    "sn52.9:0.1": "Linked Discourses 52.9 ",
+    "sn52.9:0.2": "1. In Private ",
+    "sn52.9:0.3": "In Ambapālī’s Mango Grove ",
+    "sn52.9:1.1": "At one time the venerables Anuruddha and Sāriputta were staying near Vesālī, in Ambapālī’s Mango Grove. ",
+    "sn52.9:1.2": "Then in the late afternoon, Sāriputta came out of retreat, went to Anuruddha, and said to him: ",
+    "sn52.9:2.1": "“Reverend Anuruddha, your faculties are so very clear, and your complexion is pure and bright. ",
+    "sn52.9:2.2": "What kind of meditation are you usually practicing these days?” ",
+    "sn52.9:2.3": "“These days, reverend, I usually meditate with my mind firmly established in the four kinds of mindfulness meditation. ",
+    "sn52.9:2.4": "What four? ",
+    "sn52.9:2.5": "I meditate observing an aspect of the body … ",
+    "sn52.9:2.6": "feelings … ",
+    "sn52.9:2.7": "mind … ",
+    "sn52.9:2.8": "principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. ",
+    "sn52.9:2.9": "These days I usually meditate with my mind firmly established in these four kinds of mindfulness meditation. ",
+    "sn52.9:2.10": "A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart’s goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment—usually meditates with their mind firmly established in these four kinds of mindfulness meditation.” ",
+    "sn52.9:3.1": "“We’re so fortunate, reverend, so very fortunate, ",
+    "sn52.9:3.2": "to have heard such a dramatic statement in the presence of Venerable Anuruddha.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 52.9",
-    "volpages": " PTS 5.302",
-    "alt_volpages": null,
-    "uid": "sn52.9",
-    "blurb": "Sāriputta asks why Anuruddha looks so peaceful, and he replies it is due to developing the four kinds of mindfulness meditation.",
-    "difficulty": null,
-    "original_title": "Ambapālivanasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "In Ambapālī’s Mango Grove ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn52.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "In Ambapālīs Mangowäldchen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn52.9_translation-en-sujato",
-        "segmented": true,
-        "title": "In Ambapālī’s Mango Grove ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn52.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn52.9_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn52.9_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn52.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn52.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn52.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn52.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn52.9_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn52.9_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn52.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn52.9_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn52.9_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn52.9_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms14S5_1582, msdiv907,bj17.2.76, csp1ed14.264, csp2ed14.264, dr19.379, ms14S5_1583, ndp15.258, pts-vp-pli5.302, sya19.386,ms14S5_1584",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn52.9:0.3": "Ambapālivanasutta → ambapālisuttaṁ (bj); sabbaṁ or ambapāla (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn52.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ambapālivanasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn52.9:1.1": "ms14S5_1582, msdiv907",
+    "sn52.9:2.1": "bj17.2.76, csp1ed14.264, csp2ed14.264, dr19.379, ms14S5_1583, ndp15.258, pts-vp-pli5.302, sya19.386",
+    "sn52.9:3.1": "ms14S5_1584"
   },
-  "bilara_translated_text": {
-    "uid": "sn52.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "In Ambapālī’s Mango Grove ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn52.9:0.1",
+    "sn52.9:0.2",
+    "sn52.9:0.3",
+    "sn52.9:1.1",
+    "sn52.9:1.2",
+    "sn52.9:2.1",
+    "sn52.9:2.2",
+    "sn52.9:2.3",
+    "sn52.9:2.4",
+    "sn52.9:2.5",
+    "sn52.9:2.6",
+    "sn52.9:2.7",
+    "sn52.9:2.8",
+    "sn52.9:2.9",
+    "sn52.9:2.10",
+    "sn52.9:3.1",
+    "sn52.9:3.2",
+    "sn52.9:3.3"
+  ]
 }

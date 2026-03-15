@@ -1,284 +1,64 @@
 {
+  "html_text": {
+    "an8.84:0.1": "<article id='an8.84'><header><ul><li class='division'>{}</li>",
+    "an8.84:0.2": "<li>{}</li></ul>",
+    "an8.84:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an8.84:1.1": "<p>{}",
+    "an8.84:1.2": "{}",
+    "an8.84:1.3": "{}",
+    "an8.84:1.4": "{}</p>",
+    "an8.84:2.1": "<p>{}",
+    "an8.84:2.2": "{}",
+    "an8.84:2.3": "{}",
+    "an8.84:2.4": "{}</p>",
+    "an8.84:2.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an8.84",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Corasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Rooted ",
-      "uid": "an8.83"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Terms for the Realized One ",
-      "uid": "an8.85"
-    }
+    "an8.84:0.1": "Aṅguttara Nikāya 8.84 ",
+    "an8.84:0.2": "9. Sativagga ",
+    "an8.84:0.3": "Corasutta ",
+    "an8.84:1.1": "“Aṭṭhahi, bhikkhave, aṅgehi samannāgato mahācoro khippaṁ pariyāpajjati, na ciraṭṭhitiko hoti. ",
+    "an8.84:1.2": "Katamehi aṭṭhahi? ",
+    "an8.84:1.3": "Appaharantassa paharati, anavasesaṁ ādiyati, itthiṁ hanati, kumāriṁ dūseti, pabbajitaṁ vilumpati, rājakosaṁ vilumpati, accāsanne kammaṁ karoti, na ca nidhānakusalo hoti. ",
+    "an8.84:1.4": "Imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgato mahācoro khippaṁ pariyāpajjati, na ciraṭṭhitiko hoti. ",
+    "an8.84:2.1": "Aṭṭhahi, bhikkhave, aṅgehi samannāgato mahācoro na khippaṁ pariyāpajjati, ciraṭṭhitiko hoti. ",
+    "an8.84:2.2": "Katamehi aṭṭhahi? ",
+    "an8.84:2.3": "Na appaharantassa paharati, na anavasesaṁ ādiyati, na itthiṁ hanati, na kumāriṁ dūseti, na pabbajitaṁ vilumpati, na rājakosaṁ vilumpati, na accāsanne kammaṁ karoti, nidhānakusalo ca hoti. ",
+    "an8.84:2.4": "Imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgato mahācoro na khippaṁ pariyāpajjati, ciraṭṭhitiko hotī”ti. ",
+    "an8.84:2.5": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "an8.84",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Master Thief ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Rooted ",
-      "uid": "an8.83"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Terms for the Realized One ",
-      "uid": "an8.85"
-    }
+  "translation_text": {
+    "an8.84:0.1": "Numbered Discourses 8.84 ",
+    "an8.84:0.2": "9. Mindfulness ",
+    "an8.84:0.3": "A Master Thief ",
+    "an8.84:1.1": "“Mendicants, a master thief with eight factors is soon executed, and doesn’t have long to live. ",
+    "an8.84:1.2": "What eight? ",
+    "an8.84:1.3": "He attacks unprovoked. He steals everything without exception. He kills a woman. He rapes a girl. He robs a monk. He robs the royal treasury. He works close to home. He’s not skilled at hiding his booty. ",
+    "an8.84:1.4": "A master thief with these eight factors is soon executed, and doesn’t have long to live. ",
+    "an8.84:2.1": "A master thief with eight factors is not soon executed, and lives long. ",
+    "an8.84:2.2": "What eight? ",
+    "an8.84:2.3": "He doesn’t attack unprovoked. He doesn’t steal everything without exception. He doesn’t kill a woman. He doesn’t rape a girl. He doesn’t rob a monk. He doesn’t rob the royal treasury. He doesn’t work close to home. He’s skilled at hiding his booty. ",
+    "an8.84:2.4": "A master thief with these eight factors is not soon executed, and lives long.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 8.84",
-    "volpages": "PTS AN iv 339",
-    "alt_volpages": null,
-    "uid": "an8.84",
-    "blurb": "The Buddha teaches how to be a success as a master thief. Unusually, this discourse has no “spiritual” counterpart, so it sounds like the Buddha just giving a lesson in thievery! ",
-    "difficulty": null,
-    "original_title": "Corasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "A Master Thief ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an8.84_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Meisterdieb ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an8.84_translation-en-sujato",
-        "segmented": true,
-        "title": "A Master Thief ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an8.84_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an8.84_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an8.84_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an8.84_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an8.84_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an8.84_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an8.84_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an8.84_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an8.84_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an8.84_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an8.84_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj22.346, ms17A8_817, msdiv84,dr23.368, ms17A8_818",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an8.84:0.3": "Corasutta → mahācoraṅgasuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "an8.84",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Corasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an8.84:1.1": "bj22.346, ms17A8_817, msdiv84",
+    "an8.84:2.1": "dr23.368, ms17A8_818"
   },
-  "bilara_translated_text": {
-    "uid": "an8.84",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "A Master Thief ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an8.84:0.1",
+    "an8.84:0.2",
+    "an8.84:0.3",
+    "an8.84:1.1",
+    "an8.84:1.2",
+    "an8.84:1.3",
+    "an8.84:1.4",
+    "an8.84:2.1",
+    "an8.84:2.2",
+    "an8.84:2.3",
+    "an8.84:2.4",
+    "an8.84:2.5"
+  ]
 }

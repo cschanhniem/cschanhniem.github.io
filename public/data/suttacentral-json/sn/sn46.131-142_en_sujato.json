@@ -1,0 +1,59 @@
+{
+  "html_text": {
+    "sn46.131-142:0.1": "<article id='sn46.131-142'><header><ul><li class='division'>{}</li>",
+    "sn46.131-142:0.2": "<li>{}</li></ul>",
+    "sn46.131-142:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.131-142:1.1": "<p>{}</p>",
+    "sn46.131-142:1.2": "<p class='endvagga'>{}</p>",
+    "sn46.131-142:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn46.131-142:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn46.131-142:2.2": "<span class='verse-line'>{}</span>",
+    "sn46.131-142:2.3": "<span class='verse-line'>{}</span>",
+    "sn46.131-142:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn46.131-142:3.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn46.131-142:0.1": "Saṁyutta Nikāya 46.131–142 ",
+    "sn46.131-142:0.2": "14. Punagaṅgāpeyyālavagga ",
+    "sn46.131-142:0.3": "Punagaṅgānadīādisutta ",
+    "sn46.131-142:1.1": "…pe… ",
+    "sn46.131-142:1.2": "vaggo cuddasamo. ",
+    "sn46.131-142:2.0": "Uddānaṁ ",
+    "sn46.131-142:2.1": "Cha pācīnato ninnā, ",
+    "sn46.131-142:2.2": "cha ninnā ca samuddato; ",
+    "sn46.131-142:2.3": "Dvete cha dvādasa honti, ",
+    "sn46.131-142:2.4": "vaggo tena pavuccatīti. ",
+    "sn46.131-142:3.1": "(Bojjhaṅgasaṁyuttassa gaṅgāpeyyālaṁ rāgavasena vitthāretabbaṁ.) "
+  },
+  "translation_text": {
+    "sn46.131-142:0.1": "Linked Discourses 46.131–142 ",
+    "sn46.131-142:0.2": "14. Another Chapter of Abbreviated Texts on the Ganges ",
+    "sn46.131-142:0.3": "More on the Ganges River, Etc. ",
+    "sn46.131-142:1.1": "",
+    "sn46.131-142:1.2": "",
+    "sn46.131-142:2.1": "",
+    "sn46.131-142:2.2": "",
+    "sn46.131-142:2.3": "",
+    "sn46.131-142:2.4": "",
+    "sn46.131-142:3.1": "(Tell in full as in SN 45.103–114, removal of greed version.) "
+  },
+  "reference_text": {
+    "sn46.131-142:1.1": "ms14S5_725, msdiv312-323",
+    "sn46.131-142:1.2": "bj17.1.256, dr19.179, ms14S5_726",
+    "sn46.131-142:2.1": "dr19.180, ms14S5_728, pts-vp-pli5.138, vri27.195",
+    "sn46.131-142:3.1": "ms14S5_729"
+  },
+  "keys_order": [
+    "sn46.131-142:0.1",
+    "sn46.131-142:0.2",
+    "sn46.131-142:0.3",
+    "sn46.131-142:1.1",
+    "sn46.131-142:1.2",
+    "sn46.131-142:2.0",
+    "sn46.131-142:2.1",
+    "sn46.131-142:2.2",
+    "sn46.131-142:2.3",
+    "sn46.131-142:2.4",
+    "sn46.131-142:3.1"
+  ]
+}

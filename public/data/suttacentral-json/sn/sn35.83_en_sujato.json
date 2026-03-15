@@ -1,326 +1,88 @@
 {
+  "comment_text": {
+    "sn35.83:2.1": "Cited at <a href='https://suttacentral.net/kv1.6/en/sujato#95.3'>Kv 1.6:95.3</a> with slight change. | This is the only doctrinal context where we find <i lang='pi' translate='no'>vaṭuma</i> (“course”). The commentary explains it as the “course of craving”. However, in Buddhist Sanskrit we find the phrases <i lang='pi' translate='no'>chinnaṃ vartmaṃ na vartati</i> (Mahāvastu 2.416) and <i lang='pi' translate='no'>chinnaṃ vartma na pravartate</i> (Nidāna Saṁyukta 11.6), which recall the Pali phrase <i lang='pi' translate='no'>vaṭṭaṁ vattati</i> (<a href='https://suttacentral.net/dn15/en/sujato#22.6'>DN 15:22.6</a>), where <i lang='pi' translate='no'>vaṭṭa</i> occurs in the next word of the current passage. This suggests that the sense is, rather, the “course of transmigration”, as in the later Sanskrit phrase <i lang='pi' translate='no'>saṁsāravartmani</i>. "
+  },
+  "html_text": {
+    "sn35.83:0.1": "<article id='sn35.83'><header><ul><li class='division'>{}</li>",
+    "sn35.83:0.2": "<li>{}</li></ul>",
+    "sn35.83:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.83:1.1": "<p>{}</p>",
+    "sn35.83:2.1": "<p>{}</p>",
+    "sn35.83:2.2": "<p>{}",
+    "sn35.83:2.3": "{}</p>",
+    "sn35.83:3.1": "<p>{}</p>",
+    "sn35.83:3.2": "<p>{}",
+    "sn35.83:3.3": "{}</p>",
+    "sn35.83:3.4": "<p class='endsutta'>{}</p>",
+    "sn35.83:3.5": "<p class='endvagga'>{}</p>",
+    "sn35.83:4.0": "<p class='uddana-intro'>{}</p>",
+    "sn35.83:4.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn35.83:4.2": "<span class='verse-line'>{}</span>",
+    "sn35.83:4.3": "<span class='verse-line'>{}</span>",
+    "sn35.83:4.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn35.83",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Phaggunapañhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Question On the World ",
-      "uid": "sn35.82"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Liable to Wear Out ",
-      "uid": "sn35.84"
-    }
+    "sn35.83:0.1": "Saṁyutta Nikāya 35.83 ",
+    "sn35.83:0.2": "8. Gilānavagga ",
+    "sn35.83:0.3": "Phaggunapañhāsutta ",
+    "sn35.83:1.1": "Atha kho āyasmā phagguno …pe… ekamantaṁ nisinno kho āyasmā phagguno bhagavantaṁ etadavoca: ",
+    "sn35.83:2.1": "“Atthi nu kho, bhante, taṁ cakkhu, yena cakkhunā atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivaṭṭe paññāpayamāno paññāpeyya …pe… ",
+    "sn35.83:2.2": "atthi nu kho, bhante, sā jivhā, yāya jivhāya atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivaṭṭe paññāpayamāno paññāpeyya …pe… ",
+    "sn35.83:2.3": "atthi nu kho so, bhante, mano, yena manena atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivaṭṭe paññāpayamāno paññāpeyyā”ti? ",
+    "sn35.83:3.1": "“Natthi kho taṁ, phagguna, cakkhu, yena cakkhunā atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivaṭṭe paññāpayamāno paññāpeyya …pe… ",
+    "sn35.83:3.2": "natthi kho sā, phagguna, jivhā, yāya jivhāya atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivaṭṭe paññāpayamāno paññāpeyya …pe… ",
+    "sn35.83:3.3": "natthi kho so, phagguna, mano, yena manena atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivaṭṭe paññāpayamāno paññāpeyyā”ti. ",
+    "sn35.83:3.4": "Dasamaṁ. ",
+    "sn35.83:3.5": "Gilānavaggo tatiyo. ",
+    "sn35.83:4.0": "Tassuddānaṁ ",
+    "sn35.83:4.1": "Gilānena duve vuttā, ",
+    "sn35.83:4.2": "rādhena apare tayo; ",
+    "sn35.83:4.3": "Avijjāya ca dve vuttā, ",
+    "sn35.83:4.4": "bhikkhu loko ca phaggunoti. "
   },
-  "translation": {
-    "uid": "sn35.83",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Phagguna’s Question ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Question On the World ",
-      "uid": "sn35.82"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Liable to Wear Out ",
-      "uid": "sn35.84"
-    }
+  "translation_text": {
+    "sn35.83:0.1": "Linked Discourses 35.83 ",
+    "sn35.83:0.2": "8. Sick ",
+    "sn35.83:0.3": "Phagguna’s Question ",
+    "sn35.83:1.1": "And then Venerable Phagguna went up to the Buddha … and said to him: ",
+    "sn35.83:2.1": "“Sir, suppose someone were to describe the Buddhas of the past who have become fully quenched, cut off proliferation, cut off the course, finished off the cycle, and passed beyond all suffering. Does the eye exist by which they could be described? ",
+    "sn35.83:2.2": "Does the ear … nose … tongue … body exist …? ",
+    "sn35.83:2.3": "Does the mind exist by which they could be described?” ",
+    "sn35.83:3.1": "“Phagguna, suppose someone were to describe the Buddhas of the past who have become fully quenched, cut off proliferation, cut off the course, finished off the cycle, and passed beyond all suffering. The eye does not exist by which they could be described. ",
+    "sn35.83:3.2": "The ear … nose … tongue … body does not exist … ",
+    "sn35.83:3.3": "The mind does not exist by which they could be described.” ",
+    "sn35.83:3.4": "",
+    "sn35.83:3.5": "",
+    "sn35.83:4.1": "",
+    "sn35.83:4.2": "",
+    "sn35.83:4.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.83",
-    "volpages": " PTS 4.53",
-    "alt_volpages": null,
-    "uid": "sn35.83",
-    "blurb": "The Buddhas of the past cannot be described in terms of the six senses.",
-    "difficulty": null,
-    "original_title": "Phaggunapañhāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Phagguna’s Question ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.83_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Phaggunas Fragen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.83_translation-en-sujato",
-        "segmented": true,
-        "title": "Phagguna’s Question ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.83_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.83_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.83_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.83_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Phagguna"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": null,
-        "id": "es_sn35.83_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.83_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.83_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.83_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.83_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.83_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.83_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.83_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.83_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.83_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr18.63, ms13S4_347, msdiv83,ms13S4_348,cck18.65, csp1ed13.279, csp2ed13.279, ms13S4_349, ndp14.50, pts-vp-pli4.53, sya18.66, vri26.59,ms13S4_353",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.83:0.3": "Phaggunapañhāsutta → phaggunasuttaṁ (bj); phagguno (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.83",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Phaggunapañhāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.83:1.1": "dr18.63, ms13S4_347, msdiv83",
+    "sn35.83:2.1": "ms13S4_348",
+    "sn35.83:3.1": "cck18.65, csp1ed13.279, csp2ed13.279, ms13S4_349, ndp14.50, pts-vp-pli4.53, sya18.66, vri26.59",
+    "sn35.83:4.1": "ms13S4_353"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.83",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Phagguna’s Question ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.83:0.1",
+    "sn35.83:0.2",
+    "sn35.83:0.3",
+    "sn35.83:1.1",
+    "sn35.83:2.1",
+    "sn35.83:2.2",
+    "sn35.83:2.3",
+    "sn35.83:3.1",
+    "sn35.83:3.2",
+    "sn35.83:3.3",
+    "sn35.83:3.4",
+    "sn35.83:3.5",
+    "sn35.83:4.0",
+    "sn35.83:4.1",
+    "sn35.83:4.2",
+    "sn35.83:4.3",
+    "sn35.83:4.4"
   ]
 }

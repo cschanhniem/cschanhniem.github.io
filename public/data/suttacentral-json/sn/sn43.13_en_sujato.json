@@ -1,313 +1,51 @@
 {
+  "comment_text": {
+    "sn43.13:1.1": "Here begins a series of synonyms for Nibbāna the unconditioned. I provide a comment for the less common term. | “Uninclined” (<i lang='pi' translate='no'>anata</i>) occurs at <a href='https://suttacentral.net/ud8.2/en/sujato#3.1'>Ud 8.2:3.1</a>. See <a href='https://suttacentral.net/sn12.40/en/sujato#1.4'>SN 12.40:1.4</a> and <a href='https://suttacentral.net/sn35.87/en/sujato#11.5'>SN 35.87:11.5</a> and notes. "
+  },
+  "html_text": {
+    "sn43.13:0.1": "<article id='sn43.13'><header><ul><li class='division'>{}</li>",
+    "sn43.13:0.2": "<li>{}</li></ul>",
+    "sn43.13:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn43.13:1.1": "<p>{}",
+    "sn43.13:1.2": "{}",
+    "sn43.13:1.3": "{}</p>",
+    "sn43.13:1.4": "<p class='expansion-instructions'>{}</p>",
+    "sn43.13:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn43.13",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Anatasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Unconditioned ",
-      "uid": "sn43.12"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Undefiled, Etc. ",
-      "uid": "sn43.14-43"
-    }
+    "sn43.13:0.1": "Saṁyutta Nikāya 43.13 ",
+    "sn43.13:0.2": "2. Dutiyavagga ",
+    "sn43.13:0.3": "Anatasutta ",
+    "sn43.13:1.1": "“Anatañca vo, bhikkhave, desessāmi, anatagāmiñca maggaṁ. ",
+    "sn43.13:1.2": "Taṁ suṇātha. ",
+    "sn43.13:1.3": "Katamañca, bhikkhave, anataṁ …pe…”. ",
+    "sn43.13:1.4": "(Yathā asaṅkhataṁ tathā vitthāretabbaṁ.) ",
+    "sn43.13:1.5": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn43.13",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Uninclined ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Unconditioned ",
-      "uid": "sn43.12"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Undefiled, Etc. ",
-      "uid": "sn43.14-43"
-    }
+  "translation_text": {
+    "sn43.13:0.1": "Linked Discourses 43.13 ",
+    "sn43.13:0.2": "Chapter Two ",
+    "sn43.13:0.3": "Uninclined ",
+    "sn43.13:1.1": "“Mendicants, I will teach you the uninclined …” ",
+    "sn43.13:1.2": "",
+    "sn43.13:1.3": "",
+    "sn43.13:1.4": "(Tell in full as in the unconditioned in the previous chapter.) "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 43.13",
-    "volpages": "PTS SN iv 368",
-    "alt_volpages": null,
-    "uid": "sn43.13",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Anatasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Uninclined ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn43.13_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Ungeneigte ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn43.13_translation-en-sujato",
-        "segmented": true,
-        "title": "Uninclined ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn43.13_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn43.13_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn43.13_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn43.13_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Uninclined"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn43.13_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn43.13_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn43.13_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn43.13_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn43.13_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn43.13_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn43.13_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn43.13_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn43.13_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck18.446, ms13S4_1708, msdiv378",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn43.13:0.3": "Anatasutta → antasuttāni (bj); antam (pts1ed) ",
+    "sn43.13:1.1": "Anatañca → antañca (bj, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn43.13",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Anatasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn43.13:1.1": "cck18.446, ms13S4_1708, msdiv378"
   },
-  "bilara_translated_text": {
-    "uid": "sn43.13",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Uninclined ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn43.13:0.1",
+    "sn43.13:0.2",
+    "sn43.13:0.3",
+    "sn43.13:1.1",
+    "sn43.13:1.2",
+    "sn43.13:1.3",
+    "sn43.13:1.4",
+    "sn43.13:1.5"
   ]
 }

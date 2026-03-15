@@ -1,311 +1,80 @@
 {
+  "html_text": {
+    "sn17.9:0.1": "<article id='sn17.9'><header><ul><li class='division'>{}</li>",
+    "sn17.9:0.2": "<li>{}</li></ul>",
+    "sn17.9:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn17.9:1.1": "<p>{}</p>",
+    "sn17.9:1.2": "<p>{}</p>",
+    "sn17.9:1.3": "<p>{}",
+    "sn17.9:1.4": "{}",
+    "sn17.9:1.5": "{}</p>",
+    "sn17.9:1.6": "<p>{}",
+    "sn17.9:1.7": "{}",
+    "sn17.9:1.8": "{}",
+    "sn17.9:1.9": "{}",
+    "sn17.9:1.10": "{}</p>",
+    "sn17.9:1.11": "<p>{}",
+    "sn17.9:1.12": "{}</p>",
+    "sn17.9:1.13": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn17.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Verambhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Jackal ",
-      "uid": "sn17.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Verses ",
-      "uid": "sn17.10"
-    }
+    "sn17.9:0.1": "Saṁyutta Nikāya 17.9 ",
+    "sn17.9:0.2": "1. Paṭhamavagga ",
+    "sn17.9:0.3": "Verambhasutta ",
+    "sn17.9:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn17.9:1.2": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+    "sn17.9:1.3": "Upari, bhikkhave, ākāse verambhā nāma vātā vāyanti. ",
+    "sn17.9:1.4": "Tattha yo pakkhī gacchati tamenaṁ verambhā vātā khipanti. ",
+    "sn17.9:1.5": "Tassa verambhavātakkhittassa aññeneva pādā gacchanti, aññena pakkhā gacchanti, aññena sīsaṁ gacchati, aññena kāyo gacchati. ",
+    "sn17.9:1.6": "Evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pariyādiṇṇacitto pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisati arakkhiteneva kāyena arakkhitāya vācāya arakkhitena cittena, anupaṭṭhitāya satiyā, asaṁvutehi indriyehi. ",
+    "sn17.9:1.7": "So tattha passati mātugāmaṁ dunnivatthaṁ vā duppārutaṁ vā. ",
+    "sn17.9:1.8": "Tassa mātugāmaṁ disvā dunnivatthaṁ vā duppārutaṁ vā rāgo cittaṁ anuddhaṁseti. ",
+    "sn17.9:1.9": "So rāgānuddhaṁsitena cittena sikkhaṁ paccakkhāya hīnāyāvattati. ",
+    "sn17.9:1.10": "Tassa aññe cīvaraṁ haranti, aññe pattaṁ haranti, aññe nisīdanaṁ haranti, aññe sūcigharaṁ haranti, verambhavātakkhittasseva sakuṇassa. ",
+    "sn17.9:1.11": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+    "sn17.9:1.12": "evañhi vo, bhikkhave, sikkhitabban”ti. ",
+    "sn17.9:1.13": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "sn17.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gale-force Winds ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Jackal ",
-      "uid": "sn17.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Verses ",
-      "uid": "sn17.10"
-    }
+  "translation_text": {
+    "sn17.9:0.1": "Linked Discourses 17.9 ",
+    "sn17.9:0.2": "Chapter One ",
+    "sn17.9:0.3": "Gale-force Winds ",
+    "sn17.9:1.1": "At Sāvatthī. ",
+    "sn17.9:1.2": "“Possessions, honor, and popularity are grim … ",
+    "sn17.9:1.3": "High in the atmosphere there are gale-force winds blowing. ",
+    "sn17.9:1.4": "Any bird that flies there is flung about by those gale-force winds. ",
+    "sn17.9:1.5": "Their feet go one way, their wings another, their head another, and their body another. ",
+    "sn17.9:1.6": "In the same way, take a certain monk whose mind is overcome and overwhelmed by possessions, honor, and popularity. He robes up in the morning and, taking his bowl and robe, enters the village or town for alms without guarding body, speech, and mind, without establishing mindfulness, and without restraining the sense faculties. ",
+    "sn17.9:1.7": "There he sees a lady scantily clad, with revealing clothes. ",
+    "sn17.9:1.8": "Lust infects his mind. ",
+    "sn17.9:1.9": "He disavows the training and returns to a lesser life. ",
+    "sn17.9:1.10": "Some take his robe, others his bowl, others his sitting cloth, others his needle case, just like the bird flung about by the gale-force winds. ",
+    "sn17.9:1.11": "So grim are possessions, honor, and popularity. …” ",
+    "sn17.9:1.12": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 17.9",
-    "volpages": "PTS SN ii 231",
-    "alt_volpages": null,
-    "uid": "sn17.9",
-    "blurb": "A mendicant who is proud on account of their material possessions, honor, and praise is never at peace, like a bird in a gale.",
-    "difficulty": null,
-    "original_title": "Verambhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Gale-force Winds ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn17.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Orkanartige Winde ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn17.9_translation-en-sujato",
-        "segmented": true,
-        "title": "Gale-force Winds ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn17.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn17.9_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Verambha vetrovi ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn17.9_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn17.9_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn17.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn17.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn17.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn17.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn17.9_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn17.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn17.9_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn17.9_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn17.9_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr16.275, ms12S2_1041, msdiv165, sya16.272",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn17.9:0.3": "Verambhasutta → verambā (pts1ed, pts2ed) ",
+    "sn17.9:1.3": "verambhā → verambā (pts1ed, pts2ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn17.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Verambhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn17.9:1.1": "dr16.275, ms12S2_1041, msdiv165, sya16.272"
   },
-  "bilara_translated_text": {
-    "uid": "sn17.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gale-force Winds ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn17.9:0.1",
+    "sn17.9:0.2",
+    "sn17.9:0.3",
+    "sn17.9:1.1",
+    "sn17.9:1.2",
+    "sn17.9:1.3",
+    "sn17.9:1.4",
+    "sn17.9:1.5",
+    "sn17.9:1.6",
+    "sn17.9:1.7",
+    "sn17.9:1.8",
+    "sn17.9:1.9",
+    "sn17.9:1.10",
+    "sn17.9:1.11",
+    "sn17.9:1.12",
+    "sn17.9:1.13"
+  ]
 }

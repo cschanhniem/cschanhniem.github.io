@@ -2,19 +2,27 @@
 // Sutta detail view with version switching and comparison
 
 import { useState, useEffect, useRef, useCallback } from 'react'
-import { useParams, Link, useNavigate } from 'react-router-dom'
+import { useParams, Link, Navigate, useLocation, useNavigate } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { ChevronLeft, Type, Minus, Plus, Bookmark, ExternalLink } from 'lucide-react'
 import type { NikayaLanguage, NikayaVersionType, SCSuttaplex } from '@/types/nikaya'
 import { NIKAYA_LANGUAGES, NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getSuttaMetadata } from '@/lib/suttacentralApi'
-import { fetchLocalSuttaHtml, hasLocalJson, initLocalData } from '@/lib/suttacentralLocal'
+import { fetchLocalSuttaHtml, hasLocalContent, initLocalData } from '@/lib/suttacentralLocal'
 import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-improved'
+import { normalizeSuttaId } from '@/data/nikaya-improved/availability'
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
 import { NikayaComparisonView } from '@/components/NikayaComparisonView'
 import { useAppState } from '@/hooks/useAppState'
 import { useKatexCSS } from '@/hooks/useKatexCSS'
+import {
+    getNikayaCollectionFromSuttaId,
+    getNikayaCollectionPath,
+    getNikayaDetailPath,
+    isNikayaCollection,
+    resolveNikayaBackPath,
+} from '@/lib/nikaya-routes'
 import { usePageMeta } from '@/lib/seo'
 import { SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
@@ -30,11 +38,28 @@ const fontSizeClasses = {
 
 export function NikayaDetail() {
     const { t } = useTranslation()
-    const { suttaId } = useParams<{ suttaId: string }>()
+    const location = useLocation()
+    const { collection: collectionParam, suttaId } = useParams<{ collection: string; suttaId: string }>()
     const navigate = useNavigate()
     const { state, toggleBookmark } = useAppState()
     useKatexCSS()
     const contentRef = useRef<HTMLDivElement>(null)
+    const normalizedSuttaId = suttaId ? normalizeSuttaId(suttaId) : ''
+    const inferredCollection = normalizedSuttaId ? getNikayaCollectionFromSuttaId(normalizedSuttaId) : null
+    const routeCollection = collectionParam && isNikayaCollection(collectionParam) ? collectionParam : null
+    const canonicalPath = normalizedSuttaId && inferredCollection
+        ? getNikayaDetailPath(normalizedSuttaId, inferredCollection)
+        : '/nikaya'
+    const backPath = resolveNikayaBackPath(
+        location.state,
+        inferredCollection ? getNikayaCollectionPath(inferredCollection) : '/nikaya'
+    )
+    const coverage = {
+        hasOriginalEn: normalizedSuttaId ? hasLocalContent(normalizedSuttaId, 'en') : false,
+        hasOriginalVi: normalizedSuttaId ? hasLocalContent(normalizedSuttaId, 'vi') : false,
+        hasImprovedVi: normalizedSuttaId ? hasImprovedTranslation(normalizedSuttaId, 'vi') : false,
+    }
+    const hasCompleteTriad = coverage.hasOriginalEn && coverage.hasOriginalVi && coverage.hasImprovedVi
 
     // Sutta metadata
     const [metadata, setMetadata] = useState<SCSuttaplex | null>(null)
@@ -79,18 +104,45 @@ export function NikayaDetail() {
         available: boolean
     }[]>([])
 
+    const getPreferredAvailableVersion = useCallback((
+        versions: typeof availableVersions,
+        preferred?: { lang: NikayaLanguage; type: NikayaVersionType },
+        exclude?: { lang: NikayaLanguage; type: NikayaVersionType }
+    ) => {
+        const preferredMatch = preferred
+            ? versions.find(
+                (version) =>
+                    version.available &&
+                    version.lang === preferred.lang &&
+                    version.type === preferred.type
+              )
+            : null
+
+        if (preferredMatch) {
+            return { lang: preferredMatch.lang, type: preferredMatch.type }
+        }
+
+        const fallback = versions.find(
+            (version) =>
+                version.available &&
+                (!exclude || version.lang !== exclude.lang || version.type !== exclude.type)
+        )
+
+        return fallback ? { lang: fallback.lang, type: fallback.type } : null
+    }, [])
+
     usePageMeta({
         title: metadata ? (metadata.translated_title || metadata.original_title) : t('nikaya.metaTitle'),
         description: metadata?.blurb || t('nikaya.metaDescription'),
-        url: suttaId ? `/nikaya/${suttaId}` : undefined,
+        url: normalizedSuttaId ? canonicalPath : undefined,
         jsonLd: metadata
             ? [
                 {
                     '@type': 'Article',
-                    '@id': `${SITE_URL}/nikaya/${metadata.uid}#article`,
+                    '@id': `${SITE_URL}${canonicalPath}#article`,
                     headline: metadata.translated_title || metadata.original_title,
                     description: metadata.blurb || t('nikaya.metaDescription'),
-                    url: `${SITE_URL}/nikaya/${metadata.uid}`,
+                    url: `${SITE_URL}${canonicalPath}`,
                     inLanguage: 'vi',
                     author: {
                         '@type': 'Organization',
@@ -116,30 +168,38 @@ export function NikayaDetail() {
                             name: 'Kinh Điển Pāli',
                             item: `${SITE_URL}/nikaya`,
                         },
+                        ...(inferredCollection
+                            ? [{
+                                '@type': 'ListItem',
+                                position: 3,
+                                name: NIKAYA_COLLECTIONS[inferredCollection].vi,
+                                item: `${SITE_URL}${getNikayaCollectionPath(inferredCollection)}`,
+                            }]
+                            : []),
                         {
                             '@type': 'ListItem',
-                            position: 3,
+                            position: inferredCollection ? 4 : 3,
                             name: metadata.translated_title || metadata.original_title,
-                            item: `${SITE_URL}/nikaya/${metadata.uid}`,
+                            item: `${SITE_URL}${canonicalPath}`,
                         },
                     ],
                 },
             ]
             : undefined,
-        jsonLdId: suttaId ? `nikaya-${suttaId}` : 'nikaya-detail',
+        jsonLdId: normalizedSuttaId ? `nikaya-${normalizedSuttaId}` : 'nikaya-detail',
         author: 'SuttaCentral / Nhập Lưu',
     })
 
     // Fetch sutta metadata
     useEffect(() => {
-        if (!suttaId) return
+        if (!normalizedSuttaId) return
 
         const fetchMetadata = async () => {
             setLoading(true)
             setError(null)
 
             try {
-                const data = await getSuttaMetadata(suttaId)
+                const data = await getSuttaMetadata(normalizedSuttaId)
                 if (!data) {
                     setError('Không tìm thấy kinh này')
                     return
@@ -153,17 +213,13 @@ export function NikayaDetail() {
                 for (const lang of supportedLangs) {
                     const langInfo = NIKAYA_LANGUAGES[lang]
 
-                    // Check if original version available locally (JSON)
-                    const hasLocalOriginal = hasLocalJson(suttaId, lang)
-                    const scTranslation = data.translations.find(
-                        t => t.lang === lang && t.author_uid === langInfo.originalAuthorUid
-                    )
-
+                    // Check if original version has local readable content
+                    const hasLocalOriginal = hasLocalContent(normalizedSuttaId, lang)
                     versions.push({
                         lang,
                         type: 'original',
                         author: langInfo.originalAuthor,
-                        available: hasLocalOriginal || !!scTranslation
+                        available: hasLocalOriginal
                     })
 
                     // Check if improved version available locally
@@ -171,7 +227,7 @@ export function NikayaDetail() {
                         lang,
                         type: 'improved',
                         author: 'NhậpLưu 2026',
-                        available: hasImprovedTranslation(suttaId, lang)
+                        available: hasImprovedTranslation(normalizedSuttaId, lang)
                     })
                 }
 
@@ -184,32 +240,52 @@ export function NikayaDetail() {
         }
 
         fetchMetadata()
-    }, [suttaId, manifestReady])
+    }, [normalizedSuttaId, manifestReady])
+
+    useEffect(() => {
+        if (availableVersions.length === 0) return
+
+        const nextPrimary = getPreferredAvailableVersion(availableVersions, selectedVersion)
+        if (
+            nextPrimary &&
+            (nextPrimary.lang !== selectedVersion.lang || nextPrimary.type !== selectedVersion.type)
+        ) {
+            setSelectedVersion(nextPrimary)
+        }
+
+        const nextSecondary = getPreferredAvailableVersion(availableVersions, secondVersion, nextPrimary ?? selectedVersion)
+        if (
+            nextSecondary &&
+            (nextSecondary.lang !== secondVersion.lang || nextSecondary.type !== secondVersion.type)
+        ) {
+            setSecondVersion(nextSecondary)
+        }
+    }, [availableVersions, getPreferredAvailableVersion, secondVersion, selectedVersion])
 
     // Fetch content when version changes
     const fetchContent = useCallback(async (
         lang: NikayaLanguage,
         type: NikayaVersionType
     ): Promise<string> => {
-        if (!suttaId) return ''
+        if (!normalizedSuttaId) return ''
 
         if (type === 'improved') {
             // Get from local improved data (markdown)
-            const improved = getImprovedTranslation(suttaId, lang)
+            const improved = getImprovedTranslation(normalizedSuttaId, lang)
             return improved?.content || '*Bản dịch cải tiến đang được phát triển...*'
         }
 
         // Get original from local JSON data first (HTML)
-        const localHtml = await fetchLocalSuttaHtml(suttaId, lang)
+        const localHtml = await fetchLocalSuttaHtml(normalizedSuttaId, lang)
         if (localHtml) {
             return localHtml
         }
 
         // Fallback message if not available locally
-        return `*Bản dịch gốc tiếng ${NIKAYA_LANGUAGES[lang].nativeName} đang được cập nhật...*
+        return `*Bản gốc ${NIKAYA_LANGUAGES[lang].nativeName} chưa được nhập vào thư viện địa phương.*
 
-Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.net/${suttaId}/${lang}).`
-    }, [suttaId])
+Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/${normalizedSuttaId}/${lang}).`
+    }, [normalizedSuttaId])
 
     // Load primary content
     useEffect(() => {
@@ -241,11 +317,11 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
         const scrollHeight = element.scrollHeight - window.innerHeight
         const newProgress = Math.min(100, Math.max(0, (scrollTop / scrollHeight) * 100))
         setProgress(newProgress)
-        if (!hasTrackedRead && newProgress >= 80 && suttaId) {
+        if (!hasTrackedRead && newProgress >= 80 && normalizedSuttaId) {
             setHasTrackedRead(true)
-            trackEvent('read_sutta', { suttaId, progress: Math.round(newProgress), source: 'nikaya' })
+            trackEvent('read_sutta', { suttaId: normalizedSuttaId, progress: Math.round(newProgress), source: 'nikaya' })
         }
-    }, [hasTrackedRead, suttaId])
+    }, [hasTrackedRead, normalizedSuttaId])
 
     useEffect(() => {
         window.addEventListener('scroll', handleScroll)
@@ -283,6 +359,10 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
     prose-hr:border-border prose-hr:my-8
   `
 
+    if (normalizedSuttaId && (routeCollection !== inferredCollection || suttaId !== normalizedSuttaId)) {
+        return <Navigate to={canonicalPath} replace state={location.state} />
+    }
+
     if (loading) {
         return (
             <div className="container mx-auto px-4 py-8 max-w-6xl">
@@ -300,7 +380,7 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
             <div className="container mx-auto px-4 py-8 max-w-4xl">
                 <div className="text-center">
                     <h1 className="text-2xl font-bold text-foreground mb-4">{error || 'Không tìm thấy kinh'}</h1>
-                    <Link to="/nikaya" className="text-primary hover:underline">
+                    <Link to={backPath} className="text-primary hover:underline">
                         ← Quay lại Kinh Điển
                     </Link>
                 </div>
@@ -308,7 +388,7 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
         )
     }
 
-    const collection = metadata.uid.slice(0, 2).toLowerCase() as keyof typeof NIKAYA_COLLECTIONS
+    const collection = (inferredCollection || metadata.uid.slice(0, 2).toLowerCase()) as keyof typeof NIKAYA_COLLECTIONS
     const collectionInfo = NIKAYA_COLLECTIONS[collection]
 
     return (
@@ -323,7 +403,7 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
 
             {/* Back link */}
             <button
-                onClick={() => navigate('/nikaya')}
+                onClick={() => navigate(backPath)}
                 className="flex items-center gap-2 text-primary hover:underline mb-6"
             >
                 <ChevronLeft className="h-4 w-4" />
@@ -355,7 +435,7 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
 
                     <div className="flex items-center gap-2">
                         <a
-                            href={`https://suttacentral.net/${suttaId}`}
+                            href={`https://suttacentral.net/${normalizedSuttaId}`}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="p-2 hover:bg-muted rounded-md transition-colors"
@@ -364,12 +444,12 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
                             <ExternalLink className="h-5 w-5 text-muted-foreground" />
                         </a>
                         <button
-                            onClick={() => toggleBookmark(suttaId || '')}
+                            onClick={() => toggleBookmark(normalizedSuttaId)}
                             className="p-2 hover:bg-muted rounded-md transition-colors"
-                            title={state.bookmarkedSuttas.includes(suttaId || '') ? 'Bỏ đánh dấu' : 'Đánh dấu'}
+                            title={state.bookmarkedSuttas.includes(normalizedSuttaId) ? 'Bỏ đánh dấu' : 'Đánh dấu'}
                         >
                             <Bookmark
-                                className={`h-5 w-5 ${state.bookmarkedSuttas.includes(suttaId || '')
+                                className={`h-5 w-5 ${state.bookmarkedSuttas.includes(normalizedSuttaId)
                                     ? 'fill-primary text-primary'
                                     : 'text-muted-foreground'
                                     }`}
@@ -377,6 +457,38 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
                         </button>
                     </div>
                 </div>
+
+                {collectionInfo && (
+                    <div className="mb-4 rounded-lg border border-border bg-muted/40 p-4">
+                        <div className="flex flex-wrap items-center gap-2 mb-2">
+                            <span className={`rounded px-2 py-1 text-xs font-medium ${coverage.hasOriginalEn ? 'bg-emerald-500/10 text-emerald-700' : 'bg-muted text-muted-foreground'}`}>
+                                {t('nikaya.coverage.originalEnShort')}
+                            </span>
+                            <span className={`rounded px-2 py-1 text-xs font-medium ${coverage.hasOriginalVi ? 'bg-emerald-500/10 text-emerald-700' : 'bg-muted text-muted-foreground'}`}>
+                                {t('nikaya.coverage.originalViShort')}
+                            </span>
+                            <span className={`rounded px-2 py-1 text-xs font-medium ${coverage.hasImprovedVi ? 'bg-primary/10 text-primary' : 'bg-muted text-muted-foreground'}`}>
+                                {t('nikaya.coverage.manual2026Short')}
+                            </span>
+                        </div>
+                        <p className="text-sm text-muted-foreground">
+                            {hasCompleteTriad
+                                ? t('nikaya.coverage.detailReady', {
+                                    collection: collectionInfo.vi,
+                                    suttaId: metadata.acronym,
+                                })
+                                : t('nikaya.coverage.detailMissing', {
+                                    collection: collectionInfo.vi,
+                                    suttaId: metadata.acronym,
+                                    missing: [
+                                        !coverage.hasOriginalEn ? t('nikaya.coverage.originalEn') : null,
+                                        !coverage.hasOriginalVi ? t('nikaya.coverage.originalVi') : null,
+                                        !coverage.hasImprovedVi ? t('nikaya.coverage.manual2026') : null,
+                                    ].filter(Boolean).join(', '),
+                                })}
+                        </p>
+                    </div>
+                )}
 
                 {/* Version Switcher */}
                 <NikayaVersionSwitcher
@@ -467,7 +579,7 @@ Bạn có thể xem bản dịch này trên [SuttaCentral](https://suttacentral.
             {/* Bottom Navigation */}
             <div className="mt-8 flex justify-between">
                 <button
-                    onClick={() => navigate('/nikaya')}
+                    onClick={() => navigate(backPath)}
                     className="flex items-center gap-2 text-primary hover:underline"
                 >
                     <ChevronLeft className="h-4 w-4" />

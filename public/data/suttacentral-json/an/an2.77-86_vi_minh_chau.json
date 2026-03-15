@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "an2.77-86",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Two Things ",
+      "uid": "an2.87-97"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Happiness ",
+      "uid": "an2.64-76"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='an2.77-86' lang='vi'>\n<header>\n<ul>\n<li class='division' lang='pli' translate='no'>Aṅguttara Nikāya</li>\n<li><span class='roman-numerals'>VIII</span>. Phẩm Tướng</li>\n</ul>\n<h1>2.77–86</h1>\n</header>\n<p><a class='ref ttc' id='ttc1' href='#ttc1'>TTC 1</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có tướng, không phải không có tướng. Do đoạn tận chính tướng ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc2' href='#ttc2'>TTC 2</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có nhân duyên, không phải không có nhân duyên. Do đoạn tận chính nhân duyên ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc3' href='#ttc3'>TTC 3</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có nhân, không phải không có nhân. Do đoạn tận chính nhân ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc4' href='#ttc4'>TTC 4</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có các hành, không phải không có các hành. Do đoạn tận chính các hành ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc5' href='#ttc5'>TTC 5</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có duyên, không phải không có duyên. Do đoạn tận chính duyên ấy, các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc6-9' href='#ttc6-9'>TTC 6-9</a>… có sắc, không phải không có sắc … có thọ, không phải không có thọ … có tưởng, không phải không có tưởng … có thức, không phải không có thức …</p>\n<p><a class='ref ttc' id='ttc10' href='#ttc10'>TTC 10</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có sở duyên hữu vi, không phải không có sở duyên hữu vi. Do đoạn tận hữu vi ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<footer>\n<p>Bộ kinh nầy được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch từ tạng Pali sang Việt ngữ năm 1976–1977, và được Viện Phật Học Vạn Hạnh, Sài Gòn, ấn hành năm <span class='publication-date'>1980–1981</span>. Trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được hiệu đính thành 4 tập và tái bản năm 1996, qua số thứ tự 21, 22, 23, và 24.</p>\n<p>These texts have been used with the kind permission of the webmaster of <a href='http://www.budsas.net/'>http://www.budsas.net/</a></p>\n<p>Prepared for SuttaCentral by <span class='editor'>Ayya Vimala</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "an2.77-86",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Two Things ",
+      "uid": "an2.87-97"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Happiness ",
+      "uid": "an2.64-76"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='an2.77-86' lang='vi'>\n<header>\n<ul>\n<li class='division' lang='pli' translate='no'>Aṅguttara Nikāya</li>\n<li><span class='roman-numerals'>VIII</span>. Phẩm Tướng</li>\n</ul>\n<h1>2.77–86</h1>\n</header>\n<p><a class='ref ttc' id='ttc1' href='#ttc1'>TTC 1</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có tướng, không phải không có tướng. Do đoạn tận chính tướng ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc2' href='#ttc2'>TTC 2</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có nhân duyên, không phải không có nhân duyên. Do đoạn tận chính nhân duyên ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc3' href='#ttc3'>TTC 3</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có nhân, không phải không có nhân. Do đoạn tận chính nhân ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc4' href='#ttc4'>TTC 4</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có các hành, không phải không có các hành. Do đoạn tận chính các hành ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc5' href='#ttc5'>TTC 5</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có duyên, không phải không có duyên. Do đoạn tận chính duyên ấy, các pháp ác, bất thiện ấy, không có mặt.</p>\n<p><a class='ref ttc' id='ttc6-9' href='#ttc6-9'>TTC 6-9</a>… có sắc, không phải không có sắc … có thọ, không phải không có thọ … có tưởng, không phải không có tưởng … có thức, không phải không có thức …</p>\n<p><a class='ref ttc' id='ttc10' href='#ttc10'>TTC 10</a>Này các Tỷ-kheo, các pháp ác, bất thiện khởi lên có sở duyên hữu vi, không phải không có sở duyên hữu vi. Do đoạn tận hữu vi ấy, như vậy các pháp ác, bất thiện ấy, không có mặt.</p>\n<footer>\n<p>Bộ kinh nầy được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch từ tạng Pali sang Việt ngữ năm 1976–1977, và được Viện Phật Học Vạn Hạnh, Sài Gòn, ấn hành năm <span class='publication-date'>1980–1981</span>. Trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được hiệu đính thành 4 tập và tái bản năm 1996, qua số thứ tự 21, 22, 23, và 24.</p>\n<p>These texts have been used with the kind permission of the webmaster of <a href='http://www.budsas.net/'>http://www.budsas.net/</a></p>\n<p>Prepared for SuttaCentral by <span class='editor'>Ayya Vimala</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "AN 2.77–86",
+    "volpages": " PTS 1.83.1",
+    "alt_volpages": null,
+    "uid": "an2.77-86",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sanimittavagga",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": null,
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an2.77-86_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit einer Basis ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an2.77-86_translation-en-sujato",
+        "segmented": true,
+        "title": "With a Foundation ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Rémy Zins",
+        "author_short": "sekha",
+        "author_uid": "sekha",
+        "publication_date": "2022",
+        "id": "an2.77-86_translation-fr-sekha",
+        "segmented": true,
+        "title": "Le chapitre avec un objet ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "Kaz Takehara",
+        "author_short": "kaz",
+        "author_uid": "kaz",
+        "publication_date": "2021",
+        "id": "an2.77-86_translation-jpn-kaz",
+        "segmented": true,
+        "title": "第八　基盤と共に（有品） ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an2.77-86_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Laera et al.",
+        "author_short": "laera",
+        "author_uid": "laera",
+        "publication_date": null,
+        "id": "an2.77-86_translation-pt-laera-quaresma",
+        "segmented": true,
+        "title": "Com uma base",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "সুমঙ্গল বড়ুয়া",
+        "author_short": "বড়ুয়া",
+        "author_uid": "sumangal-barua",
+        "publication_date": "2018",
+        "id": "bn_an2.77-86_sumangal-barua",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_an2.77-86_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an2.77-86_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": "2012",
+        "id": "es_an2.77-86_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "buddha-vacana.org",
+        "author_short": "BVO",
+        "author_uid": "buddhavacanaorg",
+        "publication_date": null,
+        "id": "fr_an2.77-86_buddhavacanaorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an2.77-86_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an2.77-86_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an2.77-86_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2020",
+        "id": "no_an2.77-86_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_an2.77-86_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an2.77-86_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an2.77-86_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_an2.77-86_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980–1981",
+        "segmented": false,
+        "volpage": null,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj18.158, ms15A2_159, msdiv78, ndp16.76.1, sya20.103, vri35.98,dr20.103, ms15A2_160, msdiv79.1,ms15A2_161, msdiv80.1,cck20.104, ms15A2_162, msdiv81.1,csp1ed15.81, csp2ed15.81, ms15A2_163, msdiv82.1,ms15A2_164, msdiv83, pts-vp-pli1.83.1,ms15A2_165, msdiv84.1,ms15A2_166, msdiv85.1, sya20.104,bj18.160, dr20.104, ms15A2_167, msdiv86.1, vri35.99,ms15A2_168, msdiv87, ndp16.77.1",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an2.77-86",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sanimittavagga",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

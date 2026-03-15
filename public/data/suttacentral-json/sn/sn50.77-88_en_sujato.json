@@ -1,0 +1,29 @@
+{
+  "html_text": {
+    "sn50.77-88:0.1": "<article id='sn50.77-88'><header><ul><li class='division'>{}</li>",
+    "sn50.77-88:0.2": "<li>{}</li></ul>",
+    "sn50.77-88:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn50.77-88:1.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn50.77-88:0.1": "Saṁyutta Nikāya 50.77 ",
+    "sn50.77-88:0.2": "7. Punabalakaraṇīyavagga ",
+    "sn50.77-88:0.3": "Punabalakaraṇīyavagga ",
+    "sn50.77-88:1.1": "(Appamādavagga-balakaraṇīyavaggā vitthāretabbā.) "
+  },
+  "translation_text": {
+    "sn50.77-88:0.1": "Linked Discourses 50.77–88 ",
+    "sn50.77-88:0.2": "7. Another Chapter on Hard Work ",
+    "sn50.77-88:0.3": "Another Chapter on Hard Work ",
+    "sn50.77-88:1.1": "(Tell in full as in SN 45.149–160, removal of greed version.) "
+  },
+  "reference_text": {
+    "sn50.77-88:1.1": "bj17.1.440, ms14S5_1330, vri27.326"
+  },
+  "keys_order": [
+    "sn50.77-88:0.1",
+    "sn50.77-88:0.2",
+    "sn50.77-88:0.3",
+    "sn50.77-88:1.1"
+  ]
+}

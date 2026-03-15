@@ -1,0 +1,325 @@
+{
+  "root_text": {
+    "uid": "sn50.1-12",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Diligence ",
+      "uid": "sn50.13-22"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Floods ",
+      "uid": "sn49.45-54"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<section id='sn50.1-12' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 50: Tương Ưng Lực</li>\n<li>I: Phẩm Sông Hằng Rộng Thuyết</li>\n</ul>\n<h1>50.1–12</h1>\n</header>\n<article id='sn50.1'>\n<h2>50.1. Viễn Ly</h2>\n<p><a class='pts' id='S.v,249' href='#S.v,249'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Có năm lực này, này các Tỷ-kheo. Thế nào là năm? Tín lực, tấn lực, niệm lực, định lực, tuệ lực. Những pháp này, này các Tỷ-kheo, là năm lực.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Ví như, này các Tỷ-kheo, sông Hằng thiên về phương Ðông, hướng về phương Ðông, xuôi về phương Ðông. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập năm lực, làm cho sung mãn năm lực, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.</p>\n<p><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập tín lực liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ … tấn lực … niệm lực … định lực … tu tập tuệ lực liên hệ đến viễn ly … hướng đến từ bỏ.</p>\n<p><a class='ref vi-n' id='vi-n5' href='#vi-n5'>Vi-n 5</a> Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập năm lực, làm cho sung mãn năm lực, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.</p>\n</article>\n<article id='sn50.2-12'>\n<h2>50.2–12</h2>\n<p><a class='pts' id='S.v,250' href='#S.v,250'></a>(Tóm tắt đề kinh: Sáu thiên về phương Ðông, sáu thiên về biển, sông Hằng thành mười hai, tên phẩm là như vậy).</p>\n</article>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</section>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn50.1-12",
+    "lang": "vi",
+    "is_root": false,
+    "title": "",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Diligence ",
+      "uid": "sn50.13-22"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Floods ",
+      "uid": "sn49.45-54"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<section id='sn50.1-12' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 50: Tương Ưng Lực</li>\n<li>I: Phẩm Sông Hằng Rộng Thuyết</li>\n</ul>\n<h1>50.1–12</h1>\n</header>\n<article id='sn50.1'>\n<h2>50.1. Viễn Ly</h2>\n<p><a class='pts' id='S.v,249' href='#S.v,249'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Có năm lực này, này các Tỷ-kheo. Thế nào là năm? Tín lực, tấn lực, niệm lực, định lực, tuệ lực. Những pháp này, này các Tỷ-kheo, là năm lực.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Ví như, này các Tỷ-kheo, sông Hằng thiên về phương Ðông, hướng về phương Ðông, xuôi về phương Ðông. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập năm lực, làm cho sung mãn năm lực, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.</p>\n<p><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập tín lực liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ … tấn lực … niệm lực … định lực … tu tập tuệ lực liên hệ đến viễn ly … hướng đến từ bỏ.</p>\n<p><a class='ref vi-n' id='vi-n5' href='#vi-n5'>Vi-n 5</a> Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập năm lực, làm cho sung mãn năm lực, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.</p>\n</article>\n<article id='sn50.2-12'>\n<h2>50.2–12</h2>\n<p><a class='pts' id='S.v,250' href='#S.v,250'></a>(Tóm tắt đề kinh: Sáu thiên về phương Ðông, sáu thiên về biển, sông Hằng thành mười hai, tên phẩm là như vậy).</p>\n</article>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</section>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 50.1–12",
+    "volpages": " PTS 5.249, PTS 5.250",
+    "alt_volpages": null,
+    "uid": "sn50.1-12",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Gaṅgāpeyyālavagga",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": null,
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn50.1-12_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Das Kapitel mit abgekürzten Texten über den Ganges ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn50.1-12_translation-en-sujato",
+        "segmented": true,
+        "title": "Abbreviated Texts on the Ganges ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2022",
+        "id": "sn50.1-12_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Stiprybės ir taip toliau",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn50.1-12_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn50.1-12_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn50.1-12_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn50.1-12_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_sn50.1-12_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn50.1-12_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn50.1-12_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn50.1-12_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_sn50.1-12_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn50.1-12_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn50.1-12_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn50.1-12_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn50.1-12_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": ""
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn50.1-12_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj17.1.434, cck19.253, csp1ed14.218, csp2ed14.218, dr19.317, ms14S5_1310, msdiv705-716, ndp15.214, pts-vp-pli5.249, sya19.323, vri27.322,dr19.318, ms14S5_1314, pts-vp-pli5.250",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn50.1-12",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Gaṅgāpeyyālavagga",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

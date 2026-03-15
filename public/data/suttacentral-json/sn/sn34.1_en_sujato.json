@@ -1,323 +1,78 @@
 {
+  "comment_text": {
+    "sn34.1:1.1": "The other Jhānasaṁyutta (<a href='https://suttacentral.net/sn53.1/en/sujato'>SN 53.1</a>) focuses on the meditation states, where here we focus on the process of developing and perfecting meditation. The whole is built up as a systematic “wheel” (<i lang='pi' translate='no'>cakka</i>) of permutations, a form familiar from the Vinaya and Abhidhamma. In such structures, first a set of items is listed, then they are juxtaposed with each other, one pair at a time, until the possibilities are worked out systematically. This <i lang='pi' translate='no'>cakka</i> serves to systematize similar teachings at <a href='https://suttacentral.net/an2.163/en/sujato'>AN 2.163</a>, <a href='https://suttacentral.net/an6.24/en/sujato'>AN 6.24</a>, <a href='https://suttacentral.net/an6.72/en/sujato'>AN 6.72</a>, <a href='https://suttacentral.net/an7.40/en/sujato'>AN 7.40</a>, <a href='https://suttacentral.net/an7.41/en/sujato'>AN 7.41</a>, <a href='https://suttacentral.net/an9.36/en/sujato#10.3'>AN 9.36:10.3</a>, and <a href='https://suttacentral.net/an10.84/en/sujato#2.3'>AN 10.84:2.3</a>. ",
+    "sn34.1:1.2": "“Meditator” is <i lang='pi' translate='no'>jhāyī</i>, “practitioner of <i lang='pi' translate='no'>jhāna</i>”. As usual, in this Saṁyutta <i lang='pi' translate='no'>jhāna</i> and <i lang='pi' translate='no'>samādhi</i> are synonyms. Various skills in developing refined meditation are itemized. ",
+    "sn34.1:1.4": "They cannot attain absorption whenever they want (compare <a href='https://suttacentral.net/dn15/en/sujato#36.1'>DN 15:36.1</a>). ",
+    "sn34.1:1.9": "Compare Śatapatha Brāhmaṇa 3.3.3.2. "
+  },
+  "html_text": {
+    "sn34.1:0.1": "<article id='sn34.1'><header><ul><li class='division'>{}</li>",
+    "sn34.1:0.2": "<li>{}</li></ul>",
+    "sn34.1:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn34.1:1.1": "<p>{}</p>",
+    "sn34.1:1.2": "<p>{}",
+    "sn34.1:1.3": "{}</p>",
+    "sn34.1:1.4": "<p>{}</p>",
+    "sn34.1:1.5": "<p>{}</p>",
+    "sn34.1:1.6": "<p>{}</p>",
+    "sn34.1:1.7": "<p>{}</p>",
+    "sn34.1:1.8": "<p>{}</p>",
+    "sn34.1:1.9": "<p>{}</p>",
+    "sn34.1:1.10": "<p>{}</p>",
+    "sn34.1:1.11": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn34.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samādhimūlakasamāpattisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Not Directly Experiencing Consciousness ",
-      "uid": "sn33.55"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Remaining in Immersion ",
-      "uid": "sn34.2"
-    }
+    "sn34.1:0.1": "Saṁyutta Nikāya 34.1 ",
+    "sn34.1:0.2": "1. Jhānavagga ",
+    "sn34.1:0.3": "Samādhimūlakasamāpattisutta ",
+    "sn34.1:1.1": "Sāvatthinidānaṁ. ",
+    "sn34.1:1.2": "“Cattārome, bhikkhave, jhāyī. ",
+    "sn34.1:1.3": "Katame cattāro? ",
+    "sn34.1:1.4": "Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ samāpattikusalo. ",
+    "sn34.1:1.5": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ samādhikusalo. ",
+    "sn34.1:1.6": "Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ samāpattikusalo. ",
+    "sn34.1:1.7": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ samāpattikusalo ca. ",
+    "sn34.1:1.8": "Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ samāpattikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. ",
+    "sn34.1:1.9": "Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati; ",
+    "sn34.1:1.10": "evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ samāpattikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti. ",
+    "sn34.1:1.11": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn34.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Entering Immersion ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Not Directly Experiencing Consciousness ",
-      "uid": "sn33.55"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Remaining in Immersion ",
-      "uid": "sn34.2"
-    }
+  "translation_text": {
+    "sn34.1:0.1": "Linked Discourses 34.1 ",
+    "sn34.1:0.2": "1. Absorption ",
+    "sn34.1:0.3": "Entering Immersion ",
+    "sn34.1:1.1": "At Sāvatthī. ",
+    "sn34.1:1.2": "“Mendicants, there are these four meditators. ",
+    "sn34.1:1.3": "What four? ",
+    "sn34.1:1.4": "One meditator is skilled in immersion but not in entering it. ",
+    "sn34.1:1.5": "One meditator is not skilled in immersion but is skilled in entering it. ",
+    "sn34.1:1.6": "One meditator is skilled neither in immersion nor in entering it. ",
+    "sn34.1:1.7": "One meditator is skilled both in immersion and in entering it. ",
+    "sn34.1:1.8": "Of these, the meditator skilled in immersion and in entering it is the foremost, best, chief, highest, and finest of the four. ",
+    "sn34.1:1.9": "From a cow comes milk, from milk comes curds, from curds come butter, from butter comes ghee, and from ghee comes cream of ghee. And the cream of ghee is said to be the best of these. ",
+    "sn34.1:1.10": "In the same way, the meditator skilled in immersion and entering it is the foremost, best, leading, highest, and finest of the four.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 34.1",
-    "volpages": " PTS 3.264",
-    "alt_volpages": null,
-    "uid": "sn34.1",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Samādhimūlakasamāpattisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Entering Immersion ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn34.1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "In die Versenkung eintreten ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn34.1_translation-en-sujato",
-        "segmented": true,
-        "title": "Entering Immersion ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn34.1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn34.1_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn34.1_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2011",
-        "id": "es_sn34.1_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn34.1_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn34.1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn34.1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn34.1_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn34.1_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn34.1_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn34.1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn34.1_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn34.1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn34.1_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj15.538, cck17.239, csp1ed13.224, csp2ed13.224, dr17.326, ms13S3_1280, msdiv662, ndp13.478, pts-vp-pli3.264, sya17.327, vri25.262",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn34.1:0.2": "Jhānavagga → samādhisaṁyuttaṁ (bj); jhāna (or samādhi) saṁyuttaṁ (pts1ed) ",
+    "sn34.1:0.3": "Samādhimūlakasamāpattisutta → samāpattikusalasuttaṁ (bj); samādhi-samāpatti (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn34.1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samādhimūlakasamāpattisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn34.1:1.1": "bj15.538, cck17.239, csp1ed13.224, csp2ed13.224, dr17.326, ms13S3_1280, msdiv662, ndp13.478, pts-vp-pli3.264, sya17.327, vri25.262"
   },
-  "bilara_translated_text": {
-    "uid": "sn34.1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Entering Immersion ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn34.1:0.1",
+    "sn34.1:0.2",
+    "sn34.1:0.3",
+    "sn34.1:1.1",
+    "sn34.1:1.2",
+    "sn34.1:1.3",
+    "sn34.1:1.4",
+    "sn34.1:1.5",
+    "sn34.1:1.6",
+    "sn34.1:1.7",
+    "sn34.1:1.8",
+    "sn34.1:1.9",
+    "sn34.1:1.10",
+    "sn34.1:1.11"
+  ]
 }

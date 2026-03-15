@@ -1,271 +1,45 @@
 {
+  "html_text": {
+    "an4.273:0.1": "<article id='an4.273'><header><ul><li class='division'>{}</li>",
+    "an4.273:0.2": "<li>{}</li></ul>",
+    "an4.273:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.273:1.1": "<p>{}</p>",
+    "an4.273:2.1": "<p>{}",
+    "an4.273:2.2": "{}</p>",
+    "an4.273:2.3": "<p class='endsutta'>{}</p>",
+    "an4.273:2.4": "<p class='endvagga'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an4.273",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Micchādiṭṭhisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ill Will ",
-      "uid": "an4.272"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Mindfulness Meditation ",
-      "uid": "an4.274"
-    }
+    "an4.273:0.1": "Aṅguttara Nikāya 4.273 ",
+    "an4.273:0.2": "27. Kammapathavagga ",
+    "an4.273:0.3": "Micchādiṭṭhisutta ",
+    "an4.273:1.1": "…pe… Attanā ca micchādiṭṭhiko hoti, parañca micchādiṭṭhiyā samādapeti, micchādiṭṭhiyā ca samanuñño hoti, micchādiṭṭhiyā ca vaṇṇaṁ bhāsati—imehi …pe…. ",
+    "an4.273:2.1": "Attanā ca sammādiṭṭhiko hoti, parañca sammādiṭṭhiyā samādapeti, sammādiṭṭhiyā ca samanuñño hoti, sammādiṭṭhiyā ca vaṇṇaṁ bhāsati—",
+    "an4.273:2.2": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṁ nikkhitto evaṁ saggeti. ",
+    "an4.273:2.3": "Dasamaṁ. ",
+    "an4.273:2.4": "Kammapathavaggo sattamo. "
   },
-  "translation": {
-    "uid": "an4.273",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Wrong View ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ill Will ",
-      "uid": "an4.272"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Mindfulness Meditation ",
-      "uid": "an4.274"
-    }
+  "translation_text": {
+    "an4.273:0.1": "Numbered Discourses 4.273 ",
+    "an4.273:0.2": "27. Ways of Performing Deeds ",
+    "an4.273:0.3": "Wrong View ",
+    "an4.273:1.1": "“… They themselves have wrong view … ",
+    "an4.273:2.1": "They themselves have right view; they encourage others to have right view; they approve of right view; and they praise right view. ",
+    "an4.273:2.2": "Someone with these four qualities is placed in heaven as if delivered there.” ",
+    "an4.273:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.273",
-    "volpages": " PTS 2.256",
-    "alt_volpages": null,
-    "uid": "an4.273",
-    "blurb": "Wrong view leads to hell, right view leads to heaven.",
-    "difficulty": null,
-    "original_title": "Micchādiṭṭhisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Wrong View ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.273_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Falsche Ansicht ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.273_translation-en-sujato",
-        "segmented": true,
-        "title": "Wrong View ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.273_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.273_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.273_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.273_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.273_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an4.273_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.273_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.273_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.273_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.273_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms15A4_1595, msdiv273,cck21.354, dr21.366, ms15A4_1596, ndp17.271, pts-vp-pli2.256",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.273:1.1": "ms15A4_1595, msdiv273",
+    "an4.273:2.1": "cck21.354, dr21.366, ms15A4_1596, ndp17.271, pts-vp-pli2.256"
   },
-  "bilara_root_text": {
-    "uid": "an4.273",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Micchādiṭṭhisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an4.273",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Wrong View ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an4.273:0.1",
+    "an4.273:0.2",
+    "an4.273:0.3",
+    "an4.273:1.1",
+    "an4.273:2.1",
+    "an4.273:2.2",
+    "an4.273:2.3",
+    "an4.273:2.4"
+  ]
 }

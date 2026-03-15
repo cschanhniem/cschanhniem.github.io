@@ -1,352 +1,57 @@
 {
+  "html_text": {
+    "sn47.48:0.1": "<article id='sn47.48'><header><ul><li class='division'>{}</li>",
+    "sn47.48:0.2": "<li>{}</li></ul>",
+    "sn47.48:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn47.48:1.1": "<p>{}</p>",
+    "sn47.48:2.1": "<p>{}",
+    "sn47.48:2.2": "{}",
+    "sn47.48:2.3": "{}",
+    "sn47.48:2.4": "{}",
+    "sn47.48:2.5": "{}</p>",
+    "sn47.48:2.6": "<p>{}</p>",
+    "sn47.48:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn47.48",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mittasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Bad Conduct ",
-      "uid": "sn47.47"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Feelings ",
-      "uid": "sn47.49"
-    }
+    "sn47.48:0.1": "Saṁyutta Nikāya 47.48 ",
+    "sn47.48:0.2": "5. Amatavagga ",
+    "sn47.48:0.3": "Mittasutta ",
+    "sn47.48:1.1": "“Ye, bhikkhave, anukampeyyātha, ye ca kho sotabbaṁ maññeyyuṁ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā. ",
+    "sn47.48:2.1": "Katamesaṁ, catunnaṁ? ",
+    "sn47.48:2.2": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; ",
+    "sn47.48:2.3": "vedanāsu …pe… ",
+    "sn47.48:2.4": "citte …pe… ",
+    "sn47.48:2.5": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. ",
+    "sn47.48:2.6": "Ye, bhikkhave, anukampeyyātha, ye ca sotabbaṁ maññeyyuṁ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā”ti. ",
+    "sn47.48:2.7": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn47.48",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Friends ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Bad Conduct ",
-      "uid": "sn47.47"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Feelings ",
-      "uid": "sn47.49"
-    }
+  "translation_text": {
+    "sn47.48:0.1": "Linked Discourses 47.48 ",
+    "sn47.48:0.2": "5. Freedom From Death ",
+    "sn47.48:0.3": "Friends ",
+    "sn47.48:1.1": "“Mendicants, those for whom you have sympathy, and those worth listening to—friends and colleagues, relatives and family—should be encouraged, supported, and established in the development of the four kinds of mindfulness meditation. ",
+    "sn47.48:2.1": "What four? ",
+    "sn47.48:2.2": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. ",
+    "sn47.48:2.3": "They meditate observing an aspect of feelings … ",
+    "sn47.48:2.4": "mind … ",
+    "sn47.48:2.5": "principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. ",
+    "sn47.48:2.6": "Those for whom you have sympathy, and those worth listening to—friends and colleagues, relatives and family—should be encouraged, supported, and established in the development of the four kinds of mindfulness meditation.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 47.48",
-    "volpages": " PTS 5.189",
-    "alt_volpages": null,
-    "uid": "sn47.48",
-    "blurb": "You should encourage your friends to practice the four kinds of mindfulness meditation.",
-    "difficulty": null,
-    "original_title": "Mittasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Friends ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn47.48_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Freunde ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn47.48_translation-en-sujato",
-        "segmented": true,
-        "title": "Friends ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn47.48_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn47.48_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn47.48_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn47.48_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Friends"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn47.48_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn47.48_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn47.48_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn47.48_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn47.48_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn47.48_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn47.48_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn47.48_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn47.48_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "tr",
-        "lang_name": "Türkçe",
-        "is_root": false,
-        "author": "Ufuk Çakmakçı",
-        "author_short": "Ufuk Çakmakçı",
-        "author_uid": "ufukcakmakci",
-        "publication_date": "2025",
-        "id": "tr_sn47.48_ufukcakmakci",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn47.48_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn47.48_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.338, ms14S5_963, msdiv414, pts-vp-pli5.189, vri27.264,ms14S5_964, sya19.252",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn47.48:1.1": "bj17.1.338, ms14S5_963, msdiv414, pts-vp-pli5.189, vri27.264",
+    "sn47.48:2.1": "ms14S5_964, sya19.252"
   },
-  "bilara_root_text": {
-    "uid": "sn47.48",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mittasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn47.48",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Friends ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn47.48:0.1",
+    "sn47.48:0.2",
+    "sn47.48:0.3",
+    "sn47.48:1.1",
+    "sn47.48:2.1",
+    "sn47.48:2.2",
+    "sn47.48:2.3",
+    "sn47.48:2.4",
+    "sn47.48:2.5",
+    "sn47.48:2.6",
+    "sn47.48:2.7"
   ]
 }

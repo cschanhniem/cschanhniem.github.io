@@ -1,0 +1,26 @@
+{
+  "html_text": {
+    "sn48.137-146:0.1": "<article id='sn48.137-146'><header><ul><li class='division'>{}</li>",
+    "sn48.137-146:0.2": "<li>{}</li></ul>",
+    "sn48.137-146:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.137-146:1.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "translation_text": {
+    "sn48.137-146:0.1": "Linked Discourses 48.137–146 ",
+    "sn48.137-146:0.2": "13. Another Chapter of Abbreviated Texts on the Ganges ",
+    "sn48.137-146:0.3": "Another Chapter on Diligence ",
+    "sn48.137-146:1.1": "(This text consists of the title only. Tell in full as in SN 45.139–148, removal of greed version.) "
+  },
+  "root_text": {
+    "sn48.137-146:0.1": "Saṁyutta Nikāya 48.137 ",
+    "sn48.137-146:0.2": "13. Punagaṅgāpeyyālavagga ",
+    "sn48.137-146:0.3": "Punaappamādavagga ",
+    "sn48.137-146:1.1": "On Display: Title of Section Only "
+  },
+  "keys_order": [
+    "sn48.137-146:0.1",
+    "sn48.137-146:0.2",
+    "sn48.137-146:0.3",
+    "sn48.137-146:1.1"
+  ]
+}

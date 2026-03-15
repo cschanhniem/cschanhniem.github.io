@@ -1,297 +1,90 @@
 {
+  "html_text": {
+    "an4.211:0.1": "<article id='an4.211'><header><ul><li class='division'>{}</li>",
+    "an4.211:0.2": "<li>{}</li></ul>",
+    "an4.211:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an4.211:1.1": "<p>{}",
+    "an4.211:1.2": "{}",
+    "an4.211:1.3": "{}",
+    "an4.211:1.4": "{}",
+    "an4.211:1.5": "{}",
+    "an4.211:1.6": "{}",
+    "an4.211:1.7": "{}</p>",
+    "an4.211:2.1": "<p>{}",
+    "an4.211:2.2": "{}",
+    "an4.211:2.3": "{}",
+    "an4.211:2.4": "{}",
+    "an4.211:2.5": "{}",
+    "an4.211:2.6": "{}",
+    "an4.211:2.7": "{}</p>",
+    "an4.211:2.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an4.211",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Parisāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Bad Character (4th) ",
-      "uid": "an4.210"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "View ",
-      "uid": "an4.212"
-    }
+    "an4.211:0.1": "Aṅguttara Nikāya 4.211 ",
+    "an4.211:0.2": "22. Parisāvagga ",
+    "an4.211:0.3": "Parisāsutta ",
+    "an4.211:1.1": "“Cattārome, bhikkhave, parisadūsanā. ",
+    "an4.211:1.2": "Katame cattāro? ",
+    "an4.211:1.3": "Bhikkhu, bhikkhave, dussīlo pāpadhammo parisadūsano; ",
+    "an4.211:1.4": "bhikkhunī, bhikkhave, dussīlā pāpadhammā parisadūsanā; ",
+    "an4.211:1.5": "upāsako, bhikkhave, dussīlo pāpadhammo parisadūsano; ",
+    "an4.211:1.6": "upāsikā, bhikkhave, dussīlā pāpadhammā parisadūsanā. ",
+    "an4.211:1.7": "Ime kho, bhikkhave, cattāro parisadūsanā. ",
+    "an4.211:2.1": "Cattārome, bhikkhave, parisasobhanā. ",
+    "an4.211:2.2": "Katame cattāro? ",
+    "an4.211:2.3": "Bhikkhu, bhikkhave, sīlavā kalyāṇadhammo parisasobhano; ",
+    "an4.211:2.4": "bhikkhunī, bhikkhave, sīlavatī kalyāṇadhammā parisasobhanā; ",
+    "an4.211:2.5": "upāsako, bhikkhave, sīlavā kalyāṇadhammo parisasobhano; ",
+    "an4.211:2.6": "upāsikā, bhikkhave, sīlavatī kalyāṇadhammā parisasobhanā. ",
+    "an4.211:2.7": "Ime kho, bhikkhave, cattāro parisasobhanā”ti. ",
+    "an4.211:2.8": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an4.211",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Assembly ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Bad Character (4th) ",
-      "uid": "an4.210"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "View ",
-      "uid": "an4.212"
-    }
+  "translation_text": {
+    "an4.211:0.1": "Numbered Discourses 4.211 ",
+    "an4.211:0.2": "22. Assembly ",
+    "an4.211:0.3": "Assembly ",
+    "an4.211:1.1": "“Mendicants, these four corrupt an assembly. ",
+    "an4.211:1.2": "What four? ",
+    "an4.211:1.3": "A monk, nun, layman, or laywoman who is unethical, of bad character. ",
+    "an4.211:1.4": "",
+    "an4.211:1.5": "",
+    "an4.211:1.6": "",
+    "an4.211:1.7": "These are the four that corrupt an assembly. ",
+    "an4.211:2.1": "Mendicants, these four grace an assembly. ",
+    "an4.211:2.2": "What four? ",
+    "an4.211:2.3": "A monk, nun, layman, or laywoman who is ethical, of good character. ",
+    "an4.211:2.4": "",
+    "an4.211:2.5": "",
+    "an4.211:2.6": "",
+    "an4.211:2.7": "These are the four that grace an assembly.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 4.211",
-    "volpages": " PTS 2.226",
-    "alt_volpages": null,
-    "uid": "an4.211",
-    "blurb": "Good people light up an assembly.",
-    "difficulty": null,
-    "original_title": "Parisāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Assembly ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an4.211_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Versammlung ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an4.211_translation-en-sujato",
-        "segmented": true,
-        "title": "Assembly ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an4.211_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন স্থবির, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-bangish-ajit-jibana",
-        "publication_date": "2018",
-        "id": "bn_an4.211_indragupta-suman-bangish-ajit-jibana",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an4.211_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2012",
-        "id": "es_an4.211_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an4.211_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an4.211_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an4.211_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an4.211_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an4.211_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an4.211_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an4.211_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an4.211_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj19.430, cck21.317, csp1ed15.548, csp2ed15.548, dr21.317, ms15A4_1373, msdiv211, ndp17.240, vri36.257,ms15A4_1374, pts-vp-pli2.226",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an4.211:0.2": "Parisāvagga → parisasobhanavaggo (bj) ",
+    "an4.211:0.3": "Parisāsutta → parisasobhanasuttaṁ (bj) ",
+    "an4.211:1.3": "Bhikkhu, bhikkhave → idha bhikkhave bhikkhu (pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an4.211",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Parisāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an4.211:1.1": "bj19.430, cck21.317, csp1ed15.548, csp2ed15.548, dr21.317, ms15A4_1373, msdiv211, ndp17.240, vri36.257",
+    "an4.211:2.1": "ms15A4_1374, pts-vp-pli2.226"
   },
-  "bilara_translated_text": {
-    "uid": "an4.211",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Assembly ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an4.211:0.1",
+    "an4.211:0.2",
+    "an4.211:0.3",
+    "an4.211:1.1",
+    "an4.211:1.2",
+    "an4.211:1.3",
+    "an4.211:1.4",
+    "an4.211:1.5",
+    "an4.211:1.6",
+    "an4.211:1.7",
+    "an4.211:2.1",
+    "an4.211:2.2",
+    "an4.211:2.3",
+    "an4.211:2.4",
+    "an4.211:2.5",
+    "an4.211:2.6",
+    "an4.211:2.7",
+    "an4.211:2.8"
+  ]
 }

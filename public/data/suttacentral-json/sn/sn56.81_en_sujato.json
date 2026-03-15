@@ -1,297 +1,39 @@
 {
+  "html_text": {
+    "sn56.81:0.1": "<article id='sn56.81'><header><ul><li class='division'>{}</li>",
+    "sn56.81:0.2": "<li>{}</li></ul>",
+    "sn56.81:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn56.81:1.1": "<p>{}",
+    "sn56.81:1.2": "{}</p>",
+    "sn56.81:1.3": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn56.81",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Naccagītasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Fragrance and Makeup ",
-      "uid": "sn56.80"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "High Beds ",
-      "uid": "sn56.82"
-    }
+    "sn56.81:0.1": "Saṁyutta Nikāya 56.81 ",
+    "sn56.81:0.2": "9. Tatiyaāmakadhaññapeyyālavagga ",
+    "sn56.81:0.3": "Naccagītasutta ",
+    "sn56.81:1.1": "…. ",
+    "sn56.81:1.2": "“Evameva kho, bhikkhave, appakā te sattā ye naccagītavāditavisūkadassanā paṭiviratā; atha kho eteva bahutarā sattā ye naccagītavāditavisūkadassanā appaṭiviratā. Taṁ kissa hetu …pe…. ",
+    "sn56.81:1.3": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn56.81",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dancing and Singing ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Fragrance and Makeup ",
-      "uid": "sn56.80"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "High Beds ",
-      "uid": "sn56.82"
-    }
+  "translation_text": {
+    "sn56.81:0.1": "Linked Discourses 56.81 ",
+    "sn56.81:0.2": "9. Abbreviated Texts on Raw Grain ",
+    "sn56.81:0.3": "Dancing and Singing ",
+    "sn56.81:1.1": "…. ",
+    "sn56.81:1.2": "“… the sentient beings who refrain from seeing shows of dancing, singing, and music  are few, while those who don’t refrain are many …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 56.81",
-    "volpages": " PTS 5.471",
-    "alt_volpages": null,
-    "uid": "sn56.81",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Naccagītasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Dancing and Singing ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn56.81_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Tanz und Gesang ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn56.81_translation-en-sujato",
-        "segmented": true,
-        "title": "Dancing and Singing ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn56.81_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn56.81_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn56.81_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn56.81_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn56.81_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn56.81_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn56.81_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn56.81_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn56.81_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn56.81_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn56.81_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn56.81_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.2.342, dr19.573, ms14S5_2482, msdiv1151, ndp15.401, pts-vp-pli5.471, sya19.583, vri27.529",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn56.81:0.3": "Naccagītasutta → naccaṁ (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn56.81",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Naccagītasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn56.81:1.1": "bj17.2.342, dr19.573, ms14S5_2482, msdiv1151, ndp15.401, pts-vp-pli5.471, sya19.583, vri27.529"
   },
-  "bilara_translated_text": {
-    "uid": "sn56.81",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dancing and Singing ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn56.81:0.1",
+    "sn56.81:0.2",
+    "sn56.81:0.3",
+    "sn56.81:1.1",
+    "sn56.81:1.2",
+    "sn56.81:1.3"
+  ]
 }

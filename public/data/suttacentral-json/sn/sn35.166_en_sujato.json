@@ -1,310 +1,67 @@
 {
+  "html_text": {
+    "sn35.166:0.1": "<article id='sn35.166'><header><ul><li class='division'>{}</li>",
+    "sn35.166:0.2": "<li>{}</li></ul>",
+    "sn35.166:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.166:1.1": "<p>{}",
+    "sn35.166:1.2": "{}</p>",
+    "sn35.166:1.3": "<p>{}</p>",
+    "sn35.166:1.4": "<p>{}",
+    "sn35.166:1.5": "{}",
+    "sn35.166:1.6": "{}",
+    "sn35.166:1.7": "{}</p>",
+    "sn35.166:1.8": "<p>{}</p>",
+    "sn35.166:1.9": "<p>{}</p>",
+    "sn35.166:1.10": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.166",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sakkāyadiṭṭhipahānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Giving Up Wrong View ",
-      "uid": "sn35.165"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Giving Up Theory of Self ",
-      "uid": "sn35.167"
-    }
+    "sn35.166:0.1": "Saṁyutta Nikāya 35.166 ",
+    "sn35.166:0.2": "16. Nandikkhayavagga ",
+    "sn35.166:0.3": "Sakkāyadiṭṭhipahānasutta ",
+    "sn35.166:1.1": "Atha kho aññataro bhikkhu …pe… ",
+    "sn35.166:1.2": "etadavoca: ",
+    "sn35.166:1.3": "“kathaṁ nu kho, bhante, jānato kathaṁ passato sakkāyadiṭṭhi pahīyatī”ti? ",
+    "sn35.166:1.4": "“Cakkhuṁ kho, bhikkhu, dukkhato jānato passato sakkāyadiṭṭhi pahīyati. ",
+    "sn35.166:1.5": "Rūpe dukkhato jānato passato sakkāyadiṭṭhi pahīyati. ",
+    "sn35.166:1.6": "Cakkhuviññāṇaṁ dukkhato jānato passato sakkāyadiṭṭhi pahīyati. ",
+    "sn35.166:1.7": "Cakkhusamphassaṁ dukkhato jānato passato sakkāyadiṭṭhi pahīyati …pe… ",
+    "sn35.166:1.8": "yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi dukkhato jānato passato sakkāyadiṭṭhi pahīyati. ",
+    "sn35.166:1.9": "Evaṁ kho, bhikkhu, jānato evaṁ passato sakkāyadiṭṭhi pahīyatī”ti. ",
+    "sn35.166:1.10": "Ekādasamaṁ. "
   },
-  "translation": {
-    "uid": "sn35.166",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Giving Up Substantialist View ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Giving Up Wrong View ",
-      "uid": "sn35.165"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Giving Up Theory of Self ",
-      "uid": "sn35.167"
-    }
+  "translation_text": {
+    "sn35.166:0.1": "Linked Discourses 35.166 ",
+    "sn35.166:0.2": "16. The End of Relishing ",
+    "sn35.166:0.3": "Giving Up Substantialist View ",
+    "sn35.166:1.1": "Then a mendicant went up to the Buddha … ",
+    "sn35.166:1.2": "and said to him: ",
+    "sn35.166:1.3": "“Sir, how does one know and see so that substantialist view is given up?” ",
+    "sn35.166:1.4": "“Mendicant, knowing and seeing the eye, sights, eye consciousness, and eye contact as suffering, substantialist view is given up. … ",
+    "sn35.166:1.5": "",
+    "sn35.166:1.6": "",
+    "sn35.166:1.7": "",
+    "sn35.166:1.8": "And also knowing and seeing the pleasant, painful, or neutral feeling that arises dependent on mind contact as suffering, substantialist view is given up. ",
+    "sn35.166:1.9": "This is how to know and see so that substantialist view is given up.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.166",
-    "volpages": "PTS SN iv 147",
-    "alt_volpages": null,
-    "uid": "sn35.166",
-    "blurb": "Identity view arises due to grasping the process of sense experience.",
-    "difficulty": null,
-    "original_title": "Sakkāyadiṭṭhipahānasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Giving Up Substantialist View ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.166_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Eine substanzialistische Ansicht aufgeben ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.166_translation-en-sujato",
-        "segmented": true,
-        "title": "Giving Up Substantialist View ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.166_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.166_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.166_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2010",
-        "id": "es_sn35.166_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.166_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.166_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.166_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.166_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn35.166_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.166_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.166_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.166_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.166_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck18.184, csp1ed13.359, csp2ed13.359, ms13S4_883, msdiv166, vri26.150",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn35.166:0.3": "Sakkāyadiṭṭhipahānasutta → sakkāyadiṭṭhippahānasuttaṁ (bj); sakkāya (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn35.166",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sakkāyadiṭṭhipahānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.166:1.1": "cck18.184, csp1ed13.359, csp2ed13.359, ms13S4_883, msdiv166, vri26.150"
   },
-  "bilara_translated_text": {
-    "uid": "sn35.166",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Giving Up Substantialist View ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn35.166:0.1",
+    "sn35.166:0.2",
+    "sn35.166:0.3",
+    "sn35.166:1.1",
+    "sn35.166:1.2",
+    "sn35.166:1.3",
+    "sn35.166:1.4",
+    "sn35.166:1.5",
+    "sn35.166:1.6",
+    "sn35.166:1.7",
+    "sn35.166:1.8",
+    "sn35.166:1.9",
+    "sn35.166:1.10"
+  ]
 }

@@ -1,324 +1,68 @@
 {
+  "html_text": {
+    "an5.70:0.1": "<article id='an5.70'><header><ul><li class='division'>{}</li>",
+    "an5.70:0.2": "<li>{}</li></ul>",
+    "an5.70:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.70:1.1": "<p>{}",
+    "an5.70:1.2": "{}",
+    "an5.70:1.3": "{}",
+    "an5.70:1.4": "{}</p>",
+    "an5.70:1.5": "<p class='endsutta'>{}</p>",
+    "an5.70:1.6": "<p class='endvagga'>{}</p>",
+    "an5.70:2.0": "<p class='uddana-intro'>{}</p>",
+    "an5.70:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an5.70:2.2": "<span class='verse-line'>{}</span>",
+    "an5.70:2.3": "<span class='verse-line'>{}</span>",
+    "an5.70:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an5.70",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Āsavakkhayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Disillusionment ",
-      "uid": "an5.69"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Freedom of Heart is the Fruit (1st) ",
-      "uid": "an5.71"
-    }
+    "an5.70:0.1": "Aṅguttara Nikāya 5.70 ",
+    "an5.70:0.2": "7. Saññāvagga ",
+    "an5.70:0.3": "Āsavakkhayasutta ",
+    "an5.70:1.1": "“Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattanti. ",
+    "an5.70:1.2": "Katame pañca? ",
+    "an5.70:1.3": "Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṁ sūpaṭṭhitā hoti. ",
+    "an5.70:1.4": "Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattantī”ti. ",
+    "an5.70:1.5": "Dasamaṁ. ",
+    "an5.70:1.6": "Saññāvaggo dutiyo. ",
+    "an5.70:2.0": "Tassuddānaṁ ",
+    "an5.70:2.1": "Dve ca saññā dve vaḍḍhī ca, ",
+    "an5.70:2.2": "sākacchena ca sājīvaṁ; ",
+    "an5.70:2.3": "Iddhipādā ca dve vuttā, ",
+    "an5.70:2.4": "nibbidā cāsavakkhayāti. "
   },
-  "translation": {
-    "uid": "an5.70",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ending of Defilements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Disillusionment ",
-      "uid": "an5.69"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Freedom of Heart is the Fruit (1st) ",
-      "uid": "an5.71"
-    }
+  "translation_text": {
+    "an5.70:0.1": "Numbered Discourses 5.70 ",
+    "an5.70:0.2": "7. Perceptions ",
+    "an5.70:0.3": "The Ending of Defilements ",
+    "an5.70:1.1": "“Mendicants, these five things, when developed and cultivated, lead to the ending of defilements. ",
+    "an5.70:1.2": "What five? ",
+    "an5.70:1.3": "A mendicant meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death. ",
+    "an5.70:1.4": "These five things, when developed and cultivated, lead to the ending of defilements.” ",
+    "an5.70:1.5": "",
+    "an5.70:1.6": "",
+    "an5.70:2.1": "",
+    "an5.70:2.2": "",
+    "an5.70:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.70",
-    "volpages": "PTS AN iii 83",
-    "alt_volpages": null,
-    "uid": "an5.70",
-    "blurb": "Five meditations that lead to the end of defilements.",
-    "difficulty": null,
-    "original_title": "Āsavakkhayasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Ending of Defilements ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.70_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die Auflösung der Befleckungen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.70_translation-en-sujato",
-        "segmented": true,
-        "title": "The Ending of Defilements ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.70_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.70_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Уничтожение пятен",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.70_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.70_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "buddha-vacana.org",
-        "author_short": "BVO",
-        "author_uid": "buddhavacanaorg",
-        "publication_date": null,
-        "id": "fr_an5.70_buddhavacanaorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.70_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.70_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.70_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_an5.70_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.70_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.70_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.70_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.70_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.70_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A5_423, msdiv70, vri37.78,ms16A5_427",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.70:1.1": "ms16A5_423, msdiv70, vri37.78",
+    "an5.70:2.1": "ms16A5_427"
   },
-  "bilara_root_text": {
-    "uid": "an5.70",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Āsavakkhayasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.70",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ending of Defilements ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an5.70:0.1",
+    "an5.70:0.2",
+    "an5.70:0.3",
+    "an5.70:1.1",
+    "an5.70:1.2",
+    "an5.70:1.3",
+    "an5.70:1.4",
+    "an5.70:1.5",
+    "an5.70:1.6",
+    "an5.70:2.0",
+    "an5.70:2.1",
+    "an5.70:2.2",
+    "an5.70:2.3",
+    "an5.70:2.4"
+  ]
 }

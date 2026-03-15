@@ -1,323 +1,82 @@
 {
+  "html_text": {
+    "sn48.52:0.1": "<article id='sn48.52'><header><ul><li class='division'>{}</li>",
+    "sn48.52:0.2": "<li>{}</li></ul>",
+    "sn48.52:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.52:1.1": "<p><span class='evam'>{}</span>",
+    "sn48.52:1.2": "{}",
+    "sn48.52:1.3": "{}</p>",
+    "sn48.52:1.4": "<p>{}",
+    "sn48.52:1.5": "{}</p>",
+    "sn48.52:2.1": "<p>{}",
+    "sn48.52:2.2": "{}</p>",
+    "sn48.52:2.3": "<p>{}",
+    "sn48.52:2.4": "{}</p>",
+    "sn48.52:3.1": "<p>{}",
+    "sn48.52:3.2": "{}",
+    "sn48.52:3.3": "{}</p>",
+    "sn48.52:3.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn48.52",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mallikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "At Sālā ",
-      "uid": "sn48.51"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Trainee ",
-      "uid": "sn48.53"
-    }
+    "sn48.52:0.1": "Saṁyutta Nikāya 48.52 ",
+    "sn48.52:0.2": "6. Sūkarakhatavagga ",
+    "sn48.52:0.3": "Mallikasutta ",
+    "sn48.52:1.1": "Evaṁ me sutaṁ—",
+    "sn48.52:1.2": "ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. ",
+    "sn48.52:1.3": "Tatra kho bhagavā bhikkhū āmantesi: ",
+    "sn48.52:1.4": "“yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. ",
+    "sn48.52:1.5": "Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ saṇṭhiti hoti, atha catunnaṁ indriyānaṁ avaṭṭhiti hoti. ",
+    "sn48.52:2.1": "Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. ",
+    "sn48.52:2.2": "Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. ",
+    "sn48.52:2.3": "Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti, neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. ",
+    "sn48.52:2.4": "Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ …pe… avaṭṭhiti hoti. ",
+    "sn48.52:3.1": "Katamesaṁ catunnaṁ? ",
+    "sn48.52:3.2": "Saddhindriyassa, vīriyindriyassa, satindriyassa, samādhindriyassa. ",
+    "sn48.52:3.3": "Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī”ti. ",
+    "sn48.52:3.4": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn48.52",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "In the Land of the Mallas ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "At Sālā ",
-      "uid": "sn48.51"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Trainee ",
-      "uid": "sn48.53"
-    }
+  "translation_text": {
+    "sn48.52:0.1": "Linked Discourses 48.52 ",
+    "sn48.52:0.2": "6. The Boar’s Cave ",
+    "sn48.52:0.3": "In the Land of the Mallas ",
+    "sn48.52:1.1": "So I have heard. ",
+    "sn48.52:1.2": "At one time the Buddha was staying in the land of the Mallas, near the Mallian town named Uruvelakappa. ",
+    "sn48.52:1.3": "There the Buddha addressed the mendicants: ",
+    "sn48.52:1.4": "“Mendicants, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. ",
+    "sn48.52:1.5": "But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. ",
+    "sn48.52:2.1": "It’s just like in a bungalow. As long as the roof peak is not lifted into place, the rafters are not stable or fixed. ",
+    "sn48.52:2.2": "But when the roof peak is lifted into place, the rafters become stable and fixed. ",
+    "sn48.52:2.3": "In the same way, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. ",
+    "sn48.52:2.4": "But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. ",
+    "sn48.52:3.1": "What four? ",
+    "sn48.52:3.2": "The faculties of faith, energy, mindfulness, and immersion. ",
+    "sn48.52:3.3": "When a noble disciple has wisdom, the faith, energy, mindfulness, and immersion that follow along with that become stabilized.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 48.52",
-    "volpages": " PTS 5.229",
-    "alt_volpages": null,
-    "uid": "sn48.52",
-    "blurb": "Only when noble wisdom arises do the other four faculties become stable.",
-    "difficulty": null,
-    "original_title": "Mallikasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "In the Land of the Mallas ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn48.52_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Im Land der Maller ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn48.52_translation-en-sujato",
-        "segmented": true,
-        "title": "In the Land of the Mallas ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn48.52_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn48.52_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn48.52_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Claude Le Ninan, Chandhana Le Ninan",
-        "author_short": "leninan",
-        "author_uid": "leninan",
-        "publication_date": "2023",
-        "id": "fr_sn48.52_leninan",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn48.52_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn48.52_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn48.52_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2019",
-        "id": "no_sn48.52_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn48.52_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2011",
-        "id": "ru_sn48.52_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn48.52_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn48.52_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn48.52_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn48.52_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 6,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.237, dr19.293, ms14S5_1196, msdiv522, sya19.302, vri27.303,csp1ed14.201, csp2ed14.201, ms14S5_1197,ms14S5_1198, pts-vp-pli5.229",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn48.52:0.3": "Mallikasutta → mallakasuttaṁ (bj) ",
+    "sn48.52:1.2": "mallesu → mallakesu (bj, sya-all, km); mallikesu (pts1ed, mr) "
   },
-  "bilara_root_text": {
-    "uid": "sn48.52",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Mallikasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn48.52:1.1": "cck19.237, dr19.293, ms14S5_1196, msdiv522, sya19.302, vri27.303",
+    "sn48.52:2.1": "csp1ed14.201, csp2ed14.201, ms14S5_1197",
+    "sn48.52:3.1": "ms14S5_1198, pts-vp-pli5.229"
   },
-  "bilara_translated_text": {
-    "uid": "sn48.52",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "In the Land of the Mallas ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn48.52:0.1",
+    "sn48.52:0.2",
+    "sn48.52:0.3",
+    "sn48.52:1.1",
+    "sn48.52:1.2",
+    "sn48.52:1.3",
+    "sn48.52:1.4",
+    "sn48.52:1.5",
+    "sn48.52:2.1",
+    "sn48.52:2.2",
+    "sn48.52:2.3",
+    "sn48.52:2.4",
+    "sn48.52:3.1",
+    "sn48.52:3.2",
+    "sn48.52:3.3",
+    "sn48.52:3.4"
+  ]
 }

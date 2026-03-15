@@ -1,284 +1,45 @@
 {
+  "html_text": {
+    "sn37.23:0.1": "<article id='sn37.23'><header><ul><li class='division'>{}</li>",
+    "sn37.23:0.2": "<li>{}</li></ul>",
+    "sn37.23:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn37.23:1.1": "<p>{}",
+    "sn37.23:1.2": "{}</p>",
+    "sn37.23:1.3": "<p class='endsutta'>{}</p>",
+    "sn37.23:2.1": "<p class='end'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn37.23",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upaṭṭhitassatisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Energetic ",
-      "uid": "sn37.22"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Five Precepts ",
-      "uid": "sn37.24"
-    }
+    "sn37.23:0.1": "Saṁyutta Nikāya 37.23 ",
+    "sn37.23:0.2": "2. Dutiyapeyyālavagga ",
+    "sn37.23:0.3": "Upaṭṭhitassatisutta ",
+    "sn37.23:1.1": "“Upaṭṭhitassati ca hoti, paññavā ca hoti …pe… ",
+    "sn37.23:1.2": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti. ",
+    "sn37.23:1.3": "Navamaṁ. ",
+    "sn37.23:2.1": "Ime aṭṭha suttantasaṅkhepā. "
   },
-  "translation": {
-    "uid": "sn37.23",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Mindful ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Energetic ",
-      "uid": "sn37.22"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Five Precepts ",
-      "uid": "sn37.24"
-    }
+  "translation_text": {
+    "sn37.23:0.1": "Linked Discourses 37.23 ",
+    "sn37.23:0.2": "2. Abbreviated Texts ",
+    "sn37.23:0.3": "Mindful ",
+    "sn37.23:1.1": "“… They’re faithful, conscientious, prudent, mindful, and wise. …” ",
+    "sn37.23:1.2": "",
+    "sn37.23:1.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 37.23",
-    "volpages": " PTS 4.245",
-    "alt_volpages": null,
-    "uid": "sn37.23",
-    "blurb": "A woman with five good qualities has a good rebirth.",
-    "difficulty": null,
-    "original_title": "Upaṭṭhitassatisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Mindful ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn37.23_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Achtsam ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn37.23_translation-en-sujato",
-        "segmented": true,
-        "title": "Mindful ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn37.23_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn37.23_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn37.23_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn37.23_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn37.23_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn37.23_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn37.23_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn37.23_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn37.23_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn37.23_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn37.23_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr18.299, ms13S4_1290, msdiv302, ndp14.218, pts-vp-pli4.245, sya18.303,ms13S4_1292",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn37.23:0.3": "Upaṭṭhitassatisutta → upaṭṭhitasatisuttaṁ (bj); sati (pts1ed) ",
+    "sn37.23:2.1": "suttantasaṅkhepā → imāni padāni bj potthake "
   },
-  "bilara_root_text": {
-    "uid": "sn37.23",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upaṭṭhitassatisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn37.23:1.1": "dr18.299, ms13S4_1290, msdiv302, ndp14.218, pts-vp-pli4.245, sya18.303",
+    "sn37.23:2.1": "ms13S4_1292"
   },
-  "bilara_translated_text": {
-    "uid": "sn37.23",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Mindful ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn37.23:0.1",
+    "sn37.23:0.2",
+    "sn37.23:0.3",
+    "sn37.23:1.1",
+    "sn37.23:1.2",
+    "sn37.23:1.3",
+    "sn37.23:2.1"
+  ]
 }

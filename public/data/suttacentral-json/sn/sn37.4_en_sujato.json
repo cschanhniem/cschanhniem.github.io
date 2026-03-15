@@ -1,336 +1,59 @@
 {
+  "html_text": {
+    "sn37.4:0.1": "<article id='sn37.4'><header><ul><li class='division'>{}</li>",
+    "sn37.4:0.2": "<li>{}</li></ul>",
+    "sn37.4:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn37.4:1.1": "<p>{}",
+    "sn37.4:1.2": "{}</p>",
+    "sn37.4:1.3": "<p>{}",
+    "sn37.4:1.4": "{}",
+    "sn37.4:1.5": "{}</p>",
+    "sn37.4:1.6": "<p>{}</p>",
+    "sn37.4:1.7": "<p class='endsutta'>{}</p>",
+    "sn37.4:1.8": "<p class='end'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn37.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Tīhidhammehisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Particular Suffering ",
-      "uid": "sn37.3"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Irritable ",
-      "uid": "sn37.5"
-    }
+    "sn37.4:0.1": "Saṁyutta Nikāya 37.4 ",
+    "sn37.4:0.2": "1. Paṭhamapeyyālavagga ",
+    "sn37.4:0.3": "Tīhidhammehisutta ",
+    "sn37.4:1.1": "“Tīhi, bhikkhave, dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. ",
+    "sn37.4:1.2": "Katamehi tīhi? ",
+    "sn37.4:1.3": "Idha, bhikkhave, mātugāmo pubbaṇhasamayaṁ maccheramalapariyuṭṭhitena cetasā agāraṁ ajjhāvasati. ",
+    "sn37.4:1.4": "Majjhanhikasamayaṁ issāpariyuṭṭhitena cetasā agāraṁ ajjhāvasati. ",
+    "sn37.4:1.5": "Sāyanhasamayaṁ kāmarāgapariyuṭṭhitena cetasā agāraṁ ajjhāvasati. ",
+    "sn37.4:1.6": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī”ti. ",
+    "sn37.4:1.7": "Catutthaṁ. ",
+    "sn37.4:1.8": "(…) "
   },
-  "translation": {
-    "uid": "sn37.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Three Qualities ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Particular Suffering ",
-      "uid": "sn37.3"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Irritable ",
-      "uid": "sn37.5"
-    }
+  "translation_text": {
+    "sn37.4:0.1": "Linked Discourses 37.4 ",
+    "sn37.4:0.2": "1. Abbreviated Texts ",
+    "sn37.4:0.3": "Three Qualities ",
+    "sn37.4:1.1": "“Mendicants, when ladies have three qualities, when their body breaks up, after death, they are mostly reborn in a place of loss, a bad place, the underworld, hell. ",
+    "sn37.4:1.2": "What three? ",
+    "sn37.4:1.3": "A female lives at home with a heart full of the stain of stinginess in the morning, jealousy in the afternoon, and sexual desire in the evening. ",
+    "sn37.4:1.4": "",
+    "sn37.4:1.5": "",
+    "sn37.4:1.6": "When ladies possess these three qualities, when their body breaks up, after death, they are mostly reborn in a place of loss, a bad place, the underworld, hell.” ",
+    "sn37.4:1.7": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 37.4",
-    "volpages": " PTS 4.240",
-    "alt_volpages": null,
-    "uid": "sn37.4",
-    "blurb": "A woman who is selfish, envious, and lustful has a bad rebirth.",
-    "difficulty": null,
-    "original_title": "Tīhidhammehisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Three Qualities ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn37.4_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Drei Eigenschaften ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn37.4_translation-en-sujato",
-        "segmented": true,
-        "title": "Three Qualities ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn37.4_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn37.4_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn37.4_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2011",
-        "id": "es_sn37.4_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn37.4_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn37.4_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn37.4_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn37.4_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn37.4_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_sn37.4_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn37.4_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sv",
-        "lang_name": "Svenska",
-        "is_root": false,
-        "author": "Kerstin Jönhagen",
-        "author_short": "Jönhagen",
-        "author_uid": "jonhagen",
-        "publication_date": null,
-        "id": "sv_sn37.4_jonhagen",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn37.4_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn37.4_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn37.4_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr18.293, ms13S4_1245, msdiv283, pts-vp-pli4.240, sya18.298",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn37.4:0.3": "Tīhidhammehisutta → tīhi (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn37.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Tīhidhammehisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn37.4:1.1": "dr18.293, ms13S4_1245, msdiv283, pts-vp-pli4.240, sya18.298"
   },
-  "bilara_translated_text": {
-    "uid": "sn37.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Three Qualities ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn37.4:0.1",
+    "sn37.4:0.2",
+    "sn37.4:0.3",
+    "sn37.4:1.1",
+    "sn37.4:1.2",
+    "sn37.4:1.3",
+    "sn37.4:1.4",
+    "sn37.4:1.5",
+    "sn37.4:1.6",
+    "sn37.4:1.7",
+    "sn37.4:1.8"
+  ]
 }

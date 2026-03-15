@@ -1,339 +1,61 @@
 {
+  "html_text": {
+    "sn46.21:0.1": "<article id='sn46.21'><header><ul><li class='division'>{}</li>",
+    "sn46.21:0.2": "<li>{}</li></ul>",
+    "sn46.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.21:1.1": "<p>{}</p>",
+    "sn46.21:2.1": "<p>{}",
+    "sn46.21:2.2": "{}</p>",
+    "sn46.21:2.3": "<p>{}",
+    "sn46.21:2.4": "{}",
+    "sn46.21:2.5": "{}",
+    "sn46.21:2.6": "{}</p>",
+    "sn46.21:2.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn46.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bodhāyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Disillusionment ",
-      "uid": "sn46.20"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Teaching on the Awakening Factors ",
-      "uid": "sn46.22"
-    }
+    "sn46.21:0.1": "Saṁyutta Nikāya 46.21 ",
+    "sn46.21:0.2": "3. Udāyivagga ",
+    "sn46.21:0.3": "Bodhāyasutta ",
+    "sn46.21:1.1": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: ",
+    "sn46.21:2.1": "“‘Bojjhaṅgā, bojjhaṅgā’ti, bhante, vuccanti. ",
+    "sn46.21:2.2": "Kittāvatā nu kho, bhante, ‘bojjhaṅgā’ti vuccantī”ti? ",
+    "sn46.21:2.3": "“‘Bodhāya saṁvattantī’ti kho, bhikkhu, tasmā bojjhaṅgāti vuccanti. ",
+    "sn46.21:2.4": "Idha, bhikkhu, satisambojjhaṅgaṁ bhāveti vivekanissitaṁ …pe… ",
+    "sn46.21:2.5": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. ",
+    "sn46.21:2.6": "‘Bodhāya saṁvattantī’ti kho, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccantī”ti. ",
+    "sn46.21:2.7": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn46.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "To Awakening ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Disillusionment ",
-      "uid": "sn46.20"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Teaching on the Awakening Factors ",
-      "uid": "sn46.22"
-    }
+  "translation_text": {
+    "sn46.21:0.1": "Linked Discourses 46.21 ",
+    "sn46.21:0.2": "3. With Udāyī ",
+    "sn46.21:0.3": "To Awakening ",
+    "sn46.21:1.1": "Then a mendicant went up to the Buddha … and said to him: ",
+    "sn46.21:2.1": "“Sir, they speak of the ‘awakening factors’. ",
+    "sn46.21:2.2": "How are the awakening factors defined?” ",
+    "sn46.21:2.3": "“Mendicant, they’re called awakening factors because they lead to awakening. ",
+    "sn46.21:2.4": "A mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, ",
+    "sn46.21:2.5": "and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. ",
+    "sn46.21:2.6": "They’re called awakening factors because they lead to awakening.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 46.21",
-    "volpages": "PTS SN v 83",
-    "alt_volpages": null,
-    "uid": "sn46.21",
-    "blurb": "They’re called awakening factors because they lead to awakening.",
-    "difficulty": null,
-    "original_title": "Bodhāyasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "To Awakening ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn46.21_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Zum Erwachen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn46.21_translation-en-sujato",
-        "segmented": true,
-        "title": "To Awakening ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn46.21_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn46.21_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn46.21_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn46.21_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "To Enlightenment"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn46.21_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn46.21_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn46.21_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn46.21_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn46.21_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2005",
-        "id": "pt_sn46.21_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn46.21_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn46.21_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn46.21_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn46.21_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn46.21_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.172, dr19.115, ms14S5_462, msdiv202, sya19.120,ms14S5_463",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn46.21:0.2": "Udāyivagga → bodhanā (pts1ed) ",
+    "sn46.21:0.3": "Bodhāyasutta → udāyīvaggo (bj) "
   },
-  "bilara_root_text": {
-    "uid": "sn46.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bodhāyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn46.21:1.1": "bj17.1.172, dr19.115, ms14S5_462, msdiv202, sya19.120",
+    "sn46.21:2.1": "ms14S5_463"
   },
-  "bilara_translated_text": {
-    "uid": "sn46.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "To Awakening ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn46.21:0.1",
+    "sn46.21:0.2",
+    "sn46.21:0.3",
+    "sn46.21:1.1",
+    "sn46.21:2.1",
+    "sn46.21:2.2",
+    "sn46.21:2.3",
+    "sn46.21:2.4",
+    "sn46.21:2.5",
+    "sn46.21:2.6",
+    "sn46.21:2.7"
   ]
 }

@@ -1,298 +1,89 @@
 {
+  "html_text": {
+    "an8.52:0.1": "<article id='an8.52'><header><ul><li class='division'>{}</li>",
+    "an8.52:0.2": "<li>{}</li></ul>",
+    "an8.52:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an8.52:1.1": "<p>{}",
+    "an8.52:1.2": "{}</p>",
+    "an8.52:1.3": "<p>{}</p>",
+    "an8.52:2.1": "<p>{}",
+    "an8.52:2.2": "{}</p>",
+    "an8.52:2.3": "<p>{}</p>",
+    "an8.52:2.4": "<p>{}</p>",
+    "an8.52:2.5": "<p>{}</p>",
+    "an8.52:2.6": "<p>{}</p>",
+    "an8.52:2.7": "<p>{}</p>",
+    "an8.52:2.8": "<p>{}</p>",
+    "an8.52:2.9": "<p>{}</p>",
+    "an8.52:2.10": "<p>{}</p>",
+    "an8.52:2.11": "<p>{}</p>",
+    "an8.52:2.12": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an8.52",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ovādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Gotamī ",
-      "uid": "an8.51"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Brief Advice to Gotamī ",
-      "uid": "an8.53"
-    }
+    "an8.52:0.1": "Aṅguttara Nikāya 8.52 ",
+    "an8.52:0.2": "6. Gotamīvagga ",
+    "an8.52:0.3": "Ovādasutta ",
+    "an8.52:1.1": "Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. ",
+    "an8.52:1.2": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: ",
+    "an8.52:1.3": "“katihi nu kho, bhante, dhammehi samannāgato bhikkhu bhikkhunovādako sammannitabbo”ti? ",
+    "an8.52:2.1": "“Aṭṭhahi kho, ānanda, dhammehi samannāgato bhikkhu bhikkhunovādako sammannitabbo. ",
+    "an8.52:2.2": "Katamehi aṭṭhahi? ",
+    "an8.52:2.3": "Idhānanda, bhikkhu sīlavā hoti …pe… samādāya sikkhati sikkhāpadesu; ",
+    "an8.52:2.4": "bahussuto hoti …pe… diṭṭhiyā suppaṭividdhā; ",
+    "an8.52:2.5": "ubhayāni kho panassa pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso; ",
+    "an8.52:2.6": "kalyāṇavāco hoti kalyāṇavākkaraṇo, poriyā vācāya samannāgato vissaṭṭhāya anelagaḷāya atthassa viññāpaniyā; ",
+    "an8.52:2.7": "paṭibalo hoti bhikkhunisaṅghassa dhammiyā kathāya sandassetuṁ samādapetuṁ samuttejetuṁ sampahaṁsetuṁ; ",
+    "an8.52:2.8": "yebhuyyena bhikkhunīnaṁ piyo hoti manāpo; ",
+    "an8.52:2.9": "na kho panetaṁ bhagavantaṁ uddissa pabbajitāya kāsāyavatthavasanāya garudhammaṁ ajjhāpannapubbo hoti; ",
+    "an8.52:2.10": "vīsativasso vā hoti atirekavīsativasso vā. ",
+    "an8.52:2.11": "Imehi kho, ānanda, aṭṭhahi dhammehi samannāgato bhikkhu bhikkhunovādako sammannitabbo”ti. ",
+    "an8.52:2.12": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "an8.52",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An Adviser for Nuns ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Gotamī ",
-      "uid": "an8.51"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Brief Advice to Gotamī ",
-      "uid": "an8.53"
-    }
+  "translation_text": {
+    "an8.52:0.1": "Numbered Discourses 8.52 ",
+    "an8.52:0.2": "6. Gotamī ",
+    "an8.52:0.3": "An Adviser for Nuns ",
+    "an8.52:1.1": "At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. ",
+    "an8.52:1.2": "Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to the Buddha: ",
+    "an8.52:1.3": "“Sir, how many qualities should a monk have to be deemed an adviser for nuns?” ",
+    "an8.52:2.1": "“Ānanda, a monk with eight qualities may be deemed an adviser for nuns. ",
+    "an8.52:2.2": "What eight? ",
+    "an8.52:2.3": "Firstly, a monk is ethical, restrained in the monastic code, conducting themselves well and resorting for alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. ",
+    "an8.52:2.4": "They’re learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and penetrating them theoretically. ",
+    "an8.52:2.5": "Both monastic codes have been passed down to them in detail, well analyzed, well mastered, well evaluated in both the rules and accompanying material. ",
+    "an8.52:2.6": "They’re a good speaker who enunciates well. Their voice is polished, clear, articulate, and expresses the meaning. ",
+    "an8.52:2.7": "They’re able to educate, encourage, fire up, and inspire the community of nuns. ",
+    "an8.52:2.8": "They’re likable and agreeable to most of the nuns. ",
+    "an8.52:2.9": "They have never previously sexually harassed any woman wearing the ocher robe who has gone forth in the Buddha’s name. ",
+    "an8.52:2.10": "They have been ordained for twenty years or more. ",
+    "an8.52:2.11": "A monk with these eight qualities may be deemed an adviser for nuns.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 8.52",
-    "volpages": " PTS 4.280",
-    "alt_volpages": null,
-    "uid": "an8.52",
-    "blurb": "With eight qualities a monk may be appointed to teach the nuns.",
-    "difficulty": null,
-    "original_title": "Ovādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "An Adviser for Nuns ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an8.52_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ein Unterweiser für Nonnen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an8.52_translation-en-sujato",
-        "segmented": true,
-        "title": "An Adviser for Nuns ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an8.52_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an8.52_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Наставление ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an8.52_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an8.52_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an8.52_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an8.52_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an8.52_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an8.52_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an8.52_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an8.52_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an8.52_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an8.52_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms17A8_556, msdiv52,bj22.232, dr23.304, ms17A8_557, ndp3.374, pts-vp-pli4.280",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an8.52:0.3": "Ovādasutta → bhikkhunovādakasuttaṁ (bj) ",
+    "an8.52:2.6": "vissaṭṭhāya → visaṭṭhāya (mr) | anelagaḷāya → anelagalāya (bj); aneḷagaḷāya (cck, mr) "
   },
-  "bilara_root_text": {
-    "uid": "an8.52",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ovādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an8.52:1.1": "ms17A8_556, msdiv52",
+    "an8.52:2.1": "bj22.232, dr23.304, ms17A8_557, ndp3.374, pts-vp-pli4.280"
   },
-  "bilara_translated_text": {
-    "uid": "an8.52",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "An Adviser for Nuns ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an8.52:0.1",
+    "an8.52:0.2",
+    "an8.52:0.3",
+    "an8.52:1.1",
+    "an8.52:1.2",
+    "an8.52:1.3",
+    "an8.52:2.1",
+    "an8.52:2.2",
+    "an8.52:2.3",
+    "an8.52:2.4",
+    "an8.52:2.5",
+    "an8.52:2.6",
+    "an8.52:2.7",
+    "an8.52:2.8",
+    "an8.52:2.9",
+    "an8.52:2.10",
+    "an8.52:2.11",
+    "an8.52:2.12"
+  ]
 }

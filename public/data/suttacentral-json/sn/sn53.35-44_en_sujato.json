@@ -1,0 +1,49 @@
+{
+  "html_text": {
+    "sn53.35-44:0.1": "<article id='sn53.35-44'><header><ul><li class='division'>{}</li>",
+    "sn53.35-44:0.2": "<li>{}</li></ul>",
+    "sn53.35-44:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn53.35-44:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn53.35-44:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn53.35-44:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn53.35-44:2.2": "<span class='verse-line'>{}</span>",
+    "sn53.35-44:2.3": "<span class='verse-line'>{}</span>",
+    "sn53.35-44:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
+  "root_text": {
+    "sn53.35-44:0.1": "Saṁyutta Nikāya 53.35 ",
+    "sn53.35-44:0.2": "4. Esanāvagga ",
+    "sn53.35-44:0.3": "Esanāvagga ",
+    "sn53.35-44:1.1": "(Esanāvaggo vitthāretabbo.) ",
+    "sn53.35-44:2.0": "Tassuddānaṁ ",
+    "sn53.35-44:2.1": "Esanā vidhā āsavo, ",
+    "sn53.35-44:2.2": "Bhavo ca dukkhatā tisso; ",
+    "sn53.35-44:2.3": "Khilaṁ malañca nīgho ca, ",
+    "sn53.35-44:2.4": "Vedanā taṇhā tasinā cāti. "
+  },
+  "translation_text": {
+    "sn53.35-44:0.1": "Linked Discourses 53.35–44 ",
+    "sn53.35-44:0.2": "4. Searches ",
+    "sn53.35-44:0.3": "Searches ",
+    "sn53.35-44:1.1": "(Tell in full as in the chapter on searches at SN 45.161–170.) ",
+    "sn53.35-44:2.1": "Searches, discriminations, defilements, ",
+    "sn53.35-44:2.2": "states of existence, three kinds of suffering, ",
+    "sn53.35-44:2.3": "barrenness, stains, and troubles, ",
+    "sn53.35-44:2.4": "feelings, craving, and thirst. "
+  },
+  "reference_text": {
+    "sn53.35-44:1.1": "ms14S5_1637",
+    "sn53.35-44:2.1": "dr19.387, ms14S5_1639"
+  },
+  "keys_order": [
+    "sn53.35-44:0.1",
+    "sn53.35-44:0.2",
+    "sn53.35-44:0.3",
+    "sn53.35-44:1.1",
+    "sn53.35-44:2.0",
+    "sn53.35-44:2.1",
+    "sn53.35-44:2.2",
+    "sn53.35-44:2.3",
+    "sn53.35-44:2.4"
+  ]
+}

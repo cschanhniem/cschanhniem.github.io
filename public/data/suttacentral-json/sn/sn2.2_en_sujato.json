@@ -1,392 +1,54 @@
 {
+  "comment_text": {
+    "sn2.2:2.1": "Verse also at <a href='https://suttacentral.net/sn2.13/en/sujato'>SN 2.13</a>. ",
+    "sn2.2:2.2": "Compare <a href='https://suttacentral.net/sn4.25/en/sujato#14.1'>SN 4.25:14.1</a>. "
+  },
+  "html_text": {
+    "sn2.2:0.1": "<article id='sn2.2'><header><ul><li class='division'>{}</li>",
+    "sn2.2:0.2": "<li>{}</li></ul>",
+    "sn2.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn2.2:1.1": "<p>{}</p>",
+    "sn2.2:1.2": "<p>{}</p>",
+    "sn2.2:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn2.2:2.2": "<span class='verse-line'>{}</span>",
+    "sn2.2:2.3": "<span class='verse-line'>{}</span>",
+    "sn2.2:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "sn2.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyakassapasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Kassapa (1st) ",
-      "uid": "sn2.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Māgha ",
-      "uid": "sn2.3"
-    }
+    "sn2.2:0.1": "Saṁyutta Nikāya 2.2 ",
+    "sn2.2:0.2": "1. Paṭhamavagga ",
+    "sn2.2:0.3": "Dutiyakassapasutta ",
+    "sn2.2:1.1": "Sāvatthinidānaṁ. ",
+    "sn2.2:1.2": "Ekamantaṁ ṭhito kho kassapo devaputto bhagavato santike imaṁ gāthaṁ abhāsi: ",
+    "sn2.2:2.1": "“Bhikkhu siyā jhāyī vimuttacitto, ",
+    "sn2.2:2.2": "Ākaṅkhe ce hadayassānupattiṁ; ",
+    "sn2.2:2.3": "Lokassa ñatvā udayabbayañca, ",
+    "sn2.2:2.4": "Sucetaso anissito tadānisaṁso”ti. "
   },
-  "translation": {
-    "uid": "sn2.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Kassapa (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Kassapa (1st) ",
-      "uid": "sn2.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Māgha ",
-      "uid": "sn2.3"
-    }
+  "translation_text": {
+    "sn2.2:0.1": "Linked Discourses 2.2 ",
+    "sn2.2:0.2": "Chapter One ",
+    "sn2.2:0.3": "With Kassapa (2nd) ",
+    "sn2.2:1.1": "At Sāvatthī. ",
+    "sn2.2:1.2": "Standing to one side, the godling Kassapa spoke this verse in the Buddha’s presence: ",
+    "sn2.2:2.1": "“If a mendicant is a meditator, freed in mind, ",
+    "sn2.2:2.2": "and if they desire the heart’s fulfillment— ",
+    "sn2.2:2.3": "having known the arising and passing of the world, ",
+    "sn2.2:2.4": "good-hearted, independent, that is their reward.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 2.2",
-    "volpages": "PTS (1st ed) SN i 46",
-    "alt_volpages": "PTS (2nd ed) SN i 105",
-    "uid": "sn2.2",
-    "blurb": "The deity Kassapa speaks of how a mendicant should be a meditator, peaceful and free.",
-    "difficulty": null,
-    "original_title": "Dutiyakassapasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Kassapa (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn2.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Kassapa (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn2.2_translation-en-sujato",
-        "segmented": true,
-        "title": "With Kassapa (2nd) ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Giovanni Zappa",
-        "author_short": "giovannizappa",
-        "author_uid": "giovannizappa",
-        "publication_date": "2025",
-        "id": "sn2.2_translation-it-giovannizappa",
-        "segmented": true,
-        "title": "Il discorso con Kassapa (2°) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn2.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Laera et al.",
-        "author_short": "laera",
-        "author_uid": "laera",
-        "publication_date": null,
-        "id": "sn2.2_translation-pt-laera-quaresma",
-        "segmented": true,
-        "title": "Com Kassapa (II)",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2024",
-        "id": "sn2.2_translation-ru-sv",
-        "segmented": true,
-        "title": "Кассапа (II) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn2.2_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Kassapa (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, সীবক ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit-sivak",
-        "publication_date": "2018",
-        "id": "bn_sn2.2_indragupta-bangish-ajit-sivak",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_sn2.2_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn2.2_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2015",
-        "id": "es_sn2.2_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn2.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn2.2_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn2.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn2.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2015",
-        "id": "no_sn2.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn2.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn2.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn2.2_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn2.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn2.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck15.61, ms12S1_374, msdiv83,dr15.60, ms12S1_375, sya15.64, vri23.55",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn2.2:1.1": "cck15.61, ms12S1_374, msdiv83",
+    "sn2.2:2.1": "dr15.60, ms12S1_375, sya15.64, vri23.55"
   },
-  "bilara_root_text": {
-    "uid": "sn2.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyakassapasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn2.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Kassapa (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn2.2:0.1",
+    "sn2.2:0.2",
+    "sn2.2:0.3",
+    "sn2.2:1.1",
+    "sn2.2:1.2",
+    "sn2.2:2.1",
+    "sn2.2:2.2",
+    "sn2.2:2.3",
+    "sn2.2:2.4"
+  ]
 }

@@ -1,326 +1,72 @@
 {
+  "html_text": {
+    "sn46.27:0.1": "<article id='sn46.27'><header><ul><li class='division'>{}</li>",
+    "sn46.27:0.2": "<li>{}</li></ul>",
+    "sn46.27:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.27:1.1": "<p>{}",
+    "sn46.27:1.2": "{}",
+    "sn46.27:1.3": "{}",
+    "sn46.27:1.4": "{}",
+    "sn46.27:1.5": "{}",
+    "sn46.27:1.6": "{}",
+    "sn46.27:1.7": "{}</p>",
+    "sn46.27:2.1": "<p>{}",
+    "sn46.27:2.2": "<p>{}",
+    "sn46.27:2.3": "{}</p>",
+    "sn46.27:2.4": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn46.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Taṇhānirodhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ending of Craving ",
-      "uid": "sn46.26"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Helping Penetration ",
-      "uid": "sn46.28"
-    }
+    "sn46.27:0.1": "Saṁyutta Nikāya 46.27 ",
+    "sn46.27:0.2": "3. Udāyivagga ",
+    "sn46.27:0.3": "Taṇhānirodhasutta ",
+    "sn46.27:1.1": "“Yo, bhikkhave, maggo yā paṭipadā taṇhānirodhāya saṁvattati, taṁ maggaṁ taṁ paṭipadaṁ bhāvetha. ",
+    "sn46.27:1.2": "Katamo ca, bhikkhave, maggo katamā ca paṭipadā taṇhānirodhāya saṁvattati? ",
+    "sn46.27:1.3": "Yadidaṁ—",
+    "sn46.27:1.4": "satta bojjhaṅgā. ",
+    "sn46.27:1.5": "Katame satta? ",
+    "sn46.27:1.6": "Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo. ",
+    "sn46.27:1.7": "Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā taṇhānirodhāya saṁvattanti? ",
+    "sn46.27:2.1": "Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… ",
+    "sn46.27:2.2": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. ",
+    "sn46.27:2.3": "Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā taṇhānirodhāya saṁvattantī”ti. ",
+    "sn46.27:2.4": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "sn46.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Cessation of Craving ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ending of Craving ",
-      "uid": "sn46.26"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Helping Penetration ",
-      "uid": "sn46.28"
-    }
+  "translation_text": {
+    "sn46.27:0.1": "Linked Discourses 46.27 ",
+    "sn46.27:0.2": "3. With Udāyī ",
+    "sn46.27:0.3": "The Cessation of Craving ",
+    "sn46.27:1.1": "“Mendicants, you should develop the path and the practice that leads to the cessation of craving. ",
+    "sn46.27:1.2": "And what is the path and the practice that leads to the cessation of craving? ",
+    "sn46.27:1.3": "",
+    "sn46.27:1.4": "It is the seven awakening factors. ",
+    "sn46.27:1.5": "What seven? ",
+    "sn46.27:1.6": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. ",
+    "sn46.27:1.7": "And how are the seven awakening factors developed and cultivated so as to lead to the cessation of craving? ",
+    "sn46.27:2.1": "It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, ",
+    "sn46.27:2.2": "and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. ",
+    "sn46.27:2.3": "This is how the seven awakening factors are developed and cultivated so as to lead to the cessation of craving.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 46.27",
-    "volpages": "PTS SN v 87",
-    "alt_volpages": null,
-    "uid": "sn46.27",
-    "blurb": "The awakening factors lead to the cessation of craving.",
-    "difficulty": null,
-    "original_title": "Taṇhānirodhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Cessation of Craving ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn46.27_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Das Aufhören des Verlangens ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn46.27_translation-en-sujato",
-        "segmented": true,
-        "title": "The Cessation of Craving ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn46.27_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn46.27_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn46.27_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn46.27_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Cessation of Craving"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn46.27_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn46.27_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn46.27_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn46.27_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn46.27_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn46.27_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn46.27_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn46.27_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn46.27_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn46.27_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck19.107, dr19.119, ms14S5_479, msdiv208, sya19.124,ms14S5_480",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn46.27:0.3": "Taṇhānirodhasutta → nirodhasuttaṁ (bj); nirodho (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn46.27",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Taṇhānirodhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn46.27:1.1": "cck19.107, dr19.119, ms14S5_479, msdiv208, sya19.124",
+    "sn46.27:2.1": "ms14S5_480"
   },
-  "bilara_translated_text": {
-    "uid": "sn46.27",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Cessation of Craving ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn46.27:0.1",
+    "sn46.27:0.2",
+    "sn46.27:0.3",
+    "sn46.27:1.1",
+    "sn46.27:1.2",
+    "sn46.27:1.3",
+    "sn46.27:1.4",
+    "sn46.27:1.5",
+    "sn46.27:1.6",
+    "sn46.27:1.7",
+    "sn46.27:2.1",
+    "sn46.27:2.2",
+    "sn46.27:2.3",
+    "sn46.27:2.4"
   ]
 }

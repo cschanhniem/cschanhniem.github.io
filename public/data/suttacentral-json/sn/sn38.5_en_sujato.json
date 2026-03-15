@@ -1,284 +1,78 @@
 {
+  "comment_text": {
+    "sn38.5:1.1": "“Solace” is <i lang='pi' translate='no'>assāsa</i>, literally “breathing in”. "
+  },
+  "html_text": {
+    "sn38.5:0.1": "<article id='sn38.5'><header><ul><li class='division'>{}</li>",
+    "sn38.5:0.2": "<li>{}</li></ul>",
+    "sn38.5:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn38.5:1.1": "<p>{}",
+    "sn38.5:1.2": "{}</p>",
+    "sn38.5:1.3": "<p>{}</p>",
+    "sn38.5:1.4": "<p>{}</p>",
+    "sn38.5:1.5": "<p>{}</p>",
+    "sn38.5:1.6": "<p>{}",
+    "sn38.5:1.7": "{}",
+    "sn38.5:1.8": "{}",
+    "sn38.5:1.9": "{}",
+    "sn38.5:1.10": "{}",
+    "sn38.5:1.11": "{}</p>",
+    "sn38.5:1.12": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn38.5",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Assāsappattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "What’s the Purpose ",
-      "uid": "sn38.4"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Ultimate Solace ",
-      "uid": "sn38.6"
-    }
+    "sn38.5:0.1": "Saṁyutta Nikāya 38.5 ",
+    "sn38.5:0.2": "1. Jambukhādakavagga ",
+    "sn38.5:0.3": "Assāsappattasutta ",
+    "sn38.5:1.1": "“‘Assāsappatto, assāsappatto’ti, āvuso sāriputta, vuccati. ",
+    "sn38.5:1.2": "Kittāvatā nu kho, āvuso, assāsappatto hotī”ti? ",
+    "sn38.5:1.3": "“Yato kho, āvuso, bhikkhu channaṁ phassāyatanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti, ettāvatā kho, āvuso, assāsappatto hotī”ti. ",
+    "sn38.5:1.4": "“Atthi panāvuso, maggo atthi paṭipadā, etassa assāsassa sacchikiriyāyā”ti? ",
+    "sn38.5:1.5": "“Atthi kho, āvuso, maggo atthi paṭipadā, etassa assāsassa sacchikiriyāyā”ti. ",
+    "sn38.5:1.6": "“Katamo panāvuso, maggo katamā paṭipadā, etassa assāsassa sacchikiriyāyā”ti? ",
+    "sn38.5:1.7": "“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa assāsassa sacchikiriyāya, seyyathidaṁ—",
+    "sn38.5:1.8": "sammādiṭṭhi …pe… sammāsamādhi. ",
+    "sn38.5:1.9": "Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa assāsassa sacchikiriyāyā”ti. ",
+    "sn38.5:1.10": "“Bhaddako, āvuso, maggo bhaddikā paṭipadā, etassa assāsassa sacchikiriyāya. ",
+    "sn38.5:1.11": "Alañca panāvuso sāriputta, appamādāyā”ti. ",
+    "sn38.5:1.12": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "sn38.5",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Solace ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "What’s the Purpose ",
-      "uid": "sn38.4"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Ultimate Solace ",
-      "uid": "sn38.6"
-    }
+  "translation_text": {
+    "sn38.5:0.1": "Linked Discourses 38.5 ",
+    "sn38.5:0.2": "1. With Jambukhādaka ",
+    "sn38.5:0.3": "Solace ",
+    "sn38.5:1.1": "“Reverend Sāriputta, they speak of this thing called ‘gaining solace’. ",
+    "sn38.5:1.2": "At what point do you gain solace?” ",
+    "sn38.5:1.3": "“When a mendicant truly understands the six fields of contact’s origin, disappearance, gratification, drawback, and escape, at that point they’ve gained solace.” ",
+    "sn38.5:1.4": "“But, reverend, is there a path and a practice for realizing this solace?” ",
+    "sn38.5:1.5": "“There is.” … ",
+    "sn38.5:1.6": "",
+    "sn38.5:1.7": "",
+    "sn38.5:1.8": "",
+    "sn38.5:1.9": "",
+    "sn38.5:1.10": "",
+    "sn38.5:1.11": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 38.5",
-    "volpages": "PTS SN iv 254",
-    "alt_volpages": null,
-    "uid": "sn38.5",
-    "blurb": "The wanderer Jambukhādaka asks Sāriputta about who has attained consolation.",
-    "difficulty": null,
-    "original_title": "Assāsappattasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Solace ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn38.5_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Trost ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn38.5_translation-en-sujato",
-        "segmented": true,
-        "title": "Solace ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn38.5_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn38.5_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn38.5_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn38.5_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn38.5_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn38.5_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn38.5_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_sn38.5_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn38.5_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn38.5_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn38.5_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.478, cck18.312, dr18.311, ms13S4_1336, msdiv318, ndp14.226, vri26.249",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn38.5:0.3": "Assāsappattasutta → assāsasuttaṁ (bj); assāso (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn38.5",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Assāsappattasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn38.5:1.1": "bj16.478, cck18.312, dr18.311, ms13S4_1336, msdiv318, ndp14.226, vri26.249"
   },
-  "bilara_translated_text": {
-    "uid": "sn38.5",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Solace ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn38.5:0.1",
+    "sn38.5:0.2",
+    "sn38.5:0.3",
+    "sn38.5:1.1",
+    "sn38.5:1.2",
+    "sn38.5:1.3",
+    "sn38.5:1.4",
+    "sn38.5:1.5",
+    "sn38.5:1.6",
+    "sn38.5:1.7",
+    "sn38.5:1.8",
+    "sn38.5:1.9",
+    "sn38.5:1.10",
+    "sn38.5:1.11",
+    "sn38.5:1.12"
+  ]
 }

@@ -1,314 +1,68 @@
 {
+  "html_text": {
+    "an5.60:0.1": "<article id='an5.60'><header><ul><li class='division'>{}</li>",
+    "an5.60:0.2": "<li>{}</li></ul>",
+    "an5.60:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an5.60:1.1": "<p>{}",
+    "an5.60:1.2": "{}",
+    "an5.60:1.3": "{}",
+    "an5.60:1.4": "{}</p>",
+    "an5.60:1.5": "<p class='endsutta'>{}</p>",
+    "an5.60:1.6": "<p class='endvagga'>{}</p>",
+    "an5.60:2.0": "<p class='uddana-intro'>{}</p>",
+    "an5.60:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "an5.60:2.2": "<span class='verse-line'>{}</span>",
+    "an5.60:2.3": "<span class='verse-line'>{}</span>",
+    "an5.60:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
   "root_text": {
-    "uid": "an5.60",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyavuḍḍhapabbajitasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gone Forth When Old (1st) ",
-      "uid": "an5.59"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Perceptions (1st) ",
-      "uid": "an5.61"
-    }
+    "an5.60:0.1": "Aṅguttara Nikāya 5.60 ",
+    "an5.60:0.2": "6. Nīvaraṇavagga ",
+    "an5.60:0.3": "Dutiyavuḍḍhapabbajitasutta ",
+    "an5.60:1.1": "Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. ",
+    "an5.60:1.2": "Katamehi pañcahi? ",
+    "an5.60:1.3": "Dullabho, bhikkhave, vuḍḍhapabbajito suvaco, dullabho suggahitaggāhī, dullabho padakkhiṇaggāhī, dullabho dhammakathiko, dullabho vinayadharo. ",
+    "an5.60:1.4": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajito”ti. ",
+    "an5.60:1.5": "Dasamaṁ. ",
+    "an5.60:1.6": "Nīvaraṇavaggo paṭhamo. ",
+    "an5.60:2.0": "Tassuddānaṁ ",
+    "an5.60:2.1": "Āvaraṇaṁ rāsi aṅgāni, ",
+    "an5.60:2.2": "samayaṁ mātuputtikā; ",
+    "an5.60:2.3": "Upajjhā ṭhānā licchavi, ",
+    "an5.60:2.4": "kumārā aparā duveti. "
   },
-  "translation": {
-    "uid": "an5.60",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gone Forth When Old (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gone Forth When Old (1st) ",
-      "uid": "an5.59"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Perceptions (1st) ",
-      "uid": "an5.61"
-    }
+  "translation_text": {
+    "an5.60:0.1": "Numbered Discourses 5.60 ",
+    "an5.60:0.2": "6. Hindrances ",
+    "an5.60:0.3": "Gone Forth When Old (2nd) ",
+    "an5.60:1.1": "“Mendicants, it’s hard to find someone gone forth when old who has five qualities. ",
+    "an5.60:1.2": "What five? ",
+    "an5.60:1.3": "It’s hard to find someone gone forth when old who is easy to admonish, retains what they learn, and learns respectfully, who can teach the Dhamma, and has memorized the monastic law. ",
+    "an5.60:1.4": "It’s hard to find someone gone forth when old who possesses these five qualities.” ",
+    "an5.60:1.5": "",
+    "an5.60:1.6": "",
+    "an5.60:2.1": "",
+    "an5.60:2.2": "",
+    "an5.60:2.3": ""
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 5.60",
-    "volpages": " PTS 3.79",
-    "alt_volpages": null,
-    "uid": "an5.60",
-    "blurb": "Things that are hard to find in someone who has gone forth when old.",
-    "difficulty": null,
-    "original_title": "Dutiyavuḍḍhapabbajitasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Gone Forth When Old (2nd) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an5.60_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Im Alter fortgezogen (2) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an5.60_translation-en-sujato",
-        "segmented": true,
-        "title": "Gone Forth When Old (2nd) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an5.60_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an5.60_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Бездомная жизнь в старости Вторая",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an5.60_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an5.60_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_an5.60_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2012",
-        "segmented": false,
-        "volpage": null,
-        "title": "Gone Forth in Old Age (2)"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an5.60_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an5.60_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an5.60_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an5.60_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an5.60_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an5.60_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an5.60_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an5.60_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms16A5_394, msdiv60, pts-vp-pli3.79,ms16A5_398",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an5.60:1.1": "ms16A5_394, msdiv60, pts-vp-pli3.79",
+    "an5.60:2.1": "ms16A5_398"
   },
-  "bilara_root_text": {
-    "uid": "an5.60",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dutiyavuḍḍhapabbajitasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "an5.60",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Gone Forth When Old (2nd) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "an5.60:0.1",
+    "an5.60:0.2",
+    "an5.60:0.3",
+    "an5.60:1.1",
+    "an5.60:1.2",
+    "an5.60:1.3",
+    "an5.60:1.4",
+    "an5.60:1.5",
+    "an5.60:1.6",
+    "an5.60:2.0",
+    "an5.60:2.1",
+    "an5.60:2.2",
+    "an5.60:2.3",
+    "an5.60:2.4"
   ]
 }

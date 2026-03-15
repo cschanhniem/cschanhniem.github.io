@@ -1,0 +1,76 @@
+{
+  "html_text": {
+    "an1.209:0.1": "<section class='range' id='an1.209-218'><header><ul><li class='division'>{}</li></ul>",
+    "an1.209:0.2": "<h1 class='range-title'>{}</h1></header>",
+    "an1.209:1.1": "<article id='an1.209'><p data-counter='1'>{}</p></article>",
+    "an1.210:1.1": "<article id='an1.210'><p data-counter='2'>{}</p></article>",
+    "an1.211:1.1": "<article id='an1.211'><p data-counter='3'>{}</p></article>",
+    "an1.212:1.1": "<article id='an1.212'><p data-counter='4'>{}</p></article>",
+    "an1.213:1.1": "<article id='an1.213'><p data-counter='5'>{}</p></article>",
+    "an1.214:1.1": "<article id='an1.214'><p data-counter='6'>{}</p></article>",
+    "an1.215:1.1": "<article id='an1.215'><p data-counter='7'>{}</p></article>",
+    "an1.216:1.1": "<article id='an1.216'><p data-counter='8'>{}</p></article>",
+    "an1.217:1.1": "<article id='an1.217'><p data-counter='9'>{}</p></article>",
+    "an1.218:1.1": "<article id='an1.218'><p data-counter='10'>{}</p>",
+    "an1.218:1.2": "<p class='endsutta'>{}</p></article></section>"
+  },
+  "root_text": {
+    "an1.209:0.1": "Aṅguttara Nikāya 1 ",
+    "an1.209:0.2": "16. Tatiyavagga ",
+    "an1.209:1.1": "“Etadaggaṁ, bhikkhave, mama sāvakānaṁ bhikkhūnaṁ sikkhākāmānaṁ yadidaṁ rāhulo. ",
+    "an1.210:1.1": "… Saddhāpabbajitānaṁ yadidaṁ raṭṭhapālo. ",
+    "an1.211:1.1": "… Paṭhamaṁ salākaṁ gaṇhantānaṁ yadidaṁ kuṇḍadhāno. ",
+    "an1.212:1.1": "… Paṭibhānavantānaṁ yadidaṁ vaṅgīso. ",
+    "an1.213:1.1": "… Samantapāsādikānaṁ yadidaṁ upaseno vaṅgantaputto. ",
+    "an1.214:1.1": "… Senāsanapaññāpakānaṁ yadidaṁ dabbo mallaputto. ",
+    "an1.215:1.1": "… devatānaṁ piyamanāpānaṁ yadidaṁ pilindavaccho. ",
+    "an1.216:1.1": "… Khippābhiññānaṁ yadidaṁ bāhiyo dārucīriyo. ",
+    "an1.217:1.1": "… Cittakathikānaṁ yadidaṁ kumārakassapo. ",
+    "an1.218:1.1": "… Paṭisambhidāpattānaṁ yadidaṁ mahākoṭṭhito”ti. ",
+    "an1.218:1.2": "Vaggo tatiyo. "
+  },
+  "translation_text": {
+    "an1.209:0.1": "Numbered Discourses 1 ",
+    "an1.209:0.2": "Chapter Three ",
+    "an1.209:1.1": "“The foremost of my monk disciples who want to train is Rāhula. ",
+    "an1.210:1.1": "… who went forth out of faith is Raṭṭhapāla. ",
+    "an1.211:1.1": "… who are the first to pick up a ballot slip is Kuṇḍadhāna. ",
+    "an1.212:1.1": "… who are eloquent poets is Vaṅgīsa. ",
+    "an1.213:1.1": "… who are impressive all around is Upasena son of Vaṅgantā. ",
+    "an1.214:1.1": "… who assign lodgings is Dabba Mallaputta. ",
+    "an1.215:1.1": "… who are beloved of the deities is Pilindavaccha. ",
+    "an1.216:1.1": "… with swift insight is Bāhiya of the Bark Cloth. ",
+    "an1.217:1.1": "… with brilliant speech is Kassapa the Prince. ",
+    "an1.218:1.1": "… who have attained the methods of textual analysis is Mahākoṭṭhita.” "
+  },
+  "variant_text": {
+    "an1.218:1.1": "mahākoṭṭhito”ti → mahākoṭṭhikoti (aññesu suttesu marammapotthake) "
+  },
+  "reference_text": {
+    "an1.209:1.1": "bj18.48, ms15A1_294, msdiv209, sya20.32, vri35.33",
+    "an1.210:1.1": "csp1ed15.25, csp2ed15.25, ms15A1_295, msdiv210",
+    "an1.211:1.1": "ms15A1_296, msdiv211",
+    "an1.212:1.1": "dr20.32, ms15A1_297, msdiv212",
+    "an1.213:1.1": "ms15A1_298, msdiv213",
+    "an1.214:1.1": "ms15A1_299, msdiv214",
+    "an1.215:1.1": "ms15A1_300, msdiv215",
+    "an1.216:1.1": "ms15A1_301, msdiv216",
+    "an1.217:1.1": "ms15A1_302, msdiv217, ndp16.25",
+    "an1.218:1.1": "ms15A1_303, msdiv218"
+  },
+  "keys_order": [
+    "an1.209:0.1",
+    "an1.209:0.2",
+    "an1.209:1.1",
+    "an1.210:1.1",
+    "an1.211:1.1",
+    "an1.212:1.1",
+    "an1.213:1.1",
+    "an1.214:1.1",
+    "an1.215:1.1",
+    "an1.216:1.1",
+    "an1.217:1.1",
+    "an1.218:1.1",
+    "an1.218:1.2"
+  ]
+}

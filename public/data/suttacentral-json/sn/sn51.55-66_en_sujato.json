@@ -1,0 +1,49 @@
+{
+  "html_text": {
+    "sn51.55-66:0.1": "<article id='sn51.55-66'><header><ul><li class='division'>{}</li>",
+    "sn51.55-66:0.2": "<li>{}</li></ul>",
+    "sn51.55-66:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn51.55-66:1.1": "<p class='expansion-instructions'>{}</p>",
+    "sn51.55-66:2.0": "<p class='uddana-intro'>{}</p>",
+    "sn51.55-66:2.1": "<blockquote class='uddanagatha'><p><span class='verse-line'>{}</span>",
+    "sn51.55-66:2.2": "<span class='verse-line'>{}</span>",
+    "sn51.55-66:2.3": "<span class='verse-line'>{}</span>",
+    "sn51.55-66:2.4": "<span class='verse-line'>{}</span></p></blockquote></article>"
+  },
+  "root_text": {
+    "sn51.55-66:0.1": "Saṁyutta Nikāya 51.55 ",
+    "sn51.55-66:0.2": "6. Balakaraṇīyavagga ",
+    "sn51.55-66:0.3": "Balakaraṇīyavagga ",
+    "sn51.55-66:1.1": "(Balakaraṇīyavaggo vitthāretabbo.) ",
+    "sn51.55-66:2.0": "Tassuddānaṁ ",
+    "sn51.55-66:2.1": "Balaṁ bījañca nāgo ca, ",
+    "sn51.55-66:2.2": "rukkho kumbhena sūkiyā; ",
+    "sn51.55-66:2.3": "Ākāsena ca dve meghā, ",
+    "sn51.55-66:2.4": "nāvā āgantukā nadīti. "
+  },
+  "translation_text": {
+    "sn51.55-66:0.1": "Linked Discourses 51.55–66 ",
+    "sn51.55-66:0.2": "6. Hard Work ",
+    "sn51.55-66:0.3": "Hard Work ",
+    "sn51.55-66:1.1": "(Tell in full as in the chapter on hard work at SN 45.149–160.) ",
+    "sn51.55-66:2.1": "Hard work, seeds, and dragons, ",
+    "sn51.55-66:2.2": "a tree, a pot, and a spike, ",
+    "sn51.55-66:2.3": "the atmosphere, and two on clouds, ",
+    "sn51.55-66:2.4": "a ship, a guest house, and a river. "
+  },
+  "reference_text": {
+    "sn51.55-66:1.1": "ms14S5_1535, vri27.363",
+    "sn51.55-66:2.1": "ms14S5_1537"
+  },
+  "keys_order": [
+    "sn51.55-66:0.1",
+    "sn51.55-66:0.2",
+    "sn51.55-66:0.3",
+    "sn51.55-66:1.1",
+    "sn51.55-66:2.0",
+    "sn51.55-66:2.1",
+    "sn51.55-66:2.2",
+    "sn51.55-66:2.3",
+    "sn51.55-66:2.4"
+  ]
+}

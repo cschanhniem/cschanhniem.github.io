@@ -1,339 +1,76 @@
 {
+  "comment_text": {
+    "sn35.104:1.2": "For “sanctuary from the yoke”, see note on <a href='https://suttacentral.net/sn7.11/en/sujato#6.2'>SN 7.11:6.2</a>. ",
+    "sn35.104:1.7": "The duality between <i lang='pi' translate='no'>yoga</i> (“yoke”) as “harness, fetter” and as “commitment to practice” is crucial to this sutta. The Buddha is not teaching nihilism, he is teaching us to “yoke” ourselves to the right cause. "
+  },
+  "html_text": {
+    "sn35.104:0.1": "<article id='sn35.104'><header><ul><li class='division'>{}</li>",
+    "sn35.104:0.2": "<li>{}</li></ul>",
+    "sn35.104:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn35.104:1.1": "<p>{}</p>",
+    "sn35.104:1.2": "<p>{}",
+    "sn35.104:1.3": "{}</p>",
+    "sn35.104:1.4": "<p>{}</p>",
+    "sn35.104:1.5": "<p>{}",
+    "sn35.104:1.6": "{}",
+    "sn35.104:1.7": "{}</p>",
+    "sn35.104:1.8": "<p>{}",
+    "sn35.104:1.9": "{}",
+    "sn35.104:1.10": "{}</p>",
+    "sn35.104:1.11": "<p>{}</p>",
+    "sn35.104:1.12": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn35.104",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Yogakkhemisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "About Uddaka ",
-      "uid": "sn35.103"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Because of Grasping ",
-      "uid": "sn35.105"
-    }
+    "sn35.104:0.1": "Saṁyutta Nikāya 35.104 ",
+    "sn35.104:0.2": "11. Yogakkhemivagga ",
+    "sn35.104:0.3": "Yogakkhemisutta ",
+    "sn35.104:1.1": "Sāvatthinidānaṁ. ",
+    "sn35.104:1.2": "“Yogakkhemipariyāyaṁ vo, bhikkhave, dhammapariyāyaṁ desessāmi. ",
+    "sn35.104:1.3": "Taṁ suṇātha. ",
+    "sn35.104:1.4": "Katamo ca, bhikkhave, yogakkhemipariyāyo dhammapariyāyo? ",
+    "sn35.104:1.5": "Santi, bhikkhave, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. ",
+    "sn35.104:1.6": "Te tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. ",
+    "sn35.104:1.7": "Tesañca pahānāya akkhāsi yogaṁ, tasmā tathāgato ‘yogakkhemī’ti vuccati …pe… ",
+    "sn35.104:1.8": "santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. ",
+    "sn35.104:1.9": "Te tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. ",
+    "sn35.104:1.10": "Tesañca pahānāya akkhāsi yogaṁ, tasmā tathāgato ‘yogakkhemī’ti vuccati. ",
+    "sn35.104:1.11": "Ayaṁ kho, bhikkhave, yogakkhemipariyāyo dhammapariyāyo”ti. ",
+    "sn35.104:1.12": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn35.104",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sanctuary from the Yoke ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "About Uddaka ",
-      "uid": "sn35.103"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Because of Grasping ",
-      "uid": "sn35.105"
-    }
+  "translation_text": {
+    "sn35.104:0.1": "Linked Discourses 35.104 ",
+    "sn35.104:0.2": "11. Sanctuary from the Yoke ",
+    "sn35.104:0.3": "Sanctuary from the Yoke ",
+    "sn35.104:1.1": "At Sāvatthī. ",
+    "sn35.104:1.2": "“Mendicants, I will teach you an exposition of the teaching, an explanation of one who has found sanctuary from the yoke. ",
+    "sn35.104:1.3": "Listen … ",
+    "sn35.104:1.4": "And what is an exposition of the teaching, an explanation of one who has found sanctuary from the yoke? ",
+    "sn35.104:1.5": "There are sights known by the eye, which are likable, desirable, agreeable, pleasant, sensual, and arousing. ",
+    "sn35.104:1.6": "The Realized One has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. ",
+    "sn35.104:1.7": "He teaches yoking oneself to meditation for giving them up. That’s why the Realized One is called one who has found sanctuary from the yoke. … ",
+    "sn35.104:1.8": "There are ideas known by the mind, which are likable, desirable, agreeable, pleasant, sensual, and arousing. ",
+    "sn35.104:1.9": "The Realized One has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. ",
+    "sn35.104:1.10": "He teaches yoking oneself to meditation for giving them up. That’s why the Realized One is called one who has found sanctuary from the yoke. ",
+    "sn35.104:1.11": "This is an exposition of the teaching, an explanation of one who has found sanctuary from the yoke.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 35.104",
-    "volpages": " PTS 4.85",
-    "alt_volpages": null,
-    "uid": "sn35.104",
-    "blurb": "Someone who has given up attraction to the senses has arrived at the sanctuary.",
-    "difficulty": null,
-    "original_title": "Yogakkhemisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Sanctuary from the Yoke ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn35.104_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Refugium vor dem Joch ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn35.104_translation-en-sujato",
-        "segmented": true,
-        "title": "Sanctuary from the Yoke ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn35.104_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn35.104_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn35.104_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn35.104_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Secure from Bondage"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn35.104_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn35.104_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn35.104_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn35.104_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn35.104_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2013",
-        "id": "pt_sn35.104_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn35.104_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn35.104_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn35.104_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn35.104_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn35.104_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj16.180, cck18.104, csp1ed13.306, csp2ed13.306, dr18.104, ms13S4_551, msdiv104, pts-vp-pli4.85, sya18.105, vri26.91",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn35.104:1.1": "bj16.180, cck18.104, csp1ed13.306, csp2ed13.306, dr18.104, ms13S4_551, msdiv104, pts-vp-pli4.85, sya18.105, vri26.91"
   },
-  "bilara_root_text": {
-    "uid": "sn35.104",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Yogakkhemisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn35.104",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Sanctuary from the Yoke ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn35.104:0.1",
+    "sn35.104:0.2",
+    "sn35.104:0.3",
+    "sn35.104:1.1",
+    "sn35.104:1.2",
+    "sn35.104:1.3",
+    "sn35.104:1.4",
+    "sn35.104:1.5",
+    "sn35.104:1.6",
+    "sn35.104:1.7",
+    "sn35.104:1.8",
+    "sn35.104:1.9",
+    "sn35.104:1.10",
+    "sn35.104:1.11",
+    "sn35.104:1.12"
   ]
 }

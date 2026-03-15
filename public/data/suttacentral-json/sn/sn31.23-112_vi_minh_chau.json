@@ -1,0 +1,298 @@
+{
+  "root_text": {
+    "uid": "sn31.23-112",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Ủng Hộ Bằng Bố Thí (2-10)",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Plain Version ",
+      "uid": "sn32.1"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Ten Discourses On How Giving Helps Rebirth in Fragrant Roots ",
+      "uid": "sn31.13-22"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn31.23-112' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 31: Tương Ưng Càn Thát Bà</li>\n</ul>\n<h1>31.23–112. Ủng Hộ Bằng Bố Thí (2-10)</h1>\n</header>\n<p class='add'>(Như kinh trên, chỉ thế vào “chư Thiên trú trên các loại hương khác” … cho đến “chư Thiên sống trên hương từ hương”).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn31.23-112",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Ủng Hộ Bằng Bố Thí (2-10)",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Plain Version ",
+      "uid": "sn32.1"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Ten Discourses On How Giving Helps Rebirth in Fragrant Roots ",
+      "uid": "sn31.13-22"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn31.23-112' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 31: Tương Ưng Càn Thát Bà</li>\n</ul>\n<h1>31.23–112. Ủng Hộ Bằng Bố Thí (2-10)</h1>\n</header>\n<p class='add'>(Như kinh trên, chỉ thế vào “chư Thiên trú trên các loại hương khác” … cho đến “chư Thiên sống trên hương từ hương”).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 31.23–112",
+    "volpages": " PTS 3.253",
+    "alt_volpages": null,
+    "uid": "sn31.23-112",
+    "blurb": "Someone of good conduct and appropriate aspiration may be reborn as a god living in various kinds of vegetation if they give various gifts",
+    "difficulty": null,
+    "original_title": "Sāragandhādidānūpakārasuttanavutika",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Ủng Hộ Bằng Bố Thí (2-10)",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn31.23-112_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Neunzig Lehrreden darüber, wie Geben hilft, ein Zentaur zu werden, der in duftendem Kernholz usw. lebt ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn31.23-112_translation-en-sujato",
+        "segmented": true,
+        "title": "",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn31.23-112_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
+        "publication_date": "2018",
+        "id": "bn_sn31.23-112_indragupta-suman-adikalyan-sivak-rahul",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": "1967",
+        "id": "de_sn31.23-112_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2011",
+        "id": "es_sn31.23-112_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn31.23-112_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn31.23-112_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn31.23-112_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2017",
+        "id": "no_sn31.23-112_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn31.23-112_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn31.23-112_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn31.23-112_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn31.23-112_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ủng Hộ Bằng Bố Thí (2-10)"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn31.23-112_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj15.510, cck17.228, csp1ed13.213, csp2ed13.213, dr17.312, ms13S3_1210, msdiv460-549, ndp13.467, pts-vp-pli3.253, sya17.313, vri25.250,ms13S3_1211,ms13S3_1214",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn31.23-112",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sāragandhādidānūpakārasuttanavutika",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

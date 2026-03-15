@@ -1,326 +1,66 @@
 {
+  "comment_text": {
+    "sn43.2:1.7": "<a href='https://suttacentral.net/an4.170/en/sujato'>AN 4.170</a>. "
+  },
+  "html_text": {
+    "sn43.2:0.1": "<article id='sn43.2'><header><ul><li class='division'>{}</li>",
+    "sn43.2:0.2": "<li>{}</li></ul>",
+    "sn43.2:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn43.2:1.1": "<p>{}",
+    "sn43.2:1.2": "{}</p>",
+    "sn43.2:1.3": "<p>{}",
+    "sn43.2:1.4": "{}",
+    "sn43.2:1.5": "{}",
+    "sn43.2:1.6": "{}",
+    "sn43.2:1.7": "{}",
+    "sn43.2:1.8": "{}</p>",
+    "sn43.2:1.9": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn43.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samathavipassanāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Mindfulness of the Body ",
-      "uid": "sn43.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Placing the Mind and Keeping it Connected ",
-      "uid": "sn43.3"
-    }
+    "sn43.2:0.1": "Saṁyutta Nikāya 43.2 ",
+    "sn43.2:0.2": "1. Paṭhamavagga ",
+    "sn43.2:0.3": "Samathavipassanāsutta ",
+    "sn43.2:1.1": "“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. ",
+    "sn43.2:1.2": "Taṁ suṇātha. ",
+    "sn43.2:1.3": "Katamañca, bhikkhave, asaṅkhataṁ? ",
+    "sn43.2:1.4": "Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—",
+    "sn43.2:1.5": "idaṁ vuccati, bhikkhave, asaṅkhataṁ. ",
+    "sn43.2:1.6": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo? ",
+    "sn43.2:1.7": "Samatho ca vipassanā ca. ",
+    "sn43.2:1.8": "Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…. ",
+    "sn43.2:1.9": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "sn43.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Serenity and Discernment ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Mindfulness of the Body ",
-      "uid": "sn43.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Placing the Mind and Keeping it Connected ",
-      "uid": "sn43.3"
-    }
+  "translation_text": {
+    "sn43.2:0.1": "Linked Discourses 43.2 ",
+    "sn43.2:0.2": "Chapter One ",
+    "sn43.2:0.3": "Serenity and Discernment ",
+    "sn43.2:1.1": "“Mendicants, I will teach you the unconditioned and the path that leads to the unconditioned. ",
+    "sn43.2:1.2": "Listen … ",
+    "sn43.2:1.3": "And what is the unconditioned? ",
+    "sn43.2:1.4": "The ending of greed, hate, and delusion. ",
+    "sn43.2:1.5": "This is called the unconditioned. ",
+    "sn43.2:1.6": "And what is the path that leads to the unconditioned? ",
+    "sn43.2:1.7": "Serenity and discernment. ",
+    "sn43.2:1.8": "This is called the path that leads to the unconditioned. …” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 43.2",
-    "volpages": " PTS 4.360",
-    "alt_volpages": null,
-    "uid": "sn43.2",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Samathavipassanāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Serenity and Discernment ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn43.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Sammlung und Klarsicht ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn43.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Serenity and Discernment ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn43.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
-        "author_short": "জ্ঞানেন্দ্রিয়",
-        "author_uid": "gyanendriya",
-        "publication_date": "2018",
-        "id": "bn_sn43.2_gyanendriya",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn43.2_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn43.2_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Serenity and Insight"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": null,
-        "id": "es_sn43.2_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn43.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn43.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn43.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn43.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn43.2_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn43.2_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn43.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn43.2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn43.2_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr18.432, ms13S4_1673, msdiv367, pts-vp-pli4.360",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn43.2:0.3": "Samathavipassanāsutta → samatho (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn43.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samathavipassanāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn43.2:1.1": "dr18.432, ms13S4_1673, msdiv367, pts-vp-pli4.360"
   },
-  "bilara_translated_text": {
-    "uid": "sn43.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Serenity and Discernment ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn43.2:0.1",
+    "sn43.2:0.2",
+    "sn43.2:0.3",
+    "sn43.2:1.1",
+    "sn43.2:1.2",
+    "sn43.2:1.3",
+    "sn43.2:1.4",
+    "sn43.2:1.5",
+    "sn43.2:1.6",
+    "sn43.2:1.7",
+    "sn43.2:1.8",
+    "sn43.2:1.9"
   ]
 }

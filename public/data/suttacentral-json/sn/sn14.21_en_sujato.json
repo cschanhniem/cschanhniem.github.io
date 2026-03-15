@@ -1,311 +1,80 @@
 {
+  "html_text": {
+    "sn14.21:0.1": "<article id='sn14.21'><header><ul><li class='division'>{}</li>",
+    "sn14.21:0.2": "<li>{}</li></ul>",
+    "sn14.21:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn14.21:1.1": "<p>{}</p>",
+    "sn14.21:1.2": "<p data-counter='1'>{}",
+    "sn14.21:1.3": "{}",
+    "sn14.21:1.4": "{}",
+    "sn14.21:1.5": "{}",
+    "sn14.21:1.6": "{}",
+    "sn14.21:1.7": "{}</p>",
+    "sn14.21:2.1": "<p data-counter='2'>{}",
+    "sn14.21:2.2": "{}",
+    "sn14.21:2.3": "{}",
+    "sn14.21:2.4": "{}",
+    "sn14.21:2.5": "{}</p>",
+    "sn14.21:2.6": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn14.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Appassutamūlakasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Beginning With Imprudence ",
-      "uid": "sn14.20"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Beginning With the Lazy ",
-      "uid": "sn14.22"
-    }
+    "sn14.21:0.1": "Saṁyutta Nikāya 14.21 ",
+    "sn14.21:0.2": "2. Dutiyavagga ",
+    "sn14.21:0.3": "Appassutamūlakasutta ",
+    "sn14.21:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn14.21:1.2": "“Dhātusova, bhikkhave, sattā saṁsandanti samenti. ",
+    "sn14.21:1.3": "Appassutā appassutehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:1.4": "kusītā kusītehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:1.5": "duppaññā duppaññehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:1.6": "bahussutā bahussutehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:1.7": "āraddhavīriyā āraddhavīriyehi saddhiṁ saṁsandanti samenti; paññavanto paññavantehi saddhiṁ saṁsandanti samenti …pe…. ",
+    "sn14.21:2.1": "Appassutā appassutehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:2.2": "muṭṭhassatino muṭṭhassatīhi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:2.3": "duppaññā duppaññehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:2.4": "bahussutā bahussutehi saddhiṁ saṁsandanti samenti; ",
+    "sn14.21:2.5": "upaṭṭhitassatino upaṭṭhitassatīhi saddhiṁ saṁsandanti samenti; paññavanto paññavantehi saddhiṁ saṁsandanti samentī”ti …pe…. ",
+    "sn14.21:2.6": "Ekādasamaṁ. "
   },
-  "translation": {
-    "uid": "sn14.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Beginning With the Unlearned ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Beginning With Imprudence ",
-      "uid": "sn14.20"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Beginning With the Lazy ",
-      "uid": "sn14.22"
-    }
+  "translation_text": {
+    "sn14.21:0.1": "Linked Discourses 14.21 ",
+    "sn14.21:0.2": "Chapter Two ",
+    "sn14.21:0.3": "Beginning With the Unlearned ",
+    "sn14.21:1.1": "At Sāvatthī. ",
+    "sn14.21:1.2": "“Mendicants, sentient beings join together and converge because of an element: ",
+    "sn14.21:1.3": "the unlearned with the unlearned … ",
+    "sn14.21:1.4": "lazy … ",
+    "sn14.21:1.5": "witless. ",
+    "sn14.21:1.6": "The learned with the learned … ",
+    "sn14.21:1.7": "energetic … wise. ",
+    "sn14.21:2.1": "… the unlearned with the unlearned … ",
+    "sn14.21:2.2": "unmindful … ",
+    "sn14.21:2.3": "witless. ",
+    "sn14.21:2.4": "The learned with the learned … ",
+    "sn14.21:2.5": "mindful … wise.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 14.21",
-    "volpages": " PTS 2.165",
-    "alt_volpages": null,
-    "uid": "sn14.21",
-    "blurb": "Those of bad qualities associate together, while those of good qualities associate together.",
-    "difficulty": null,
-    "original_title": "Appassutamūlakasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Beginning With the Unlearned ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn14.21_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit den Ungebildeten beginnend ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn14.21_translation-en-sujato",
-        "segmented": true,
-        "title": "Beginning With the Unlearned ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn14.21_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn14.21_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Osnova u neukosti ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn14.21_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Wilhelm Geiger",
-        "author_short": "Geiger",
-        "author_uid": "geiger",
-        "publication_date": "1925",
-        "id": "de_sn14.21_geiger",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn14.21_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn14.21_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn14.21_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn14.21_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2015",
-        "id": "ru_sn14.21_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn14.21_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn14.21_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn14.21_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn14.21_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 15,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj14.256, dr16.198, ms12S2_751, msdiv105, pts-vp-pli2.165, sya16.196, vri24.148,cck16.151, ms12S2_752",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn14.21:0.3": "Appassutamūlakasutta → appassutamūlakatikadvayasuttaṁ (bj); appassutena dve (pts1ed, pts2ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn14.21",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Appassutamūlakasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn14.21:1.1": "bj14.256, dr16.198, ms12S2_751, msdiv105, pts-vp-pli2.165, sya16.196, vri24.148",
+    "sn14.21:2.1": "cck16.151, ms12S2_752"
   },
-  "bilara_translated_text": {
-    "uid": "sn14.21",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Beginning With the Unlearned ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn14.21:0.1",
+    "sn14.21:0.2",
+    "sn14.21:0.3",
+    "sn14.21:1.1",
+    "sn14.21:1.2",
+    "sn14.21:1.3",
+    "sn14.21:1.4",
+    "sn14.21:1.5",
+    "sn14.21:1.6",
+    "sn14.21:1.7",
+    "sn14.21:2.1",
+    "sn14.21:2.2",
+    "sn14.21:2.3",
+    "sn14.21:2.4",
+    "sn14.21:2.5",
+    "sn14.21:2.6"
+  ]
 }

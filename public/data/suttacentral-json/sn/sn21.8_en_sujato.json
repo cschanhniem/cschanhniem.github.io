@@ -1,353 +1,78 @@
 {
+  "comment_text": {
+    "sn21.8:1.2": "Nanda was the son of Suddhodana with Mahāpajāpati, and thus the Buddha’s half-brother and maternal cousin. His struggles with desire are related at <a href='https://suttacentral.net/ud3.2/en/sujato'>Ud 3.2</a>. His verses are at <a href='https://suttacentral.net/thag2.19/en/sujato'>Thag 2.19</a>. | <i lang='pi' translate='no'>Accha</i> normally means “transparent”, but here it refers to a glossy glaze. The archeology of Northern India around the time of the Buddha is characterized by a fine pottery called Northern Black Polished Ware, which retains its sheen to this day. ",
+    "sn21.8:2.3": ""
+  },
+  "html_text": {
+    "sn21.8:0.1": "<article id='sn21.8'><header><ul><li class='division'>{}</li>",
+    "sn21.8:0.2": "<li>{}</li></ul>",
+    "sn21.8:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn21.8:1.1": "<p>{}</p>",
+    "sn21.8:1.2": "<p>{}</p>",
+    "sn21.8:1.3": "<p>{}",
+    "sn21.8:1.4": "{}</p>",
+    "sn21.8:1.5": "<p>{}",
+    "sn21.8:1.6": "{}</p>",
+    "sn21.8:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "sn21.8:2.2": "<span class='verse-line'>{}</span>",
+    "sn21.8:2.3": "<span class='verse-line'>{}</span>",
+    "sn21.8:2.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "sn21.8:3.1": "<p>{}</p>",
+    "sn21.8:3.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn21.8",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nandasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Visākha, Pañcāli’s Son ",
-      "uid": "sn21.7"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Tissa ",
-      "uid": "sn21.9"
-    }
+    "sn21.8:0.1": "Saṁyutta Nikāya 21.8 ",
+    "sn21.8:0.2": "1. Bhikkhuvagga ",
+    "sn21.8:0.3": "Nandasutta ",
+    "sn21.8:1.1": "Sāvatthiyaṁ viharati. ",
+    "sn21.8:1.2": "Atha kho āyasmā nando bhagavato mātucchāputto ākoṭitapaccākoṭitāni cīvarāni pārupitvā akkhīni añjetvā acchaṁ pattaṁ gahetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ nandaṁ bhagavā etadavoca: ",
+    "sn21.8:1.3": "“na kho te taṁ, nanda, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa, yaṁ tvaṁ ākoṭitapaccākoṭitāni cīvarāni pārupeyyāsi, akkhīni ca añjeyyāsi, acchañca pattaṁ dhāreyyāsi. ",
+    "sn21.8:1.4": "Etaṁ kho te, nanda, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa, yaṁ tvaṁ āraññiko ca assasi, piṇḍapātiko ca paṁsukūliko ca kāmesu ca anapekkho vihareyyāsī”ti. ",
+    "sn21.8:1.5": "Idamavoca bhagavā …pe… ",
+    "sn21.8:1.6": "satthā: ",
+    "sn21.8:2.1": "“Kadāhaṁ nandaṁ passeyyaṁ, ",
+    "sn21.8:2.2": "āraññaṁ paṁsukūlikaṁ; ",
+    "sn21.8:2.3": "Aññātuñchena yāpentaṁ, ",
+    "sn21.8:2.4": "kāmesu anapekkhinan”ti. ",
+    "sn21.8:3.1": "Atha kho āyasmā nando aparena samayena āraññiko ca piṇḍapātiko ca paṁsukūliko ca kāmesu ca anapekkho vihāsīti. ",
+    "sn21.8:3.2": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "sn21.8",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Nanda ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Visākha, Pañcāli’s Son ",
-      "uid": "sn21.7"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Tissa ",
-      "uid": "sn21.9"
-    }
+  "translation_text": {
+    "sn21.8:0.1": "Linked Discourses 21.8 ",
+    "sn21.8:0.2": "1. Monks ",
+    "sn21.8:0.3": "With Nanda ",
+    "sn21.8:1.1": "At Sāvatthī. ",
+    "sn21.8:1.2": "Then Venerable Nanda—the Buddha’s cousin on his mother’s side—dressed in nicely pressed and ironed robes, applied eyeshadow, and took a glazed bowl. He went to the Buddha, bowed, and sat down to one side. The Buddha said to him: ",
+    "sn21.8:1.3": "“Nanda, as a gentleman who has gone forth out of faith from the lay life to homelessness, it’s not appropriate for you to dress in nicely pressed and ironed robes, apply eyeshadow, and carry a glazed bowl. ",
+    "sn21.8:1.4": "It’s appropriate for you to stay in the wilderness, eat only almsfood, wear rag robes, and live without concern for sensual pleasures.” ",
+    "sn21.8:1.5": "That is what the Buddha said. ",
+    "sn21.8:1.6": "Then the Holy One, the Teacher, went on to say: ",
+    "sn21.8:2.1": "“When will I see Nanda ",
+    "sn21.8:2.2": "in the wilderness, wearing rag robes, ",
+    "sn21.8:2.3": "feeding on scraps offered by strangers, ",
+    "sn21.8:2.4": "unconcerned for sensual pleasures?” ",
+    "sn21.8:3.1": "Then some time later Venerable Nanda stayed in the wilderness, ate only almsfood, wore rag robes, and lived without concern for sensual pleasures. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 21.8",
-    "volpages": " PTS 2.281",
-    "alt_volpages": null,
-    "uid": "sn21.8",
-    "blurb": "Venerable Nanda wore pretty robes, a fancy bowl, and makeup, so the Buddha encouraged him to embrace simplicity. ",
-    "difficulty": null,
-    "original_title": "Nandasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Nanda ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn21.8_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Nanda ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn21.8_translation-en-sujato",
-        "segmented": true,
-        "title": "With Nanda ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn21.8_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2023",
-        "id": "sn21.8_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Nanda ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-bangish-ajit",
-        "publication_date": "2018",
-        "id": "bn_sn21.8_indragupta-bangish-ajit",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn21.8_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn21.8_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Nanda"
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn21.8_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_sn21.8_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn21.8_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn21.8_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2016",
-        "id": "no_sn21.8_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2004",
-        "id": "pt_sn21.8_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn21.8_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn21.8_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn21.8_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn21.8_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn21.8_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj14.434, cck16.250, ms12S2_1288, msdiv242, ndp13.234, pts-vp-pli2.281, sya16.327, vri24.255,ms12S2_1289,csp1ed12.469, csp2ed12.469, dr16.332, ms12S2_1290",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn21.8:1.1": "bj14.434, cck16.250, ms12S2_1288, msdiv242, ndp13.234, pts-vp-pli2.281, sya16.327, vri24.255",
+    "sn21.8:2.1": "ms12S2_1289",
+    "sn21.8:3.1": "csp1ed12.469, csp2ed12.469, dr16.332, ms12S2_1290"
   },
-  "bilara_root_text": {
-    "uid": "sn21.8",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Nandasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "sn21.8",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Nanda ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn21.8:0.1",
+    "sn21.8:0.2",
+    "sn21.8:0.3",
+    "sn21.8:1.1",
+    "sn21.8:1.2",
+    "sn21.8:1.3",
+    "sn21.8:1.4",
+    "sn21.8:1.5",
+    "sn21.8:1.6",
+    "sn21.8:2.1",
+    "sn21.8:2.2",
+    "sn21.8:2.3",
+    "sn21.8:2.4",
+    "sn21.8:3.1",
+    "sn21.8:3.2"
   ]
 }

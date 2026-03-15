@@ -1,297 +1,35 @@
 {
+  "html_text": {
+    "sn24.41:0.1": "<article id='sn24.41'><header><ul><li class='division'>{}</li>",
+    "sn24.41:0.2": "<li>{}</li></ul>",
+    "sn24.41:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn24.41:1.1": "<p>{}</p>",
+    "sn24.41:1.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn24.41",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ekantasukhīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Self is Neither Formed Nor Formless ",
-      "uid": "sn24.40"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Exclusively Suffering ",
-      "uid": "sn24.42"
-    }
+    "sn24.41:0.1": "Saṁyutta Nikāya 24.41 ",
+    "sn24.41:0.2": "2. Dutiyagamanavagga ",
+    "sn24.41:0.3": "Ekantasukhīsutta ",
+    "sn24.41:1.1": "“Ekantasukhī attā hoti arogo paraṁ maraṇā”ti …pe…. ",
+    "sn24.41:1.2": "Tevīsatimaṁ. "
   },
-  "translation": {
-    "uid": "sn24.41",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Self Is Perfectly Happy ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Self is Neither Formed Nor Formless ",
-      "uid": "sn24.40"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Exclusively Suffering ",
-      "uid": "sn24.42"
-    }
+  "translation_text": {
+    "sn24.41:0.1": "Linked Discourses 24.41 ",
+    "sn24.41:0.2": "2. The Second Round ",
+    "sn24.41:0.3": "The Self Is Perfectly Happy ",
+    "sn24.41:1.1": "“‘The self is perfectly happy, and is free of disease after death’?” … "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 24.41",
-    "volpages": "PTS SN iii 219",
-    "alt_volpages": null,
-    "uid": "sn24.41",
-    "blurb": null,
-    "difficulty": null,
-    "original_title": "Ekantasukhīsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Self Is Perfectly Happy ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn24.41_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Ausschließlich Glück ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn24.41_translation-en-sujato",
-        "segmented": true,
-        "title": "The Self Is Perfectly Happy ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn24.41_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
-        "author_short": "ইন্দ্রগুপ্ত …",
-        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
-        "publication_date": "2018",
-        "id": "bn_sn24.41_indragupta-suman-adikalyan-sivak-rahul",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyanaponika Thera",
-        "author_short": "Nyanaponika",
-        "author_uid": "nyanaponika",
-        "publication_date": "1967",
-        "id": "de_sn24.41_nyanaponika",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn24.41_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn24.41_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn24.41_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2017",
-        "id": "no_sn24.41_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_sn24.41_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn24.41_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn24.41_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn24.41_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn24.41_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms13S3_1000, msdiv246",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn24.41:0.3": "Ekantasukhīsutta → ekantasukhīattāsuttaṁ (bj) "
   },
-  "bilara_root_text": {
-    "uid": "sn24.41",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ekantasukhīsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn24.41:1.1": "ms13S3_1000, msdiv246"
   },
-  "bilara_translated_text": {
-    "uid": "sn24.41",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Self Is Perfectly Happy ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "sn24.41:0.1",
+    "sn24.41:0.2",
+    "sn24.41:0.3",
+    "sn24.41:1.1",
+    "sn24.41:1.2"
+  ]
 }

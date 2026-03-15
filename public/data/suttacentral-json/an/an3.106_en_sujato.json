@@ -1,284 +1,48 @@
 {
+  "html_text": {
+    "an3.106:0.1": "<article id='an3.106'><header><ul><li class='division'>{}</li>",
+    "an3.106:0.2": "<li>{}</li></ul>",
+    "an3.106:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an3.106:1.1": "<p>{}",
+    "an3.106:1.2": "{}</p>",
+    "an3.106:1.3": "<p>{}",
+    "an3.106:1.4": "{}</p>",
+    "an3.106:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an3.106",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samaṇabrāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Gratification (2nd) ",
-      "uid": "an3.105"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Wailing ",
-      "uid": "an3.107"
-    }
+    "an3.106:0.1": "Aṅguttara Nikāya 3.106 ",
+    "an3.106:0.2": "11. Sambodhavagga ",
+    "an3.106:0.3": "Samaṇabrāhmaṇasutta ",
+    "an3.106:1.1": "“Ye keci, bhikkhave, samaṇā vā brāhmaṇā vā lokassa assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ nappajānanti, ",
+    "an3.106:1.2": "na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca pana te āyasmanto sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti. ",
+    "an3.106:1.3": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā lokassa assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ pajānanti, ",
+    "an3.106:1.4": "te kho, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti. ",
+    "an3.106:1.5": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "an3.106",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ascetics and Brahmins ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Gratification (2nd) ",
-      "uid": "an3.105"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Wailing ",
-      "uid": "an3.107"
-    }
+  "translation_text": {
+    "an3.106:0.1": "Numbered Discourses 3.106 ",
+    "an3.106:0.2": "11. Awakening ",
+    "an3.106:0.3": "Ascetics and Brahmins ",
+    "an3.106:1.1": "“Mendicants, there are ascetics and brahmins who don’t truly understand the world’s gratification, drawback, and escape for what they are. ",
+    "an3.106:1.2": "I don’t deem them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight. ",
+    "an3.106:1.3": "There are ascetics and brahmins who do truly understand the world’s gratification, drawback, and escape for what they are. ",
+    "an3.106:1.4": "I deem them as true ascetics and brahmins. Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 3.106",
-    "volpages": "PTS AN i 260",
-    "alt_volpages": null,
-    "uid": "an3.106",
-    "blurb": "Real ascetics understand gratification, danger and escape.",
-    "difficulty": null,
-    "original_title": "Samaṇabrāhmaṇasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Ascetics and Brahmins ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an3.106_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Asketen und Brahmanen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an3.106_translation-en-sujato",
-        "segmented": true,
-        "title": "Ascetics and Brahmins ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an3.106_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "সুমঙ্গল বড়ুয়া",
-        "author_short": "বড়ুয়া",
-        "author_uid": "sumangal-barua",
-        "publication_date": "2018",
-        "id": "bn_an3.106_sumangal-barua",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an3.106_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an3.106_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an3.106_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an3.106_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2013",
-        "id": "ru_an3.106_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an3.106_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an3.106_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an3.106_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an3.106_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj18.464, cck20.340, dr20.335, ms15A3_878, msdiv107, sya20.335, vri35.294",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an3.106:1.2": "na me te → na te (mr) ",
+    "an3.106:1.4": "viharantī”ti → viharissanti (si); viharissantīti (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an3.106",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Samaṇabrāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an3.106:1.1": "bj18.464, cck20.340, dr20.335, ms15A3_878, msdiv107, sya20.335, vri35.294"
   },
-  "bilara_translated_text": {
-    "uid": "an3.106",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Ascetics and Brahmins ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an3.106:0.1",
+    "an3.106:0.2",
+    "an3.106:0.3",
+    "an3.106:1.1",
+    "an3.106:1.2",
+    "an3.106:1.3",
+    "an3.106:1.4",
+    "an3.106:1.5"
+  ]
 }

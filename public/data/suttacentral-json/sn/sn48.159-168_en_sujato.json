@@ -1,0 +1,29 @@
+{
+  "html_text": {
+    "sn48.159-168:0.1": "<article id='sn48.159-168'><header><ul><li class='division'>{}</li>",
+    "sn48.159-168:0.2": "<li>{}</li></ul>",
+    "sn48.159-168:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn48.159-168:1.1": "<p class='expansion-instructions'>{}</p></article>"
+  },
+  "root_text": {
+    "sn48.159-168:0.1": "Saṁyutta Nikāya 48.159 ",
+    "sn48.159-168:0.2": "14. Punaesanāvagga ",
+    "sn48.159-168:0.3": "Punaesanāvagga ",
+    "sn48.159-168:1.1": "(Appamādavagga-balakaraṇīyavagga-esanāvaggā vitthāretabbā.) "
+  },
+  "translation_text": {
+    "sn48.159-168:0.1": "Linked Discourses 48.159–168 ",
+    "sn48.159-168:0.2": "14. Another Chapter on Searches ",
+    "sn48.159-168:0.3": "Another Chapter on Searches ",
+    "sn48.159-168:1.1": "(Tell in full as in SN 45.161–170, removal of greed version.) "
+  },
+  "reference_text": {
+    "sn48.159-168:1.1": "bj17.1.422, ms14S5_1278"
+  },
+  "keys_order": [
+    "sn48.159-168:0.1",
+    "sn48.159-168:0.2",
+    "sn48.159-168:0.3",
+    "sn48.159-168:1.1"
+  ]
+}

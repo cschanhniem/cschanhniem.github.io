@@ -1,325 +1,74 @@
 {
+  "html_text": {
+    "an6.11:0.1": "<article id='an6.11'><header><ul><li class='division'>{}</li>",
+    "an6.11:0.2": "<li>{}</li></ul>",
+    "an6.11:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "an6.11:1.1": "<p>{}",
+    "an6.11:1.2": "{}</p>",
+    "an6.11:1.3": "<p data-counter='1'>{}</p>",
+    "an6.11:2.1": "<p data-counter='2'>{}</p>",
+    "an6.11:3.1": "<p data-counter='3'>{}</p>",
+    "an6.11:4.1": "<p data-counter='4'>{}</p>",
+    "an6.11:5.1": "<p data-counter='5'>{}</p>",
+    "an6.11:6.1": "<p data-counter='6'>{}</p>",
+    "an6.11:7.1": "<p>{}</p>",
+    "an6.11:7.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "an6.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamasāraṇīyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Mahānāma ",
-      "uid": "an6.10"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Warm-hearted (2nd) ",
-      "uid": "an6.12"
-    }
+    "an6.11:0.1": "Aṅguttara Nikāya 6.11 ",
+    "an6.11:0.2": "2. Sāraṇīyavagga ",
+    "an6.11:0.3": "Paṭhamasāraṇīyasutta ",
+    "an6.11:1.1": "“Chayime, bhikkhave, dhammā sāraṇīyā. ",
+    "an6.11:1.2": "Katame cha? ",
+    "an6.11:1.3": "Idha, bhikkhave, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca, ayampi dhammo sāraṇīyo. ",
+    "an6.11:2.1": "Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ vacīkammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca, ayampi dhammo sāraṇīyo. ",
+    "an6.11:3.1": "Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca, ayampi dhammo sāraṇīyo. ",
+    "an6.11:4.1": "Puna caparaṁ, bhikkhave, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī, ayampi dhammo sāraṇīyo. ",
+    "an6.11:5.1": "Puna caparaṁ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni tathārūpehi sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo. ",
+    "an6.11:6.1": "Puna caparaṁ, bhikkhave, bhikkhu yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo. ",
+    "an6.11:7.1": "Ime kho, bhikkhave, cha dhammā sāraṇīyā”ti. ",
+    "an6.11:7.2": "Paṭhamaṁ. "
   },
-  "translation": {
-    "uid": "an6.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Warm-hearted (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Mahānāma ",
-      "uid": "an6.10"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Warm-hearted (2nd) ",
-      "uid": "an6.12"
-    }
+  "translation_text": {
+    "an6.11:0.1": "Numbered Discourses 6.11 ",
+    "an6.11:0.2": "2. Warm-hearted ",
+    "an6.11:0.3": "Warm-hearted (1st) ",
+    "an6.11:1.1": "“Mendicants, there are these six warm-hearted qualities. ",
+    "an6.11:1.2": "What six? ",
+    "an6.11:1.3": "Firstly, a mendicant consistently treats their spiritual companions with bodily kindness, both in public and in private. This is a warm-hearted quality. ",
+    "an6.11:2.1": "Furthermore, a mendicant consistently treats their spiritual companions with verbal kindness, both in public and in private. This too is a warm-hearted quality. ",
+    "an6.11:3.1": "Furthermore, a mendicant consistently treats their spiritual companions with mental kindness … ",
+    "an6.11:4.1": "Furthermore, a mendicant shares without reservation any material things they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions. This too is a warm-hearted quality. ",
+    "an6.11:5.1": "Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are intact, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion. This too is a warm-hearted quality. ",
+    "an6.11:6.1": "Furthermore, a mendicant lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and delivers one who practices it to the complete ending of suffering. This too is a warm-hearted quality. ",
+    "an6.11:7.1": "These are the six warm-hearted qualities.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "AN 6.11",
-    "volpages": " PTS 3.289",
-    "alt_volpages": null,
-    "uid": "an6.11",
-    "blurb": "Six warm-hearted qualities practiced among the mendicants.",
-    "difficulty": null,
-    "original_title": "Paṭhamasāraṇīyasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Warm-hearted (1st) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "an6.11_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Warmherzig (1) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "an6.11_translation-en-sujato",
-        "segmented": true,
-        "title": "Warm-hearted (1st) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2022",
-        "id": "an6.11_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Pirmoji sutta apie maloninančias savybes",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "an6.11_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV theravada.ru",
-        "author_short": "sv",
-        "author_uid": "sv",
-        "publication_date": "2025",
-        "id": "an6.11_translation-ru-sv",
-        "segmented": true,
-        "title": "Сутта Радушие Первая ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "প্রজ্ঞাদর্শী",
-        "author_uid": "pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_an6.11_pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Nyānatiloka Thera",
-        "author_short": "Nyanatiloka",
-        "author_uid": "nyanatiloka",
-        "publication_date": "1907",
-        "id": "de_an6.11_nyanatiloka",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_an6.11_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_an6.11_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_an6.11_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_an6.11_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_an6.11_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_an6.11_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_an6.11_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980–1981",
-        "id": "vi_an6.11_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_an6.11_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 5,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj21.18, ms16A6_44, msdiv11, vri38.10,ms16A6_45,dr22.317, ms16A6_46,ms16A6_47, pts-vp-pli3.289,csp1ed16.256, csp2ed16.256, ms16A6_48,ms16A6_49, ndp18.12, vri38.11,ms16A6_50",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "an6.11:0.2": "Sāraṇīyavagga → sārāṇiyādivaggo (sya-all) ",
+    "an6.11:1.1": "sāraṇīyā → sārāṇīyā (bj, sya-all, km, pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "an6.11",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Paṭhamasāraṇīyasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "an6.11:1.1": "bj21.18, ms16A6_44, msdiv11, vri38.10",
+    "an6.11:2.1": "ms16A6_45",
+    "an6.11:3.1": "dr22.317, ms16A6_46",
+    "an6.11:4.1": "ms16A6_47, pts-vp-pli3.289",
+    "an6.11:5.1": "csp1ed16.256, csp2ed16.256, ms16A6_48",
+    "an6.11:6.1": "ms16A6_49, ndp18.12, vri38.11",
+    "an6.11:7.1": "ms16A6_50"
   },
-  "bilara_translated_text": {
-    "uid": "an6.11",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Warm-hearted (1st) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": []
+  "keys_order": [
+    "an6.11:0.1",
+    "an6.11:0.2",
+    "an6.11:0.3",
+    "an6.11:1.1",
+    "an6.11:1.2",
+    "an6.11:1.3",
+    "an6.11:2.1",
+    "an6.11:3.1",
+    "an6.11:4.1",
+    "an6.11:5.1",
+    "an6.11:6.1",
+    "an6.11:7.1",
+    "an6.11:7.2"
+  ]
 }

@@ -1,326 +1,47 @@
 {
+  "html_text": {
+    "sn46.34:0.1": "<article id='sn46.34'><header><ul><li class='division'>{}</li>",
+    "sn46.34:0.2": "<li>{}</li></ul>",
+    "sn46.34:0.3": "<h1 class='sutta-title'>{}</h1></header>",
+    "sn46.34:1.1": "<p>{}",
+    "sn46.34:1.2": "{}",
+    "sn46.34:1.3": "{}",
+    "sn46.34:1.4": "{}</p>",
+    "sn46.34:1.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "sn46.34",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Anupakkilesasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Corruptions ",
-      "uid": "sn46.33"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Irrational Application of Mind ",
-      "uid": "sn46.35"
-    }
+    "sn46.34:0.1": "Saṁyutta Nikāya 46.34 ",
+    "sn46.34:0.2": "4. Nīvaraṇavagga ",
+    "sn46.34:0.3": "Anupakkilesasutta ",
+    "sn46.34:1.1": "“Sattime, bhikkhave, bojjhaṅgā anāvaraṇā anīvaraṇā cetaso anupakkilesā bhāvitā bahulīkatā vijjāvimuttiphalasacchikiriyāya saṁvattanti. ",
+    "sn46.34:1.2": "Katame satta? ",
+    "sn46.34:1.3": "Satisambojjhaṅgo, bhikkhave, anāvaraṇo anīvaraṇo cetaso anupakkileso bhāvito bahulīkato vijjāvimuttiphalasacchikiriyāya saṁvattati …pe… upekkhāsambojjhaṅgo, bhikkhave, anāvaraṇo anīvaraṇo cetaso anupakkileso bhāvito bahulīkato vijjāvimuttiphalasacchikiriyāya saṁvattati. ",
+    "sn46.34:1.4": "Ime kho, bhikkhave, satta bojjhaṅgā anāvaraṇā anīvaraṇā cetaso anupakkilesā bhāvitā bahulīkatā vijjāvimuttiphalasacchikiriyāya saṁvattantī”ti. ",
+    "sn46.34:1.5": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "sn46.34",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Corruptions ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Corruptions ",
-      "uid": "sn46.33"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Irrational Application of Mind ",
-      "uid": "sn46.35"
-    }
+  "translation_text": {
+    "sn46.34:0.1": "Linked Discourses 46.34 ",
+    "sn46.34:0.2": "4. Hindrances ",
+    "sn46.34:0.3": "Not Corruptions ",
+    "sn46.34:1.1": "“Mendicants, these seven awakening factors are not obstacles, hindrances, or corruptions of the mind. When developed and cultivated they lead to the realization of the fruit of knowledge and freedom. ",
+    "sn46.34:1.2": "What seven? ",
+    "sn46.34:1.3": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. ",
+    "sn46.34:1.4": "These seven awakening factors are not obstacles, hindrances, or corruptions of the mind. When developed and cultivated they lead to the realization of the fruit of knowledge and freedom.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "SN 46.34",
-    "volpages": "PTS SN v 93",
-    "alt_volpages": null,
-    "uid": "sn46.34",
-    "blurb": "Awakening factors purify the mind and lead to liberation.",
-    "difficulty": null,
-    "original_title": "Anupakkilesasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Not Corruptions ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2019",
-        "id": "sn46.34_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Keine Verunreinigungen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2018",
-        "id": "sn46.34_translation-en-sujato",
-        "segmented": true,
-        "title": "Not Corruptions ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "sn46.34_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "bn",
-        "lang_name": "বাংলা",
-        "is_root": false,
-        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
-        "author_short": "বঙ্গীস …",
-        "author_uid": "bangish-ajit-pragyadarshi",
-        "publication_date": "2018",
-        "id": "bn_sn46.34_bangish-ajit-pragyadarshi",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Dr. Hellmuth Hecker",
-        "author_short": "Hecker",
-        "author_uid": "hecker",
-        "publication_date": "1993",
-        "id": "de_sn46.34_hecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "has_comment": false,
-        "id": "en_sn46.34_bodhi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2000",
-        "segmented": false,
-        "volpage": null,
-        "title": "Noncorruptions"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Anton P. Baron",
-        "author_short": "Baron",
-        "author_uid": "baron",
-        "publication_date": "2014",
-        "id": "es_sn46.34_baron",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_sn46.34_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_sn46.34_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_sn46.34_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": "2018",
-        "id": "no_sn46.34_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2012",
-        "id": "ru_sn46.34_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_sn46.34_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "th",
-        "lang_name": "ไทย",
-        "is_root": false,
-        "author": "Siam Rath",
-        "author_short": "Siam Rath",
-        "author_uid": "siam_rath",
-        "publication_date": null,
-        "id": "th_sn46.34_siam_rath",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": "1980",
-        "id": "vi_sn46.34_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "莊春江",
-        "author_short": "莊春江",
-        "author_uid": "zhuang",
-        "publication_date": null,
-        "id": "zh_sn46.34_zhuang",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 4,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj17.1.188, csp1ed14.83, csp2ed14.83, dr19.126, ms14S5_507, msdiv215, ndp15.86, sya19.132, vri27.114",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "sn46.34:0.3": "Anupakkilesasutta → anāvaraṇasuttaṁ (bj); kilesa 2 (pts1ed) "
   },
-  "bilara_root_text": {
-    "uid": "sn46.34",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Anupakkilesasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "sn46.34:1.1": "bj17.1.188, csp1ed14.83, csp2ed14.83, dr19.126, ms14S5_507, msdiv215, ndp15.86, sya19.132, vri27.114"
   },
-  "bilara_translated_text": {
-    "uid": "sn46.34",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Not Corruptions ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "bodhi"
+  "keys_order": [
+    "sn46.34:0.1",
+    "sn46.34:0.2",
+    "sn46.34:0.3",
+    "sn46.34:1.1",
+    "sn46.34:1.2",
+    "sn46.34:1.3",
+    "sn46.34:1.4",
+    "sn46.34:1.5"
   ]
 }
