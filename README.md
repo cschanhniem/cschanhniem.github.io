@@ -1,6 +1,6 @@
 # NhapLuu (Nhập Lưu) - Stream Entry Path
 
-https://cschanhniem.github.io/nhapluu/
+https://cschanhniem.github.io/
 
 > A modern web application guiding practitioners toward Stream Entry (Sotāpanna) in the 21st century
 
