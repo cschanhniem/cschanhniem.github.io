@@ -171,6 +171,7 @@ Use this branch when Nikaya detail pages show placeholder prose, raw Bilara temp
 9. Treat Bilara `200 {"msg":"Not Found"}` responses as missing English, not success.
 10. For `KN`, remember that collection inference must map `kp`, `dhp`, `ud`, `iti`, and `snp` into the `kn` folder.
 11. Verify one collection route and one detail route in a browser after the patch.
+12. For `manual 2026` authoring, store the copy in `src/data/nikaya-improved/vi/*.ts` as curated markdown, keep the doctrinal structure intact, and use modern Vietnamese that still sounds disciplined when read aloud.
 
 ### Nikaya State Machine
 

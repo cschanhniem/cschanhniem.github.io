@@ -1,8 +1,11 @@
 import type { NikayaLanguage } from '@/types/nikaya'
 
 const improvedTranslationAvailability: Record<string, readonly NikayaLanguage[]> = {
+  dn7: ['vi'],
+  dn10: ['vi'],
   mn10: ['vi'],
   dn22: ['vi'],
+  dn31: ['vi'],
   mn118: ['vi'],
   sn5611: ['vi'],
 }

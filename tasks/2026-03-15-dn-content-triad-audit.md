@@ -14,7 +14,7 @@ The immediate defect was that English looked present in the UI but still rendere
 1. Updated `scripts/fetch-all-nikayas.mjs` to backfill English from the Bilara endpoint and to treat metadata-only files as incomplete.
 2. Regenerated `public/data/suttacentral-json/dn/dn*_en_sujato.json` with real DN English source payloads.
 3. Added `public/data/suttacentral-json/content-availability.json` so UI logic can test readable content instead of mere file presence.
-4. Added `scripts/audit-nikaya-dn-triad.mjs` and the `npm run audit:nikaya-dn` script.
+4. Added the DN audit shortcut and kept the generic `npm run audit:nikaya -- dn` workflow.
 5. Patched `src/lib/suttacentralLocal.ts` to compose Bilara `html_text` templates with `translation_text` before rendering.
 6. Tightened `src/pages/NikayaDetail.tsx` so version options are selectable only when local readable content exists.
 7. Added DN triad status surfaces in the Nikaya library and detail pages.
@@ -25,10 +25,10 @@ The immediate defect was that English looked present in the UI but still rendere
 - DN total: 34
 - English original content: 34/34
 - Vietnamese Minh Châu content: 34/34
-- Vietnamese manual 2026: 1/34
-- Full triad ready: 1/34
+- Vietnamese manual 2026: 4/34
+- Full triad ready: 4/34
 
-At this point, the structural integrity is correct, but the editorial program is not complete. Only `dn22` currently has all three layers.
+At this point, the structural integrity is correct, but the editorial program is not complete. The DN manual layer now covers `dn7`, `dn10`, `dn22`, and `dn31`.
 
 ## Verification
 
@@ -43,5 +43,5 @@ Confirmed:
 
 ## Follow-up
 
-- Continue authoring manual 2026 DN translations until the triad is complete beyond `dn22`.
+- Continue authoring manual 2026 DN translations until the triad is complete beyond `dn7`, `dn10`, `dn22`, and `dn31`.
 - Keep using `content-availability.json` for user-facing readiness logic.
