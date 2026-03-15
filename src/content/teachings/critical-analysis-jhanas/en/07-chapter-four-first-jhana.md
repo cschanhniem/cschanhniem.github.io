@@ -318,7 +318,6 @@ This process can be made more vivid by the following diagram:
 
 ## A B
 
-_______________ _______________________________ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 … … … … … … … … … … … … … … … … … bh l ch m p u a g jh bh bh bh bh bh bh bh bh
 
 Here line A represents the four great thought moments preceding the jhāna process. This comprises the past stream of consciousness (bh), its vibration (1), its cutting off (ch), and the mind’s advertance to the counterpart sign through the mind-door (m). Line B represents the lapsing of the mind back into the passive stream of consciousness after the jhāna attainment is over. P represents the moment of preliminary work (parikamma), u the moment of access (upacāra), a the moment of conformity (anuloma) during which the mind qualifies itself for jhāna, and g the moment of change-of-lineage where the ordinary stream of consciousness belonging to the sensual sphere is replaced by the lineage of consciousness of the fine material sphere. The following jh represents the first jhāna. After this the mind relapses into the passive stream of consciousness (bhava/ga) which is represented by bh repeated seven times. The groups of three dots in each citta represent the birth (uppāda), transformation or duration ((hiti), and dissolution (bha/ga)[^p96-2] of each thought moment.
 
