@@ -308,6 +308,10 @@ flowchart LR
 - For `SN` manual 2026 authoring, prefer a doctrinal spine batch across major saṃyuttas before filling long consecutive stretches. Core anchors such as dependent origination, not-self, the burning discourse, satipaṭṭhāna conditions, and the truths make later style decisions more coherent.
 - For `KN` manual 2026 authoring, `Khuddakapāṭha` is the best first foothold. Translate `kp1-kp9` as a coherent liturgical cluster before expanding into broader `KN` books, and keep chant bodies intact instead of flattening them into summaries.
 - `DN` manual 2026 coverage is now complete at `34/34`. Future `DN` changes should normally be editorial revision passes, fidelity improvements, or prose tightening, not missing-file backfill.
+- `MN` manual 2026 coverage is now complete at `152/152`. For `MN`, future work should focus on editorial upgrades to specific discourses rather than missing-file backfill.
+- `src/data/nikaya-improved/vi/index.ts` now auto-discovers translation modules with `import.meta.glob`. Do not hand-maintain a giant import registry for manual 2026 files anymore.
+- `src/data/nikaya-improved/availability.ts` is derived from `viImproved`. Treat it as generated-from-source structure, not a second manual truth table.
+- Use `node scripts/generate-manual-2026.mjs <dn|mn|sn|an|kn>` or `npm run generate:manual -- <collection>` to scaffold missing manual 2026 files. The script skips existing files, preserves curated hand-edited modules, and writes filenames in canonical hyphenated form such as `mn-6.ts`, `an-1-10.ts`, or `sn-56-11.ts`.
 
 ```mermaid
 stateDiagram-v2
@@ -337,6 +341,49 @@ flowchart LR
     C --> D[NikayaDetail coverage notice]
     C --> E[Audit conclusion]
     E --> F[Do not fabricate missing originals]
+```
+
+```mermaid
+stateDiagram-v2
+    [*] --> IndexRowKnown
+    IndexRowKnown --> FilenameCanonical
+    FilenameCanonical --> ManualModuleScaffolded
+    ManualModuleScaffolded --> ModuleDiscovered
+    ModuleDiscovered --> AvailabilityDerived
+    AvailabilityDerived --> TriadAudited
+    TriadAudited --> BuildVerified
+    BuildVerified --> Pushed
+    FilenameCanonical --> IndexRowKnown: naming mismatch fixed
+    ModuleDiscovered --> ManualModuleScaffolded: export shape invalid
+    AvailabilityDerived --> ModuleDiscovered: duplicate suttaId
+    TriadAudited --> ManualModuleScaffolded: coverage gap remains
+```
+
+```mermaid
+sequenceDiagram
+    participant Index as nikaya_index.json
+    participant Generator as generate-manual-2026.mjs
+    participant Files as src/data/nikaya-improved/vi/*.ts
+    participant Loader as vi/index.ts
+    participant Availability as availability.ts
+    participant Audit as audit-nikaya-triad.mjs
+
+    Index->>Generator: collection rows
+    Generator->>Files: scaffold missing manual modules
+    Files->>Loader: import.meta.glob eager discovery
+    Loader->>Availability: derived viImproved keys
+    Availability->>Audit: manual coverage truth set
+    Audit->>Audit: verify triad completeness
+```
+
+```mermaid
+flowchart LR
+    A[nikaya_index.json] --> B[generate-manual-2026.mjs]
+    B --> C[src/data/nikaya-improved/vi/*.ts]
+    C --> D[vi/index.ts glob loader]
+    D --> E[availability.ts derived IDs]
+    E --> F[audit:nikaya]
+    D --> G[NikayaDetail selector]
 ```
 
 ```mermaid
