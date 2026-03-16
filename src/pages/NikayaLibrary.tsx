@@ -108,16 +108,29 @@ export function NikayaLibrary() {
 
     const fetchIndex = async () => {
       try {
-        const [indexRes, availabilityRes] = await Promise.all([
+        const [indexRes, availabilityRes, aliasRes] = await Promise.all([
           fetch('/data/suttacentral-json/nikaya_index.json'),
-          fetch('/data/suttacentral-json/content-availability.json'),
+          fetch('/data/suttacentral-json/effective-content-availability.json'),
+          fetch('/data/suttacentral-json/canonical-aliases.json'),
         ])
         if (!indexRes.ok) throw new Error('Failed to load index')
-        if (!availabilityRes.ok) throw new Error('Failed to load content availability')
+        if (!availabilityRes.ok) throw new Error('Failed to load effective content availability')
+        if (!aliasRes.ok) throw new Error('Failed to load canonical aliases')
         const data = (await indexRes.json()) as NikayaIndexItem[]
         const availability = (await availabilityRes.json()) as Record<string, string[]>
+        const aliases = (await aliasRes.json()) as Record<string, Partial<Record<'en' | 'vi', string>>>
+        const groupedCanonicalIds = new Set(
+          Object.entries(aliases).flatMap(([childId, canonicalByLang]) =>
+            Object.values(canonicalByLang)
+              .filter((canonicalId): canonicalId is string => Boolean(canonicalId))
+              .filter((canonicalId) => normalizeSuttaId(canonicalId) !== normalizeSuttaId(childId))
+              .map((canonicalId) => normalizeSuttaId(canonicalId))
+          )
+        )
 
-        const mappedSuttas: NikayaListItem[] = data.map((item) => {
+        const mappedSuttas: NikayaListItem[] = data
+          .filter((item) => !groupedCanonicalIds.has(normalizeSuttaId(item.id)))
+          .map((item) => {
           const match = item.id.match(/([a-z]+)(\d+.*)/i)
           const code = match ? `${match[1].toUpperCase()} ${match[2]}` : item.id.toUpperCase()
           const normalizedId = normalizeSuttaId(item.id)
@@ -230,7 +243,7 @@ export function NikayaLibrary() {
           </p>
         )}
         <p className="text-sm text-muted-foreground mt-2">
-          So sánh các bản dịch tiếng Việt, Anh, Hoa, Tây Ban Nha
+          Ba lớp đọc cốt lõi: Việt của HT. Thích Minh Châu, Anh của Bhikkhu Sujato, và bản Việt Nhập Lưu 2026
         </p>
       </div>
 

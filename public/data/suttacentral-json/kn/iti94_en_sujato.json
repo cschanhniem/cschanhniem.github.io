@@ -1,353 +1,78 @@
 {
+  "html_text": {
+    "iti94:0.1": "<article id='iti94'><header><ul><li class='division'>{}</li>",
+    "iti94:0.2": "<li class='nipata'>{}</li>",
+    "iti94:0.3": "<li class='vagga'>{}</li></ul>",
+    "iti94:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+    "iti94:1.1": "<p>{}</p>",
+    "iti94:2.1": "<p>{}",
+    "iti94:2.2": "{}</p>",
+    "iti94:2.3": "<p>{}",
+    "iti94:2.4": "{}</p>",
+    "iti94:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "iti94:3.2": "<span class='verse-line'>{}</span>",
+    "iti94:3.3": "<span class='verse-line'>{}</span>",
+    "iti94:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "iti94:4.1": "<p>{}</p>",
+    "iti94:4.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "iti94",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upaparikkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Fire ",
-      "uid": "iti93"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Provided With Pleasure ",
-      "uid": "iti95"
-    }
+    "iti94:0.1": "Itivuttaka 94 ",
+    "iti94:0.2": "Tikanipāta ",
+    "iti94:0.3": "Pañcamavagga ",
+    "iti94:0.4": "Upaparikkhasutta ",
+    "iti94:1.1": "Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ: ",
+    "iti94:2.1": "“Tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathāssa upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya. ",
+    "iti94:2.2": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī”ti. ",
+    "iti94:2.3": "Etamatthaṁ bhagavā avoca. ",
+    "iti94:2.4": "Tatthetaṁ iti vuccati: ",
+    "iti94:3.1": "“Sattasaṅgappahīnassa, ",
+    "iti94:3.2": "netticchinnassa bhikkhuno; ",
+    "iti94:3.3": "Vikkhīṇo jātisaṁsāro, ",
+    "iti94:3.4": "natthi tassa punabbhavo”ti. ",
+    "iti94:4.1": "Ayampi attho vutto bhagavatā, iti me sutanti. ",
+    "iti94:4.2": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "iti94",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Examination ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Fire ",
-      "uid": "iti93"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Provided With Pleasure ",
-      "uid": "iti95"
-    }
+  "translation_text": {
+    "iti94:0.1": "So It Was Said 94 ",
+    "iti94:0.2": "The Book of the Threes ",
+    "iti94:0.3": "Chapter Five ",
+    "iti94:0.4": "Examination ",
+    "iti94:1.1": "This was said by the Buddha, the Perfected One: that is what I heard. ",
+    "iti94:2.1": "“Mendicants, a mendicant should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. ",
+    "iti94:2.2": "When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering—of rebirth, old age, and death in the future.” ",
+    "iti94:2.3": "The Buddha spoke this matter. ",
+    "iti94:2.4": "On this it is said: ",
+    "iti94:3.1": "“For one who has given up seven chains, ",
+    "iti94:3.2": "a mendicant who has cut the cord, ",
+    "iti94:3.3": "transmigration through births is finished, ",
+    "iti94:3.4": "there’ll be no more no more future lives for them.” ",
+    "iti94:4.1": "This too is a matter that was spoken by the Blessed One: that is what I heard. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Iti 94",
-    "volpages": " PTS 94",
-    "alt_volpages": null,
-    "uid": "iti94",
-    "blurb": "On having consciousness neither externally scattered and diffused, nor internally positioned.",
-    "difficulty": null,
-    "original_title": "Upaparikkhasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Examination ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "iti94_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Prüfen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2020",
-        "id": "iti94_translation-en-sujato",
-        "segmented": true,
-        "title": "Examination ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2023",
-        "id": "iti94_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Tyrinėjimas ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "iti94_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_iti94_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "cs",
-        "lang_name": "Čeština",
-        "is_root": false,
-        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
-        "author_short": "Gavésakó …",
-        "author_uid": "gavesako-chromovsky",
-        "publication_date": null,
-        "id": "cs_iti94_gavesako-chromovsky",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1922",
-        "id": "de_iti94_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "John D. Ireland",
-        "author_short": "Ireland",
-        "author_uid": "ireland",
-        "has_comment": false,
-        "id": "en_iti94_ireland",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1997",
-        "segmented": false,
-        "volpage": null,
-        "title": "Investigating"
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Canonpali.org",
-        "author_short": "CPO",
-        "author_uid": "canonpaliorg",
-        "publication_date": null,
-        "id": "fr_iti94_canonpaliorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_iti94_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_iti94_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_iti94_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_iti94_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_iti94_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_iti94_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_iti94_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_iti94_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_iti94_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed18.258, csp2ed18.258, ms18It_672, ndp20.245,ms18It_673, pts-vp-pli94,mc0.313, ms18It_674, vns215,ms18It_675",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "iti94:2.1": "yathā yathāssa → yathā yathā (bahūsu) "
   },
-  "bilara_root_text": {
-    "uid": "iti94",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upaparikkhasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "iti94:1.1": "csp1ed18.258, csp2ed18.258, ms18It_672, ndp20.245",
+    "iti94:2.1": "ms18It_673, pts-vp-pli94",
+    "iti94:3.1": "mc0.313, ms18It_674, vns215",
+    "iti94:4.1": "ms18It_675"
   },
-  "bilara_translated_text": {
-    "uid": "iti94",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Examination ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "ireland"
+  "keys_order": [
+    "iti94:0.1",
+    "iti94:0.2",
+    "iti94:0.3",
+    "iti94:0.4",
+    "iti94:1.1",
+    "iti94:2.1",
+    "iti94:2.2",
+    "iti94:2.3",
+    "iti94:2.4",
+    "iti94:3.1",
+    "iti94:3.2",
+    "iti94:3.3",
+    "iti94:3.4",
+    "iti94:4.1",
+    "iti94:4.2"
   ]
 }

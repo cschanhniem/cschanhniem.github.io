@@ -21,24 +21,56 @@ if (!validCollections.has(targetCollection)) {
   process.exit(1);
 }
 
-const contentManifestPath = path.join(rootDir, 'public/data/suttacentral-json/content-availability.json');
+const contentManifestPath = path.join(rootDir, 'public/data/suttacentral-json/effective-content-availability.json');
+const aliasManifestPath = path.join(rootDir, 'public/data/suttacentral-json/canonical-aliases.json');
 const indexPath = path.join(rootDir, 'public/data/suttacentral-json/nikaya_index.json');
 const improvedDir = path.join(rootDir, 'src/data/nikaya-improved/vi');
 
 const contentManifest = JSON.parse(fs.readFileSync(contentManifestPath, 'utf8'));
+const aliasManifest = JSON.parse(fs.readFileSync(aliasManifestPath, 'utf8'));
 const nikayaIndex = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 
 function normalizeSuttaId(suttaId) {
-  return String(suttaId).toLowerCase().replace(/[^a-z0-9]/g, '');
+  return String(suttaId).toLowerCase().replace(/\s+/g, '');
 }
+
+function normalizeImprovedFileId(fileName) {
+  const baseName = String(fileName).replace(/\.ts$/i, '').trim().toLowerCase();
+  const parts = baseName.split('-').filter(Boolean);
+
+  if (parts.length < 2) {
+    return normalizeSuttaId(baseName);
+  }
+
+  const [collection, major, ...rest] = parts;
+  const numericParts = [major, ...rest];
+  const isStructuredNikayaId = /^[a-z]+$/.test(collection) && numericParts.every((part) => /^\d+$/.test(part));
+
+  if (!isStructuredNikayaId) {
+    return normalizeSuttaId(baseName);
+  }
+
+  const normalizedId = `${collection}${major}${rest.length > 0 ? `.${rest.join('.')}` : ''}`;
+  return normalizeSuttaId(normalizedId);
+}
+
+const hiddenCanonicalIds = new Set(
+  Object.entries(aliasManifest).flatMap(([childId, canonicalByLang]) =>
+    Object.values(canonicalByLang)
+      .filter(Boolean)
+      .filter((canonicalId) => normalizeSuttaId(canonicalId) !== normalizeSuttaId(childId))
+      .map((canonicalId) => normalizeSuttaId(canonicalId))
+  )
+)
 
 const improvedFiles = fs.readdirSync(improvedDir)
   .filter((file) => file.endsWith('.ts') && file !== 'index.ts')
-  .map((file) => normalizeSuttaId(file.replace('.ts', '')));
+  .map((file) => normalizeImprovedFileId(file));
 const improvedSet = new Set(improvedFiles);
 
 const rows = nikayaIndex
   .filter((item) => item.collection === targetCollection)
+  .filter((item) => !hiddenCanonicalIds.has(normalizeSuttaId(item.id)))
   .map((item) => {
     const id = String(item.id).toLowerCase();
     const normalizedId = normalizeSuttaId(id);

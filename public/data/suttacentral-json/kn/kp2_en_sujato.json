@@ -1,303 +1,74 @@
 {
+  "html_text": {
+    "kp2:0.1": "<article id='kp2'><header><ul><li class='division'>{}</li></ul>",
+    "kp2:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "kp2:1.1": "<p>{}</p>",
+    "kp2:2.1": "<p>{}</p>",
+    "kp2:3.1": "<p>{}</p>",
+    "kp2:4.1": "<p>{}</p>",
+    "kp2:5.1": "<p>{}</p>",
+    "kp2:6.1": "<p>{}</p>",
+    "kp2:7.1": "<p>{}</p>",
+    "kp2:8.1": "<p>{}</p>",
+    "kp2:9.1": "<p>{}</p>",
+    "kp2:10.1": "<p>{}</p>",
+    "kp2:11.1": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "kp2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dasasikkhāpada",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Three Refuges ",
-      "uid": "kp1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Thirty-two Parts of the Body ",
-      "uid": "kp3"
-    }
+    "kp2:0.1": "Khuddakapāṭha 2 ",
+    "kp2:0.2": "Dasasikkhāpada ",
+    "kp2:1.1": "Pāṇātipātā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:2.1": "Adinnādānā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:3.1": "Abrahmacariyā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:4.1": "Musāvādā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:5.1": "Surāmerayamajjapamādaṭṭhānā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:6.1": "Vikālabhojanā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:7.1": "Naccagītavāditavisūkadassanā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:8.1": "Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:9.1": "Uccāsayanamahāsayanā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:10.1": "Jātarūparajatapaṭiggahaṇā veramaṇisikkhāpadaṁ samādiyāmi. ",
+    "kp2:11.1": "Dasasikkhāpadaṁ. "
   },
-  "translation": {
-    "uid": "kp2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ten Precepts ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Three Refuges ",
-      "uid": "kp1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Thirty-two Parts of the Body ",
-      "uid": "kp3"
-    }
+  "translation_text": {
+    "kp2:0.1": "Basic Passages 2 ",
+    "kp2:0.2": "The Ten Precepts ",
+    "kp2:1.1": "I undertake the precept to refrain from killing living creatures. ",
+    "kp2:2.1": "I undertake the precept to refrain from stealing. ",
+    "kp2:3.1": "I undertake the precept to refrain from sexual activity. ",
+    "kp2:4.1": "I undertake the precept to refrain from lying. ",
+    "kp2:5.1": "I undertake the precept to refrain from consuming beer, wine, and liquor intoxicants. ",
+    "kp2:6.1": "I undertake the precept to refrain from food at the wrong time. ",
+    "kp2:7.1": "I undertake the precept to refrain from seeing shows of dancing, singing, and music . ",
+    "kp2:8.1": "I undertake the precept to refrain from attiring and adorning myself with garlands, fragrance, and makeup. ",
+    "kp2:9.1": "I undertake the precept to refrain from high and luxurious beds. ",
+    "kp2:10.1": "I undertake the precept to refrain from receiving gold and currency. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Kp 2",
-    "volpages": " PTS 2",
-    "alt_volpages": null,
-    "uid": "kp2",
-    "blurb": "The ten precepts of a novice mendicant",
-    "difficulty": null,
-    "original_title": "Dasasikkhāpada",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Ten Precepts ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2021",
-        "id": "kp2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die zehn Schulungsregeln ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2020",
-        "id": "kp2_translation-en-sujato",
-        "segmented": true,
-        "title": "The Ten Precepts ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "kp2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Laera et al.",
-        "author_short": "laera",
-        "author_uid": "laera",
-        "publication_date": null,
-        "id": "kp2_translation-pt-laera-quaresma",
-        "segmented": true,
-        "title": "Os Dez Preceitos ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1910",
-        "id": "de_kp2_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_kp2_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": null,
-        "segmented": false,
-        "volpage": null,
-        "title": "The Ten Training Rules"
-      },
-      {
-        "author": "Piyadassi Thera",
-        "author_short": "Piyadassi",
-        "author_uid": "piyadassi",
-        "has_comment": false,
-        "id": "en_kp2_piyadassi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1999",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Ten Training Precepts"
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_kp2_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_kp2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_kp2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_kp2_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_kp2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": null,
-        "id": "vi_kp2_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "Metta",
-        "author_short": "Metta",
-        "author_uid": "metta",
-        "publication_date": null,
-        "id": "zh_kp2_metta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms18Kh_6, msdiv1,mc0.2, ms18Kh_7, msdiv2,csp1ed18.2, csp2ed18.2, ms18Kh_8, msdiv3,ms18Kh_9, msdiv4,dr25.2, ms18Kh_10, msdiv5, sya25.2,cck25.2, ms18Kh_11, msdiv6,ms18Kh_12, msdiv7,ms18Kh_13, msdiv8, ndp20.4,ms18Kh_14, msdiv9,ms18Kh_15, msdiv10, pts-vp-pli2,ms18Kh_16",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "kp2:1.1": "ms18Kh_6, msdiv1",
+    "kp2:2.1": "mc0.2, ms18Kh_7, msdiv2",
+    "kp2:3.1": "csp1ed18.2, csp2ed18.2, ms18Kh_8, msdiv3",
+    "kp2:4.1": "ms18Kh_9, msdiv4",
+    "kp2:5.1": "dr25.2, ms18Kh_10, msdiv5, sya25.2",
+    "kp2:6.1": "cck25.2, ms18Kh_11, msdiv6",
+    "kp2:7.1": "ms18Kh_12, msdiv7",
+    "kp2:8.1": "ms18Kh_13, msdiv8, ndp20.4",
+    "kp2:9.1": "ms18Kh_14, msdiv9",
+    "kp2:10.1": "ms18Kh_15, msdiv10, pts-vp-pli2",
+    "kp2:11.1": "ms18Kh_16"
   },
-  "bilara_root_text": {
-    "uid": "kp2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Dasasikkhāpada",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "kp2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Ten Precepts ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "piyadassi",
-    "anandajoti"
+  "keys_order": [
+    "kp2:0.1",
+    "kp2:0.2",
+    "kp2:1.1",
+    "kp2:2.1",
+    "kp2:3.1",
+    "kp2:4.1",
+    "kp2:5.1",
+    "kp2:6.1",
+    "kp2:7.1",
+    "kp2:8.1",
+    "kp2:9.1",
+    "kp2:10.1",
+    "kp2:11.1"
   ]
 }

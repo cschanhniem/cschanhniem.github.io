@@ -1,340 +1,71 @@
 {
+  "html_text": {
+    "ud6.9:0.1": "<article id='ud6.9'><header><ul><li class='division'>{}</li></ul>",
+    "ud6.9:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud6.9:1.1": "<p><span class='evam'>{}</span>",
+    "ud6.9:1.2": "{}",
+    "ud6.9:1.3": "{}</p>",
+    "ud6.9:2.1": "<p>{}",
+    "ud6.9:2.2": "{}</p>",
+    "ud6.9:3.1": "<p>{}</p>",
+    "ud6.9:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud6.9:4.2": "<span class='verse-line'>{}</span>",
+    "ud6.9:4.3": "<span class='verse-line'>{}</span>",
+    "ud6.9:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud6.9:4.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud6.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upātidhāvantisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Courtesan ",
-      "uid": "ud6.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Arising ",
-      "uid": "ud6.10"
-    }
+    "ud6.9:0.1": "Udāna 6.9 ",
+    "ud6.9:0.2": "Upātidhāvantisutta ",
+    "ud6.9:1.1": "Evaṁ me sutaṁ—",
+    "ud6.9:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "ud6.9:1.3": "Tena kho pana samayena bhagavā rattandhakāratimisāyaṁ abbhokāse nisinno hoti telappadīpesu jhāyamānesu. ",
+    "ud6.9:2.1": "Tena kho pana samayena sambahulā adhipātakā tesu telappadīpesu āpātaparipātaṁ anayaṁ āpajjanti, byasanaṁ āpajjanti, anayabyasanaṁ āpajjanti. ",
+    "ud6.9:2.2": "Addasā kho bhagavā te sambahule adhipātake tesu telappadīpesu āpātaparipātaṁ anayaṁ āpajjante, byasanaṁ āpajjante, anayabyasanaṁ āpajjante. ",
+    "ud6.9:3.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud6.9:4.1": "“Upātidhāvanti na sāramenti, ",
+    "ud6.9:4.2": "Navaṁ navaṁ bandhanaṁ brūhayanti; ",
+    "ud6.9:4.3": "Patanti pajjotamivādhipātakā, ",
+    "ud6.9:4.4": "Diṭṭhe sute itiheke niviṭṭhā”ti. ",
+    "ud6.9:4.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "ud6.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Hastening By ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Courtesan ",
-      "uid": "ud6.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Arising ",
-      "uid": "ud6.10"
-    }
+  "translation_text": {
+    "ud6.9:0.1": "Heartfelt Sayings 6.9 ",
+    "ud6.9:0.2": "Hastening By ",
+    "ud6.9:1.1": "So I have heard. ",
+    "ud6.9:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "ud6.9:1.3": "Now at that time the Buddha was meditating in the open during the dark of night, while oil lamps were burning. ",
+    "ud6.9:2.1": "And many moths were falling down and crashing down into the lamps, coming to grief and ruin. ",
+    "ud6.9:2.2": "The Buddha saw the moths coming to grief. ",
+    "ud6.9:3.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud6.9:4.1": "“Hastening by, they miss the essence, ",
+    "ud6.9:4.2": "sprouting ever more new bonds. ",
+    "ud6.9:4.3": "Like moths falling in the flame, ",
+    "ud6.9:4.4": "some have become fixed in what is seen or heard.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 6.9",
-    "volpages": "PTS Ud 72",
-    "alt_volpages": null,
-    "uid": "ud6.9",
-    "blurb": "Insects fly into the flames of lamps set out at night.",
-    "difficulty": null,
-    "original_title": "Upātidhāvantisutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Hastening By ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud6.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Herbeieilen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud6.9_translation-en-sujato",
-        "segmented": true,
-        "title": "Hastening By ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud6.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud6.9_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Strmoglavce ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud6.9_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud6.9_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about Running Beyond"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2008",
-        "id": "es_ud6.9_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud6.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud6.9_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud6.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud6.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud6.9_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud6.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Gabriel N. Laera",
-        "author_short": "Laera",
-        "author_uid": "laera",
-        "publication_date": "2015",
-        "id": "pt_ud6.9_laera",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud6.9_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud6.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud6.9_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 5,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr25.225, ms18Ud_587, msdiv59,csp1ed18.168, csp2ed18.168, mc0.200, ms18Ud_588,ms18Ud_589,ms18Ud_590, ndp20.152, vns73, vri47.155",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "ud6.9:2.1": "anayabyasanaṁ āpajjanti → etthantare pāṭho si potthake ",
+    "ud6.9:4.3": "pajjotamivādhipātakā → … dhipātā (si, sya-all, pts-vp-pli1) "
   },
-  "bilara_root_text": {
-    "uid": "ud6.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Upātidhāvantisutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud6.9:1.1": "dr25.225, ms18Ud_587, msdiv59",
+    "ud6.9:2.1": "csp1ed18.168, csp2ed18.168, mc0.200, ms18Ud_588",
+    "ud6.9:3.1": "ms18Ud_589",
+    "ud6.9:4.1": "ms18Ud_590, ndp20.152, vns73, vri47.155"
   },
-  "bilara_translated_text": {
-    "uid": "ud6.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Hastening By ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud6.9:0.1",
+    "ud6.9:0.2",
+    "ud6.9:1.1",
+    "ud6.9:1.2",
+    "ud6.9:1.3",
+    "ud6.9:2.1",
+    "ud6.9:2.2",
+    "ud6.9:3.1",
+    "ud6.9:4.1",
+    "ud6.9:4.2",
+    "ud6.9:4.3",
+    "ud6.9:4.4",
+    "ud6.9:4.5"
   ]
 }

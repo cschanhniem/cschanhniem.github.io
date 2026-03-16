@@ -256,15 +256,43 @@ flowchart LR
 ```
 
 ## Nikaya Content Integrity
-- Treat `public/data/suttacentral-json/available.json` as file-presence only. Use `public/data/suttacentral-json/content-availability.json` whenever UI or QA needs to know whether a language has real readable content.
+- Treat `public/data/suttacentral-json/available.json` as file-presence only.
+- Treat `public/data/suttacentral-json/content-availability.json` as raw file-level readability only.
+- Treat `public/data/suttacentral-json/effective-content-availability.json` as the product-facing truth set. It folds alias children onto readable canonical blocks and is the file UI should use for badges, selectors, and collection-level coverage.
+- Treat `public/data/suttacentral-json/canonical-aliases.json` as the route-to-canonical map for fallback loading.
 - `src/data/nikaya-improved/vi/*.ts` is the current home of curated manual 2026 Vietnamese translations. These files are editorial content, not raw mirrors of SuttaCentral, and should read like deliberate modern Vietnamese prose.
+- `scripts/generate-nikaya-index.mjs` must generate one index row per local `file id`, not per `suttaplex.uid`. Otherwise the first single route inside a grouped range can vanish from the library and SEO inventory.
+- `scripts/generate-nikaya-index.mjs` must treat blank titles as missing metadata. Do not stop at a Vietnamese shell with `translated_title: null` or `translation.title: ''` if the English file or Bilara title segment still contains the real title.
+- When top-level metadata is blank, extract the title from the Bilara `sutta-title` segment. Use `html_text` plus `translation_text` for the reader-facing title, and use `root_text` only as a Pali-title fallback when it is meaningful.
+- Natural ID ordering matters. Do not use `parseFloat` on composite IDs such as `sn1.10` or `an1.11-20`; use token-aware numeric sorting instead.
+- Route normalization must preserve meaningful punctuation in Nikaya IDs. `sn12.72` and `dhp1-20` are canonical route IDs, not strings to compact into `sn1272` or `dhp120`.
 - Bilara English payloads from `/api/bilarasuttas` are template-based. `html_text` contains one `{}` placeholder per segment and must be composed with `translation_text` before rendering.
+- The remote Bilara fallback in `src/lib/suttacentralApi.ts` also needs token-aware segment sorting. Never sort segment keys like `1.1`, `1.2`, `1.10` with `parseFloat`, or remote fallback prose can arrive out of order.
 - For `SN`, and likely other peyyala-heavy collections, do not assume every detail route is a single numeric UID. The library index can contain grouped range IDs such as `sn12.72-81`, and the fetch pass must ingest those exact IDs as first-class local files.
+- Many `SN`, `AN`, and `KN` local files are alias files where `suttaplex.uid !== file id`. Treat these as a real data-shape concern, not a parsing bug.
 - Bilara may respond with HTTP `200` and a body like `{"msg":"Not Found"}` for missing English routes. Treat that as absent content, not a success.
 - `KN` detail routes use book-specific prefixes such as `kp`, `dhp`, `ud`, `iti`, and `snp`. Any route inference or local file resolver that only keys off `dn|mn|sn|an|kn` prefixes is incomplete.
 - Current sampled `KN` local JSON is metadata-only. Do not mark `KN` as content-complete unless the files actually contain readable body text or segment maps.
+- `npm run audit:nikaya-originals` is the canonical audit for original layers. It distinguishes file presence, readable content, alias UID drift, alias-target validity, alias-range validity, range completeness inside grouped canonicals, route-title parity, Pali-title parity, and whether a readable Vietnamese source is truly Minh Châu or only a mislabeled placeholder.
+- The same audit also distinguishes topology defects from semantic duplication. `SN` and `AN` currently index both grouped canonicals and their child aliases, while `KN` has child aliases for Dhammapada ranges without indexing the grouped canonicals.
+- `Alias range violations` and `range completeness violations` should both stay at `0`. If a grouped canonical such as `sn12.72-81` or `dhp1-20` is missing any child route or contains an unexpected extra child, treat that as a topology defect even if the canonical itself exists.
+- Run `npm run audit:nikaya-coverage` when you need the product-facing truth set by canonical block. It tells you which canonical blocks are fully readable in both languages, which are missing only English, which are missing only Vietnamese, which rely on canonical fallback, and which have missing canonical targets.
+- Run `npm run audit:nikaya-master` when you want one consolidated report that merges structure, provenance, topology, and canonical-block coverage into a single per-collection summary.
+- In `KN`, many files named `*_vi_minh_chau.json` are not usable Minh Châu content. Some resolve only to metadata, and a large grouped subset points to `phantuananh` in `suttaplex.translations`. Do not count those as Minh Châu coverage unless the file is both readable and source-matched.
+- The `KN` grouped Dhammapada canonicals such as `dhp1-20` and `dhp21-32` are now indexed locally. Their English can be loaded directly on the grouped route and inherited by the child `dhp*` routes through `canonical-aliases.json`.
+- `npm run audit:nikaya` now uses `effective-content-availability.json`, so its totals reflect what a reader can actually open from the current UI, not just which single JSON files contain raw text on their own.
+- `npm run audit:nikaya-remote` probes the official SuttaCentral APIs for every canonical coverage gap and classifies each one as `readable`, `metadata-only`, `not found`, `http error`, or `network error`. Use it before concluding that a local gap is truly upstream.
+- Nikaya alias routes often need local metadata fallback even when remote `suttaplex` exists. For routes such as `sn12.72` and `dhp1`, prefer the child row in `nikaya_index.json` for `uid`, acronym formatting, titles, and blurb when grouped canonical JSON or remote metadata is blank.
+- The public Nikaya library should not double-list grouped canonical fallback rows such as `sn12.72-81` or `dhp1-20`. Keep them in the raw index for fallback resolution and audits, but hide them from the visible library list and user-facing collection totals.
+- Apply the same rule to SEO. Grouped canonical fallback rows should keep working as direct routes, but they must stay off the indexable surface: no sitemap entry, and `noindex,nofollow` in both static HTML and runtime head tags.
+- When remote audit proves a language layer is readable upstream but still missing locally, use `node scripts/fetch-all-nikayas.mjs repair <collection> <en|vi>`. That mode refetches only files that still lack curated readable content and skips child alias routes already satisfied by a canonical fallback.
+- After the current repair pass, `KN` is English-complete on the public surface. Remaining `KN` deficits are now entirely Vietnamese provenance and manual 2026 coverage, not English ingestion.
 - Do not mark a Nikaya version as selectable based only on SuttaCentral metadata. If the local rendered content is absent, disable the option and fall back to SuttaCentral as an external link only.
+- The Nikaya detail selector is intentionally curated to three choices only: `Tiếng Việt - Thích Minh Châu`, `Tiếng Anh - Bhikkhu Sujato`, and `Tiếng Việt - Nhập Lưu 2026`. Do not surface other languages or author variants in the UI unless product scope changes.
+- `npm run audit:nikaya` derives manual 2026 coverage from `src/data/nikaya-improved/vi/*.ts`. Preserve dotted IDs when normalizing filenames such as `sn-56-11.ts`, or the audit will silently undercount curated translations.
 - For collection triad audits, run `npm run audit:nikaya -- <dn|mn|sn|an|kn>`. Keep `npm run audit:nikaya-dn` only as a DN shortcut.
+- For structural audits, run `npm run audit:nikaya-integrity` before trusting collection totals or SEO route counts.
+- For provenance and readability audits of the original English plus Minh Châu layers, run `npm run audit:nikaya-originals [dn|mn|sn|an|kn]`.
 - When authoring manual 2026 translations, keep the source argument intact, trim repetition when it only echoes earlier stock passages, and make the Vietnamese readable aloud without flattening the doctrine.
 
 ```mermaid
@@ -272,12 +300,16 @@ stateDiagram-v2
     [*] --> FileFetched
     FileFetched --> GroupedIdsResolved
     GroupedIdsResolved --> ContentVerified
-    ContentVerified --> ManifestPublished
+    ContentVerified --> OriginalLayersAudited
+    OriginalLayersAudited --> MetadataParityAudited
+    MetadataParityAudited --> ManifestPublished
     ManifestPublished --> VersionSelectable
     VersionSelectable --> RenderReady
     FileFetched --> FileFetched: metadata only, refetch
     GroupedIdsResolved --> FileFetched: grouped range missing locally
     ContentVerified --> FileFetched: Bilara template mismatch
+    OriginalLayersAudited --> FileFetched: Minh Chau provenance unresolved
+    MetadataParityAudited --> GroupedIdsResolved: alias target missing from index
     RenderReady --> VersionSelectable: local content removed
 ```
 
@@ -286,8 +318,11 @@ sequenceDiagram
     participant Fetcher as fetch-all-nikayas
     participant SC as SuttaCentral Bilara
     participant JSON as *_en_sujato.json
-    participant Manifest as content-availability.json
+    participant RawManifest as content-availability.json
+    participant EffectiveManifest as effective-content-availability.json
+    participant Alias as canonical-aliases.json
     participant Index as nikaya_index.json
+    participant Audit as audit-nikaya-originals
     participant Detail as NikayaDetail
     participant Local as suttacentralLocal
 
@@ -296,12 +331,24 @@ sequenceDiagram
     Fetcher->>Index: read grouped range IDs such as sn12.72-81
     Index->>Fetcher: supplemental route list
     Fetcher->>JSON: save one sutta per language file
-    Fetcher->>Manifest: publish readable-content map
-    Detail->>Manifest: check selectable versions
+    Fetcher->>Alias: publish child -> canonical fallback map
+    JSON->>Audit: expose file id, canonical uid, titles, nav, and source metadata
+    Audit->>RawManifest: verify raw readable EN and raw readable Minh Chau VI
+    Audit->>Index: verify alias targets, title parity, and canonical prev/next continuity
+    Fetcher->>EffectiveManifest: publish product-facing readable-content map
+    EffectiveManifest->>Detail: expose reader-visible version availability
+    EffectiveManifest->>Library: expose reader-visible coverage totals
+    Library->>Alias: hide grouped canonical fallback rows from the public list
+    BuildScript->>Alias: derive grouped canonical fallback rows
+    BuildScript->>BuildScript: mark grouped fallback rows as noindex
+    Detail->>EffectiveManifest: check curated selector availability
+    Detail->>Alias: resolve grouped canonical fallback when a child route has no own readable file
     Detail->>Local: load local JSON
     Detail->>Local: infer KN from kp|dhp|ud|iti|snp when needed
+    Detail->>Local: merge remote suttaplex with local index fallback metadata
     Local->>Local: compose html_text with translation_text
     Local->>Detail: return rendered HTML
+    Detail->>Detail: keep only 3 curated translation choices
 ```
 
 ```mermaid
@@ -309,11 +356,26 @@ flowchart LR
     A[SuttaCentral Bilara EN] --> B[scripts/fetch-all-nikayas.mjs]
     I[nikaya_index grouped IDs] --> B
     B --> C[dn/dn1_en_sujato.json]
+    C --> N[scripts/generate-nikaya-index.mjs]
+    N --> O[nikaya_index.json with child titles]
+    O --> I
+    C --> J[scripts/audit-nikaya-originals.mjs]
+    C --> P[scripts/audit-nikaya-remote-gaps.mjs]
+    P --> Q[fetch-all repair mode]
+    Q --> C
     B --> D[content-availability.json]
+    B --> K[effective-content-availability.json]
+    B --> L[canonical-aliases.json]
+    J --> D
+    O --> G
+    O --> H
     C --> E[src/lib/suttacentralLocal.ts]
     E --> F[Bilara template composition]
-    D --> G[NikayaLibrary]
-    D --> H[NikayaDetail]
+    L --> G[NikayaLibrary grouped-route pruning]
+    L --> M[scripts/build-seo-assets.mjs noindex gating]
+    K --> G[NikayaLibrary]
+    K --> H[NikayaDetail]
+    L --> H
     F --> H
 ```
 

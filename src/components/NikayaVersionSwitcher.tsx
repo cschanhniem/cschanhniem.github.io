@@ -1,20 +1,13 @@
 // Nikaya Version Switcher Component
-// Allows users to select language and version type (original vs improved)
+// Keeps Nikaya translation choice to the curated 3-option set
 
 import { useState } from 'react'
 import { ChevronDown, Check, Globe, Sparkles } from 'lucide-react'
 import type { NikayaLanguage, NikayaVersionType } from '@/types/nikaya'
-import { NIKAYA_LANGUAGES } from '@/types/nikaya'
-
-interface VersionOption {
-    lang: NikayaLanguage
-    type: NikayaVersionType
-    author: string
-    available: boolean
-}
+import { getNikayaVersionLabel, type NikayaVersionOption } from '@/lib/nikaya-version-options'
 
 interface NikayaVersionSwitcherProps {
-    availableVersions: VersionOption[]
+    availableVersions: NikayaVersionOption[]
     selectedVersion: { lang: NikayaLanguage; type: NikayaVersionType }
     onVersionChange: (lang: NikayaLanguage, type: NikayaVersionType) => void
     comparisonMode?: boolean
@@ -34,14 +27,6 @@ export function NikayaVersionSwitcher({
 }: NikayaVersionSwitcherProps) {
     const [isOpen, setIsOpen] = useState(false)
     const [isSecondOpen, setIsSecondOpen] = useState(false)
-
-    const getVersionLabel = (lang: NikayaLanguage, type: NikayaVersionType) => {
-        const langInfo = NIKAYA_LANGUAGES[lang]
-        if (type === 'improved') {
-            return `${langInfo.nativeName} - NhậpLưu 2026`
-        }
-        return `${langInfo.nativeName} - ${langInfo.originalAuthor}`
-    }
 
     const renderVersionDropdown = (
         selectedLang: NikayaLanguage,
@@ -64,7 +49,7 @@ export function NikayaVersionSwitcher({
                         <Globe className="h-4 w-4 text-muted-foreground" />
                     )}
                     <span className="text-sm font-medium">
-                        {getVersionLabel(selectedLang, selectedType)}
+                        {getNikayaVersionLabel(selectedLang, selectedType)}
                     </span>
                 </div>
                 <ChevronDown className={`h-4 w-4 transition-transform ${isOpenState ? 'rotate-180' : ''}`} />
@@ -80,73 +65,34 @@ export function NikayaVersionSwitcher({
 
                     {/* Dropdown */}
                     <div className="absolute top-full left-0 right-0 mt-1 py-1 bg-card border border-border rounded-lg shadow-lg z-20 max-h-64 overflow-y-auto">
-                        {/* Group by language */}
-                        {(['vi', 'en', 'zh', 'es'] as NikayaLanguage[]).map(lang => {
-                            const langInfo = NIKAYA_LANGUAGES[lang]
-                            const originalVersion = availableVersions.find(v => v.lang === lang && v.type === 'original')
-                            const improvedVersion = availableVersions.find(v => v.lang === lang && v.type === 'improved')
-
-                            if (!originalVersion && !improvedVersion) return null
-
-                            return (
-                                <div key={lang} className="px-1">
-                                    <div className="px-2 py-1 text-xs text-muted-foreground font-medium">
-                                        {langInfo.nativeName}
+                        {availableVersions.map((version) => (
+                            <div key={`${version.lang}:${version.type}`} className="px-1">
+                                <button
+                                    onClick={() => {
+                                        onChange(version.lang, version.type)
+                                        setIsOpenState(false)
+                                    }}
+                                    disabled={!version.available}
+                                    className={`
+                        w-full flex items-center justify-between px-3 py-2 text-sm rounded-md
+                        ${!version.available ? 'opacity-50 cursor-not-allowed' : 'hover:bg-muted'}
+                        ${selectedLang === version.lang && selectedType === version.type ? 'bg-primary/10 text-primary' : ''}
+                      `}
+                                >
+                                    <div className="flex items-center gap-2">
+                                        {version.type === 'improved' ? (
+                                            <Sparkles className="h-3.5 w-3.5 text-primary" />
+                                        ) : (
+                                            <Globe className="h-3.5 w-3.5 text-muted-foreground" />
+                                        )}
+                                        <span>{getNikayaVersionLabel(version.lang, version.type)}</span>
                                     </div>
-
-                                    {/* Original version */}
-                                    {originalVersion && (
-                                        <button
-                                            onClick={() => {
-                                                onChange(lang, 'original')
-                                                setIsOpenState(false)
-                                            }}
-                                            disabled={!originalVersion.available}
-                                            className={`
-                        w-full flex items-center justify-between px-3 py-2 text-sm rounded-md
-                        ${!originalVersion.available ? 'opacity-50 cursor-not-allowed' : 'hover:bg-muted'}
-                        ${selectedLang === lang && selectedType === 'original' ? 'bg-primary/10 text-primary' : ''}
-                      `}
-                                        >
-                                            <div className="flex items-center gap-2">
-                                                <Globe className="h-3.5 w-3.5 text-muted-foreground" />
-                                                <span>{originalVersion.author}</span>
-                                            </div>
-                                            {selectedLang === lang && selectedType === 'original' && (
-                                                <Check className="h-4 w-4 text-primary" />
-                                            )}
-                                        </button>
-                                    )}
-
-                                    {/* Improved version */}
-                                    {improvedVersion && (
-                                        <button
-                                            onClick={() => {
-                                                onChange(lang, 'improved')
-                                                setIsOpenState(false)
-                                            }}
-                                            disabled={!improvedVersion.available}
-                                            className={`
-                        w-full flex items-center justify-between px-3 py-2 text-sm rounded-md
-                        ${!improvedVersion.available ? 'opacity-50 cursor-not-allowed' : 'hover:bg-muted'}
-                        ${selectedLang === lang && selectedType === 'improved' ? 'bg-primary/10 text-primary' : ''}
-                      `}
-                                        >
-                                            <div className="flex items-center gap-2">
-                                                <Sparkles className="h-3.5 w-3.5 text-primary" />
-                                                <span>NhậpLưu 2026</span>
-                                                {!improvedVersion.available && (
-                                                    <span className="text-xs text-muted-foreground">(Sắp có)</span>
-                                                )}
-                                            </div>
-                                            {selectedLang === lang && selectedType === 'improved' && (
-                                                <Check className="h-4 w-4 text-primary" />
-                                            )}
-                                        </button>
-                                    )}
-                                </div>
-                            )
-                        })}
+                                    {selectedLang === version.lang && selectedType === version.type ? (
+                                        <Check className="h-4 w-4 text-primary" />
+                                    ) : null}
+                                </button>
+                            </div>
+                        ))}
                     </div>
                 </>
             )}

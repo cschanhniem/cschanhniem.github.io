@@ -6,13 +6,13 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { Link2, Link2Off, Sparkles, Globe } from 'lucide-react'
 import type { NikayaLanguage, NikayaVersionType } from '@/types/nikaya'
-import { NIKAYA_LANGUAGES } from '@/types/nikaya'
+import { getNikayaVersionLabel } from '@/lib/nikaya-version-options'
 
 interface NikayaComparisonViewProps {
     leftContent: string
     rightContent: string
-    leftVersion: { lang: NikayaLanguage; type: NikayaVersionType; author: string }
-    rightVersion: { lang: NikayaLanguage; type: NikayaVersionType; author: string }
+    leftVersion: { lang: NikayaLanguage; type: NikayaVersionType }
+    rightVersion: { lang: NikayaLanguage; type: NikayaVersionType }
     fontSize?: 'small' | 'medium' | 'large'
 }
 
@@ -70,7 +70,6 @@ export function NikayaComparisonView({
     }, [syncScroll])
 
     const getVersionHeader = (version: typeof leftVersion) => {
-        const langInfo = NIKAYA_LANGUAGES[version.lang]
         return (
             <div className="flex items-center gap-2">
                 {version.type === 'improved' ? (
@@ -78,12 +77,7 @@ export function NikayaComparisonView({
                 ) : (
                     <Globe className="h-4 w-4 text-muted-foreground" />
                 )}
-                <span className="font-medium">{langInfo.nativeName}</span>
-                <span className="text-muted-foreground">-</span>
-                <span className="text-muted-foreground">{version.author}</span>
-                {version.type === 'improved' && (
-                    <span className="px-1.5 py-0.5 bg-primary/10 text-primary text-xs rounded">2026</span>
-                )}
+                <span className="font-medium">{getNikayaVersionLabel(version.lang, version.type)}</span>
             </div>
         )
     }

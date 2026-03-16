@@ -44,6 +44,62 @@ function hasContentPayload(data) {
     return false;
 }
 
+function normalizeUid(value) {
+    if (typeof value !== 'string') return null;
+    const normalized = value.trim();
+    return normalized || null;
+}
+
+function getCanonicalUid(data) {
+    return normalizeUid(data?.translation?.uid)
+        || normalizeUid(data?.root_text?.uid)
+        || normalizeUid(data?.suttaplex?.uid)
+        || normalizeUid(data?.range_uid)
+        || null;
+}
+
+function classifyViSource(data) {
+    const directEntry = [data?.translation, data?.root_text]
+        .find((entry) => entry && entry.lang === 'vi' && typeof entry.author_uid === 'string');
+
+    if (directEntry?.author_uid === 'minh_chau') {
+        return 'direct-minh-chau';
+    }
+
+    if (directEntry?.author_uid) {
+        return `direct-other:${directEntry.author_uid}`;
+    }
+
+    const viTranslations = Array.isArray(data?.suttaplex?.translations)
+        ? data.suttaplex.translations.filter((entry) => entry?.lang === 'vi')
+        : [];
+
+    if (viTranslations.some((entry) => entry?.author_uid === 'minh_chau')) {
+        return 'plex-minh-chau';
+    }
+
+    if (viTranslations.length > 0) {
+        return `plex-other:${viTranslations.map((entry) => entry?.author_uid).filter(Boolean).join('|')}`;
+    }
+
+    return 'no-vi-metadata';
+}
+
+function hasCuratedOriginalContent(data, lang) {
+    if (!hasContentPayload(data)) return false;
+
+    if (lang !== 'vi') {
+        return true;
+    }
+
+    const viSource = classifyViSource(data);
+    return viSource === 'direct-minh-chau' || viSource === 'plex-minh-chau';
+}
+
+function sortIdsNaturally(ids) {
+    return [...ids].sort((left, right) => left.localeCompare(right, undefined, { numeric: true }));
+}
+
 async function fetchSuttaData(suttaId, authorUid, lang) {
     const url = lang === 'en'
         ? `https://suttacentral.net/api/bilarasuttas/${suttaId}/${authorUid}?lang=${lang}`
@@ -95,6 +151,53 @@ function fileHasContent(filePath) {
     }
 }
 
+function fileHasCuratedOriginalContent(filePath, lang) {
+    if (!fs.existsSync(filePath)) return false;
+
+    try {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        return hasCuratedOriginalContent(data, lang);
+    } catch {
+        return false;
+    }
+}
+
+function collectAliasManifestForCollection(collection) {
+    const collectionDir = path.join(DATA_DIR, collection);
+    if (!fs.existsSync(collectionDir)) {
+        return {};
+    }
+
+    const aliasManifest = {};
+
+    for (const file of fs.readdirSync(collectionDir)) {
+        const match = file.match(/^(.*)_(vi|en)_[^_]+\.json$/);
+        if (!match) continue;
+
+        const [, id, lang] = match;
+        const filePath = path.join(collectionDir, file);
+
+        try {
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+            const canonicalUid = getCanonicalUid(data);
+
+            if (!canonicalUid || canonicalUid === id) {
+                continue;
+            }
+
+            if (!aliasManifest[id]) {
+                aliasManifest[id] = {};
+            }
+
+            aliasManifest[id][lang] = canonicalUid;
+        } catch {
+            // Ignore malformed local files here. The integrity audits will flag them.
+        }
+    }
+
+    return aliasManifest;
+}
+
 async function processSutta(id, collection) {
     const collectionDir = path.join(DATA_DIR, collection);
     ensureDir(collectionDir);
@@ -104,8 +207,8 @@ async function processSutta(id, collection) {
     const viFile = path.join(collectionDir, `${id}_vi_${TRANSLATORS.vi}.json`);
     const enFile = path.join(collectionDir, `${id}_en_${TRANSLATORS.en}.json`);
 
-    const viReady = fileHasContent(viFile);
-    const enReady = fileHasContent(enFile);
+    const viReady = fileHasCuratedOriginalContent(viFile, 'vi');
+    const enReady = fileHasCuratedOriginalContent(enFile, 'en');
 
     if (viReady && enReady) {
         // console.log(`Skipping ${id} (already exists)`);
@@ -142,6 +245,83 @@ async function processSutta(id, collection) {
     return foundAny;
 }
 
+function getCollectionIds(collection) {
+    const indexPath = path.join(DATA_DIR, 'nikaya_index.json');
+    if (!fs.existsSync(indexPath)) {
+        return [];
+    }
+
+    try {
+        const nikayaIndex = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+        return nikayaIndex
+            .filter((item) => item.collection === collection && typeof item.id === 'string')
+            .map((item) => item.id)
+            .sort((left, right) => left.localeCompare(right, undefined, { numeric: true }));
+    } catch (error) {
+        console.error(`Failed to read collection IDs for ${collection}:`, error.message);
+        return [];
+    }
+}
+
+async function repairCollectionLanguage(collection, lang) {
+    if (!['vi', 'en'].includes(lang)) {
+        throw new Error(`Unsupported repair language "${lang}". Use "vi" or "en".`);
+    }
+
+    const ids = getCollectionIds(collection);
+    if (ids.length === 0) {
+        console.log(`No IDs found for collection "${collection}".`);
+        return;
+    }
+
+    const collectionDir = path.join(DATA_DIR, collection);
+    ensureDir(collectionDir);
+    const aliasManifest = collectAliasManifestForCollection(collection);
+
+    const authorUid = TRANSLATORS[lang];
+    let repaired = 0;
+    let stillMissing = 0;
+    let skippedToCanonical = 0;
+
+    console.log(`\n=== Repairing ${collection.toUpperCase()} ${lang.toUpperCase()} originals (${ids.length} route IDs) ===`);
+
+    for (const id of ids) {
+        const filePath = path.join(collectionDir, `${id}_${lang}_${authorUid}.json`);
+        const ready = fileHasCuratedOriginalContent(filePath, lang);
+
+        if (ready) {
+            continue;
+        }
+
+        const canonicalUid = aliasManifest[id]?.[lang];
+        if (canonicalUid && canonicalUid !== id) {
+            const canonicalFilePath = path.join(collectionDir, `${canonicalUid}_${lang}_${authorUid}.json`);
+            if (fileHasCuratedOriginalContent(canonicalFilePath, lang)) {
+                skippedToCanonical++;
+                continue;
+            }
+        }
+
+        process.stdout.write(`Repairing ${id} (${lang})... `);
+        const result = await fetchSuttaData(id, authorUid, lang);
+
+        if (result.status === 200 && result.data && hasCuratedOriginalContent(result.data, lang)) {
+            saveJsonFile(filePath, result.data);
+            repaired++;
+            console.log('✅');
+        } else {
+            stillMissing++;
+            console.log('❌');
+        }
+
+        await new Promise(r => setTimeout(r, DELAY_MS));
+    }
+
+    console.log(`Repaired ${repaired} ${lang.toUpperCase()} files for ${collection.toUpperCase()}.`);
+    console.log(`Skipped ${skippedToCanonical} ${lang.toUpperCase()} child routes already covered by canonical fallback.`);
+    console.log(`Still missing or unreadable after repair: ${stillMissing}.`);
+}
+
 function getGroupedIdsForCollection(collection) {
     const indexPath = path.join(DATA_DIR, 'nikaya_index.json');
     if (!fs.existsSync(indexPath)) {
@@ -160,14 +340,34 @@ function getGroupedIdsForCollection(collection) {
     }
 }
 
+function getDerivedGroupedIdsForCollection(collection) {
+    const aliasManifest = collectAliasManifestForCollection(collection);
+    const groupedIds = new Set();
+
+    for (const languages of Object.values(aliasManifest)) {
+        for (const canonicalUid of Object.values(languages)) {
+            if (typeof canonicalUid === 'string' && canonicalUid.includes('-')) {
+                groupedIds.add(canonicalUid);
+            }
+        }
+    }
+
+    return sortIdsNaturally(groupedIds);
+}
+
 async function fetchGroupedSuttas(collection) {
-    const groupedIds = getGroupedIdsForCollection(collection);
-    if (groupedIds.length === 0) {
+    const groupedIds = new Set([
+        ...getGroupedIdsForCollection(collection),
+        ...getDerivedGroupedIdsForCollection(collection),
+    ]);
+
+    const sortedGroupedIds = sortIdsNaturally(groupedIds);
+    if (sortedGroupedIds.length === 0) {
         return;
     }
 
-    console.log(`\n--- ${collection.toUpperCase()} grouped range IDs (${groupedIds.length}) ---`);
-    for (const id of groupedIds) {
+    console.log(`\n--- ${collection.toUpperCase()} grouped range IDs (${sortedGroupedIds.length}) ---`);
+    for (const id of sortedGroupedIds) {
         await processSutta(id, collection);
         await new Promise(r => setTimeout(r, DELAY_MS));
     }
@@ -266,6 +466,8 @@ async function generateManifest() {
     console.log('\nGenerating manifest...');
     const manifest = {};
     const contentManifest = {};
+    const effectiveContentManifest = {};
+    const aliasManifest = {};
 
     const collections = ['dn', 'mn', 'sn', 'an', 'kn'];
     for (const collection of collections) {
@@ -286,20 +488,59 @@ async function generateManifest() {
                 if (!manifest[id].includes(lang)) manifest[id].push(lang);
 
                 const filePath = path.join(dir, file);
-                if (fileHasContent(filePath)) {
+                const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+                const rawReadable = hasContentPayload(data);
+                const effectiveReadable = hasCuratedOriginalContent(data, lang);
+                const canonicalUid = getCanonicalUid(data);
+
+                if (rawReadable) {
                     if (!contentManifest[id]) contentManifest[id] = [];
                     if (!contentManifest[id].includes(lang)) contentManifest[id].push(lang);
+                }
+
+                if (effectiveReadable) {
+                    if (!effectiveContentManifest[id]) effectiveContentManifest[id] = [];
+                    if (!effectiveContentManifest[id].includes(lang)) effectiveContentManifest[id].push(lang);
+                }
+
+                if (canonicalUid && canonicalUid !== id) {
+                    if (!aliasManifest[id]) aliasManifest[id] = {};
+                    aliasManifest[id][lang] = canonicalUid;
                 }
             }
         });
     }
 
+    for (const [id, languages] of Object.entries(aliasManifest)) {
+        for (const [lang, canonicalUid] of Object.entries(languages)) {
+            const canonicalLangs = effectiveContentManifest[canonicalUid] || [];
+            if (!canonicalLangs.includes(lang)) continue;
+
+            if (!effectiveContentManifest[id]) effectiveContentManifest[id] = [];
+            if (!effectiveContentManifest[id].includes(lang)) {
+                effectiveContentManifest[id].push(lang);
+            }
+        }
+    }
+
+    for (const dictionary of [manifest, contentManifest, effectiveContentManifest]) {
+        for (const key of Object.keys(dictionary)) {
+            dictionary[key] = sortIdsNaturally(dictionary[key]);
+        }
+    }
+
     const manifestPath = path.join(DATA_DIR, 'available.json');
     const contentManifestPath = path.join(DATA_DIR, 'content-availability.json');
+    const effectiveContentManifestPath = path.join(DATA_DIR, 'effective-content-availability.json');
+    const aliasManifestPath = path.join(DATA_DIR, 'canonical-aliases.json');
     saveJsonFile(manifestPath, manifest);
     saveJsonFile(contentManifestPath, contentManifest);
+    saveJsonFile(effectiveContentManifestPath, effectiveContentManifest);
+    saveJsonFile(aliasManifestPath, aliasManifest);
     console.log(`Manifest saved to ${manifestPath}`);
     console.log(`Content manifest saved to ${contentManifestPath}`);
+    console.log(`Effective content manifest saved to ${effectiveContentManifestPath}`);
+    console.log(`Canonical alias manifest saved to ${aliasManifestPath}`);
 }
 
 // KN Fetching Utilities
@@ -357,14 +598,62 @@ async function fetchKN() {
 async function main() {
     const args = process.argv.slice(2);
     const target = args[0];
+    const groupedCollection = args[1];
+    const repairLang = args[2];
 
     if (!target) {
-        console.log('Usage: node fetch-all-nikayas.mjs <dn|mn|sn|an|kn|all|scan>');
+        console.log('Usage: node fetch-all-nikayas.mjs <dn|mn|sn|an|kn|all|scan|grouped|repair> [dn|mn|sn|an|kn] [vi|en]');
         process.exit(1);
     }
 
     if (target === 'scan') {
         await generateManifest();
+        return;
+    }
+
+    if (target === 'grouped') {
+        if (groupedCollection && !['dn', 'mn', 'sn', 'an', 'kn'].includes(groupedCollection)) {
+            console.error(`Unsupported grouped collection "${groupedCollection}". Use one of: dn, mn, sn, an, kn`);
+            process.exit(1);
+        }
+
+        const collections = groupedCollection ? [groupedCollection] : ['dn', 'mn', 'sn', 'an', 'kn'];
+        for (const collection of collections) {
+            await fetchGroupedSuttas(collection);
+        }
+
+        await generateManifest();
+
+        console.log('\nGenerating detailed index for library...');
+        try {
+            execSync('node scripts/generate-nikaya-index.mjs', { stdio: 'inherit', cwd: process.cwd() });
+            console.log('Detailed index generated.');
+        } catch (e) {
+            console.error('Failed to generate detailed index:', e.message);
+        }
+
+        console.log('\nGrouped fetch complete!');
+        return;
+    }
+
+    if (target === 'repair') {
+        if (!groupedCollection || !['dn', 'mn', 'sn', 'an', 'kn'].includes(groupedCollection) || !repairLang) {
+            console.error('Usage: node fetch-all-nikayas.mjs repair <dn|mn|sn|an|kn> <vi|en>');
+            process.exit(1);
+        }
+
+        await repairCollectionLanguage(groupedCollection, repairLang);
+        await generateManifest();
+
+        console.log('\nGenerating detailed index for library...');
+        try {
+            execSync('node scripts/generate-nikaya-index.mjs', { stdio: 'inherit', cwd: process.cwd() });
+            console.log('Detailed index generated.');
+        } catch (e) {
+            console.error('Failed to generate detailed index:', e.message);
+        }
+
+        console.log('\nRepair complete!');
         return;
     }
 

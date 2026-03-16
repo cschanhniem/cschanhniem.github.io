@@ -1,366 +1,69 @@
 {
+  "html_text": {
+    "ud1.7:0.1": "<article id='ud1.7'><header><ul><li class='division'>{}</li></ul>",
+    "ud1.7:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud1.7:1.1": "<p><span class='evam'>{}</span>",
+    "ud1.7:1.2": "{}",
+    "ud1.7:1.3": "{}",
+    "ud1.7:1.4": "{}",
+    "ud1.7:1.5": "{}</p>",
+    "ud1.7:2.1": "<p>{}</p>",
+    "ud1.7:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud1.7:3.2": "<span class='verse-line'>{}</span>",
+    "ud1.7:3.3": "<span class='verse-line'>{}</span>",
+    "ud1.7:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud1.7:3.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud1.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ajakalāpakasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Mahākassapa ",
-      "uid": "ud1.6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Saṅgāmaji ",
-      "uid": "ud1.8"
-    }
+    "ud1.7:0.1": "Udāna 1.7 ",
+    "ud1.7:0.2": "Ajakalāpakasutta ",
+    "ud1.7:1.1": "Evaṁ me sutaṁ—",
+    "ud1.7:1.2": "ekaṁ samayaṁ bhagavā pāvāyaṁ viharati ajakalāpake cetiye, ajakalāpakassa yakkhassa bhavane. ",
+    "ud1.7:1.3": "Tena kho pana samayena bhagavā rattandhakāratimisāyaṁ abbhokāse nisinno hoti; devo ca ekamekaṁ phusāyati. ",
+    "ud1.7:1.4": "Atha kho ajakalāpako yakkho bhagavato bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre tikkhattuṁ “akkulo pakkulo”ti akkulapakkulikaṁ akāsi: ",
+    "ud1.7:1.5": "“eso te, samaṇa, pisāco”ti. ",
+    "ud1.7:2.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud1.7:3.1": "“Yadā sakesu dhammesu, ",
+    "ud1.7:3.2": "pāragū hoti brāhmaṇo; ",
+    "ud1.7:3.3": "Atha etaṁ pisācañca, ",
+    "ud1.7:3.4": "pakkulañcātivattatī”ti. ",
+    "ud1.7:3.5": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "ud1.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "At Ajakalāpaka ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Mahākassapa ",
-      "uid": "ud1.6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Saṅgāmaji ",
-      "uid": "ud1.8"
-    }
+  "translation_text": {
+    "ud1.7:0.1": "Heartfelt Sayings 1.7 ",
+    "ud1.7:0.2": "At Ajakalāpaka ",
+    "ud1.7:1.1": "So I have heard. ",
+    "ud1.7:1.2": "At one time the Buddha was staying in Pāvā at the Ajakalāpaka Shrine, the haunt of the native spirit Ajakalāpaka. ",
+    "ud1.7:1.3": "Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. ",
+    "ud1.7:1.4": "Then Ajakalāpaka, wanting to make the Buddha feel fear, terror, and goosebumps, approached him, and while not far away yelled three times, “Grr! Arrgh!” Then he added, ",
+    "ud1.7:1.5": "“Now that’s a goblin for you, ascetic!” ",
+    "ud1.7:2.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud1.7:3.1": "“When a brahmin gets over ",
+    "ud1.7:3.2": "their own issues, ",
+    "ud1.7:3.3": "they transcend this goblin ",
+    "ud1.7:3.4": "and his grunts.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 1.7",
-    "volpages": " PTS 5",
-    "alt_volpages": null,
-    "uid": "ud1.7",
-    "blurb": "An awakened person has gone beyond fear.",
-    "difficulty": null,
-    "original_title": "Ajakalāpakasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "At Ajakalāpaka ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud1.7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "In Ajakalāpaka ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud1.7_translation-en-sujato",
-        "segmented": true,
-        "title": "At Ajakalāpaka ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud1.7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud1.7_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Demon Ađakalāpaka ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud1.7_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud1.7_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about Pāvā"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2009",
-        "id": "es_ud1.7_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud1.7_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud1.7_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud1.7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud1.7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_ud1.7_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud1.7_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud1.7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Gabriel N. Laera",
-        "author_short": "Laera",
-        "author_uid": "laera",
-        "publication_date": "2015",
-        "id": "pt_ud1.7_laera",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Алокананда бхиккху",
-        "author_short": "Алокананда",
-        "author_uid": "alokananda",
-        "publication_date": null,
-        "id": "ru_ud1.7_alokananda",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud1.7_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud1.7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud1.7_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 6,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck25.68, csp1ed18.82, csp2ed18.82, ms18Ud_33, msdiv7, ndp20.68, pts-vp-pli5, sya25.79, vri47.74,ms18Ud_34,ms18Ud_35, vns7",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "ud1.7:1.2": "pāvāyaṁ → pāṭaliyaṁ (pts-vp-pli1) "
   },
-  "bilara_root_text": {
-    "uid": "ud1.7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Ajakalāpakasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud1.7:1.1": "cck25.68, csp1ed18.82, csp2ed18.82, ms18Ud_33, msdiv7, ndp20.68, pts-vp-pli5, sya25.79, vri47.74",
+    "ud1.7:2.1": "ms18Ud_34",
+    "ud1.7:3.1": "ms18Ud_35, vns7"
   },
-  "bilara_translated_text": {
-    "uid": "ud1.7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "At Ajakalāpaka ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud1.7:0.1",
+    "ud1.7:0.2",
+    "ud1.7:1.1",
+    "ud1.7:1.2",
+    "ud1.7:1.3",
+    "ud1.7:1.4",
+    "ud1.7:1.5",
+    "ud1.7:2.1",
+    "ud1.7:3.1",
+    "ud1.7:3.2",
+    "ud1.7:3.3",
+    "ud1.7:3.4",
+    "ud1.7:3.5"
   ]
 }

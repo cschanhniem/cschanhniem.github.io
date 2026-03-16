@@ -7,6 +7,11 @@
     "dev": "vite",
     "build": "tsc -b && vite build && node scripts/build-seo-assets.mjs",
     "lint": "eslint .",
+    "audit:nikaya-integrity": "node scripts/audit-nikaya-integrity.mjs",
+    "audit:nikaya-originals": "node scripts/audit-nikaya-originals.mjs",
+    "audit:nikaya-coverage": "node scripts/audit-nikaya-coverage-matrix.mjs",
+    "audit:nikaya-master": "node scripts/audit-nikaya-master.mjs",
+    "audit:nikaya-remote": "node scripts/audit-nikaya-remote-gaps.mjs",
     "audit:nikaya": "node scripts/audit-nikaya-triad.mjs",
     "audit:nikaya-dn": "node scripts/audit-nikaya-triad.mjs dn",
     "preview": "vite preview"

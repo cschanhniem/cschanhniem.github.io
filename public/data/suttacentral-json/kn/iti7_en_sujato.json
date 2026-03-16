@@ -1,353 +1,79 @@
 {
+  "html_text": {
+    "iti7:0.1": "<article id='iti7'><header><ul><li class='division'>{}</li>",
+    "iti7:0.2": "<li class='nipata'>{}</li>",
+    "iti7:0.3": "<li class='vagga'>{}</li></ul>",
+    "iti7:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+    "iti7:1.1": "<p>{}</p>",
+    "iti7:2.1": "<p>{}",
+    "iti7:2.2": "{}</p>",
+    "iti7:2.3": "<p>{}",
+    "iti7:2.4": "{}</p>",
+    "iti7:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "iti7:3.2": "<span class='verse-line'>{}</span>",
+    "iti7:3.3": "<span class='verse-line'>{}</span>",
+    "iti7:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "iti7:4.1": "<p>{}</p>",
+    "iti7:4.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "iti7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sabbapariññāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Conceit ",
-      "uid": "iti6"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Complete Understanding of Conceit ",
-      "uid": "iti8"
-    }
+    "iti7:0.1": "Itivuttaka 7 ",
+    "iti7:0.2": "Ekakanipāta ",
+    "iti7:0.3": "Paṭhamavagga ",
+    "iti7:0.4": "Sabbapariññāsutta ",
+    "iti7:1.1": "Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ: ",
+    "iti7:2.1": "“Sabbaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. ",
+    "iti7:2.2": "Sabbañca kho, bhikkhave, abhijānaṁ parijānaṁ tattha cittaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti. ",
+    "iti7:2.3": "Etamatthaṁ bhagavā avoca. ",
+    "iti7:2.4": "Tatthetaṁ iti vuccati: ",
+    "iti7:3.1": "“Yo sabbaṁ sabbato ñatvā, ",
+    "iti7:3.2": "sabbatthesu na rajjati; ",
+    "iti7:3.3": "Sa ve sabbapariññā so, ",
+    "iti7:3.4": "sabbadukkhamupaccagā”ti. ",
+    "iti7:4.1": "Ayampi attho vutto bhagavatā, iti me sutanti. ",
+    "iti7:4.2": "Sattamaṁ. "
   },
-  "translation": {
-    "uid": "iti7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Complete Understanding of All ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Conceit ",
-      "uid": "iti6"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Complete Understanding of Conceit ",
-      "uid": "iti8"
-    }
+  "translation_text": {
+    "iti7:0.1": "So It Was Said 7 ",
+    "iti7:0.2": "The Book of the Ones ",
+    "iti7:0.3": "Chapter One ",
+    "iti7:0.4": "Complete Understanding of All ",
+    "iti7:1.1": "This was said by the Buddha, the Perfected One: that is what I heard. ",
+    "iti7:2.1": "“Mendicants, without directly knowing and completely understanding the all, without dispassion for it and giving it up, you can’t end suffering. ",
+    "iti7:2.2": "By directly knowing and completely understanding the all, having dispassion for it and giving it up, you can end suffering.” ",
+    "iti7:2.3": "That is what the Buddha said. ",
+    "iti7:2.4": "On this it is said: ",
+    "iti7:3.1": "“Those who know the all as all, ",
+    "iti7:3.2": "are not attracted to anything. ",
+    "iti7:3.3": "They completely understand all, ",
+    "iti7:3.4": "and have risen above all suffering.” ",
+    "iti7:4.1": "This too is a matter that was spoken by the Blessed One: that is what I heard. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Iti 7",
-    "volpages": " PTS 4",
-    "alt_volpages": null,
-    "uid": "iti7",
-    "blurb": "When the mind, cleansed of passion for the All, abandons it, you are capable of putting an end to suffering.",
-    "difficulty": null,
-    "original_title": "Sabbapariññāsutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Complete Understanding of All ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "iti7_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Vollständiges Verstehen von allem ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2020",
-        "id": "iti7_translation-en-sujato",
-        "segmented": true,
-        "title": "Complete Understanding of All ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2023",
-        "id": "iti7_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Visiškas visko supratimas",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "iti7_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_iti7_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "cs",
-        "lang_name": "Čeština",
-        "is_root": false,
-        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
-        "author_short": "Gavésakó …",
-        "author_uid": "gavesako-chromovsky",
-        "publication_date": null,
-        "id": "cs_iti7_gavesako-chromovsky",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1922",
-        "id": "de_iti7_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "John D. Ireland",
-        "author_short": "Ireland",
-        "author_uid": "ireland",
-        "has_comment": false,
-        "id": "en_iti7_ireland",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1997",
-        "segmented": false,
-        "volpage": null,
-        "title": "Understanding the All"
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Canonpali.org",
-        "author_short": "CPO",
-        "author_uid": "canonpaliorg",
-        "publication_date": null,
-        "id": "fr_iti7_canonpaliorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_iti7_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_iti7_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_iti7_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_iti7_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_iti7_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_iti7_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_iti7_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_iti7_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_iti7_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 2,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr25.264, ms18It_32,ms18It_33, pts-vp-pli4,bj24.324, csp1ed18.198, csp2ed18.198, ms18It_34, vns7,ms18It_35",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "iti7:3.3": "sabbapariññā → sabbaṁ pariññāya (bj); sabbaṁ pariññā (sya-all, pts-vp-pli1) ",
+    "iti7:3.4": "sabbadukkhamupaccagā”ti → sabbaṁ dukkhaṁ upaccagāti (sya-all); sabbadukkhaṁ upaccagāti (pts-vp-pli1) "
   },
-  "bilara_root_text": {
-    "uid": "iti7",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sabbapariññāsutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "iti7:1.1": "dr25.264, ms18It_32",
+    "iti7:2.1": "ms18It_33, pts-vp-pli4",
+    "iti7:3.1": "bj24.324, csp1ed18.198, csp2ed18.198, ms18It_34, vns7",
+    "iti7:4.1": "ms18It_35"
   },
-  "bilara_translated_text": {
-    "uid": "iti7",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Complete Understanding of All ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "ireland"
+  "keys_order": [
+    "iti7:0.1",
+    "iti7:0.2",
+    "iti7:0.3",
+    "iti7:0.4",
+    "iti7:1.1",
+    "iti7:2.1",
+    "iti7:2.2",
+    "iti7:2.3",
+    "iti7:2.4",
+    "iti7:3.1",
+    "iti7:3.2",
+    "iti7:3.3",
+    "iti7:3.4",
+    "iti7:4.1",
+    "iti7:4.2"
   ]
 }

@@ -1,366 +1,90 @@
 {
+  "comment_text": {
+    "ud1.5:1.3": "A similar list of great disciples is found in the prelude to the Ānāpānassatisutta at <a href='https://suttacentral.net/mn118/en/sujato#1.3'>MN 118:1.3</a>. The only difference is that there the final person is Ānanda rather than Nanda. It is tempting to follow the BJT and PTS in reading Ānanda here as well, but the purpose of this sutta is to extol all these monks as “brahmins”, which the sutta itself explains as meaning “with fetters ended”, namely arahants. But at this time, Ānanda was still a stream-enterer (<a href='https://suttacentral.net/dn16/en/sujato#5.13.2'>DN 16:5.13.2</a>), and would only attain arahantship after the Buddha’s passing away (<a href='https://suttacentral.net/pli-tv-kd21/en/sujato#1.6.1'>Kd 21:1.6.1</a>). Nanda, on the other hand, was indeed an arahant (<a href='https://suttacentral.net/ud3.2/en/sujato#14.3'>Ud 3.2:14.3</a>). "
+  },
+  "html_text": {
+    "ud1.5:0.1": "<article id='ud1.5'><header><ul><li class='division'>{}</li></ul>",
+    "ud1.5:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud1.5:1.1": "<p><span class='evam'>{}</span>",
+    "ud1.5:1.2": "{}",
+    "ud1.5:1.3": "{}</p>",
+    "ud1.5:2.1": "<p>{}",
+    "ud1.5:2.2": "{}",
+    "ud1.5:2.3": "{}",
+    "ud1.5:2.4": "{}",
+    "ud1.5:2.5": "{}",
+    "ud1.5:2.6": "{}</p>",
+    "ud1.5:3.1": "<p>{}</p>",
+    "ud1.5:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud1.5:4.2": "<span class='verse-line'>{}</span>",
+    "ud1.5:4.3": "<span class='verse-line'>{}</span>",
+    "ud1.5:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud1.5:4.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud1.5",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Brāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Mystic Syllable Huṁ ",
-      "uid": "ud1.4"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Mahākassapa ",
-      "uid": "ud1.6"
-    }
+    "ud1.5:0.1": "Udāna 1.5 ",
+    "ud1.5:0.2": "Brāhmaṇasutta ",
+    "ud1.5:1.1": "Evaṁ me sutaṁ—",
+    "ud1.5:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "ud1.5:1.3": "Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno āyasmā ca mahākassapo āyasmā ca mahākaccāno āyasmā ca mahākoṭṭhiko āyasmā ca mahākappino āyasmā ca mahācundo āyasmā ca anuruddho āyasmā ca revato āyasmā ca nando yena bhagavā tenupasaṅkamiṁsu. ",
+    "ud1.5:2.1": "Addasā kho bhagavā te āyasmante dūratova āgacchante; ",
+    "ud1.5:2.2": "disvāna bhikkhū āmantesi: ",
+    "ud1.5:2.3": "“ete, bhikkhave, brāhmaṇā āgacchanti; ",
+    "ud1.5:2.4": "ete, bhikkhave, brāhmaṇā āgacchantī”ti. ",
+    "ud1.5:2.5": "Evaṁ vutte, aññataro brāhmaṇajātiko bhikkhu bhagavantaṁ etadavoca: ",
+    "ud1.5:2.6": "“kittāvatā nu kho, bhante, brāhmaṇo hoti, katame ca pana brāhmaṇakaraṇā dhammā”ti? ",
+    "ud1.5:3.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud1.5:4.1": "“Bāhitvā pāpake dhamme, ",
+    "ud1.5:4.2": "ye caranti sadā satā; ",
+    "ud1.5:4.3": "Khīṇasaṁyojanā buddhā, ",
+    "ud1.5:4.4": "te ve lokasmi brāhmaṇā”ti. ",
+    "ud1.5:4.5": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "ud1.5",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Brahmin ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Mystic Syllable Huṁ ",
-      "uid": "ud1.4"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Mahākassapa ",
-      "uid": "ud1.6"
-    }
+  "translation_text": {
+    "ud1.5:0.1": "Heartfelt Sayings 1.5 ",
+    "ud1.5:0.2": "The Brahmin ",
+    "ud1.5:1.1": "So I have heard. ",
+    "ud1.5:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "ud1.5:1.3": "Now at that time a number of senior monks approached the Buddha—Venerables Sāriputta, Mahāmoggallāna, Mahākassapa, Mahākaccāna, Mahākoṭṭhita, Mahākappina, Mahācunda, Anuruddha, Revata, and Nanda. ",
+    "ud1.5:2.1": "The Buddha saw them coming off in the distance, ",
+    "ud1.5:2.2": "and addressed the mendicants: ",
+    "ud1.5:2.3": "“These, mendicants, are brahmins coming! ",
+    "ud1.5:2.4": "These are brahmins coming!” ",
+    "ud1.5:2.5": "When he said this, a certain mendicant who was brahmin by birth asked the Buddha, ",
+    "ud1.5:2.6": "“Sir, how do you define a brahmin? And what are the things that make one a brahmin?” ",
+    "ud1.5:3.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud1.5:4.1": "“Having banished bad qualities, ",
+    "ud1.5:4.2": "those who live always mindful, ",
+    "ud1.5:4.3": "with fetters ended, awakened, ",
+    "ud1.5:4.4": "they are the world’s true brahmins.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 1.5",
-    "volpages": " PTS 4",
-    "alt_volpages": null,
-    "uid": "ud1.5",
-    "blurb": "The Buddha redefines the term “brahmin” to mean anyone, regardless of birth, who is awakened.",
-    "difficulty": null,
-    "original_title": "Brāhmaṇasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Brahmin ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud1.5_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Der Brahmane ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud1.5_translation-en-sujato",
-        "segmented": true,
-        "title": "The Brahmin ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud1.5_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud1.5_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Brahman ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud1.5_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud1.5_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about the Elders"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Isidatta",
-        "author_short": "Isidatta",
-        "author_uid": "isidatta",
-        "publication_date": "2009",
-        "id": "es_ud1.5_isidatta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud1.5_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud1.5_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud1.5_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud1.5_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_ud1.5_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud1.5_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud1.5_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Gabriel N. Laera",
-        "author_short": "Laera",
-        "author_uid": "laera",
-        "publication_date": "2015",
-        "id": "pt_ud1.5_laera",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Алокананда бхиккху",
-        "author_short": "Алокананда",
-        "author_uid": "alokananda",
-        "publication_date": null,
-        "id": "ru_ud1.5_alokananda",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud1.5_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud1.5_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud1.5_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 5,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj24.136, mc0.97, ms18Ud_23, msdiv5, pts-vp-pli4,cck25.67, csp1ed18.81, csp2ed18.81, dr25.108, ms18Ud_24, vri47.73,ms18Ud_25,ms18Ud_26, ndp20.67, sya25.78, vns5",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "ud1.5:1.3": "mahākaccāno → mahākaccāyano (bj, pts-vp-pli1, mr) | nando → ānando (bj, pts-vp-pli1) ",
+    "ud1.5:2.3": "ve → teva (si) "
   },
-  "bilara_root_text": {
-    "uid": "ud1.5",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Brāhmaṇasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud1.5:1.1": "bj24.136, mc0.97, ms18Ud_23, msdiv5, pts-vp-pli4",
+    "ud1.5:2.1": "cck25.67, csp1ed18.81, csp2ed18.81, dr25.108, ms18Ud_24, vri47.73",
+    "ud1.5:3.1": "ms18Ud_25",
+    "ud1.5:4.1": "ms18Ud_26, ndp20.67, sya25.78, vns5"
   },
-  "bilara_translated_text": {
-    "uid": "ud1.5",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Brahmin ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud1.5:0.1",
+    "ud1.5:0.2",
+    "ud1.5:1.1",
+    "ud1.5:1.2",
+    "ud1.5:1.3",
+    "ud1.5:2.1",
+    "ud1.5:2.2",
+    "ud1.5:2.3",
+    "ud1.5:2.4",
+    "ud1.5:2.5",
+    "ud1.5:2.6",
+    "ud1.5:3.1",
+    "ud1.5:4.1",
+    "ud1.5:4.2",
+    "ud1.5:4.3",
+    "ud1.5:4.4",
+    "ud1.5:4.5"
   ]
 }

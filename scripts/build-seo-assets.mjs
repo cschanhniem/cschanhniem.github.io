@@ -29,6 +29,21 @@ const nikayaCollections = [
   { code: 'kn', title: 'Tiểu Bộ Kinh', description: 'Tập hợp các văn bản đa dạng thuộc Tiểu Bộ, từ kệ tụng đến các bài kinh ngắn và tác phẩm giàu chất văn.' },
 ]
 
+function normalizeNikayaId(value) {
+  return String(value).toLowerCase().replace(/\s+/g, '')
+}
+
+function getGroupedCanonicalFallbackIds(aliasManifest) {
+  return new Set(
+    Object.entries(aliasManifest).flatMap(([childId, canonicalByLang]) =>
+      Object.values(canonicalByLang)
+        .filter((canonicalId) => typeof canonicalId === 'string' && canonicalId.length > 0)
+        .filter((canonicalId) => normalizeNikayaId(canonicalId) !== normalizeNikayaId(childId))
+        .map((canonicalId) => normalizeNikayaId(canonicalId))
+    )
+  )
+}
+
 function escapeHtml(value) {
   return value
     .replaceAll('&', '&amp;')
@@ -157,8 +172,12 @@ async function readCuratedSuttaRoutes() {
 
 async function readNikayaRoutes() {
   const nikayaPath = path.join(publicDir, 'data', 'suttacentral-json', 'nikaya_index.json')
+  const aliasPath = path.join(publicDir, 'data', 'suttacentral-json', 'canonical-aliases.json')
   const raw = await fs.readFile(nikayaPath, 'utf8')
+  const aliasRaw = await fs.readFile(aliasPath, 'utf8')
   const items = JSON.parse(raw)
+  const aliases = JSON.parse(aliasRaw)
+  const groupedCanonicalFallbackIds = getGroupedCanonicalFallbackIds(aliases)
   const lastmod = await getLastModified(nikayaPath)
 
   const collectionRoutes = nikayaCollections.map((collection) => ({
@@ -176,23 +195,29 @@ async function readNikayaRoutes() {
     ],
   }))
 
-  const detailRoutes = items.map((item) => ({
-    path: `/nikaya/${String(item.collection).toLowerCase()}/${item.id}`,
-    title: `${String(item.id).toUpperCase()} · ${item.title}`,
-    description: item.blurb || `Kinh ${item.title} trong thư viện Nikāya của Nhập Lưu.`,
-    type: 'article',
-    schemaType: 'Article',
-    indexable: true,
-    lastmod,
-    breadcrumbs: [
-      { name: 'Trang chủ', url: '/' },
-      { name: 'Kinh Điển Pāli', url: '/nikaya' },
-      { name: nikayaCollections.find((collection) => collection.code === String(item.collection).toLowerCase())?.title || String(item.collection).toUpperCase(), url: `/nikaya/${String(item.collection).toLowerCase()}` },
-      { name: item.title, url: `/nikaya/${String(item.collection).toLowerCase()}/${item.id}` },
-    ],
-    author: 'SuttaCentral / Nhập Lưu',
-    authorType: 'Organization',
-  }))
+  const detailRoutes = items.map((item) => {
+    const routeId = normalizeNikayaId(item.id)
+    const groupedFallbackRoute = groupedCanonicalFallbackIds.has(routeId)
+
+    return {
+      path: `/nikaya/${String(item.collection).toLowerCase()}/${item.id}`,
+      title: `${String(item.id).toUpperCase()} · ${item.title}`,
+      description: item.blurb || `Kinh ${item.title} trong thư viện Nikāya của Nhập Lưu.`,
+      type: 'article',
+      schemaType: 'Article',
+      indexable: !groupedFallbackRoute,
+      robots: groupedFallbackRoute ? noindexRobots : undefined,
+      lastmod,
+      breadcrumbs: [
+        { name: 'Trang chủ', url: '/' },
+        { name: 'Kinh Điển Pāli', url: '/nikaya' },
+        { name: nikayaCollections.find((collection) => collection.code === String(item.collection).toLowerCase())?.title || String(item.collection).toUpperCase(), url: `/nikaya/${String(item.collection).toLowerCase()}` },
+        { name: item.title, url: `/nikaya/${String(item.collection).toLowerCase()}/${item.id}` },
+      ],
+      author: 'SuttaCentral / Nhập Lưu',
+      authorType: 'Organization',
+    }
+  })
 
   const legacyRoutes = items.map((item) => ({
     path: `/nikaya/${item.id}`,

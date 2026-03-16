@@ -7,11 +7,11 @@ const improvedTranslationAvailability: Record<string, readonly NikayaLanguage[]>
   dn22: ['vi'],
   dn31: ['vi'],
   mn118: ['vi'],
-  sn5611: ['vi'],
+  'sn56.11': ['vi'],
 }
 
 export function normalizeSuttaId(suttaId: string): string {
-  return suttaId.toLowerCase().replace(/[^a-z0-9]/g, '')
+  return suttaId.toLowerCase().replace(/\s+/g, '')
 }
 
 export function getAvailableImprovedLanguages(suttaId: string): readonly NikayaLanguage[] {

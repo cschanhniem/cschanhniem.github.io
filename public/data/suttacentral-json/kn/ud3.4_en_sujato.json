@@ -1,353 +1,62 @@
 {
+  "html_text": {
+    "ud3.4:0.1": "<article id='ud3.4'><header><ul><li class='division'>{}</li></ul>",
+    "ud3.4:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud3.4:1.1": "<p><span class='evam'>{}</span>",
+    "ud3.4:1.2": "{}",
+    "ud3.4:1.3": "{}",
+    "ud3.4:1.4": "{}</p>",
+    "ud3.4:2.1": "<p>{}</p>",
+    "ud3.4:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud3.4:3.2": "<span class='verse-line'>{}</span>",
+    "ud3.4:3.3": "<span class='verse-line'>{}</span>",
+    "ud3.4:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud3.4:3.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud3.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sāriputtasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Yasoja ",
-      "uid": "ud3.3"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Mahāmoggallāna ",
-      "uid": "ud3.5"
-    }
+    "ud3.4:0.1": "Udāna 3.4 ",
+    "ud3.4:0.2": "Sāriputtasutta ",
+    "ud3.4:1.1": "Evaṁ me sutaṁ—",
+    "ud3.4:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "ud3.4:1.3": "Tena kho pana samayena āyasmā sāriputto bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. ",
+    "ud3.4:1.4": "Addasā kho bhagavā āyasmantaṁ sāriputtaṁ avidūre nisinnaṁ pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. ",
+    "ud3.4:2.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud3.4:3.1": "“Yathāpi pabbato selo, ",
+    "ud3.4:3.2": "acalo suppatiṭṭhito; ",
+    "ud3.4:3.3": "Evaṁ mohakkhayā bhikkhu, ",
+    "ud3.4:3.4": "pabbatova na vedhatī”ti. ",
+    "ud3.4:3.5": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "ud3.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Sāriputta ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Yasoja ",
-      "uid": "ud3.3"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Mahāmoggallāna ",
-      "uid": "ud3.5"
-    }
+  "translation_text": {
+    "ud3.4:0.1": "Heartfelt Sayings 3.4 ",
+    "ud3.4:0.2": "With Sāriputta ",
+    "ud3.4:1.1": "So I have heard. ",
+    "ud3.4:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "ud3.4:1.3": "Now at that time Venerable Sāriputta was sitting not far from the Buddha, cross-legged, his body set straight, and mindfulness established in his presence. ",
+    "ud3.4:1.4": "The Buddha saw him meditating there. ",
+    "ud3.4:2.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud3.4:3.1": "“As a rocky mountain ",
+    "ud3.4:3.2": "is unwavering and well grounded, ",
+    "ud3.4:3.3": "so when delusion ends, ",
+    "ud3.4:3.4": "a monk, like a mountain, doesn’t tremble.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 3.4",
-    "volpages": "PTS Ud 27",
-    "alt_volpages": null,
-    "uid": "ud3.4",
-    "blurb": "Ven. Sāriputta meditates, his mind as solid as rock.",
-    "difficulty": null,
-    "original_title": "Sāriputtasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "With Sāriputta ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud3.4_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Sāriputta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud3.4_translation-en-sujato",
-        "segmented": true,
-        "title": "With Sāriputta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud3.4_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud3.4_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Sāriputta ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud3.4_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud3.4_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about Sāriputta"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "F. Tola, C. Dragonetti",
-        "author_short": "Tola …",
-        "author_uid": "tola-dragonetti",
-        "publication_date": "2009",
-        "id": "es_ud3.4_tola-dragonetti",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud3.4_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud3.4_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud3.4_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud3.4_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud3.4_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud3.4_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": null,
-        "id": "pt_ud3.4_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Алокананда бхиккху",
-        "author_short": "Алокананда",
-        "author_uid": "alokananda",
-        "publication_date": null,
-        "id": "ru_ud3.4_alokananda",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud3.4_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud3.4_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud3.4_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 7,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "cck25.94, csp1ed18.108, csp2ed18.108, ms18Ud_195, msdiv24,mc0.129, ms18Ud_196,ms18Ud_197, vns28, vri47.99",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud3.4:1.1": "cck25.94, csp1ed18.108, csp2ed18.108, ms18Ud_195, msdiv24",
+    "ud3.4:2.1": "mc0.129, ms18Ud_196",
+    "ud3.4:3.1": "ms18Ud_197, vns28, vri47.99"
   },
-  "bilara_root_text": {
-    "uid": "ud3.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Sāriputtasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "ud3.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "With Sāriputta ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud3.4:0.1",
+    "ud3.4:0.2",
+    "ud3.4:1.1",
+    "ud3.4:1.2",
+    "ud3.4:1.3",
+    "ud3.4:1.4",
+    "ud3.4:2.1",
+    "ud3.4:3.1",
+    "ud3.4:3.2",
+    "ud3.4:3.3",
+    "ud3.4:3.4",
+    "ud3.4:3.5"
   ]
 }

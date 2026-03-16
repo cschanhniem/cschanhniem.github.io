@@ -1,330 +1,68 @@
 {
+  "html_text": {
+    "kp1:0.1": "<article id='kp1'><header><ul><li class='division'>{}</li></ul>",
+    "kp1:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "kp1:1.1": "<p class='namo'>{}</p>",
+    "kp1:2.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "kp1:2.2": "<span class='verse-line'>{}</span>",
+    "kp1:2.3": "<span class='verse-line'>{}</span></p>",
+    "kp1:3.1": "<p><span class='verse-line'>{}</span>",
+    "kp1:3.2": "<span class='verse-line'>{}</span>",
+    "kp1:3.3": "<span class='verse-line'>{}</span></p>",
+    "kp1:4.1": "<p><span class='verse-line'>{}</span>",
+    "kp1:4.2": "<span class='verse-line'>{}</span>",
+    "kp1:4.3": "<span class='verse-line'>{}</span></p></blockquote>",
+    "kp1:5.1": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "kp1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saraṇattaya",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": ""
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ten Precepts ",
-      "uid": "kp2"
-    }
+    "kp1:0.1": "Khuddakapāṭha 1 ",
+    "kp1:0.2": "Saraṇattaya ",
+    "kp1:1.1": "Namo tassa Bhagavato Arahato Sammāsambuddhassa. ",
+    "kp1:2.1": "Buddhaṁ saraṇaṁ gacchāmi, ",
+    "kp1:2.2": "Dhammaṁ saraṇaṁ gacchāmi, ",
+    "kp1:2.3": "Saṅghaṁ saraṇaṁ gacchāmi. ",
+    "kp1:3.1": "Dutiyampi buddhaṁ saraṇaṁ gacchāmi, ",
+    "kp1:3.2": "Dutiyampi dhammaṁ saraṇaṁ gacchāmi, ",
+    "kp1:3.3": "Dutiyampi saṅghaṁ saraṇaṁ gacchāmi. ",
+    "kp1:4.1": "Tatiyampi buddhaṁ saraṇaṁ gacchāmi, ",
+    "kp1:4.2": "Tatiyampi dhammaṁ saraṇaṁ gacchāmi, ",
+    "kp1:4.3": "Tatiyampi saṅghaṁ saraṇaṁ gacchāmi. ",
+    "kp1:5.1": "Saraṇattayaṁ. "
   },
-  "translation": {
-    "uid": "kp1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Three Refuges ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": ""
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ten Precepts ",
-      "uid": "kp2"
-    }
+  "translation_text": {
+    "kp1:0.1": "Basic Passages 1 ",
+    "kp1:0.2": "The Three Refuges ",
+    "kp1:1.1": "Homage to him, the blessed one, the perfected one, the fully awakened Buddha! ",
+    "kp1:2.1": "I take refuge in the Buddha, ",
+    "kp1:2.2": "I take refuge in the Teaching, ",
+    "kp1:2.3": "I take refuge in the Sangha. ",
+    "kp1:3.1": "For the second time I take refuge in the Buddha, ",
+    "kp1:3.2": "for the second time I take refuge in the Teaching, ",
+    "kp1:3.3": "for the second time I take refuge in the Sangha. ",
+    "kp1:4.1": "For the third time I take refuge in the Buddha, ",
+    "kp1:4.2": "for the third time I take refuge in the Teaching, ",
+    "kp1:4.3": "for the third time I take refuge in the Sangha. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Kp 1",
-    "volpages": " PTS 1",
-    "alt_volpages": null,
-    "uid": "kp1",
-    "blurb": "The three refuges formula",
-    "difficulty": null,
-    "original_title": "Saraṇattaya",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "The Three Refuges ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": "2021",
-        "id": "kp1_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Die dreifache Zuflucht ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2020",
-        "id": "kp1_translation-en-sujato",
-        "segmented": true,
-        "title": "The Three Refuges ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pl",
-        "lang_name": "Polski",
-        "is_root": false,
-        "author": "Piotr Jagodziński",
-        "author_short": "hardao",
-        "author_uid": "hardao",
-        "publication_date": "2023",
-        "id": "kp1_translation-pl-hardao",
-        "segmented": true,
-        "title": "Trzy Schronienia ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "kp1_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Laera et al.",
-        "author_short": "laera",
-        "author_uid": "laera",
-        "publication_date": null,
-        "id": "kp1_translation-pt-laera-quaresma",
-        "segmented": true,
-        "title": "Os Três Refúgios ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1910",
-        "id": "de_kp1_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_kp1_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": null,
-        "segmented": false,
-        "volpage": null,
-        "title": "Going for Refuge"
-      },
-      {
-        "author": "Piyadassi Thera",
-        "author_short": "Piyadassi",
-        "author_uid": "piyadassi",
-        "has_comment": false,
-        "id": "en_kp1_piyadassi",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1999",
-        "segmented": false,
-        "volpage": null,
-        "title": "Going for Refuge"
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_kp1_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_kp1_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_kp1_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_kp1_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_kp1_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ta",
-        "lang_name": "தமிழ்",
-        "is_root": false,
-        "author": "Ben Arasu",
-        "author_short": "Arasu",
-        "author_uid": "arasu",
-        "publication_date": null,
-        "id": "ta_kp1_arasu",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "vi",
-        "lang_name": "Tiếng Việt",
-        "is_root": false,
-        "author": "Thích Minh Châu",
-        "author_short": "Minh Châu",
-        "author_uid": "minh_chau",
-        "publication_date": null,
-        "id": "vi_kp1_minh_chau",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "zh",
-        "lang_name": "汉语",
-        "is_root": false,
-        "author": "Metta",
-        "author_short": "Metta",
-        "author_uid": "metta",
-        "publication_date": null,
-        "id": "zh_kp1_metta",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 1,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms18Kh_1,bj24.2, cck25.1, csp1ed18.1, csp2ed18.1, dr25.1, mc0.1, ms18Kh_2, msdiv1, ndp20.3, pts-vp-pli1, sya25.1, vri47.1,ms18Kh_3,ms18Kh_4, vri47.2,ms18Kh_5",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "kp1:1.1": "ms18Kh_1",
+    "kp1:2.1": "bj24.2, cck25.1, csp1ed18.1, csp2ed18.1, dr25.1, mc0.1, ms18Kh_2, msdiv1, ndp20.3, pts-vp-pli1, sya25.1, vri47.1",
+    "kp1:3.1": "ms18Kh_3",
+    "kp1:4.1": "ms18Kh_4, vri47.2",
+    "kp1:5.1": "ms18Kh_5"
   },
-  "bilara_root_text": {
-    "uid": "kp1",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Saraṇattaya",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "kp1",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "The Three Refuges ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti",
-    "piyadassi"
+  "keys_order": [
+    "kp1:0.1",
+    "kp1:0.2",
+    "kp1:1.1",
+    "kp1:2.1",
+    "kp1:2.2",
+    "kp1:2.3",
+    "kp1:3.1",
+    "kp1:3.2",
+    "kp1:3.3",
+    "kp1:4.1",
+    "kp1:4.2",
+    "kp1:4.3",
+    "kp1:5.1"
   ]
 }

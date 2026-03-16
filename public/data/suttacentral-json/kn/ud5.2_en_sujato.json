@@ -1,340 +1,83 @@
 {
+  "comment_text": {
+    "ud5.2:1.5": "Here I use “Blessed One” rather than my usual “Buddha” for <i lang='pi' translate='no'>bhagavā</i>. Normally the difference is immaterial, as it is simply the most common way to address the Buddha. In this case, however, the passage Ānanda is referring to uses <i lang='pi' translate='no'>bodhisatta</i>, and it is quite striking that he changes it here. ",
+    "ud5.2:2.1": "The Buddha switches back to <i lang='pi' translate='no'>bodhisatta</i>, and depersonalizes it by using the plural. "
+  },
+  "html_text": {
+    "ud5.2:0.1": "<article id='ud5.2'><header><ul><li class='division'>{}</li></ul>",
+    "ud5.2:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud5.2:1.1": "<p><span class='evam'>{}</span>",
+    "ud5.2:1.2": "{}",
+    "ud5.2:1.3": "{}",
+    "ud5.2:1.4": "{}",
+    "ud5.2:1.5": "{}</p>",
+    "ud5.2:2.1": "<p>{}",
+    "ud5.2:2.2": "{}</p>",
+    "ud5.2:3.1": "<p>{}</p>",
+    "ud5.2:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud5.2:4.2": "<span class='verse-line'>{}</span>",
+    "ud5.2:4.3": "<span class='verse-line'>{}</span>",
+    "ud5.2:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud5.2:4.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud5.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Appāyukasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Who Is More Dear? ",
-      "uid": "ud5.1"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Suppabuddha the Leper ",
-      "uid": "ud5.3"
-    }
+    "ud5.2:0.1": "Udāna 5.2 ",
+    "ud5.2:0.2": "Appāyukasutta ",
+    "ud5.2:1.1": "Evaṁ me sutaṁ—",
+    "ud5.2:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "ud5.2:1.3": "Atha kho āyasmā ānando sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: ",
+    "ud5.2:1.4": "“acchariyaṁ, bhante, abbhutaṁ, bhante. ",
+    "ud5.2:1.5": "Yāva appāyukā hi, bhante, bhagavato mātā ahosi, sattāhajāte bhagavati bhagavato mātā kālamakāsi, tusitaṁ kāyaṁ upapajjī”ti. ",
+    "ud5.2:2.1": "“Evametaṁ, ānanda, appāyukā hi, ānanda, bodhisattamātaro honti. ",
+    "ud5.2:2.2": "Sattāhajātesu bodhisattesu bodhisattamātaro kālaṁ karonti, tusitaṁ kāyaṁ upapajjantī”ti. ",
+    "ud5.2:3.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud5.2:4.1": "“Ye keci bhūtā bhavissanti ye vāpi, ",
+    "ud5.2:4.2": "Sabbe gamissanti pahāya dehaṁ; ",
+    "ud5.2:4.3": "Taṁ sabbajāniṁ kusalo viditvā, ",
+    "ud5.2:4.4": "Ātāpiyo brahmacariyaṁ careyyā”ti. ",
+    "ud5.2:4.5": "Dutiyaṁ. "
   },
-  "translation": {
-    "uid": "ud5.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Short-lived ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Who Is More Dear? ",
-      "uid": "ud5.1"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Suppabuddha the Leper ",
-      "uid": "ud5.3"
-    }
+  "translation_text": {
+    "ud5.2:0.1": "Heartfelt Sayings 5.2 ",
+    "ud5.2:0.2": "Short-lived ",
+    "ud5.2:1.1": "So I have heard. ",
+    "ud5.2:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "ud5.2:1.3": "Then in the late afternoon, Venerable Ānanda came out of retreat and went to the Buddha. He bowed, sat down to one side, and said to him: ",
+    "ud5.2:1.4": "“It’s incredible, sir, it’s amazing! ",
+    "ud5.2:1.5": "How short-lived was the Blessed One’s mother! For seven days after the Blessed One was born, his mother passed away and was reborn in the host of joyful gods.” ",
+    "ud5.2:2.1": "“That’s so true, Ānanda! For the mothers of beings intent of awakening are short-lived. ",
+    "ud5.2:2.2": "Seven days after the beings intent on awakening are born, their mothers pass away and are reborn in the host of joyful gods.” ",
+    "ud5.2:3.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud5.2:4.1": "“Whether born or to be born, ",
+    "ud5.2:4.2": "all depart, leaving the body behind. ",
+    "ud5.2:4.3": "The skillful, understanding that all is lost, ",
+    "ud5.2:4.4": "would keenly practice the spiritual life.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 5.2",
-    "volpages": " PTS 48",
-    "alt_volpages": null,
-    "uid": "ud5.2",
-    "blurb": "Ven. Ānanda comments on how the Buddha’s mother died shortly after his birth.",
-    "difficulty": null,
-    "original_title": "Appāyukasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Short-lived ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud5.2_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Kurzes Leben ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud5.2_translation-en-sujato",
-        "segmented": true,
-        "title": "Short-lived ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud5.2_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud5.2_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Kratak život ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud5.2_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud5.2_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about the One Short-Lived"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "F. Tola, C. Dragonetti",
-        "author_short": "Tola …",
-        "author_uid": "tola-dragonetti",
-        "publication_date": "2009",
-        "id": "es_ud5.2_tola-dragonetti",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud5.2_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud5.2_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud5.2_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud5.2_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud5.2_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud5.2_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Gabriel N. Laera",
-        "author_short": "Laera",
-        "author_uid": "laera",
-        "publication_date": "2015",
-        "id": "pt_ud5.2_laera",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud5.2_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud5.2_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud5.2_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 5,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "csp1ed18.134, csp2ed18.134, ms18Ud_358, msdiv42, pts-vp-pli48,ms18Ud_359,ms18Ud_360,cck25.120, dr25.177, ms18Ud_361, vns54",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "ud5.2:1.3": "paṭisallānā → patisallāṇā (bj) ",
+    "ud5.2:2.1": "Evametaṁ, ānanda → evametaṁ ānanda evametaṁ ānanda (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "ud5.2",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Appāyukasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud5.2:1.1": "csp1ed18.134, csp2ed18.134, ms18Ud_358, msdiv42, pts-vp-pli48",
+    "ud5.2:2.1": "ms18Ud_359",
+    "ud5.2:3.1": "ms18Ud_360",
+    "ud5.2:4.1": "cck25.120, dr25.177, ms18Ud_361, vns54"
   },
-  "bilara_translated_text": {
-    "uid": "ud5.2",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Short-lived ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud5.2:0.1",
+    "ud5.2:0.2",
+    "ud5.2:1.1",
+    "ud5.2:1.2",
+    "ud5.2:1.3",
+    "ud5.2:1.4",
+    "ud5.2:1.5",
+    "ud5.2:2.1",
+    "ud5.2:2.2",
+    "ud5.2:3.1",
+    "ud5.2:4.1",
+    "ud5.2:4.2",
+    "ud5.2:4.3",
+    "ud5.2:4.4",
+    "ud5.2:4.5"
   ]
 }

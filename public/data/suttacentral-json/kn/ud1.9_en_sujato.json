@@ -1,366 +1,74 @@
 {
+  "html_text": {
+    "ud1.9:0.1": "<article id='ud1.9'><header><ul><li class='division'>{}</li></ul>",
+    "ud1.9:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud1.9:1.1": "<p><span class='evam'>{}</span>",
+    "ud1.9:1.2": "{}",
+    "ud1.9:1.3": "{}",
+    "ud1.9:1.4": "{}</p>",
+    "ud1.9:2.1": "<p>{}",
+    "ud1.9:2.2": "{}</p>",
+    "ud1.9:3.1": "<p>{}</p>",
+    "ud1.9:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud1.9:4.2": "<span class='verse-line'>{}</span>",
+    "ud1.9:4.3": "<span class='verse-line'>{}</span>",
+    "ud1.9:4.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud1.9:4.5": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud1.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Jaṭilasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Saṅgāmaji ",
-      "uid": "ud1.8"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Bāhiya ",
-      "uid": "ud1.10"
-    }
+    "ud1.9:0.1": "Udāna 1.9 ",
+    "ud1.9:0.2": "Jaṭilasutta ",
+    "ud1.9:1.1": "Evaṁ me sutaṁ—",
+    "ud1.9:1.2": "ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse. ",
+    "ud1.9:1.3": "Tena kho pana samayena sambahulā jaṭilā sītāsu hemantikāsu rattīsu antaraṭṭhake himapātasamaye gayāyaṁ ummujjantipi nimujjantipi, ummujjanimujjampi karonti osiñcantipi, aggimpi juhanti: ",
+    "ud1.9:1.4": "“iminā suddhī”ti. ",
+    "ud1.9:2.1": "Addasā kho bhagavā te sambahule jaṭile sītāsu hemantikāsu rattīsu antaraṭṭhake himapātasamaye gayāyaṁ ummujjantepi nimujjantepi ummujjanimujjampi karonte osiñcantepi aggimpi juhante: ",
+    "ud1.9:2.2": "“iminā suddhī”ti. ",
+    "ud1.9:3.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud1.9:4.1": "“Na udakena sucī hoti, ",
+    "ud1.9:4.2": "bahvettha nhāyatī jano; ",
+    "ud1.9:4.3": "Yamhi saccañca dhammo ca, ",
+    "ud1.9:4.4": "so sucī so ca brāhmaṇo”ti. ",
+    "ud1.9:4.5": "Navamaṁ. "
   },
-  "translation": {
-    "uid": "ud1.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dreadlocked Ascetics ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Saṅgāmaji ",
-      "uid": "ud1.8"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Bāhiya ",
-      "uid": "ud1.10"
-    }
+  "translation_text": {
+    "ud1.9:0.1": "Heartfelt Sayings 1.9 ",
+    "ud1.9:0.2": "Dreadlocked Ascetics ",
+    "ud1.9:1.1": "So I have heard. ",
+    "ud1.9:1.2": "At one time the Buddha was staying near Gayā on Gayā Head. ",
+    "ud1.9:1.3": "Now at that time—during the cold spell when the snow falls in the January winter—many dreadlocked ascetics plunged in and out of the Gayā river. Plunging and showering, they served the sacred flame, thinking: ",
+    "ud1.9:1.4": "“Through this there is purity.” ",
+    "ud1.9:2.1": "The Buddha saw them plunging in and out. ",
+    "ud1.9:3.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud1.9:4.1": "“Purity doesn’t come from water, ",
+    "ud1.9:4.2": "no matter how many people bathe there. ",
+    "ud1.9:4.3": "One who has truth and principle, ",
+    "ud1.9:4.4": "they are pure, they are brahmins.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 1.9",
-    "volpages": "PTS Ud 6",
-    "alt_volpages": null,
-    "uid": "ud1.9",
-    "blurb": "The mind is cleansed and purified, not by ablutions, but by truth and rectitude.",
-    "difficulty": null,
-    "original_title": "Jaṭilasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Dreadlocked Ascetics ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud1.9_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Filzhaarasketen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud1.9_translation-en-sujato",
-        "segmented": true,
-        "title": "Dreadlocked Ascetics ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud1.9_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud1.9_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "9",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud1.9_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud1.9_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about Those with Knotted Hair"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "F. Tola, C. Dragonetti",
-        "author_short": "Tola …",
-        "author_uid": "tola-dragonetti",
-        "publication_date": "2009",
-        "id": "es_ud1.9_tola-dragonetti",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud1.9_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud1.9_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud1.9_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud1.9_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_ud1.9_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud1.9_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud1.9_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Gabriel N. Laera",
-        "author_short": "Laera",
-        "author_uid": "laera",
-        "publication_date": "2015",
-        "id": "pt_ud1.9_laera",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Алокананда бхиккху",
-        "author_short": "Алокананда",
-        "author_uid": "alokananda",
-        "publication_date": null,
-        "id": "ru_ud1.9_alokananda",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud1.9_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud1.9_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud1.9_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 12,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms18Ud_46, msdiv9, sya25.81,ms18Ud_47,csp1ed18.84, csp2ed18.84, dr25.112, ms18Ud_48, vri47.76,ms18Ud_49, vns9",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "ud1.9:2.1": "ummujjanimujjampi karonte → ummujjanimujjaṁ karontepi (bj, pts-vp-pli1, mr); ummujjanimmujjampi karonte (sya-all) ",
+    "ud1.9:4.2": "nhāyatī → nhāyati (bj) "
   },
-  "bilara_root_text": {
-    "uid": "ud1.9",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Jaṭilasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud1.9:1.1": "ms18Ud_46, msdiv9, sya25.81",
+    "ud1.9:2.1": "ms18Ud_47",
+    "ud1.9:3.1": "csp1ed18.84, csp2ed18.84, dr25.112, ms18Ud_48, vri47.76",
+    "ud1.9:4.1": "ms18Ud_49, vns9"
   },
-  "bilara_translated_text": {
-    "uid": "ud1.9",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Dreadlocked Ascetics ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud1.9:0.1",
+    "ud1.9:0.2",
+    "ud1.9:1.1",
+    "ud1.9:1.2",
+    "ud1.9:1.3",
+    "ud1.9:1.4",
+    "ud1.9:2.1",
+    "ud1.9:2.2",
+    "ud1.9:3.1",
+    "ud1.9:4.1",
+    "ud1.9:4.2",
+    "ud1.9:4.3",
+    "ud1.9:4.4",
+    "ud1.9:4.5"
   ]
 }

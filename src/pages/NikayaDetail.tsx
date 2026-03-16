@@ -9,11 +9,15 @@ import { ChevronLeft, Type, Minus, Plus, Bookmark, ExternalLink } from 'lucide-r
 import type { NikayaLanguage, NikayaVersionType, SCSuttaplex } from '@/types/nikaya'
 import { NIKAYA_LANGUAGES, NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getSuttaMetadata } from '@/lib/suttacentralApi'
-import { fetchLocalSuttaHtml, hasLocalContent, initLocalData } from '@/lib/suttacentralLocal'
+import { fetchLocalSuttaHtml, hasLocalContent, initLocalData, isGroupedCanonicalFallbackRoute } from '@/lib/suttacentralLocal'
 import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-improved'
 import { normalizeSuttaId } from '@/data/nikaya-improved/availability'
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
 import { NikayaComparisonView } from '@/components/NikayaComparisonView'
+import {
+    CURATED_NIKAYA_VERSIONS,
+    type NikayaVersionOption,
+} from '@/lib/nikaya-version-options'
 import { useAppState } from '@/hooks/useAppState'
 import { useKatexCSS } from '@/hooks/useKatexCSS'
 import {
@@ -24,7 +28,7 @@ import {
     resolveNikayaBackPath,
 } from '@/lib/nikaya-routes'
 import { usePageMeta } from '@/lib/seo'
-import { SITE_URL } from '@/lib/site'
+import { NOINDEX_ROBOTS, SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
 import { trackEvent } from '@/lib/analytics'
 
@@ -66,6 +70,9 @@ export function NikayaDetail() {
     const [loading, setLoading] = useState(true)
     const [error, setError] = useState<string | null>(null)
     const [manifestReady, setManifestReady] = useState(false)
+    const groupedCanonicalFallbackRoute = manifestReady && normalizedSuttaId
+        ? isGroupedCanonicalFallbackRoute(normalizedSuttaId)
+        : false
 
     // Initialize local data manifest
     useEffect(() => {
@@ -97,12 +104,7 @@ export function NikayaDetail() {
     const [hasTrackedRead, setHasTrackedRead] = useState(false)
 
     // Available versions
-    const [availableVersions, setAvailableVersions] = useState<{
-        lang: NikayaLanguage
-        type: NikayaVersionType
-        author: string
-        available: boolean
-    }[]>([])
+    const [availableVersions, setAvailableVersions] = useState<NikayaVersionOption[]>([])
 
     const getPreferredAvailableVersion = useCallback((
         versions: typeof availableVersions,
@@ -188,6 +190,7 @@ export function NikayaDetail() {
             : undefined,
         jsonLdId: normalizedSuttaId ? `nikaya-${normalizedSuttaId}` : 'nikaya-detail',
         author: 'SuttaCentral / Nhập Lưu',
+        robots: groupedCanonicalFallbackRoute ? NOINDEX_ROBOTS : undefined,
     })
 
     // Fetch sutta metadata
@@ -207,29 +210,14 @@ export function NikayaDetail() {
                 setMetadata(data)
 
                 // Build available versions list
-                const versions: typeof availableVersions = []
-                const supportedLangs: NikayaLanguage[] = ['vi', 'en', 'zh', 'es']
-
-                for (const lang of supportedLangs) {
-                    const langInfo = NIKAYA_LANGUAGES[lang]
-
-                    // Check if original version has local readable content
-                    const hasLocalOriginal = hasLocalContent(normalizedSuttaId, lang)
-                    versions.push({
-                        lang,
-                        type: 'original',
-                        author: langInfo.originalAuthor,
-                        available: hasLocalOriginal
-                    })
-
-                    // Check if improved version available locally
-                    versions.push({
-                        lang,
-                        type: 'improved',
-                        author: 'NhậpLưu 2026',
-                        available: hasImprovedTranslation(normalizedSuttaId, lang)
-                    })
-                }
+                const versions: typeof availableVersions = CURATED_NIKAYA_VERSIONS.map((version) => ({
+                    lang: version.lang,
+                    type: version.type,
+                    author: version.author,
+                    available: version.type === 'improved'
+                        ? hasImprovedTranslation(normalizedSuttaId, version.lang)
+                        : hasLocalContent(normalizedSuttaId, version.lang)
+                }))
 
                 setAvailableVersions(versions)
             } catch {
@@ -548,16 +536,10 @@ Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/
                         leftVersion={{
                             lang: selectedVersion.lang,
                             type: selectedVersion.type,
-                            author: selectedVersion.type === 'improved'
-                                ? 'NhậpLưu 2026'
-                                : NIKAYA_LANGUAGES[selectedVersion.lang].originalAuthor
                         }}
                         rightVersion={{
                             lang: secondVersion.lang,
                             type: secondVersion.type,
-                            author: secondVersion.type === 'improved'
-                                ? 'NhậpLưu 2026'
-                                : NIKAYA_LANGUAGES[secondVersion.lang].originalAuthor
                         }}
                         fontSize={fontSize}
                     />

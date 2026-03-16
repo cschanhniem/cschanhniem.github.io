@@ -1,392 +1,80 @@
 {
+  "comment_text": {
+    "ud8.4:3.1": "This passage is quoted at <a href='https://suttacentral.net/mn144/en/sujato#11.3'>MN 144:11.3</a> and <a href='https://suttacentral.net/sn35.87/en/sujato#11.3'>SN 35.87:11.3</a>, and referred to at <a href='https://suttacentral.net/snp3.12/en/sujato#44.3'>Snp 3.12:44.3</a>. "
+  },
+  "html_text": {
+    "ud8.4:0.1": "<article id='ud8.4'><header><ul><li class='division'>{}</li></ul>",
+    "ud8.4:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud8.4:1.1": "<p><span class='evam'>{}</span>",
+    "ud8.4:1.2": "{}",
+    "ud8.4:1.3": "{}",
+    "ud8.4:1.4": "{}</p>",
+    "ud8.4:2.1": "<p>{}</p>",
+    "ud8.4:3.1": "<p>{}",
+    "ud8.4:3.2": "{}",
+    "ud8.4:3.3": "{}",
+    "ud8.4:3.4": "{}",
+    "ud8.4:3.5": "{}",
+    "ud8.4:3.6": "{}",
+    "ud8.4:3.7": "{}</p>",
+    "ud8.4:3.8": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud8.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Catutthanibbānapaṭisaṁyuttasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "About Extinguishment (3rd) ",
-      "uid": "ud8.3"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "With Cunda ",
-      "uid": "ud8.5"
-    }
+    "ud8.4:0.1": "Udāna 8.4 ",
+    "ud8.4:0.2": "Catutthanibbānapaṭisaṁyuttasutta ",
+    "ud8.4:1.1": "Evaṁ me sutaṁ—",
+    "ud8.4:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "ud8.4:1.3": "Tena kho pana samayena bhagavā bhikkhū nibbānapaṭisaṁyuttāya dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti. ",
+    "ud8.4:1.4": "Tedha bhikkhū aṭṭhiṁ katvā manasi katvā sabbaṁ cetaso samannāharitvā ohitasotā dhammaṁ suṇanti. ",
+    "ud8.4:2.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud8.4:3.1": "“Nissitassa calitaṁ, anissitassa calitaṁ natthi. ",
+    "ud8.4:3.2": "Calite asati passaddhi, ",
+    "ud8.4:3.3": "passaddhiyā sati nati na hoti. ",
+    "ud8.4:3.4": "Natiyā asati āgatigati na hoti. ",
+    "ud8.4:3.5": "Āgatigatiyā asati cutūpapāto na hoti. ",
+    "ud8.4:3.6": "Cutūpapāte asati nevidha na huraṁ na ubhayamantarena. ",
+    "ud8.4:3.7": "Esevanto dukkhassā”ti. ",
+    "ud8.4:3.8": "Catutthaṁ. "
   },
-  "translation": {
-    "uid": "ud8.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "About Extinguishment (4th) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "About Extinguishment (3rd) ",
-      "uid": "ud8.3"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "With Cunda ",
-      "uid": "ud8.5"
-    }
+  "translation_text": {
+    "ud8.4:0.1": "Heartfelt Sayings 8.4 ",
+    "ud8.4:0.2": "About Extinguishment (4th) ",
+    "ud8.4:1.1": "So I have heard. ",
+    "ud8.4:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "ud8.4:1.3": "Now at that time the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk about extinguishment. ",
+    "ud8.4:1.4": "And those mendicants were paying attention, applying the mind, concentrating wholeheartedly, and actively listening. ",
+    "ud8.4:2.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud8.4:3.1": "“For the dependent there is agitation. For the independent there’s no agitation. ",
+    "ud8.4:3.2": "When there’s no agitation there is tranquility. ",
+    "ud8.4:3.3": "When there is tranquility there’s no inclination. ",
+    "ud8.4:3.4": "When there’s no inclination, there’s no coming and going. ",
+    "ud8.4:3.5": "When there’s no coming and going, there’s no passing away and reappearing. ",
+    "ud8.4:3.6": "When there’s no passing away and reappearing there’s no this life or the next or between the two. ",
+    "ud8.4:3.7": "Just this is the end of suffering.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 8.4",
-    "volpages": "PTS Ud 81",
-    "alt_volpages": null,
-    "uid": "ud8.4",
-    "blurb": "Extinguishment as independence.",
-    "difficulty": null,
-    "original_title": "Catutthanibbānapaṭisaṁyuttasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "About Extinguishment (4th) ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud8.4_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Über das Erlöschen (4) ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud8.4_translation-en-sujato",
-        "segmented": true,
-        "title": "About Extinguishment (4th) ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud8.4_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud8.4_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Govor o nibbāni IV ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud8.4_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud8.4_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Fourth Discourse about Nibbāna"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "F. Tola, C. Dragonetti",
-        "author_short": "Tola …",
-        "author_uid": "tola-dragonetti",
-        "publication_date": "2009",
-        "id": "es_ud8.4_tola-dragonetti",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "hu",
-        "lang_name": "Magyar",
-        "is_root": false,
-        "author": "Nyitrai Gábor",
-        "author_short": "Nyitrai",
-        "author_uid": "nyitrai",
-        "publication_date": "2008",
-        "id": "hu_ud8.4_nyitrai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud8.4_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud8.4_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud8.4_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud8.4_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Peter van Loosbroek",
-        "author_short": "Loosbroek",
-        "author_uid": "loosbroek",
-        "publication_date": null,
-        "id": "nl_ud8.4_loosbroek",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud8.4_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud8.4_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": null,
-        "id": "pt_ud8.4_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2009",
-        "id": "ru_ud8.4_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud8.4_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud8.4_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud8.4_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sv",
-        "lang_name": "Svenska",
-        "is_root": false,
-        "author": "Kerstin Jönhagen",
-        "author_short": "Jönhagen",
-        "author_uid": "jonhagen",
-        "publication_date": null,
-        "id": "sv_ud8.4_jonhagen",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 9,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "dr25.240, ms18Ud_673, msdiv74,mc0.214, ms18Ud_674,bj24.294, csp1ed18.179, csp2ed18.179, ms18Ud_675",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "ud8.4:3.6": "na ubhayamantarena → na ubhayamantare (sabbattha) "
   },
-  "bilara_root_text": {
-    "uid": "ud8.4",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Catutthanibbānapaṭisaṁyuttasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud8.4:1.1": "dr25.240, ms18Ud_673, msdiv74",
+    "ud8.4:2.1": "mc0.214, ms18Ud_674",
+    "ud8.4:3.1": "bj24.294, csp1ed18.179, csp2ed18.179, ms18Ud_675"
   },
-  "bilara_translated_text": {
-    "uid": "ud8.4",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "About Extinguishment (4th) ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud8.4:0.1",
+    "ud8.4:0.2",
+    "ud8.4:1.1",
+    "ud8.4:1.2",
+    "ud8.4:1.3",
+    "ud8.4:1.4",
+    "ud8.4:2.1",
+    "ud8.4:3.1",
+    "ud8.4:3.2",
+    "ud8.4:3.3",
+    "ud8.4:3.4",
+    "ud8.4:3.5",
+    "ud8.4:3.6",
+    "ud8.4:3.7",
+    "ud8.4:3.8"
   ]
 }

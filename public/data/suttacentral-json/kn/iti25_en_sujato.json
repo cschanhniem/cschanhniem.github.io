@@ -1,353 +1,83 @@
 {
+  "html_text": {
+    "iti25:0.1": "<article id='iti25'><header><ul><li class='division'>{}</li>",
+    "iti25:0.2": "<li class='nipata'>{}</li>",
+    "iti25:0.3": "<li class='vagga'>{}</li></ul>",
+    "iti25:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+    "iti25:1.1": "<p>{}</p>",
+    "iti25:2.1": "<p>{}",
+    "iti25:2.2": "{}",
+    "iti25:2.3": "{}</p>",
+    "iti25:2.4": "<p>{}",
+    "iti25:2.5": "{}</p>",
+    "iti25:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "iti25:3.2": "<span class='verse-line'>{}</span>",
+    "iti25:3.3": "<span class='verse-line'>{}</span>",
+    "iti25:3.4": "<span class='verse-line'>{}</span></p></blockquote>",
+    "iti25:4.1": "<p>{}</p>",
+    "iti25:4.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "iti25",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Musāvādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "A Heap of Bones ",
-      "uid": "iti24"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Giving ",
-      "uid": "iti26"
-    }
+    "iti25:0.1": "Itivuttaka 25 ",
+    "iti25:0.2": "Ekakanipāta ",
+    "iti25:0.3": "Tatiyavagga ",
+    "iti25:0.4": "Musāvādasutta ",
+    "iti25:1.1": "Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ: ",
+    "iti25:2.1": "“Ekadhammaṁ atītassa, bhikkhave, purisapuggalassa nāhaṁ tassa kiñci pāpakammaṁ akaraṇīyanti vadāmi. ",
+    "iti25:2.2": "Katamaṁ ekadhammaṁ? ",
+    "iti25:2.3": "Yadidaṁ, bhikkhave, sampajānamusāvādo”ti. ",
+    "iti25:2.4": "Etamatthaṁ bhagavā avoca. ",
+    "iti25:2.5": "Tatthetaṁ iti vuccati: ",
+    "iti25:3.1": "“Ekadhammaṁ atītassa, ",
+    "iti25:3.2": "musāvādissa jantuno; ",
+    "iti25:3.3": "Vitiṇṇaparalokassa, ",
+    "iti25:3.4": "natthi pāpaṁ akāriyan”ti. ",
+    "iti25:4.1": "Ayampi attho vutto bhagavatā, iti me sutanti. ",
+    "iti25:4.2": "Pañcamaṁ. "
   },
-  "translation": {
-    "uid": "iti25",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Lying ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "A Heap of Bones ",
-      "uid": "iti24"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Giving ",
-      "uid": "iti26"
-    }
+  "translation_text": {
+    "iti25:0.1": "So It Was Said 25 ",
+    "iti25:0.2": "The Book of the Ones ",
+    "iti25:0.3": "Chapter Three ",
+    "iti25:0.4": "Lying ",
+    "iti25:1.1": "This was said by the Buddha, the Perfected One: that is what I heard. ",
+    "iti25:2.1": "“Mendicants, for an individual person who transgresses in one thing, there is no bad deed they would not do, I say. ",
+    "iti25:2.2": "What one thing? ",
+    "iti25:2.3": "It is this: telling a deliberate lie.” ",
+    "iti25:2.4": "The Buddha spoke this matter. ",
+    "iti25:2.5": "On this it is said: ",
+    "iti25:3.1": "“When a personage, spurning the hereafter, ",
+    "iti25:3.2": "transgresses in just one thing—",
+    "iti25:3.3": "lying—",
+    "iti25:3.4": "there is no evil they would not do.” ",
+    "iti25:4.1": "This too is a matter that was spoken by the Blessed One: that is what I heard. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Iti 25",
-    "volpages": "PTS Iti 18",
-    "alt_volpages": null,
-    "uid": "iti25",
-    "blurb": "A person who tells a deliberate lie is capable of any evil deed.",
-    "difficulty": null,
-    "original_title": "Musāvādasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Lying ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "iti25_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Lügen ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2020",
-        "id": "iti25_translation-en-sujato",
-        "segmented": true,
-        "title": "Lying ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2023",
-        "id": "iti25_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Melagystė",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "iti25_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_iti25_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "cs",
-        "lang_name": "Čeština",
-        "is_root": false,
-        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
-        "author_short": "Gavésakó …",
-        "author_uid": "gavesako-chromovsky",
-        "publication_date": null,
-        "id": "cs_iti25_gavesako-chromovsky",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1922",
-        "id": "de_iti25_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "John D. Ireland",
-        "author_short": "Ireland",
-        "author_uid": "ireland",
-        "has_comment": false,
-        "id": "en_iti25_ireland",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1997",
-        "segmented": false,
-        "volpage": null,
-        "title": "Lying"
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Canonpali.org",
-        "author_short": "CPO",
-        "author_uid": "canonpaliorg",
-        "publication_date": null,
-        "id": "fr_iti25_canonpaliorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_iti25_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_iti25_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_iti25_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_iti25_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_iti25_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2006",
-        "id": "pt_iti25_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_iti25_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_iti25_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_iti25_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 8,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "bj24.344, ms18It_142, ndp20.195, vri48.15,ms18It_143,ms18It_144, vns37,ms18It_145",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "iti25:2.1": "Ekadhammaṁ → ekaṁ dhammaṁ (bj) ",
+    "iti25:2.3": "Yadidaṁ → yathayidaṁ (bj, sya-all, pts-vp-pli1, mr) "
   },
-  "bilara_root_text": {
-    "uid": "iti25",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Musāvādasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "iti25:1.1": "bj24.344, ms18It_142, ndp20.195, vri48.15",
+    "iti25:2.1": "ms18It_143",
+    "iti25:3.1": "ms18It_144, vns37",
+    "iti25:4.1": "ms18It_145"
   },
-  "bilara_translated_text": {
-    "uid": "iti25",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Lying ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "ireland"
+  "keys_order": [
+    "iti25:0.1",
+    "iti25:0.2",
+    "iti25:0.3",
+    "iti25:0.4",
+    "iti25:1.1",
+    "iti25:2.1",
+    "iti25:2.2",
+    "iti25:2.3",
+    "iti25:2.4",
+    "iti25:2.5",
+    "iti25:3.1",
+    "iti25:3.2",
+    "iti25:3.3",
+    "iti25:3.4",
+    "iti25:4.1",
+    "iti25:4.2"
   ]
 }

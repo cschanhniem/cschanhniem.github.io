@@ -18,11 +18,11 @@ export const viImproved: Record<string, ImprovedTranslation> = {
     'dn22': dn22,
     'dn31': dn31,
     'mn118': mn118,
-    'sn5611': sn5611,
+    'sn56.11': sn5611,
 }
 
 // Get improved translation by sutta ID
 export function getImprovedVi(suttaId: string): ImprovedTranslation | null {
-    const normalizedId = suttaId.toLowerCase().replace(/[^a-z0-9]/g, '')
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
     return viImproved[normalizedId] || null
 }

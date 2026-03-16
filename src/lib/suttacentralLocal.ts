@@ -1,7 +1,7 @@
 // SuttaCentral Local JSON Data Access Layer
 // Fetches locally stored JSON from public/data/suttacentral-json
 
-import type { NikayaLanguage } from '@/types/nikaya'
+import type { NikayaLanguage, SCSuttaplex } from '@/types/nikaya'
 
 // Type for SuttaCentral JSON response - loose typing to handle actual API response
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -9,34 +9,60 @@ export type SCJsonData = any
 
 // Manifest of available local files
 let fileManifest: Record<string, string[]> | null = null
-let contentManifest: Record<string, string[]> | null = null
+let rawContentManifest: Record<string, string[]> | null = null
+let effectiveContentManifest: Record<string, string[]> | null = null
+let aliasManifest: Record<string, Partial<Record<NikayaLanguage, string>>> | null = null
+let indexById: Record<string, { id: string; title: string; paliTitle?: string; blurb?: string }> | null = null
+let groupedCanonicalRoutes: Set<string> | null = null
 let manifestLoading: Promise<void> | null = null
 
 /**
  * Initialize local data by loading the manifest
  */
 export async function initLocalData() {
-    if (fileManifest && contentManifest) return
+    if (fileManifest && rawContentManifest && effectiveContentManifest && aliasManifest && indexById) return
     if (manifestLoading) return manifestLoading
 
     manifestLoading = Promise.all([
         fetch('/data/suttacentral-json/available.json'),
         fetch('/data/suttacentral-json/content-availability.json'),
+        fetch('/data/suttacentral-json/effective-content-availability.json'),
+        fetch('/data/suttacentral-json/canonical-aliases.json'),
+        fetch('/data/suttacentral-json/nikaya_index.json'),
     ])
-        .then(async ([fileRes, contentRes]) => {
+        .then(async ([fileRes, rawContentRes, effectiveContentRes, aliasRes, indexRes]) => {
             if (!fileRes.ok) throw new Error('File manifest not found')
-            if (!contentRes.ok) throw new Error('Content manifest not found')
-            return Promise.all([fileRes.json(), contentRes.json()])
+            if (!rawContentRes.ok) throw new Error('Content manifest not found')
+            if (!effectiveContentRes.ok) throw new Error('Effective content manifest not found')
+            if (!aliasRes.ok) throw new Error('Canonical alias manifest not found')
+            if (!indexRes.ok) throw new Error('Nikaya index not found')
+            return Promise.all([fileRes.json(), rawContentRes.json(), effectiveContentRes.json(), aliasRes.json(), indexRes.json()])
         })
-        .then(([fileData, contentData]) => {
+        .then(([fileData, rawContentData, effectiveContentData, aliasData, indexData]) => {
             fileManifest = fileData
-            contentManifest = contentData
+            rawContentManifest = rawContentData
+            effectiveContentManifest = effectiveContentData
+            aliasManifest = aliasData
+            indexById = Object.fromEntries(
+                (Array.isArray(indexData) ? indexData : []).map((item: { id: string; title: string; paliTitle?: string; blurb?: string }) => [item.id, item])
+            )
+            groupedCanonicalRoutes = new Set(
+                Object.entries(aliasData as Record<string, Partial<Record<NikayaLanguage, string>>>).flatMap(([childId, canonicalByLang]) =>
+                    Object.values(canonicalByLang ?? {})
+                        .filter((canonicalId): canonicalId is string => typeof canonicalId === 'string' && canonicalId.length > 0)
+                        .filter((canonicalId) => canonicalId !== childId)
+                )
+            )
             manifestLoading = null
         })
         .catch(err => {
             console.warn('Failed to load local Nikaya manifest:', err)
             fileManifest = {}
-            contentManifest = {}
+            rawContentManifest = {}
+            effectiveContentManifest = {}
+            aliasManifest = {}
+            indexById = {}
+            groupedCanonicalRoutes = new Set()
             manifestLoading = null
         })
 
@@ -57,9 +83,15 @@ export function hasLocalJson(suttaId: string, lang: NikayaLanguage): boolean {
  * Check if we have local readable content for a sutta
  */
 export function hasLocalContent(suttaId: string, lang: NikayaLanguage): boolean {
-    if (!contentManifest) return false
+    if (!effectiveContentManifest) return false
     const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
-    return contentManifest[normalizedId]?.includes(lang) || false
+    return effectiveContentManifest[normalizedId]?.includes(lang) || false
+}
+
+function hasRawLocalContent(suttaId: string, lang: NikayaLanguage): boolean {
+    if (!rawContentManifest) return false
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
+    return rawContentManifest[normalizedId]?.includes(lang) || false
 }
 
 /**
@@ -75,24 +107,106 @@ function getCollection(suttaId: string): string {
     return 'other'
 }
 
+function getCanonicalAlias(suttaId: string, lang: NikayaLanguage): string | null {
+    if (!aliasManifest) return null
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
+    return aliasManifest[normalizedId]?.[lang] || null
+}
+
+export function isGroupedCanonicalFallbackRoute(suttaId: string): boolean {
+    if (!groupedCanonicalRoutes) return false
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
+    return groupedCanonicalRoutes.has(normalizedId)
+}
+
+function getIndexRow(suttaId: string) {
+    if (!indexById) return null
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
+    return indexById[normalizedId] || null
+}
+
+function formatSuttaCode(suttaId: string): string {
+    const match = suttaId.match(/^([a-z]+)(.+)$/i)
+    if (!match) return suttaId.toUpperCase()
+    return `${match[1].toUpperCase()} ${match[2]}`
+}
+
+function pickNonEmptyString(...values: unknown[]): string | undefined {
+    for (const value of values) {
+        if (typeof value === 'string' && value.trim()) {
+            return value.trim()
+        }
+    }
+
+    return undefined
+}
+
+function buildLocalSuttaUrl(suttaId: string, lang: NikayaLanguage): string {
+    const collection = getCollection(suttaId)
+    const author = lang === 'vi' ? 'minh_chau' : 'sujato'
+    return `/data/suttacentral-json/${collection}/${suttaId}_${lang}_${author}.json`
+}
+
 /**
  * Fetch the locally stored JSON data for a sutta
  */
 export async function fetchSuttaJson(suttaId: string, lang: NikayaLanguage): Promise<SCJsonData | null> {
+    await initLocalData()
+
     const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
-    const collection = getCollection(normalizedId)
-    // Author mapping logic matches fetch script
-    const author = lang === 'vi' ? 'minh_chau' : 'sujato'
+    const canonicalAlias = getCanonicalAlias(normalizedId, lang)
+    const candidateIds: string[] = []
 
-    const url = `/data/suttacentral-json/${collection}/${normalizedId}_${lang}_${author}.json`
+    if (hasRawLocalContent(normalizedId, lang) || !canonicalAlias) {
+        candidateIds.push(normalizedId)
+    }
 
-    try {
-        const res = await fetch(url)
-        if (!res.ok) return null
-        return await res.json()
-    } catch (e) {
-        console.error(`Error fetching local sutta ${suttaId}:`, e)
+    if (canonicalAlias && canonicalAlias !== normalizedId) {
+        candidateIds.push(canonicalAlias)
+    }
+
+    if (!candidateIds.includes(normalizedId)) {
+        candidateIds.push(normalizedId)
+    }
+
+    for (const candidateId of candidateIds) {
+        const url = buildLocalSuttaUrl(candidateId, lang)
+
+        try {
+            const res = await fetch(url)
+            if (!res.ok) continue
+            return await res.json()
+        } catch (e) {
+            console.error(`Error fetching local sutta ${candidateId}:`, e)
+        }
+    }
+
+    return null
+}
+
+export async function fetchLocalSuttaMetadata(suttaId: string): Promise<SCSuttaplex | null> {
+    await initLocalData()
+
+    const normalizedId = suttaId.toLowerCase().replace(/\s+/g, '')
+    const indexRow = getIndexRow(normalizedId)
+    const localJson = await fetchSuttaJson(normalizedId, 'vi') ?? await fetchSuttaJson(normalizedId, 'en')
+
+    if (!indexRow && !localJson) {
         return null
+    }
+
+    const suttaplex = localJson?.suttaplex
+    const translation = localJson?.translation
+
+    return {
+        uid: pickNonEmptyString(indexRow?.id, translation?.uid, suttaplex?.uid, normalizedId) || normalizedId,
+        acronym: pickNonEmptyString(formatSuttaCode(normalizedId), suttaplex?.acronym) || formatSuttaCode(normalizedId),
+        original_title: pickNonEmptyString(indexRow?.paliTitle, indexRow?.title, suttaplex?.original_title, normalizedId) || normalizedId,
+        translated_title: pickNonEmptyString(indexRow?.title, translation?.title, suttaplex?.translated_title),
+        blurb: pickNonEmptyString(indexRow?.blurb, suttaplex?.blurb, '') || '',
+        difficulty: typeof suttaplex?.difficulty === 'object' ? suttaplex.difficulty : undefined,
+        translations: Array.isArray(suttaplex?.translations) ? suttaplex.translations : [],
+        parallel_count: typeof suttaplex?.parallel_count === 'number' ? suttaplex.parallel_count : 0,
     }
 }
 

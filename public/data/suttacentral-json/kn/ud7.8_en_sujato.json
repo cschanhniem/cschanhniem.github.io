@@ -1,353 +1,71 @@
 {
+  "html_text": {
+    "ud7.8:0.1": "<article id='ud7.8'><header><ul><li class='division'>{}</li></ul>",
+    "ud7.8:0.2": "<h1 class='sutta-title'>{}</h1></header>",
+    "ud7.8:1.1": "<p><span class='evam'>{}</span>",
+    "ud7.8:1.2": "{}",
+    "ud7.8:1.3": "{}</p>",
+    "ud7.8:2.1": "<p>{}</p>",
+    "ud7.8:3.1": "<p>{}</p>",
+    "ud7.8:4.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "ud7.8:4.2": "<span class='verse-line'>{}</span>",
+    "ud7.8:4.3": "<span class='verse-line'>{}</span>",
+    "ud7.8:4.4": "<span class='verse-line'>{}</span>",
+    "ud7.8:4.5": "<span class='verse-line'>{}</span>",
+    "ud7.8:4.6": "<span class='verse-line'>{}</span></p></blockquote>",
+    "ud7.8:4.7": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "ud7.8",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kaccānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Ending of Proliferation ",
-      "uid": "ud7.7"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "The Well ",
-      "uid": "ud7.9"
-    }
+    "ud7.8:0.1": "Udāna 7.8 ",
+    "ud7.8:0.2": "Kaccānasutta ",
+    "ud7.8:1.1": "Evaṁ me sutaṁ—",
+    "ud7.8:1.2": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ",
+    "ud7.8:1.3": "Tena kho pana samayena āyasmā mahākaccāno bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya kāyagatāya satiyā ajjhattaṁ parimukhaṁ sūpaṭṭhitāya. ",
+    "ud7.8:2.1": "Addasā kho bhagavā āyasmantaṁ mahākaccānaṁ avidūre nisinnaṁ pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya kāyagatāya satiyā ajjhattaṁ parimukhaṁ sūpaṭṭhitāya. ",
+    "ud7.8:3.1": "Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: ",
+    "ud7.8:4.1": "“Yassa siyā sabbadā sati, ",
+    "ud7.8:4.2": "Satataṁ kāyagatā upaṭṭhitā; ",
+    "ud7.8:4.3": "No cassa no ca me siyā, ",
+    "ud7.8:4.4": "Na bhavissati na ca me bhavissati; ",
+    "ud7.8:4.5": "Anupubbavihāri tattha so, ",
+    "ud7.8:4.6": "Kāleneva tare visattikan”ti. ",
+    "ud7.8:4.7": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "ud7.8",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Kaccāna ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Ending of Proliferation ",
-      "uid": "ud7.7"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "The Well ",
-      "uid": "ud7.9"
-    }
+  "translation_text": {
+    "ud7.8:0.1": "Heartfelt Sayings 7.8 ",
+    "ud7.8:0.2": "Kaccāna ",
+    "ud7.8:1.1": "So I have heard. ",
+    "ud7.8:1.2": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. ",
+    "ud7.8:1.3": "Now at that time Venerable Mahākaccāna was sitting not far from the Buddha, cross-legged, with his body straight and mindfulness of the body well-established internally in his presence. ",
+    "ud7.8:2.1": "The Buddha saw him meditating there. ",
+    "ud7.8:3.1": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment: ",
+    "ud7.8:4.1": "“Their mindfulness would always ",
+    "ud7.8:4.2": "be established in the body, constant: ",
+    "ud7.8:4.3": "‘It might not be, and it might not be mine, ",
+    "ud7.8:4.4": "It will not be, and it will not be mine.’ ",
+    "ud7.8:4.5": "Meditating stage by stage on that, ",
+    "ud7.8:4.6": "in time they’d cross over clinging.” "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Ud 7.8",
-    "volpages": " PTS 78",
-    "alt_volpages": null,
-    "uid": "ud7.8",
-    "blurb": "Ven. Mahā Kaccāyana meditates.",
-    "difficulty": null,
-    "original_title": "Kaccānasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Kaccāna ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "ud7.8_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Mit Kaccāna ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2021",
-        "id": "ud7.8_translation-en-sujato",
-        "segmented": true,
-        "title": "Kaccāna ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "ud7.8_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "brankokovacevic",
-        "author_uid": "brankokovacevic",
-        "publication_date": "2024",
-        "id": "ud7.8_translation-sr-brankokovacevic",
-        "segmented": true,
-        "title": "Kaććāna ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1920",
-        "id": "de_ud7.8_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "Bhikkhu Ānandajoti",
-        "author_short": "Ānandajoti",
-        "author_uid": "anandajoti",
-        "has_comment": false,
-        "id": "en_ud7.8_anandajoti",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "2008",
-        "segmented": false,
-        "volpage": null,
-        "title": "The Discourse about Kaccāna"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "F. Tola, C. Dragonetti",
-        "author_short": "Tola …",
-        "author_uid": "tola-dragonetti",
-        "publication_date": "2009",
-        "id": "es_ud7.8_tola-dragonetti",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "id",
-        "lang_name": "Bahasa Indonesia",
-        "is_root": false,
-        "author": "Indra Anggara",
-        "author_short": "Anggara",
-        "author_uid": "anggara",
-        "publication_date": null,
-        "id": "id_ud7.8_anggara",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_ud7.8_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_ud7.8_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_ud7.8_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_ud7.8_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_ud7.8_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": null,
-        "id": "pt_ud7.8_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "Леонид Шаповалов",
-        "author_short": "Шаповалов",
-        "author_uid": "shapovalov",
-        "publication_date": null,
-        "id": "ru_ud7.8_shapovalov",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_ud7.8_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_ud7.8_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "tr",
-        "lang_name": "Türkçe",
-        "is_root": false,
-        "author": "Cem Şen",
-        "author_short": "Cem Şen",
-        "author_uid": "cemsen",
-        "publication_date": "2024",
-        "id": "tr_ud7.8_cemsen",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 6,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms18Ud_639, msdiv68, vri47.161,dr25.234, ms18Ud_640,ms18Ud_641,ms18Ud_642, pts-vp-pli78, sya25.203, vns83",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "ud7.8:1.1": "ms18Ud_639, msdiv68, vri47.161",
+    "ud7.8:2.1": "dr25.234, ms18Ud_640",
+    "ud7.8:3.1": "ms18Ud_641",
+    "ud7.8:4.1": "ms18Ud_642, pts-vp-pli78, sya25.203, vns83"
   },
-  "bilara_root_text": {
-    "uid": "ud7.8",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Kaccānasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
-  },
-  "bilara_translated_text": {
-    "uid": "ud7.8",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Kaccāna ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "anandajoti"
+  "keys_order": [
+    "ud7.8:0.1",
+    "ud7.8:0.2",
+    "ud7.8:1.1",
+    "ud7.8:1.2",
+    "ud7.8:1.3",
+    "ud7.8:2.1",
+    "ud7.8:3.1",
+    "ud7.8:4.1",
+    "ud7.8:4.2",
+    "ud7.8:4.3",
+    "ud7.8:4.4",
+    "ud7.8:4.5",
+    "ud7.8:4.6",
+    "ud7.8:4.7"
   ]
 }

@@ -1,366 +1,87 @@
 {
+  "comment_text": {
+    "iti77:3.2": "<i lang='pi' translate='no'>Virāgunaṁ</i> is a secondary derivation from <i lang='pi' translate='no'>virāga</i> with the <i lang='pi' translate='no'>-una</i> suffix. Also found at <a href='https://suttacentral.net/mn112/en/sujato#6.2'>MN 112:6.2</a>. "
+  },
+  "html_text": {
+    "iti77:0.1": "<article id='iti77'><header><ul><li class='division'>{}</li>",
+    "iti77:0.2": "<li class='nipata'>{}</li>",
+    "iti77:0.3": "<li class='vagga'>{}</li></ul>",
+    "iti77:0.4": "<h1 class='sutta-title'>{}</h1></header>",
+    "iti77:1.1": "<p>{}</p>",
+    "iti77:2.1": "<p>{}</p>",
+    "iti77:2.2": "<p>{}",
+    "iti77:2.3": "{}</p>",
+    "iti77:3.1": "<blockquote class='gatha'><p><span class='verse-line'>{}</span>",
+    "iti77:3.2": "<span class='verse-line'>{}</span>",
+    "iti77:3.3": "<span class='verse-line'>{}</span>",
+    "iti77:3.4": "<span class='verse-line'>{}</span>",
+    "iti77:3.5": "<span class='verse-line'>{}</span>",
+    "iti77:3.6": "<span class='verse-line'>{}</span></p></blockquote>",
+    "iti77:4.1": "<p>{}</p>",
+    "iti77:4.2": "<p class='endsutta'>{}</p></article>"
+  },
   "root_text": {
-    "uid": "iti77",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bhidurasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Wishing for Happiness ",
-      "uid": "iti76"
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": "Converging Elements ",
-      "uid": "iti78"
-    }
+    "iti77:0.1": "Itivuttaka 77 ",
+    "iti77:0.2": "Tikanipāta ",
+    "iti77:0.3": "Tatiyavagga ",
+    "iti77:0.4": "Bhidurasutta ",
+    "iti77:1.1": "Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ: ",
+    "iti77:2.1": "“Bhidurāyaṁ, bhikkhave, kāyo, viññāṇaṁ virāgadhammaṁ, sabbe upadhī aniccā dukkhā vipariṇāmadhammā”ti. ",
+    "iti77:2.2": "Etamatthaṁ bhagavā avoca. ",
+    "iti77:2.3": "Tatthetaṁ iti vuccati: ",
+    "iti77:3.1": "“Kāyañca bhiduraṁ ñatvā, ",
+    "iti77:3.2": "Viññāṇañca virāgunaṁ; ",
+    "iti77:3.3": "Upadhīsu bhayaṁ disvā, ",
+    "iti77:3.4": "Jātimaraṇamaccagā; ",
+    "iti77:3.5": "Sampatvā paramaṁ santiṁ, ",
+    "iti77:3.6": "Kālaṁ kaṅkhati bhāvitatto”ti. ",
+    "iti77:4.1": "Ayampi attho vutto bhagavatā, iti me sutanti. ",
+    "iti77:4.2": "Aṭṭhamaṁ. "
   },
-  "translation": {
-    "uid": "iti77",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Fragile ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Wishing for Happiness ",
-      "uid": "iti76"
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": "Converging Elements ",
-      "uid": "iti78"
-    }
+  "translation_text": {
+    "iti77:0.1": "So It Was Said 77 ",
+    "iti77:0.2": "The Book of the Threes ",
+    "iti77:0.3": "Chapter Three ",
+    "iti77:0.4": "Fragile ",
+    "iti77:1.1": "This was said by the Buddha, the Perfected One: that is what I heard. ",
+    "iti77:2.1": "“This body is fragile, mendicants, consciousness is liable to fade away, and all attachments are impermanent, suffering, and perishable.” ",
+    "iti77:2.2": "The Buddha spoke this matter. ",
+    "iti77:2.3": "On this it is said: ",
+    "iti77:3.1": "“Knowing that the body is fragile, ",
+    "iti77:3.2": "that consciousness is faded, ",
+    "iti77:3.3": "and seeing the danger in attachments, ",
+    "iti77:3.4": "they go beyond birth and death. ",
+    "iti77:3.5": "Having attained ultimate peace, ",
+    "iti77:3.6": "evolved, they await their time.” ",
+    "iti77:4.1": "This too is a matter that was spoken by the Blessed One: that is what I heard. "
   },
-  "segmented": true,
-  "suttaplex": {
-    "acronym": "Iti 77",
-    "volpages": "PTS Iti 69",
-    "alt_volpages": null,
-    "uid": "iti77",
-    "blurb": "This body falls apart; consciousness is subject to fading; all acquisitions are inconstant, sufferingful, subject to change.",
-    "difficulty": null,
-    "original_title": "Bhidurasutta",
-    "root_lang": "pli",
-    "root_lang_name": "Pāli",
-    "type": "leaf",
-    "from": null,
-    "translated_title": "Fragile ",
-    "translations": [
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Sabbamitta",
-        "author_short": "sabbamitta",
-        "author_uid": "sabbamitta",
-        "publication_date": null,
-        "id": "iti77_translation-de-sabbamitta",
-        "segmented": true,
-        "title": "Zerbrechlich ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "en",
-        "lang_name": "English",
-        "is_root": false,
-        "author": "Bhikkhu Sujato",
-        "author_short": "sujato",
-        "author_uid": "sujato",
-        "publication_date": "2020",
-        "id": "iti77_translation-en-sujato",
-        "segmented": true,
-        "title": "Fragile ",
-        "volpage": null,
-        "has_comment": true
-      },
-      {
-        "lang": "lt",
-        "lang_name": "Lietuvių Kalba",
-        "is_root": false,
-        "author": "Sayalay Piyadassi",
-        "author_short": "piyadassi",
-        "author_uid": "piyadassi",
-        "publication_date": "2023",
-        "id": "iti77_translation-lt-piyadassi",
-        "segmented": true,
-        "title": "Trapus ",
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pli",
-        "lang_name": "Pāli",
-        "is_root": true,
-        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-        "author_short": "ms",
-        "author_uid": "ms",
-        "publication_date": null,
-        "id": "iti77_root-pli-ms",
-        "segmented": true,
-        "title": null,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ca",
-        "lang_name": "Català",
-        "is_root": false,
-        "author": "Albert Biayna Gea",
-        "author_short": "Gea",
-        "author_uid": "gea",
-        "publication_date": null,
-        "id": "ca_iti77_gea",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "cs",
-        "lang_name": "Čeština",
-        "is_root": false,
-        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
-        "author_short": "Gavésakó …",
-        "author_uid": "gavesako-chromovsky",
-        "publication_date": null,
-        "id": "cs_iti77_gavesako-chromovsky",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "de",
-        "lang_name": "Deutsch",
-        "is_root": false,
-        "author": "Karl Seidenstücker",
-        "author_short": "Seidenstücker",
-        "author_uid": "seidenstuecker",
-        "publication_date": "1922",
-        "id": "de_iti77_seidenstuecker",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "author": "John D. Ireland",
-        "author_short": "Ireland",
-        "author_uid": "ireland",
-        "has_comment": false,
-        "id": "en_iti77_ireland",
-        "is_root": false,
-        "lang": "en",
-        "lang_name": "English",
-        "publication_date": "1997",
-        "segmented": false,
-        "volpage": null,
-        "title": "Perishable"
-      },
-      {
-        "lang": "es",
-        "lang_name": "Español",
-        "is_root": false,
-        "author": "Cayetano",
-        "author_short": "Cayetano",
-        "author_uid": "cayetano",
-        "publication_date": "2014",
-        "id": "es_iti77_cayetano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "fr",
-        "lang_name": "Français",
-        "is_root": false,
-        "author": "Canonpali.org",
-        "author_short": "CPO",
-        "author_uid": "canonpaliorg",
-        "publication_date": null,
-        "id": "fr_iti77_canonpaliorg",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "it",
-        "lang_name": "Italiano",
-        "is_root": false,
-        "author": "Enzo Alfano",
-        "author_short": "Alfano",
-        "author_uid": "alfano",
-        "publication_date": null,
-        "id": "it_iti77_alfano",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "jpn",
-        "lang_name": "日本語",
-        "is_root": false,
-        "author": "関西パーリ語実習会",
-        "author_short": "関西パーリ語実習会",
-        "author_uid": "kansai",
-        "publication_date": "2023",
-        "id": "jpn_iti77_kansai",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "my",
-        "lang_name": "မြန်မာဘာသာ",
-        "is_root": false,
-        "author": "Pitaka Myanmar Translation",
-        "author_short": "PMT",
-        "author_uid": "pmt",
-        "publication_date": null,
-        "id": "my_iti77_pmt",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "nl",
-        "lang_name": "Nederlands",
-        "is_root": false,
-        "author": "Guy Eugène Dubois",
-        "author_short": "Dubois",
-        "author_uid": "dubois",
-        "publication_date": null,
-        "id": "nl_iti77_dubois",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "no",
-        "lang_name": "Norsk",
-        "is_root": false,
-        "author": "Kåre A. Lie",
-        "author_short": "Lie",
-        "author_uid": "lie",
-        "publication_date": null,
-        "id": "no_iti77_lie",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "pt",
-        "lang_name": "Português",
-        "is_root": false,
-        "author": "Michael Beisert",
-        "author_short": "Beisert",
-        "author_uid": "beisert",
-        "publication_date": "2014",
-        "id": "pt_iti77_beisert",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "ru",
-        "lang_name": "Русский",
-        "is_root": false,
-        "author": "SV",
-        "author_short": "SV",
-        "author_uid": "sv",
-        "publication_date": "2014",
-        "id": "ru_iti77_sv",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "si",
-        "lang_name": "සිංහල",
-        "is_root": false,
-        "author": "A.P. de Zoysa",
-        "author_short": "Zoysa",
-        "author_uid": "zoysa",
-        "publication_date": null,
-        "id": "si_iti77_zoysa",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      },
-      {
-        "lang": "sr",
-        "lang_name": "Srpski",
-        "is_root": false,
-        "author": "Branislav Kovačević",
-        "author_short": "Kovačević",
-        "author_uid": "kovacevic",
-        "publication_date": "2022",
-        "id": "sr_iti77_kovacevic",
-        "segmented": false,
-        "volpage": null,
-        "has_comment": false
-      }
-    ],
-    "parallel_count": 0,
-    "biblio": null,
-    "priority_author_uid": "sujato",
-    "verseNo": "ms18It_510, ndp20.229,ms18It_511,dr25.323, ms18It_512, sya25.284, vns154, vri48.51,ms18It_513",
-    "previous": {
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "name": null,
-      "uid": null
-    }
+  "variant_text": {
+    "iti77:2.1": "Bhidurāyaṁ → bhindantāyaṁ (sya-all, pts-vp-pli1, mr) ",
+    "iti77:3.1": "bhiduraṁ → bhindantaṁ (sya-all, pts-vp-pli1, mr) ",
+    "iti77:3.2": "virāgunaṁ → pabhaṅguraṁ (bj); virāgikaṁ (si, pts-vp-pli1); pabhaṅguṇaṁ (sya-all) "
   },
-  "bilara_root_text": {
-    "uid": "iti77",
-    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
-    "author_short": "ms",
-    "author_uid": "ms",
-    "lang": "pli",
-    "title": "Bhidurasutta",
-    "previous": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "ms",
-      "lang": "pli",
-      "name": null,
-      "uid": null
-    }
+  "reference_text": {
+    "iti77:1.1": "ms18It_510, ndp20.229",
+    "iti77:2.1": "ms18It_511",
+    "iti77:3.1": "dr25.323, ms18It_512, sya25.284, vns154, vri48.51",
+    "iti77:4.1": "ms18It_513"
   },
-  "bilara_translated_text": {
-    "uid": "iti77",
-    "lang": "en",
-    "author_uid": "sujato",
-    "author": "Bhikkhu Sujato",
-    "author_short": "sujato",
-    "title": "Fragile ",
-    "previous": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    },
-    "next": {
-      "author_uid": "sujato",
-      "lang": "en",
-      "name": null,
-      "uid": null
-    }
-  },
-  "candidate_authors": [
-    "ireland"
+  "keys_order": [
+    "iti77:0.1",
+    "iti77:0.2",
+    "iti77:0.3",
+    "iti77:0.4",
+    "iti77:1.1",
+    "iti77:2.1",
+    "iti77:2.2",
+    "iti77:2.3",
+    "iti77:3.1",
+    "iti77:3.2",
+    "iti77:3.3",
+    "iti77:3.4",
+    "iti77:3.5",
+    "iti77:3.6",
+    "iti77:4.1",
+    "iti77:4.2"
   ]
 }

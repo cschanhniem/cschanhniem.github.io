@@ -8,23 +8,138 @@ const __dirname = path.dirname(__filename);
 const DATA_DIR = path.join(__dirname, '../public/data/suttacentral-json');
 const OUTPUT_FILE = path.join(DATA_DIR, 'nikaya_index.json');
 
-// Helper to sort sutta IDs (dn1, dn2, dn10...)
+function tokenizeSuttaId(id) {
+    return String(id)
+        .toLowerCase()
+        .match(/[a-z]+|\d+|[^a-z\d]+/g) || [String(id).toLowerCase()]
+}
+
+function cleanInlineText(value) {
+    if (typeof value !== 'string') return null
+
+    const normalized = value
+        .replace(/<[^>]*>/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+
+    if (!normalized) return null
+    if (/^(~|null|undefined)$/i.test(normalized)) return null
+    if (/^[{}[\]()]+$/.test(normalized)) return null
+
+    return normalized
+}
+
+function pickNonEmpty(...values) {
+    for (const value of values) {
+        const cleaned = cleanInlineText(value)
+        if (cleaned) {
+            return cleaned
+        }
+    }
+
+    return null
+}
+
+function extractBilaraTitleFields(content) {
+    const orderedKeys = Array.isArray(content.keys_order) ? content.keys_order : []
+    const htmlKeys = Object.keys(content.html_text || {})
+    const candidateKeys = [...new Set([...orderedKeys, ...htmlKeys])]
+
+    for (const key of candidateKeys) {
+        const html = content.html_text?.[key]
+
+        if (typeof html !== 'string' || !html.includes('sutta-title')) {
+            continue
+        }
+
+        return {
+            translatedTitle: pickNonEmpty(
+                content.translation_text?.[key],
+                content.bilara_translated_text?.[key],
+            ),
+            paliTitle: pickNonEmpty(content.root_text?.[key]),
+        }
+    }
+
+    return {
+        translatedTitle: null,
+        paliTitle: null,
+    }
+}
+
+function extractMetadataCandidate(id, collection, content) {
+    const bilaraTitle = extractBilaraTitleFields(content)
+
+    return {
+        id,
+        collection,
+        title: pickNonEmpty(
+            content.suttaplex?.translated_title,
+            content.translation?.title,
+            bilaraTitle.translatedTitle,
+            content.suttaplex?.original_title,
+            bilaraTitle.paliTitle,
+        ),
+        paliTitle: pickNonEmpty(
+            content.suttaplex?.original_title,
+            bilaraTitle.paliTitle,
+        ),
+        blurb: pickNonEmpty(content.suttaplex?.blurb),
+        difficulty: content.suttaplex?.difficulty ?? null,
+    }
+}
+
+function mergeMetadata(base, candidate) {
+    if (!candidate) return base
+
+    return {
+        ...base,
+        title: base.title || candidate.title,
+        paliTitle: base.paliTitle || candidate.paliTitle,
+        blurb: base.blurb || candidate.blurb,
+        difficulty: base.difficulty ?? candidate.difficulty ?? null,
+    }
+}
+
+// Sort IDs naturally, while keeping grouped ranges ahead of the first item they cover.
 const sortSuttaIds = (a, b) => {
-    if (!a.id || !b.id) return 0;
-    const splitA = a.id.match(/([a-z]+)(\d+)(\.*.*)/);
-    const splitB = b.id.match(/([a-z]+)(\d+)(\.*.*)/);
+    if (!a.id || !b.id) return 0
 
-    if (!splitA || !splitB) return a.id.localeCompare(b.id);
-    // ... existing logic
+    const tokensA = tokenizeSuttaId(a.id)
+    const tokensB = tokenizeSuttaId(b.id)
+    const maxLength = Math.max(tokensA.length, tokensB.length)
 
-    const scriptA = splitA[1];
-    const numA = parseFloat(splitA[2] + (splitA[3] || ''));
-    const scriptB = splitB[1];
-    const numB = parseFloat(splitB[2] + (splitB[3] || ''));
+    for (let index = 0; index < maxLength; index++) {
+        const tokenA = tokensA[index]
+        const tokenB = tokensB[index]
 
-    if (scriptA !== scriptB) return scriptA.localeCompare(scriptB);
-    return numA - numB;
-};
+        if (tokenA === undefined || tokenB === undefined) {
+            if (tokenA === tokenB) return 0
+            const remainingToken = tokenA === undefined ? tokenB : tokenA
+
+            if (remainingToken === '-') {
+                return tokenA === undefined ? 1 : -1
+            }
+
+            return tokenA === undefined ? -1 : 1
+        }
+
+        if (tokenA === tokenB) {
+            continue
+        }
+
+        const tokenANumber = /^\d+$/.test(tokenA) ? Number(tokenA) : null
+        const tokenBNumber = /^\d+$/.test(tokenB) ? Number(tokenB) : null
+
+        if (tokenANumber !== null && tokenBNumber !== null) {
+            return tokenANumber - tokenBNumber
+        }
+
+        return tokenA.localeCompare(tokenB)
+    }
+
+    return 0
+}
 
 async function main() {
     console.log('Generating Nikaya Index...');
@@ -36,7 +151,6 @@ async function main() {
 
     const collections = ['dn', 'mn', 'sn', 'an', 'kn'];
     const index = [];
-    const processedIds = new Set();
 
     for (const collection of collections) {
         const dir = path.join(DATA_DIR, collection);
@@ -61,78 +175,48 @@ async function main() {
         });
 
         for (const id in suttas) {
-            // Skip if already processed (avoid duplicates)
-            if (processedIds.has(id)) continue;
-            processedIds.add(id);
-
-            // Read Vietnamese file first, then English
-            let metadata = null;
-            const langs = ['vi', 'en'];
+            // Read Vietnamese first for local-facing labels, then fill any blanks from English.
+            let metadata = {
+                id,
+                title: null,
+                paliTitle: null,
+                blurb: null,
+                difficulty: null,
+                collection,
+            }
+            const langs = ['vi', 'en']
 
             for (const lang of langs) {
                 if (suttas[id][lang]) {
                     try {
-                        const content = JSON.parse(fs.readFileSync(suttas[id][lang], 'utf-8'));
-
-                        // Try to extract metadata
-                        // Strategy 1: suttaplex
-                        if (content.suttaplex) {
-                            const suttaId = content.suttaplex.uid || id;
-                            // Also check suttaplex uid for duplicates
-                            if (processedIds.has(suttaId) && suttaId !== id) {
-                                metadata = null; // Skip this duplicate
-                                break;
-                            }
-                            processedIds.add(suttaId);
-                            
-                            metadata = {
-                                id: suttaId,
-                                title: content.suttaplex.translated_title || content.suttaplex.original_title,
-                                paliTitle: content.suttaplex.original_title,
-                                blurb: content.suttaplex.blurb,
-                                difficulty: content.suttaplex.difficulty,
-                                collection: collection
-                            };
-                            break;
-                        }
-
-                        // Strategy 2: root_text or translation title
-                        if (content.translation && content.translation.title) {
-                            metadata = {
-                                id: id,
-                                title: content.translation.title,
-                                paliTitle: null,
-                                collection: collection
-                            };
-                            // Clean HTML from title if present
-                            metadata.title = metadata.title.replace(/<[^>]*>/g, '');
-                            break;
-                        }
+                        const content = JSON.parse(fs.readFileSync(suttas[id][lang], 'utf-8'))
+                        metadata = mergeMetadata(
+                            metadata,
+                            extractMetadataCandidate(id, collection, content),
+                        )
                     } catch (e) {
-                        console.warn(`Failed to parse ${suttas[id][lang]}`);
+                        console.warn(`Failed to parse ${suttas[id][lang]}`)
                     }
                 }
             }
 
-            if (metadata) {
-                index.push(metadata);
+            if (metadata.title) {
+                index.push(metadata)
             } else {
-                // Determine implicit title from ID if parse failed but file exists
                 index.push({
-                    id: id,
+                    id,
                     title: `${id.toUpperCase()}`,
-                    collection: collection
-                });
+                    collection,
+                })
             }
         }
     }
 
-    // Sort index
-    index.sort(sortSuttaIds);
+    index.sort(sortSuttaIds)
 
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(index, null, 2));
-    console.log(`Index generated with ${index.length} suttas.`);
-    console.log(`Saved to ${OUTPUT_FILE}`);
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(index, null, 2))
+    console.log(`Index generated with ${index.length} suttas.`)
+    console.log(`Saved to ${OUTPUT_FILE}`)
 }
 
 main().catch(console.error);
