@@ -19,12 +19,38 @@ import { an1_10 } from './an-1-10'
 import { mn10 } from './mn-10'
 import { dn1 } from './dn-1'
 import { dn2 } from './dn-2'
+import { dn3 } from './dn-3'
+import { dn4 } from './dn-4'
+import { dn5 } from './dn-5'
 import { dn22 } from './dn-22'
 import { dn20 } from './dn-20'
 import { dn6 } from './dn-6'
 import { dn7 } from './dn-7'
+import { dn8 } from './dn-8'
+import { dn9 } from './dn-9'
 import { dn10 } from './dn-10'
+import { dn11 } from './dn-11'
+import { dn12 } from './dn-12'
+import { dn13 } from './dn-13'
+import { dn14 } from './dn-14'
+import { dn15 } from './dn-15'
+import { dn16 } from './dn-16'
+import { dn17 } from './dn-17'
+import { dn18 } from './dn-18'
+import { dn19 } from './dn-19'
 import { dn31 } from './dn-31'
+import { dn21 } from './dn-21'
+import { dn23 } from './dn-23'
+import { dn24 } from './dn-24'
+import { dn25 } from './dn-25'
+import { dn26 } from './dn-26'
+import { dn27 } from './dn-27'
+import { dn28 } from './dn-28'
+import { dn29 } from './dn-29'
+import { dn30 } from './dn-30'
+import { dn32 } from './dn-32'
+import { dn33 } from './dn-33'
+import { dn34 } from './dn-34'
 import { kp1 } from './kp-1'
 import { kp2 } from './kp-2'
 import { kp3 } from './kp-3'
@@ -63,13 +89,39 @@ export const viImproved: Record<string, ImprovedTranslation> = {
     'mn5': mn5,
     'dn1': dn1,
     'dn2': dn2,
+    'dn3': dn3,
+    'dn4': dn4,
+    'dn5': dn5,
     'dn6': dn6,
     'dn7': dn7,
+    'dn8': dn8,
+    'dn9': dn9,
     'dn10': dn10,
+    'dn11': dn11,
+    'dn12': dn12,
+    'dn13': dn13,
+    'dn14': dn14,
+    'dn15': dn15,
+    'dn16': dn16,
+    'dn17': dn17,
+    'dn18': dn18,
+    'dn19': dn19,
     'dn20': dn20,
+    'dn21': dn21,
     'mn10': mn10,
     'dn22': dn22,
+    'dn23': dn23,
+    'dn24': dn24,
+    'dn25': dn25,
+    'dn26': dn26,
+    'dn27': dn27,
+    'dn28': dn28,
+    'dn29': dn29,
+    'dn30': dn30,
     'dn31': dn31,
+    'dn32': dn32,
+    'dn33': dn33,
+    'dn34': dn34,
     'kp1': kp1,
     'kp2': kp2,
     'kp3': kp3,

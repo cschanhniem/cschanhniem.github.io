@@ -204,6 +204,7 @@ Use this branch when Nikaya detail pages show placeholder prose, raw Bilara temp
 42. Do not fabricate HT. Thích Minh Châu content for peyyala routes that do not exist in the verified edition. Once proven absent, the correct product behavior is an explicit source-gap explanation, not synthetic filler.
 43. For `SN` manual 2026 translation work, start with a doctrinal spine across major saṃyuttas instead of only translating consecutive IDs. A first pass that covers dependent origination, right view, not-self, the burning discourse, satipaṭṭhāna conditions, and the truths sets a cleaner editorial bar for later expansion.
 44. For `KN` manual 2026 translation work, begin with `Khuddakapāṭha` (`kp1-kp9`) as a single editorial cluster. Those texts are short, foundational, and often liturgical, so preserve the chant body itself before adding any brief framing notes.
+45. `DN` manual 2026 coverage is now complete. When revising `DN`, assume the task is to improve fidelity, cadence, or explanatory framing rather than to fill missing routes.
 
 ### Nikaya State Machine
 
