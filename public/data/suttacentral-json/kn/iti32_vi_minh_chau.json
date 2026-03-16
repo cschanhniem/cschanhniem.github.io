@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti32",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXXII) (Duk. I,5) (It. 26)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, đầy đủ hai pháp, một người như vậy tương xứng bị \n\t\t\t\t\t\t\t\trơi vào địa ngục. Thế nào là hai? Ác giới và ác kiến. Này các Tỷ-kheo, đầy đủ \n\t\t\t\t\t\t\t\thai pháp này, một người, như vậy tương xứng bị rơi vào địa ngục.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người nào được thành tựu,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ hai pháp này,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ với ác giới,<br>\n\t\t\t\t\t\t\t\t\t\tVà đầy đủ ác kiến,<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tNgười có ác trí tuệ,<br>\n\t\t\t\t\t\t\t\t\t\tNgười ấy phải bị sanh,<br>\n\t\t\t\t\t\t\t\t\tVào cảnh giới địa ngục.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti32",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXXII) (Duk. I,5) (It. 26)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, đầy đủ hai pháp, một người như vậy tương xứng bị \n\t\t\t\t\t\t\t\trơi vào địa ngục. Thế nào là hai? Ác giới và ác kiến. Này các Tỷ-kheo, đầy đủ \n\t\t\t\t\t\t\t\thai pháp này, một người, như vậy tương xứng bị rơi vào địa ngục.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người nào được thành tựu,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ hai pháp này,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ với ác giới,<br>\n\t\t\t\t\t\t\t\t\t\tVà đầy đủ ác kiến,<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tNgười có ác trí tuệ,<br>\n\t\t\t\t\t\t\t\t\t\tNgười ấy phải bị sanh,<br>\n\t\t\t\t\t\t\t\t\tVào cảnh giới địa ngục.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 32",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

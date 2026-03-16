@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud3.5",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\">(V) (Ud 27)</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tngôi vườn ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn giả <i>Maha Moggallàna </i>\n\t\t\t\t\t\t\t\t\tngồi không xa Thế Tôn bao nhiêu, ngồi kiết già lưng thẳng, nội tâm khéo an trú \n\t\t\t\t\t\t\t\t\tthân hành niệm. Thế Tôn thấy Tôn giả <i>Maha Moggallàna</i> ngồi không xa bao \n\t\t\t\t\t\t\t\t\tnhiêu, ngồi kiết-già lưng thẳng nội tâm khéo an trú thân hành niệm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">5. Thân hành niệm an lập,<br>\n\t\t\t\t\t\t\t\t\t\t\tSáu xúc xứ chế ngự,<br>\n\t\t\t\t\t\t\t\t\t\t\tTỷ-kheo thường thiền định,<br>\n\t\t\t\t\t\t\t\t\t\t\tTự chứng tri Niết Bàn.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud3.5",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\">(V) (Ud 27)</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tngôi vườn ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn giả <i>Maha Moggallàna </i>\n\t\t\t\t\t\t\t\t\tngồi không xa Thế Tôn bao nhiêu, ngồi kiết già lưng thẳng, nội tâm khéo an trú \n\t\t\t\t\t\t\t\t\tthân hành niệm. Thế Tôn thấy Tôn giả <i>Maha Moggallàna</i> ngồi không xa bao \n\t\t\t\t\t\t\t\t\tnhiêu, ngồi kiết-già lưng thẳng nội tâm khéo an trú thân hành niệm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">5. Thân hành niệm an lập,<br>\n\t\t\t\t\t\t\t\t\t\t\tSáu xúc xứ chế ngự,<br>\n\t\t\t\t\t\t\t\t\t\t\tTỷ-kheo thường thiền định,<br>\n\t\t\t\t\t\t\t\t\t\t\tTự chứng tri Niết Bàn.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 3.5",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

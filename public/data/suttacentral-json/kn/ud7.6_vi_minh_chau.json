@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud7.6",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VI) (Ud 77)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika.</i> Lúc bấy giờ, Tôn giả <i>Annatakondanna</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết già, lưng thẳng, suy tư đến sự giải thoát \n\t\t\t\t\t\t\t\t\tdo ái được diệt. Thế Tôn thấy Tôn giả <i>Annatakondanna</i> ngồi không xa bao \n\t\t\t\t\t\t\t\t\tnhiêu, ngồi kiết già lưng thẳng, suy tư đến sự giải thoát do ái được diệt.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">6. Rễ không có bén đất,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông lá, đâu dây leo,<br>\n\t\t\t\t\t\t\t\t\t\t\tBậc trí thoát trói buộc,<br>\n\t\t\t\t\t\t\t\t\t\t\tAi xứng đáng được khen,<br>\n\t\t\t\t\t\t\t\t\t\t\tChư Thiên khen người ấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tPhạm Thiên cũng ngợi khen.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud7.6",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VI) (Ud 77)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika.</i> Lúc bấy giờ, Tôn giả <i>Annatakondanna</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết già, lưng thẳng, suy tư đến sự giải thoát \n\t\t\t\t\t\t\t\t\tdo ái được diệt. Thế Tôn thấy Tôn giả <i>Annatakondanna</i> ngồi không xa bao \n\t\t\t\t\t\t\t\t\tnhiêu, ngồi kiết già lưng thẳng, suy tư đến sự giải thoát do ái được diệt.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">6. Rễ không có bén đất,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông lá, đâu dây leo,<br>\n\t\t\t\t\t\t\t\t\t\t\tBậc trí thoát trói buộc,<br>\n\t\t\t\t\t\t\t\t\t\t\tAi xứng đáng được khen,<br>\n\t\t\t\t\t\t\t\t\t\t\tChư Thiên khen người ấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tPhạm Thiên cũng ngợi khen.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 7.6",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

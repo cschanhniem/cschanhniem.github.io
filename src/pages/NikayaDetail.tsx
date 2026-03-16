@@ -9,13 +9,21 @@ import { ChevronLeft, Type, Minus, Plus, Bookmark, ExternalLink } from 'lucide-r
 import type { NikayaLanguage, NikayaVersionType, SCSuttaplex } from '@/types/nikaya'
 import { NIKAYA_LANGUAGES, NIKAYA_COLLECTIONS } from '@/types/nikaya'
 import { getSuttaMetadata } from '@/lib/suttacentralApi'
-import { fetchLocalSuttaHtml, hasLocalContent, initLocalData, isGroupedCanonicalFallbackRoute } from '@/lib/suttacentralLocal'
+import {
+    type LocalOriginalContentResolution,
+    getCanonicalAliasForLanguage,
+    hasLocalContent,
+    initLocalData,
+    isGroupedCanonicalFallbackRoute,
+    resolveLocalOriginalContent,
+} from '@/lib/suttacentralLocal'
 import { getImprovedTranslation, hasImprovedTranslation } from '@/data/nikaya-improved'
 import { normalizeSuttaId } from '@/data/nikaya-improved/availability'
 import { NikayaVersionSwitcher } from '@/components/NikayaVersionSwitcher'
-import { NikayaComparisonView } from '@/components/NikayaComparisonView'
+import { NikayaComparisonView, type NikayaRenderNotice } from '@/components/NikayaComparisonView'
 import {
     CURATED_NIKAYA_VERSIONS,
+    getNikayaVersionLabel,
     type NikayaVersionOption,
 } from '@/lib/nikaya-version-options'
 import { useAppState } from '@/hooks/useAppState'
@@ -31,6 +39,7 @@ import { usePageMeta } from '@/lib/seo'
 import { NOINDEX_ROBOTS, SITE_URL } from '@/lib/site'
 import { useTranslation } from 'react-i18next'
 import { trackEvent } from '@/lib/analytics'
+import { getNikayaSourceGap, type NikayaSourceGap } from '@/lib/nikaya-source-gaps'
 
 type FontSize = 'small' | 'medium' | 'large'
 
@@ -38,6 +47,21 @@ const fontSizeClasses = {
     small: 'prose-sm',
     medium: 'prose-base',
     large: 'prose-lg'
+}
+
+interface LoadedNikayaContent {
+    content: string
+    resolution: LocalOriginalContentResolution | null
+}
+
+interface NikayaAvailabilityNotice extends NikayaRenderNotice {
+    key: string
+}
+
+function formatSuttaCodeForNotice(suttaId: string): string {
+    const match = suttaId.match(/^([a-z]+)(.+)$/i)
+    if (!match) return suttaId.toUpperCase()
+    return `${match[1].toUpperCase()} ${match[2]}`
 }
 
 export function NikayaDetail() {
@@ -93,6 +117,8 @@ export function NikayaDetail() {
     // Content
     const [primaryContent, setPrimaryContent] = useState<string>('')
     const [secondaryContent, setSecondaryContent] = useState<string>('')
+    const [primaryResolution, setPrimaryResolution] = useState<LocalOriginalContentResolution | null>(null)
+    const [secondaryResolution, setSecondaryResolution] = useState<LocalOriginalContentResolution | null>(null)
     const [loadingContent, setLoadingContent] = useState(false)
 
     // Reading settings
@@ -254,33 +280,48 @@ export function NikayaDetail() {
     const fetchContent = useCallback(async (
         lang: NikayaLanguage,
         type: NikayaVersionType
-    ): Promise<string> => {
-        if (!normalizedSuttaId) return ''
+    ): Promise<LoadedNikayaContent> => {
+        if (!normalizedSuttaId) {
+            return {
+                content: '',
+                resolution: null,
+            }
+        }
 
         if (type === 'improved') {
             // Get from local improved data (markdown)
             const improved = getImprovedTranslation(normalizedSuttaId, lang)
-            return improved?.content || '*Bản dịch cải tiến đang được phát triển...*'
+            return {
+                content: improved?.content || '*Bản dịch cải tiến đang được phát triển...*',
+                resolution: null,
+            }
         }
 
-        // Get original from local JSON data first (HTML)
-        const localHtml = await fetchLocalSuttaHtml(normalizedSuttaId, lang)
-        if (localHtml) {
-            return localHtml
+        const resolved = await resolveLocalOriginalContent(normalizedSuttaId, lang)
+        if (resolved.html) {
+            return {
+                content: resolved.html,
+                resolution: resolved,
+            }
         }
 
         // Fallback message if not available locally
-        return `*Bản gốc ${NIKAYA_LANGUAGES[lang].nativeName} chưa được nhập vào thư viện địa phương.*
+        return {
+            content: `*Bản gốc ${NIKAYA_LANGUAGES[lang].nativeName} chưa được nhập vào thư viện địa phương.*
 
 Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/${normalizedSuttaId}/${lang}).`
+            ,
+            resolution: resolved,
+        }
     }, [normalizedSuttaId])
 
     // Load primary content
     useEffect(() => {
         const loadContent = async () => {
             setLoadingContent(true)
-            const content = await fetchContent(selectedVersion.lang, selectedVersion.type)
-            setPrimaryContent(content)
+            const loaded = await fetchContent(selectedVersion.lang, selectedVersion.type)
+            setPrimaryContent(loaded.content)
+            setPrimaryResolution(loaded.resolution)
             setLoadingContent(false)
         }
         loadContent()
@@ -291,11 +332,18 @@ Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/
         if (!comparisonMode) return
 
         const loadContent = async () => {
-            const content = await fetchContent(secondVersion.lang, secondVersion.type)
-            setSecondaryContent(content)
+            const loaded = await fetchContent(secondVersion.lang, secondVersion.type)
+            setSecondaryContent(loaded.content)
+            setSecondaryResolution(loaded.resolution)
         }
         loadContent()
     }, [comparisonMode, secondVersion, fetchContent])
+
+    useEffect(() => {
+        if (!comparisonMode) {
+            setSecondaryResolution(null)
+        }
+    }, [comparisonMode])
 
     // Track reading progress
     const handleScroll = useCallback(() => {
@@ -346,6 +394,71 @@ Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/
     prose-blockquote:text-muted-foreground prose-blockquote:my-4
     prose-hr:border-border prose-hr:my-8
   `
+
+    const buildRenderNotice = useCallback((
+        resolution: LocalOriginalContentResolution | null,
+        version: { lang: NikayaLanguage; type: NikayaVersionType }
+    ): NikayaRenderNotice | null => {
+        if (!resolution || version.type !== 'original') return null
+        if (resolution.mode === 'exact' || resolution.mode === 'missing') return null
+
+        const sourceId = resolution.sourceSuttaId
+            ? formatSuttaCodeForNotice(resolution.sourceSuttaId)
+            : formatSuttaCodeForNotice(normalizedSuttaId)
+        const suttaCode = metadata?.acronym || formatSuttaCodeForNotice(normalizedSuttaId)
+        const versionLabel = getNikayaVersionLabel(version.lang, version.type)
+
+        if (resolution.mode === 'scoped-grouped') {
+            return {
+                title: t('nikaya.renderFidelity.scopedGroupedTitle'),
+                body: t('nikaya.renderFidelity.scopedGroupedBody', {
+                    version: versionLabel,
+                    sourceId,
+                    suttaId: suttaCode,
+                }),
+            }
+        }
+
+        return {
+            title: t('nikaya.renderFidelity.opaqueGroupedTitle'),
+            body: t('nikaya.renderFidelity.opaqueGroupedBody', {
+                version: versionLabel,
+                sourceId,
+                suttaId: suttaCode,
+            }),
+        }
+    }, [metadata?.acronym, normalizedSuttaId, t])
+
+    const primaryNotice = buildRenderNotice(primaryResolution, selectedVersion)
+    const secondaryNotice = buildRenderNotice(secondaryResolution, secondVersion)
+    const buildSourceGapNotice = useCallback((
+        version: { lang: NikayaLanguage; type: NikayaVersionType },
+        gap: NikayaSourceGap
+    ): NikayaAvailabilityNotice => {
+        const versionLabel = getNikayaVersionLabel(version.lang, version.type)
+        const title = gap.status === 'verified-source-absence'
+            ? t('nikaya.sourceGaps.verifiedSourceAbsenceTitle', { version: versionLabel })
+            : t('nikaya.sourceGaps.upstreamContentGapTitle', { version: versionLabel })
+
+        return {
+            key: `${version.lang}:${gap.reasonKey}`,
+            title,
+            body: t(`nikaya.sourceGaps.reasons.${gap.reasonKey}`),
+        }
+    }, [t])
+    const sourceGapNotices = manifestReady
+        ? CURATED_NIKAYA_VERSIONS
+            .filter((version) => version.type === 'original')
+            .map((version) => {
+                const available = version.lang === 'en' ? coverage.hasOriginalEn : coverage.hasOriginalVi
+                if (available) return null
+
+                const canonicalAlias = getCanonicalAliasForLanguage(normalizedSuttaId, version.lang)
+                const gap = getNikayaSourceGap(normalizedSuttaId, version.lang, canonicalAlias)
+                return gap ? buildSourceGapNotice(version, gap) : null
+            })
+            .filter((notice): notice is NikayaAvailabilityNotice => Boolean(notice))
+        : []
 
     if (normalizedSuttaId && (routeCollection !== inferredCollection || suttaId !== normalizedSuttaId)) {
         return <Navigate to={canonicalPath} replace state={location.state} />
@@ -475,6 +588,19 @@ Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/
                                     ].filter(Boolean).join(', '),
                                 })}
                         </p>
+                        {sourceGapNotices.length > 0 && (
+                            <div className="mt-3 space-y-2">
+                                <p className="text-xs font-semibold uppercase tracking-[0.12em] text-amber-700 dark:text-amber-300">
+                                    {t('nikaya.sourceGaps.heading')}
+                                </p>
+                                {sourceGapNotices.map((notice) => (
+                                    <div key={notice.key} className="rounded-lg border border-amber-500/25 bg-amber-500/10 p-3">
+                                        <p className="text-sm font-semibold text-amber-700 dark:text-amber-300">{notice.title}</p>
+                                        <p className="mt-1 text-sm text-muted-foreground">{notice.body}</p>
+                                    </div>
+                                ))}
+                            </div>
+                        )}
                     </div>
                 )}
 
@@ -533,6 +659,8 @@ Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/
                     <NikayaComparisonView
                         leftContent={primaryContent}
                         rightContent={secondaryContent}
+                        leftNotice={primaryNotice}
+                        rightNotice={secondaryNotice}
                         leftVersion={{
                             lang: selectedVersion.lang,
                             type: selectedVersion.type,
@@ -545,6 +673,12 @@ Bạn có thể xem trực tiếp trên [SuttaCentral](https://suttacentral.net/
                     />
                 ) : (
                     <div className="bg-card rounded-lg border border-border p-6">
+                        {primaryNotice && (
+                            <div className="mb-5 rounded-lg border border-amber-500/25 bg-amber-500/10 p-4">
+                                <p className="text-sm font-semibold text-amber-700 dark:text-amber-300">{primaryNotice.title}</p>
+                                <p className="mt-1 text-sm text-muted-foreground">{primaryNotice.body}</p>
+                            </div>
+                        )}
                         <article className={proseClasses}>
                             {selectedVersion.type === 'original' ? (
                                 <div dangerouslySetInnerHTML={{ __html: primaryContent }} />

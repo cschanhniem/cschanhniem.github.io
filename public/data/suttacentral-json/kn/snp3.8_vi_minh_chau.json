@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp3.8",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(IX) Kinh <i>Vàsettha </i>(Sn 115)</strong></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">(Kinh này giống với kinh <i>Vàsettha, </i>số 98 của Trung Bộ Kinh, \n\t\t\t\t\t\t\t\t\t\tTập II)</p>\n\t\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "snp3.8",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(IX) Kinh <i>Vàsettha </i>(Sn 115)</strong></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">(Kinh này giống với kinh <i>Vàsettha, </i>số 98 của Trung Bộ Kinh, \n\t\t\t\t\t\t\t\t\t\tTập II)</p>\n\t\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 3.8",
@@ -264,5 +274,7 @@
   "candidate_authors": [
     "sujato",
     "mills"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti86",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXXXVI) (Tik. IV, 7) (It, 81)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Với vị Tỷ-kheo hành trì tùy pháp đúng pháp, đây là cách thức đúng \n\t\t\t\t\t\t\t\tđắn để giải thoát những chữ: \"Thực hành tùy pháp đúng pháp\". Khi vị ấy nói vị \n\t\t\t\t\t\t\t\tấy nói đúng pháp không phải phi pháp; khi vị ấy suy tư, vị ấy suy tư với suy tư \n\t\t\t\t\t\t\t\tđúng pháp, không phải suy tư phi pháp. Do từ bỏ hai điều ấy, vị ấy trú xả, \n\t\t\t\t\t\t\t\tchánh niệm tỉnh giác.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Thích pháp, hân hoan pháp,<br>\n\t\t\t\t\t\t\t\t\t\tSuy tư trên Chánh pháp,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo tùy niệm pháp,<br>\n\t\t\t\t\t\t\t\t\t\tChánh pháp không tổn giảm,<br>\n\t\t\t\t\t\t\t\t\t\tKhi đi hoặc khi đứng,<br>\n\t\t\t\t\t\t\t\t\t\tKhi ngồi hoặc khi nằm,<br>\n\t\t\t\t\t\t\t\t\t\tNội tâm được chế ngự<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy đạt an tịnh.</p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "iti86",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXXXVI) (Tik. IV, 7) (It, 81)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Với vị Tỷ-kheo hành trì tùy pháp đúng pháp, đây là cách thức đúng \n\t\t\t\t\t\t\t\tđắn để giải thoát những chữ: \"Thực hành tùy pháp đúng pháp\". Khi vị ấy nói vị \n\t\t\t\t\t\t\t\tấy nói đúng pháp không phải phi pháp; khi vị ấy suy tư, vị ấy suy tư với suy tư \n\t\t\t\t\t\t\t\tđúng pháp, không phải suy tư phi pháp. Do từ bỏ hai điều ấy, vị ấy trú xả, \n\t\t\t\t\t\t\t\tchánh niệm tỉnh giác.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Thích pháp, hân hoan pháp,<br>\n\t\t\t\t\t\t\t\t\t\tSuy tư trên Chánh pháp,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo tùy niệm pháp,<br>\n\t\t\t\t\t\t\t\t\t\tChánh pháp không tổn giảm,<br>\n\t\t\t\t\t\t\t\t\t\tKhi đi hoặc khi đứng,<br>\n\t\t\t\t\t\t\t\t\t\tKhi ngồi hoặc khi nằm,<br>\n\t\t\t\t\t\t\t\t\t\tNội tâm được chế ngự<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy đạt an tịnh.</p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 86",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp2.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(III) Kinh Xấu Hổ (Sn 45)</strong></p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">253. Ai mở miệng tuyên bố:<br>\n\t\t\t\t\t\t\t\t\t\t\tTôi là bạn của anh,<br>\n\t\t\t\t\t\t\t\t\t\t\tSở hành vượt xấu hổ,<br>\n\t\t\t\t\t\t\t\t\t\t\tLại khinh chán bạn mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông chịu khó gắng làm,<br>\n\t\t\t\t\t\t\t\t\t\t\tCông việc có thể làm.<br>\n\t\t\t\t\t\t\t\t\t\t\tCần biết người như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông phải bạn của tôi.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">254. Ai đối với bạn hữu,<br>\n\t\t\t\t\t\t\t\t\t\t\tChỉ làm với lời nói,<br>\n\t\t\t\t\t\t\t\t\t\t\tLời nói đẹp, khả ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhưng chỉ lời nói suông,<br>\n\t\t\t\t\t\t\t\t\t\t\tBậc trí biết người ấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười chỉ nói, không làm.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">255. Người luôn luôn chú ý,<br>\n\t\t\t\t\t\t\t\t\t\t\tNghi ngờ sự thiếu sót,<br>\n\t\t\t\t\t\t\t\t\t\t\tTìm kiếm các nhược điểm,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười ấy không phải bạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới ai có thể nắm,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư con nằm trên ngực,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười ấy mới thật bạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông bị ai chia ly.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">256. Ai mong lợi ích quả,<br>\n\t\t\t\t\t\t\t\t\t\t\tTu tập các sự kiện,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐem lại sự hân hoan,<br>\n\t\t\t\t\t\t\t\t\t\t\tTu tập sự an lạc,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐem lại thưởng, tán thán,<br>\n\t\t\t\t\t\t\t\t\t\t\tGánh trách nhiệm làm người.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">257. Uống xong vị viễn ly,<br>\n\t\t\t\t\t\t\t\t\t\t\tUống xong vị an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông sợ hãi, không ác,<br>\n\t\t\t\t\t\t\t\t\t\t\tHưởng vị ngọt, pháp hỷ.</p>\n\t\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "snp2.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(III) Kinh Xấu Hổ (Sn 45)</strong></p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">253. Ai mở miệng tuyên bố:<br>\n\t\t\t\t\t\t\t\t\t\t\tTôi là bạn của anh,<br>\n\t\t\t\t\t\t\t\t\t\t\tSở hành vượt xấu hổ,<br>\n\t\t\t\t\t\t\t\t\t\t\tLại khinh chán bạn mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông chịu khó gắng làm,<br>\n\t\t\t\t\t\t\t\t\t\t\tCông việc có thể làm.<br>\n\t\t\t\t\t\t\t\t\t\t\tCần biết người như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông phải bạn của tôi.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">254. Ai đối với bạn hữu,<br>\n\t\t\t\t\t\t\t\t\t\t\tChỉ làm với lời nói,<br>\n\t\t\t\t\t\t\t\t\t\t\tLời nói đẹp, khả ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhưng chỉ lời nói suông,<br>\n\t\t\t\t\t\t\t\t\t\t\tBậc trí biết người ấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười chỉ nói, không làm.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">255. Người luôn luôn chú ý,<br>\n\t\t\t\t\t\t\t\t\t\t\tNghi ngờ sự thiếu sót,<br>\n\t\t\t\t\t\t\t\t\t\t\tTìm kiếm các nhược điểm,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười ấy không phải bạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới ai có thể nắm,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư con nằm trên ngực,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười ấy mới thật bạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông bị ai chia ly.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">256. Ai mong lợi ích quả,<br>\n\t\t\t\t\t\t\t\t\t\t\tTu tập các sự kiện,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐem lại sự hân hoan,<br>\n\t\t\t\t\t\t\t\t\t\t\tTu tập sự an lạc,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐem lại thưởng, tán thán,<br>\n\t\t\t\t\t\t\t\t\t\t\tGánh trách nhiệm làm người.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">257. Uống xong vị viễn ly,<br>\n\t\t\t\t\t\t\t\t\t\t\tUống xong vị an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông sợ hãi, không ác,<br>\n\t\t\t\t\t\t\t\t\t\t\tHưởng vị ngọt, pháp hỷ.</p>\n\t\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 2.3",
@@ -278,5 +288,7 @@
   "candidate_authors": [
     "sujato",
     "mills"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

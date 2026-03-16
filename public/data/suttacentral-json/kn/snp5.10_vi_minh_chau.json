@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp5.10",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(XI) Câu hỏi của thanh niên <i>Kappa</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 211)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Kappa:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1092. Tôn giả Káp-pa nói:<br>\n\t\t\t\t\t\t\t\t\t\t\tNhững ai đứng giữa nước,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrong dòng nước mạnh chảy,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa sợ hãi lớn lao,<br>\n\t\t\t\t\t\t\t\t\t\t\tThưa Ngài hãy nói lên,<br>\n\t\t\t\t\t\t\t\t\t\t\tHòn đảo cho những kẻ,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị già chết chinh phục,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgài nói con hòn đảo,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐể không có khổ khác,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiống như đau khổ này.</font></i></P></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1093. Thế Tôn nói Kap-pa,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhững ai đứng giữa nước,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrong dòng nước mạnh chảy,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa sợ hãi lớn lao,<br>\n\t\t\t\t\t\t\t\t\t\t\tTa nói Ông hòn đảo,<br>\n\t\t\t\t\t\t\t\t\t\t\tCho những ai đang bị,<br>\n\t\t\t\t\t\t\t\t\t\t\tGià và chết chinh phục.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1094. Hòn đảo vô song này,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông sở hữu, chấp trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tTa nói Ông Niết-bàn,<br>\n\t\t\t\t\t\t\t\t\t\t\tGià chết được đoạn diệt,</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1095. Biết vậy, giữ chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tHiện tại đạt mát lạnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông rơi vào ma lực,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông tùy tùng theo ma.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "snp5.10",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(XI) Câu hỏi của thanh niên <i>Kappa</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 211)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Kappa:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1092. Tôn giả Káp-pa nói:<br>\n\t\t\t\t\t\t\t\t\t\t\tNhững ai đứng giữa nước,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrong dòng nước mạnh chảy,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa sợ hãi lớn lao,<br>\n\t\t\t\t\t\t\t\t\t\t\tThưa Ngài hãy nói lên,<br>\n\t\t\t\t\t\t\t\t\t\t\tHòn đảo cho những kẻ,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị già chết chinh phục,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgài nói con hòn đảo,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐể không có khổ khác,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiống như đau khổ này.</font></i></P></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1093. Thế Tôn nói Kap-pa,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhững ai đứng giữa nước,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrong dòng nước mạnh chảy,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa sợ hãi lớn lao,<br>\n\t\t\t\t\t\t\t\t\t\t\tTa nói Ông hòn đảo,<br>\n\t\t\t\t\t\t\t\t\t\t\tCho những ai đang bị,<br>\n\t\t\t\t\t\t\t\t\t\t\tGià và chết chinh phục.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1094. Hòn đảo vô song này,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông sở hữu, chấp trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tTa nói Ông Niết-bàn,<br>\n\t\t\t\t\t\t\t\t\t\t\tGià chết được đoạn diệt,</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1095. Biết vậy, giữ chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tHiện tại đạt mát lạnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông rơi vào ma lực,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông tùy tùng theo ma.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 5.10",
@@ -278,5 +288,7 @@
     "sujato",
     "mills",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt5.htm",
+  "external_source_name": "trungtamhotong.org"
 }

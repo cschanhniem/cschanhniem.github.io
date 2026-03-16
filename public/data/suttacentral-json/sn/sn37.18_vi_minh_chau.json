@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "sn37.16-24",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>16-24. II-X.</strong> (S.iv,245)</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">(Các đoạn này trái với đoạn 6-14 trước, như không có \n\t\t\t\t\t\t\t\t\thận, không tật đố, không xan tham, không phạm dâm, không ác giới, không ít \n\t\t\t\t\t\t\t\t\tnghe, không biếng nhác, không thất niệm, không có năm cấm)</font></p>\n\t\t\t\t\t\t\t<p>&nbsp;</p>\n\t\t\t\t\t\t\t<p align=\"center\"><font face=\"Times New Roman\" color=\"#000080\"><strong>Phần Ba - Phẩm Các \n\t\t\t\t\t\t\t\t\t\tSức Mạnh</strong></font></p>"
+  },
+  "translation": {
+    "uid": "sn37.16-24",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>16-24. II-X.</strong> (S.iv,245)</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">(Các đoạn này trái với đoạn 6-14 trước, như không có \n\t\t\t\t\t\t\t\t\thận, không tật đố, không xan tham, không phạm dâm, không ác giới, không ít \n\t\t\t\t\t\t\t\t\tnghe, không biếng nhác, không thất niệm, không có năm cấm)</font></p>\n\t\t\t\t\t\t\t<p>&nbsp;</p>\n\t\t\t\t\t\t\t<p align=\"center\"><font face=\"Times New Roman\" color=\"#000080\"><strong>Phần Ba - Phẩm Các \n\t\t\t\t\t\t\t\t\t\tSức Mạnh</strong></font></p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "SN 37.18",
@@ -238,5 +248,7 @@
   "bilara_translated_text": null,
   "candidate_authors": [
     "sujato"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tuongungbo/tu4-37.htm",
+  "external_source_name": "trungtamhotong.org"
 }

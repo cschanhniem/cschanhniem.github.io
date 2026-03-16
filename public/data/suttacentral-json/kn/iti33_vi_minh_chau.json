@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti33",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXXIII) (Duk. I,6) (It. 26)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðầy đủ hai pháp, này các Tỷ-kheo, một người như vậy tương xứng được \n\t\t\t\t\t\t\t\tsanh lên thiên giới. Thế nào là hai? Giới hiền thiện và Kiến hiền thiện. Ðầy đủ \n\t\t\t\t\t\t\t\thai pháp này, này các Tỷ-kheo, một người như vậy tương xứng được sanh lên thiên \n\t\t\t\t\t\t\t\tgiới. Thế nào là hai? Giới hiền thiện và Kiến hiền thiện. Ðầy đủ hai pháp này, \n\t\t\t\t\t\t\t\tnày các Tỷ-kheo, một người như vậy tương xứng được sanh lên thiên giới.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người nào được thành tựu,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ hai pháp này,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ Giới hiền thiện,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ Kiến hiền thiện<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tNgười có chánh trí tuệ,<br>\n\t\t\t\t\t\t\t\t\t\tNgười ấy sẽ được sanh<br>\n\t\t\t\t\t\t\t\t\tVào cảnh giới cõi trời</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti33",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXXIII) (Duk. I,6) (It. 26)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðầy đủ hai pháp, này các Tỷ-kheo, một người như vậy tương xứng được \n\t\t\t\t\t\t\t\tsanh lên thiên giới. Thế nào là hai? Giới hiền thiện và Kiến hiền thiện. Ðầy đủ \n\t\t\t\t\t\t\t\thai pháp này, này các Tỷ-kheo, một người như vậy tương xứng được sanh lên thiên \n\t\t\t\t\t\t\t\tgiới. Thế nào là hai? Giới hiền thiện và Kiến hiền thiện. Ðầy đủ hai pháp này, \n\t\t\t\t\t\t\t\tnày các Tỷ-kheo, một người như vậy tương xứng được sanh lên thiên giới.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người nào được thành tựu,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ hai pháp này,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ Giới hiền thiện,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ Kiến hiền thiện<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tNgười có chánh trí tuệ,<br>\n\t\t\t\t\t\t\t\t\t\tNgười ấy sẽ được sanh<br>\n\t\t\t\t\t\t\t\t\tVào cảnh giới cõi trời</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 33",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

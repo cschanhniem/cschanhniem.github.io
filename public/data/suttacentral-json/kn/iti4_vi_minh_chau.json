@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti4",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(IV) (Ek I, 4) (It. 2)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, hãy từ bỏ một pháp. Ta bảo đảm cho các Thầy không \n\t\t\t\t\t\t\t\tcó tái sanh. Thế nào là một pháp? Phẫn nộ, này các Tỷ-kheo, là một pháp các \n\t\t\t\t\t\t\t\tThầy hãy từ bỏ. Ta bảo đảm cho các Thầy không có tái sanh.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Với phẫn nộ phẫn uất.<br>\n\t\t\t\t\t\t\t\t\t\tChúng sanh đi ác thú,<br>\n\t\t\t\t\t\t\t\t\t\tBậc thiền quán, chánh trí<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ phẫn nộ ấy,<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ, không bao giờ<br>\n\t\t\t\t\t\t\t\t\tTrở lại tại đời này.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðây là ý nghĩa đã được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti4",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(IV) (Ek I, 4) (It. 2)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, hãy từ bỏ một pháp. Ta bảo đảm cho các Thầy không \n\t\t\t\t\t\t\t\tcó tái sanh. Thế nào là một pháp? Phẫn nộ, này các Tỷ-kheo, là một pháp các \n\t\t\t\t\t\t\t\tThầy hãy từ bỏ. Ta bảo đảm cho các Thầy không có tái sanh.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Với phẫn nộ phẫn uất.<br>\n\t\t\t\t\t\t\t\t\t\tChúng sanh đi ác thú,<br>\n\t\t\t\t\t\t\t\t\t\tBậc thiền quán, chánh trí<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ phẫn nộ ấy,<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ, không bao giờ<br>\n\t\t\t\t\t\t\t\t\tTrở lại tại đời này.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðây là ý nghĩa đã được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 4",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

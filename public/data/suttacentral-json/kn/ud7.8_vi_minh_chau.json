@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud7.8",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VIII) (Ud 77)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn giả <i>Mahàkaccàna</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết-già, lưng thẳng, với thân hành niệm khéo \n\t\t\t\t\t\t\t\t\tan trú trước mặt và trong nội tâm. Thế Tôn thấy Tôn giả <i>Mahàkaccàna</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa bao nhiêu, ngồi kiết già, lưng thẳng, với thân hành niệm khéo an trú \n\t\t\t\t\t\t\t\t\ttrước mặt trong nội tâm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">8. Với ai thường thường niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tLiên tục trú thân hành,<br>\n\t\t\t\t\t\t\t\t\t\t\t\"Trước không thể có được,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới tôi, nay không có,<br>\n\t\t\t\t\t\t\t\t\t\t\tSẽ không thể có được,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới tôi, nay sẽ không\".<br>\n\t\t\t\t\t\t\t\t\t\t\tTiếp tục trú như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐúng thời vượt dục ái.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud7.8",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VIII) (Ud 77)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn giả <i>Mahàkaccàna</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết-già, lưng thẳng, với thân hành niệm khéo \n\t\t\t\t\t\t\t\t\tan trú trước mặt và trong nội tâm. Thế Tôn thấy Tôn giả <i>Mahàkaccàna</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa bao nhiêu, ngồi kiết già, lưng thẳng, với thân hành niệm khéo an trú \n\t\t\t\t\t\t\t\t\ttrước mặt trong nội tâm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">8. Với ai thường thường niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tLiên tục trú thân hành,<br>\n\t\t\t\t\t\t\t\t\t\t\t\"Trước không thể có được,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới tôi, nay không có,<br>\n\t\t\t\t\t\t\t\t\t\t\tSẽ không thể có được,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới tôi, nay sẽ không\".<br>\n\t\t\t\t\t\t\t\t\t\t\tTiếp tục trú như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐúng thời vượt dục ái.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 7.8",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

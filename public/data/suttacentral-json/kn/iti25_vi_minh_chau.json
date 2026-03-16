@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti25",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXV) (Ek III, 5) (It. 18)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Phàm một người nào đã vi phạm một pháp, Ta nói rằng không có ác \n\t\t\t\t\t\t\t\tnghiệp nào vị ấy không làm được. Thế nào là một pháp? Này các Tỷ-kheo, tức là \n\t\t\t\t\t\t\t\trõ biết mà nói láo.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người nào đã nói láo,<br>\n\t\t\t\t\t\t\t\t\t\tLà vi phạm một pháp,<br>\n\t\t\t\t\t\t\t\t\t\tKhông kể đến đời sau,<br>\n\t\t\t\t\t\t\t\t\tKhông ác gì không làm</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti25",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXV) (Ek III, 5) (It. 18)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Phàm một người nào đã vi phạm một pháp, Ta nói rằng không có ác \n\t\t\t\t\t\t\t\tnghiệp nào vị ấy không làm được. Thế nào là một pháp? Này các Tỷ-kheo, tức là \n\t\t\t\t\t\t\t\trõ biết mà nói láo.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người nào đã nói láo,<br>\n\t\t\t\t\t\t\t\t\t\tLà vi phạm một pháp,<br>\n\t\t\t\t\t\t\t\t\t\tKhông kể đến đời sau,<br>\n\t\t\t\t\t\t\t\t\tKhông ác gì không làm</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 25",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

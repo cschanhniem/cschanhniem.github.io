@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud6.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VII) (Ud 71)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn Giả <i>Subhùti</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết-già lưng thẳng, nhập định không tầm. Thế \n\t\t\t\t\t\t\t\t\tTôn thấy Tôn giả <i>Subhùti </i>ngồi không xa bao nhiêu, ngồi kiết-già lưng \n\t\t\t\t\t\t\t\t\tthẳng, nhập định không tầm. Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy nỗi lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">7. Với ai, tầm quét sạch,<br>\n\t\t\t\t\t\t\t\t\t\t\tNội tâm khéo cắt đứt,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn chút dư tàn<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt qua ái nhiễm ấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐạt được tưởng vô sắc,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt khỏi bốn ách nạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông đi đến thọ sanh.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud6.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VII) (Ud 71)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn Giả <i>Subhùti</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết-già lưng thẳng, nhập định không tầm. Thế \n\t\t\t\t\t\t\t\t\tTôn thấy Tôn giả <i>Subhùti </i>ngồi không xa bao nhiêu, ngồi kiết-già lưng \n\t\t\t\t\t\t\t\t\tthẳng, nhập định không tầm. Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy nỗi lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">7. Với ai, tầm quét sạch,<br>\n\t\t\t\t\t\t\t\t\t\t\tNội tâm khéo cắt đứt,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn chút dư tàn<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt qua ái nhiễm ấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐạt được tưởng vô sắc,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt khỏi bốn ách nạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông đi đến thọ sanh.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 6.7",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti57",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LVII) (Tik. I,8) (It. 49)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba loại lậu hoặc này. Thế nào là ba? Dục lậu, \n\t\t\t\t\t\t\t\thữu lậu và vô minh lậu. Này các Tỷ-kheo, có ba lậu hoặc này. Thế Tôn đã nói lên \n\t\t\t\t\t\t\t\tý nghĩa này. Ở đây, ý nghĩa này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ai đoạn trừ dục lậu,<br>\n\t\t\t\t\t\t\t\t\t\tLy tham thoát vô minh,<br>\n\t\t\t\t\t\t\t\t\t\tHữu lậu được đoạn trừ,<br>\n\t\t\t\t\t\t\t\t\t\tGiải thoát khỏi sanh y,<br>\n\t\t\t\t\t\t\t\t\t\tMang cái thân cuối cùng,<br>\n\t\t\t\t\t\t\t\t\tDẹp tan cỗ xe ma.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti57",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LVII) (Tik. I,8) (It. 49)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba loại lậu hoặc này. Thế nào là ba? Dục lậu, \n\t\t\t\t\t\t\t\thữu lậu và vô minh lậu. Này các Tỷ-kheo, có ba lậu hoặc này. Thế Tôn đã nói lên \n\t\t\t\t\t\t\t\tý nghĩa này. Ở đây, ý nghĩa này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ai đoạn trừ dục lậu,<br>\n\t\t\t\t\t\t\t\t\t\tLy tham thoát vô minh,<br>\n\t\t\t\t\t\t\t\t\t\tHữu lậu được đoạn trừ,<br>\n\t\t\t\t\t\t\t\t\t\tGiải thoát khỏi sanh y,<br>\n\t\t\t\t\t\t\t\t\t\tMang cái thân cuối cùng,<br>\n\t\t\t\t\t\t\t\t\tDẹp tan cỗ xe ma.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 57",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

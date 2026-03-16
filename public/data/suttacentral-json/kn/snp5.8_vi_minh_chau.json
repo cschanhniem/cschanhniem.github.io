@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp5.8",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(IX) Các câu hỏi của thanh niên <i>Hemaka</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 209)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Hemaka:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1084. Tôn giả He-ma-ka:<br>\n\t\t\t\t\t\t\t\t\t\t\tNhững ai trong thời trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã trả lời cho con,<br>\n\t\t\t\t\t\t\t\t\t\t\tVề lời dạy Cù-đàm,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrước đã như thế nào,<br>\n\t\t\t\t\t\t\t\t\t\t\tSau sẽ là như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tTất cả đều truyền thống,<br>\n\t\t\t\t\t\t\t\t\t\t\tTất cả tăng suy tư.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1085. Ðây, con không hoan hỷ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgài nói Pháp cho con,<br>\n\t\t\t\t\t\t\t\t\t\t\tÔi mong bậc ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNói Pháp đoạn khát ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tBiết xong, sống chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt ái trước ở đời.</font></p></i></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1086. He-ma-ka ở đây,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐối các Pháp khả ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐược nghe và được thấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐược cảm tưởng, nhận thức,<br>\n\t\t\t\t\t\t\t\t\t\t\tTẩy sạch ước muốn tham,<br>\n\t\t\t\t\t\t\t\t\t\t\tLà Niết-bàn, bất tử.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1087. Biết vậy, giữ chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tHiện tại, đạt mát lạnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy thường an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt chấp trước ở đời.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "snp5.8",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(IX) Các câu hỏi của thanh niên <i>Hemaka</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 209)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Hemaka:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1084. Tôn giả He-ma-ka:<br>\n\t\t\t\t\t\t\t\t\t\t\tNhững ai trong thời trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã trả lời cho con,<br>\n\t\t\t\t\t\t\t\t\t\t\tVề lời dạy Cù-đàm,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrước đã như thế nào,<br>\n\t\t\t\t\t\t\t\t\t\t\tSau sẽ là như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tTất cả đều truyền thống,<br>\n\t\t\t\t\t\t\t\t\t\t\tTất cả tăng suy tư.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1085. Ðây, con không hoan hỷ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgài nói Pháp cho con,<br>\n\t\t\t\t\t\t\t\t\t\t\tÔi mong bậc ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNói Pháp đoạn khát ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tBiết xong, sống chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt ái trước ở đời.</font></p></i></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1086. He-ma-ka ở đây,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐối các Pháp khả ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐược nghe và được thấy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐược cảm tưởng, nhận thức,<br>\n\t\t\t\t\t\t\t\t\t\t\tTẩy sạch ước muốn tham,<br>\n\t\t\t\t\t\t\t\t\t\t\tLà Niết-bàn, bất tử.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1087. Biết vậy, giữ chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tHiện tại, đạt mát lạnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy thường an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt chấp trước ở đời.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 5.8",
@@ -265,5 +275,7 @@
     "sujato",
     "anandajoti",
     "mills"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt5.htm",
+  "external_source_name": "trungtamhotong.org"
 }

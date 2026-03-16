@@ -32,6 +32,12 @@ function hasSegmentMapContent(segmentMap) {
     return Object.keys(segmentMap).some(key => key.includes(':'));
 }
 
+function normalizeSuttaId(value) {
+    if (typeof value !== 'string') return null;
+    const normalized = value.toLowerCase().replace(/\s+/g, '');
+    return normalized || null;
+}
+
 function hasContentPayload(data) {
     if (!data || typeof data !== 'object') return false;
 
@@ -56,6 +62,191 @@ function getCanonicalUid(data) {
         || normalizeUid(data?.suttaplex?.uid)
         || normalizeUid(data?.range_uid)
         || null;
+}
+
+function getOrderedBilaraKeys(data) {
+    if (Array.isArray(data?.keys_order)) {
+        return data.keys_order.filter((key) => typeof key === 'string' && key.includes(':'));
+    }
+
+    if (data?.html_text && typeof data.html_text === 'object') {
+        return Object.keys(data.html_text).filter((key) => key.includes(':'));
+    }
+
+    if (data?.translation_text && typeof data.translation_text === 'object') {
+        return Object.keys(data.translation_text).filter((key) => key.includes(':'));
+    }
+
+    if (data?.bilara_translated_text && typeof data.bilara_translated_text === 'object') {
+        return Object.keys(data.bilara_translated_text).filter((key) => key.includes(':'));
+    }
+
+    return [];
+}
+
+function parseRouteNumericSuffix(id) {
+    const normalized = normalizeSuttaId(id);
+    const match = normalized?.match(/^(.*?)(\d+)$/);
+    if (!match) return null;
+
+    return {
+        prefix: match[1],
+        number: Number(match[2]),
+    };
+}
+
+function parseRangeRouteId(id) {
+    const normalized = normalizeSuttaId(id);
+    const match = normalized?.match(/^(.*?)(\d+)-(\d+)$/);
+    if (!match) return null;
+
+    return {
+        prefix: match[1],
+        start: Number(match[2]),
+        end: Number(match[3]),
+    };
+}
+
+function getGroupedRangePrefixKeys(orderedKeys, routeId) {
+    const route = parseRouteNumericSuffix(routeId);
+    if (!route) return [];
+
+    const rangePrefixes = [...new Set(
+        orderedKeys
+            .map((key) => String(key).split(':')[0] || '')
+            .filter(Boolean)
+    )]
+        .map((prefix) => {
+            const range = parseRangeRouteId(prefix);
+            if (!range) return null;
+            if (range.prefix !== route.prefix || route.number < range.start || route.number > range.end) return null;
+
+            return {
+                prefix,
+                span: range.end - range.start,
+            };
+        })
+        .filter(Boolean)
+        .sort((left, right) => left.span - right.span);
+
+    const bestPrefix = rangePrefixes[0]?.prefix;
+    if (!bestPrefix) return [];
+
+    return orderedKeys.filter((key) => key.startsWith(`${bestPrefix}:`));
+}
+
+function getGroupedRangeSectionKeys(orderedKeys, routeId, sourceId) {
+    if (!sourceId) return [];
+
+    const route = parseRouteNumericSuffix(routeId);
+    const range = parseRangeRouteId(sourceId);
+    if (!route || !range || route.prefix !== range.prefix || route.number < range.start || route.number > range.end) {
+        return [];
+    }
+
+    const childIndex = route.number - range.start + 1;
+    const childPattern = new RegExp(`^${childIndex}(?:\\.|$)`);
+
+    return orderedKeys.filter((key) => {
+        const [, segmentSuffix = ''] = String(key).split(':');
+        return childPattern.test(segmentSuffix);
+    });
+}
+
+function getScopedBilaraSelection(data, routeId, sourceId) {
+    const orderedKeys = getOrderedBilaraKeys(data);
+    const normalizedRouteId = normalizeSuttaId(routeId);
+
+    const routePrefixKeys = orderedKeys.filter((key) => key.startsWith(`${normalizedRouteId}:`));
+    if (routePrefixKeys.length > 0) {
+        return { keys: routePrefixKeys, selectionKind: 'route-prefix' };
+    }
+
+    const rangePrefixKeys = getGroupedRangePrefixKeys(orderedKeys, normalizedRouteId);
+    if (rangePrefixKeys.length > 0) {
+        return { keys: rangePrefixKeys, selectionKind: 'range-prefix' };
+    }
+
+    const rangeSectionKeys = getGroupedRangeSectionKeys(orderedKeys, normalizedRouteId, sourceId);
+    if (rangeSectionKeys.length > 0) {
+        return { keys: rangeSectionKeys, selectionKind: 'range-section' };
+    }
+
+    return { keys: orderedKeys, selectionKind: 'full' };
+}
+
+function hasRenderableBilaraSelection(data, selectedKeys) {
+    if (selectedKeys.length === 0) return false;
+
+    const templateSegments = data?.html_text && typeof data.html_text === 'object' ? data.html_text : {};
+    const translationSegments = data?.translation_text && typeof data.translation_text === 'object'
+        ? data.translation_text
+        : data?.bilara_translated_text && typeof data.bilara_translated_text === 'object'
+            ? data.bilara_translated_text
+            : {};
+    const rootSegments = data?.root_text && typeof data.root_text === 'object' ? data.root_text : {};
+
+    return selectedKeys.some((key) => {
+        const template = templateSegments[key];
+
+        if (typeof template === 'string') {
+            if (!template.includes('{}')) return template.trim().length > 0;
+            const content = translationSegments[key] ?? rootSegments[key] ?? '';
+            return typeof content === 'string' && content.trim().length > 0;
+        }
+
+        const segment = translationSegments[key];
+        return typeof segment === 'string' && segment.trim().length > 0;
+    });
+}
+
+function canUseOpaqueGroupedBilaraFallback(data, routeId, sourceId) {
+    const normalizedRouteId = normalizeSuttaId(routeId);
+    const normalizedSourceId = normalizeSuttaId(sourceId);
+    if (!normalizedSourceId || normalizedSourceId === normalizedRouteId) return true;
+
+    const orderedKeys = getOrderedBilaraKeys(data);
+    if (orderedKeys.length === 0) return false;
+
+    const sourcePrefix = `${normalizedSourceId}:`;
+    return orderedKeys.every((key) => key.startsWith(sourcePrefix));
+}
+
+function canRenderRouteFromData(data, routeId, sourceFallbackId = routeId) {
+    if (!data || typeof data !== 'object') return false;
+
+    const normalizedRouteId = normalizeSuttaId(routeId);
+    const sourceId = normalizeSuttaId(getCanonicalUid(data) || sourceFallbackId || routeId);
+    const directHtml = typeof data?.translation?.text === 'string' && data.translation.text.trim()
+        ? data.translation.text
+        : typeof data?.root_text?.text === 'string' && data.root_text.text.trim()
+            ? data.root_text.text
+            : '';
+
+    if (directHtml) {
+        return true;
+    }
+
+    const { keys, selectionKind } = getScopedBilaraSelection(data, normalizedRouteId, sourceId);
+    if (!hasRenderableBilaraSelection(data, keys)) {
+        return false;
+    }
+
+    if (selectionKind === 'full' && sourceId !== normalizedRouteId && !canUseOpaqueGroupedBilaraFallback(data, normalizedRouteId, sourceId)) {
+        return false;
+    }
+
+    return true;
+}
+
+function getCollectionFromId(id) {
+    const normalized = normalizeSuttaId(id) || '';
+    if (/^(kp|dhp|ud|iti|snp)/.test(normalized)) return 'kn';
+    if (normalized.startsWith('dn')) return 'dn';
+    if (normalized.startsWith('mn')) return 'mn';
+    if (normalized.startsWith('sn')) return 'sn';
+    if (normalized.startsWith('an')) return 'an';
+    return 'other';
 }
 
 function classifyViSource(data) {
@@ -101,33 +292,42 @@ function sortIdsNaturally(ids) {
 }
 
 async function fetchSuttaData(suttaId, authorUid, lang) {
-    const url = lang === 'en'
-        ? `https://suttacentral.net/api/bilarasuttas/${suttaId}/${authorUid}?lang=${lang}`
-        : `${BASE_URL}/${suttaId}/${authorUid}?lang=${lang}`;
-    // console.log(`Fetching: ${url}`); 
+    const bilaraUrl = `https://suttacentral.net/api/bilarasuttas/${suttaId}/${authorUid}?lang=${lang}`;
+    const legacyUrl = `${BASE_URL}/${suttaId}/${authorUid}?lang=${lang}`;
+    const urls = lang === 'en'
+        ? [bilaraUrl, legacyUrl]
+        : [legacyUrl, bilaraUrl];
 
-    try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            if (response.status === 404) return { status: 404 };
-            console.error(`Failed to fetch ${suttaId}/${authorUid}: ${response.status}`);
-            return { status: response.status };
-        }
-        const data = await response.json();
+    let lastStatus = 404;
 
-        // Validate content: SuttaCentral API returns 200 even for non-existent IDs sometimes
-        if (!data || !data.suttaplex || !data.suttaplex.uid) {
+    for (const url of urls) {
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                lastStatus = response.status;
+                if (response.status !== 404) {
+                    console.error(`Failed to fetch ${suttaId}/${authorUid}: ${response.status}`);
+                }
+                continue;
+            }
+
+            const data = await response.json();
+            if (hasCuratedOriginalContent(data, lang)) {
+                return { status: 200, data };
+            }
+
             if (lang === 'en' && hasContentPayload(data)) {
                 return { status: 200, data };
             }
-            return { status: 404 };
-        }
 
-        return { status: 200, data };
-    } catch (error) {
-        console.error(`Error fetching ${suttaId}:`, error.message);
-        return { status: 500 };
+            lastStatus = 404;
+        } catch (error) {
+            console.error(`Error fetching ${suttaId} from ${url}:`, error.message);
+            lastStatus = 500;
+        }
     }
+
+    return { status: lastStatus };
 }
 
 function ensureDir(dirPath) {
@@ -157,6 +357,17 @@ function fileHasCuratedOriginalContent(filePath, lang) {
     try {
         const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
         return hasCuratedOriginalContent(data, lang);
+    } catch {
+        return false;
+    }
+}
+
+function fileCanRenderRoute(filePath, routeId, sourceFallbackId = routeId) {
+    if (!fs.existsSync(filePath)) return false;
+
+    try {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        return canRenderRouteFromData(data, routeId, sourceFallbackId);
     } catch {
         return false;
     }
@@ -296,7 +507,7 @@ async function repairCollectionLanguage(collection, lang) {
         const canonicalUid = aliasManifest[id]?.[lang];
         if (canonicalUid && canonicalUid !== id) {
             const canonicalFilePath = path.join(collectionDir, `${canonicalUid}_${lang}_${authorUid}.json`);
-            if (fileHasCuratedOriginalContent(canonicalFilePath, lang)) {
+            if (fileHasCuratedOriginalContent(canonicalFilePath, lang) && fileCanRenderRoute(canonicalFilePath, id, canonicalUid)) {
                 skippedToCanonical++;
                 continue;
             }
@@ -468,6 +679,7 @@ async function generateManifest() {
     const contentManifest = {};
     const effectiveContentManifest = {};
     const aliasManifest = {};
+    const parsedFileCache = new Map();
 
     const collections = ['dn', 'mn', 'sn', 'an', 'kn'];
     for (const collection of collections) {
@@ -489,6 +701,7 @@ async function generateManifest() {
 
                 const filePath = path.join(dir, file);
                 const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+                parsedFileCache.set(filePath, data);
                 const rawReadable = hasContentPayload(data);
                 const effectiveReadable = hasCuratedOriginalContent(data, lang);
                 const canonicalUid = getCanonicalUid(data);
@@ -513,8 +726,12 @@ async function generateManifest() {
 
     for (const [id, languages] of Object.entries(aliasManifest)) {
         for (const [lang, canonicalUid] of Object.entries(languages)) {
-            const canonicalLangs = effectiveContentManifest[canonicalUid] || [];
-            if (!canonicalLangs.includes(lang)) continue;
+            const canonicalPath = path.join(DATA_DIR, getCollectionFromId(canonicalUid), `${canonicalUid}_${lang}_${lang === 'vi' ? 'minh_chau' : 'sujato'}.json`);
+            const canonicalData = parsedFileCache.get(canonicalPath)
+                || (fs.existsSync(canonicalPath) ? JSON.parse(fs.readFileSync(canonicalPath, 'utf-8')) : null);
+
+            if (!canonicalData || !hasCuratedOriginalContent(canonicalData, lang)) continue;
+            if (!canRenderRouteFromData(canonicalData, id, canonicalUid)) continue;
 
             if (!effectiveContentManifest[id]) effectiveContentManifest[id] = [];
             if (!effectiveContentManifest[id].includes(lang)) {

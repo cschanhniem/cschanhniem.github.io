@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti23",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXIII) (Ek III,3) (It. 16)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Có một pháp, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, \n\t\t\t\t\t\t\t\tđem lại hai lợi ích, an trú ngay hiện tại và lợi ích cho tương lai.\n\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế nào là một pháp? Không phóng dật trong các thiện pháp. Này các \n\t\t\t\t\t\t\t\tTỷ-kheo, đây là một pháp được tu tập, được làm cho sung mãn, đem lại được hai \n\t\t\t\t\t\t\t\tlợi ích, an trú ngay trong hiện tại và lợi ích cho tương lai.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên lợi ích này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Bậc Hiền trí tán thán,<br>\n\t\t\t\t\t\t\t\t\t\tKhông phóng dật hành thiện,<br>\n\t\t\t\t\t\t\t\t\t\tBậc Hiền không phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\tÐem lại hai lợi ích,<br>\n\t\t\t\t\t\t\t\t\t\tLợi ích ngay đời này,<br>\n\t\t\t\t\t\t\t\t\t\tVà lợi ích tương lai<br>\n\t\t\t\t\t\t\t\t\t\tBậc trí do thắng trí,<br>\n\t\t\t\t\t\t\t\t\t\tChứng đắc được lợi ích,<br>\n\t\t\t\t\t\t\t\t\tNên được gọi bậc trí.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti23",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XXIII) (Ek III,3) (It. 16)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Có một pháp, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, \n\t\t\t\t\t\t\t\tđem lại hai lợi ích, an trú ngay hiện tại và lợi ích cho tương lai.\n\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế nào là một pháp? Không phóng dật trong các thiện pháp. Này các \n\t\t\t\t\t\t\t\tTỷ-kheo, đây là một pháp được tu tập, được làm cho sung mãn, đem lại được hai \n\t\t\t\t\t\t\t\tlợi ích, an trú ngay trong hiện tại và lợi ích cho tương lai.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên lợi ích này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Bậc Hiền trí tán thán,<br>\n\t\t\t\t\t\t\t\t\t\tKhông phóng dật hành thiện,<br>\n\t\t\t\t\t\t\t\t\t\tBậc Hiền không phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\tÐem lại hai lợi ích,<br>\n\t\t\t\t\t\t\t\t\t\tLợi ích ngay đời này,<br>\n\t\t\t\t\t\t\t\t\t\tVà lợi ích tương lai<br>\n\t\t\t\t\t\t\t\t\t\tBậc trí do thắng trí,<br>\n\t\t\t\t\t\t\t\t\t\tChứng đắc được lợi ích,<br>\n\t\t\t\t\t\t\t\t\tNên được gọi bậc trí.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 23",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

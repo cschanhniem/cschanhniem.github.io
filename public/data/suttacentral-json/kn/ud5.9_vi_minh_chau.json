@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud5.9",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(IX) (Ud 60)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vậy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn bộ hành giữa dân chúng <i>Kosala</i> cùng \n\t\t\t\t\t\t\t\t\tvới đại chúng Tỷ-kheo. Lúc bấy giờ, nhiều thanh niên Bà-la-môn, không xa Thế \n\t\t\t\t\t\t\t\t\tTôn bao nhiêu, dùng những lời nhiếc mắng vượt đà quá xa. Thế Tôn thấy nhiều \n\t\t\t\t\t\t\t\t\tthanh niên, không xa bao nhiêu, dùng những lời nhiếc mắng, vượt đà quá xa.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>9. Lời nói của kẻ trí,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhi bối rối luống cuống,<br>\n\t\t\t\t\t\t\t\t\t\t\tRơi vào nhiều đề tài,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhiều lãnh vực sai khác,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ muốn miệng mở rộng,<br>\n\t\t\t\t\t\t\t\t\t\t\tCái gì dắt dẫn họ,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ đâu có biết rõ.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud5.9",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(IX) (Ud 60)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vậy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn bộ hành giữa dân chúng <i>Kosala</i> cùng \n\t\t\t\t\t\t\t\t\tvới đại chúng Tỷ-kheo. Lúc bấy giờ, nhiều thanh niên Bà-la-môn, không xa Thế \n\t\t\t\t\t\t\t\t\tTôn bao nhiêu, dùng những lời nhiếc mắng vượt đà quá xa. Thế Tôn thấy nhiều \n\t\t\t\t\t\t\t\t\tthanh niên, không xa bao nhiêu, dùng những lời nhiếc mắng, vượt đà quá xa.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>9. Lời nói của kẻ trí,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhi bối rối luống cuống,<br>\n\t\t\t\t\t\t\t\t\t\t\tRơi vào nhiều đề tài,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhiều lãnh vực sai khác,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ muốn miệng mở rộng,<br>\n\t\t\t\t\t\t\t\t\t\t\tCái gì dắt dẫn họ,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ đâu có biết rõ.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 5.9",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

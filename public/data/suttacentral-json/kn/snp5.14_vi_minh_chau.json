@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp5.14",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(XV) Câu hỏi của thanh niên <i>Posàla</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 215)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Posàla:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1112. Tôn giả Po-sa-la:<br>\n\t\t\t\t\t\t\t\t\t\t\tVị nói về quá khứ,<br>\n\t\t\t\t\t\t\t\t\t\t\tBất động nghi hoặc đoạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã đến bờ bên kia,<br>\n\t\t\t\t\t\t\t\t\t\t\tCon đến với câu hỏi<br>\n\t\t\t\t\t\t\t\t\t\t\tHỏi về hết thảy pháp.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1113. Với ai, sắc tưởng diệt,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐoạn tận hết thảy thân,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhìn thấy nội và ngoại,<br>\n\t\t\t\t\t\t\t\t\t\t\tThật sự không có gì,<br>\n\t\t\t\t\t\t\t\t\t\t\tCon hỏi bậc Thích-ca,<br>\n\t\t\t\t\t\t\t\t\t\t\tThế nào người như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tCó thể bị dắt dẫn?</font></i></P></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1114. Thế Tôn bèn đáp rằng:<br>\n\t\t\t\t\t\t\t\t\t\t\tHỡi này Pô-sa-la,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư Lai được thắng trí,<br>\n\t\t\t\t\t\t\t\t\t\t\tTất cả nhờ thức trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tRõ biết vị an trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiải thoát, đạt cứu cánh.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1115. Biết được sự tác thành,<br>\n\t\t\t\t\t\t\t\t\t\t\tThuộc về vô sở hữu,<br>\n\t\t\t\t\t\t\t\t\t\t\tBiết hỷ là kiết sử,<br>\n\t\t\t\t\t\t\t\t\t\t\tDo thắng tri như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tTại đấy, thấy như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐây là trí như thật,<br>\n\t\t\t\t\t\t\t\t\t\t\tCủa vị Bà-la-môn,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã thành tựu Phạm hạnh.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "snp5.14",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(XV) Câu hỏi của thanh niên <i>Posàla</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 215)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Posàla:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1112. Tôn giả Po-sa-la:<br>\n\t\t\t\t\t\t\t\t\t\t\tVị nói về quá khứ,<br>\n\t\t\t\t\t\t\t\t\t\t\tBất động nghi hoặc đoạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã đến bờ bên kia,<br>\n\t\t\t\t\t\t\t\t\t\t\tCon đến với câu hỏi<br>\n\t\t\t\t\t\t\t\t\t\t\tHỏi về hết thảy pháp.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1113. Với ai, sắc tưởng diệt,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐoạn tận hết thảy thân,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhìn thấy nội và ngoại,<br>\n\t\t\t\t\t\t\t\t\t\t\tThật sự không có gì,<br>\n\t\t\t\t\t\t\t\t\t\t\tCon hỏi bậc Thích-ca,<br>\n\t\t\t\t\t\t\t\t\t\t\tThế nào người như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tCó thể bị dắt dẫn?</font></i></P></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1114. Thế Tôn bèn đáp rằng:<br>\n\t\t\t\t\t\t\t\t\t\t\tHỡi này Pô-sa-la,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư Lai được thắng trí,<br>\n\t\t\t\t\t\t\t\t\t\t\tTất cả nhờ thức trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tRõ biết vị an trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiải thoát, đạt cứu cánh.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1115. Biết được sự tác thành,<br>\n\t\t\t\t\t\t\t\t\t\t\tThuộc về vô sở hữu,<br>\n\t\t\t\t\t\t\t\t\t\t\tBiết hỷ là kiết sử,<br>\n\t\t\t\t\t\t\t\t\t\t\tDo thắng tri như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tTại đấy, thấy như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐây là trí như thật,<br>\n\t\t\t\t\t\t\t\t\t\t\tCủa vị Bà-la-môn,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã thành tựu Phạm hạnh.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 5.14",
@@ -291,5 +301,7 @@
     "sujato",
     "mills",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt5.htm",
+  "external_source_name": "trungtamhotong.org"
 }

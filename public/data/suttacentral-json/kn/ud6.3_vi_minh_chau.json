@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud6.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(III) (Ud 65)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ Thế Tôn ngồi quán sát của pháp \n\t\t\t\t\t\t\t\t\tbất thiện của mình được trừ diệt, và các pháp thiện của mình được tu tập, làm \n\t\t\t\t\t\t\t\t\tcho tăng trưởng. Rồi Thế Tôn sau khi biết các pháp bất thiện của mình đã được \n\t\t\t\t\t\t\t\t\ttrừ diệt và các pháp thiện của mình được tu tập, được làm cho sung mãn, ngay \n\t\t\t\t\t\t\t\t\ttrong lúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">3. Trước có nay không có,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrước không có nay có,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã không và sẽ không,<br>\n\t\t\t\t\t\t\t\t\t\t\tVà nay hiện không có.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud6.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(III) (Ud 65)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ Thế Tôn ngồi quán sát của pháp \n\t\t\t\t\t\t\t\t\tbất thiện của mình được trừ diệt, và các pháp thiện của mình được tu tập, làm \n\t\t\t\t\t\t\t\t\tcho tăng trưởng. Rồi Thế Tôn sau khi biết các pháp bất thiện của mình đã được \n\t\t\t\t\t\t\t\t\ttrừ diệt và các pháp thiện của mình được tu tập, được làm cho sung mãn, ngay \n\t\t\t\t\t\t\t\t\ttrong lúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">3. Trước có nay không có,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrước không có nay có,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã không và sẽ không,<br>\n\t\t\t\t\t\t\t\t\t\t\tVà nay hiện không có.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 6.3",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

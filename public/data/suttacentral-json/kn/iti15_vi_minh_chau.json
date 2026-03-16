@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti15",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XV) (Ek II, 5) (It. 8)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Ta không thấy một kiết sử nào khác, do bị cột bởi \n\t\t\t\t\t\t\t\tkiết sử ấy, chúng sanh trong một thời gian dài, chạy dài, lưu chuyển, này các \n\t\t\t\t\t\t\t\tTỷ-kheo tức là Ái kiết sử. Này các Tỷ-kheo, bị cột với ái kiết sử, chúng sanh \n\t\t\t\t\t\t\t\ttrong một thời gian dài, chạy dài lưu chuyển.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người có ái làm bạn,<br>\n\t\t\t\t\t\t\t\t\t\tThời gian dài, lưu chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tKhông vượt được lưu chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tSanh hữu vậy hay khác.<br>\n\t\t\t\t\t\t\t\t\t\tAi biết nguy hiểm này,<br>\n\t\t\t\t\t\t\t\t\t\tBiết ái tác thành khổ,<br>\n\t\t\t\t\t\t\t\t\t\tBỏ ái, không chấp trước,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo giữ chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\tBỏ gia đình xuất gia,<br>\n\t\t\t\t\t\t\t\t\tSống nếp sống như vậy.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti15",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XV) (Ek II, 5) (It. 8)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Ta không thấy một kiết sử nào khác, do bị cột bởi \n\t\t\t\t\t\t\t\tkiết sử ấy, chúng sanh trong một thời gian dài, chạy dài, lưu chuyển, này các \n\t\t\t\t\t\t\t\tTỷ-kheo tức là Ái kiết sử. Này các Tỷ-kheo, bị cột với ái kiết sử, chúng sanh \n\t\t\t\t\t\t\t\ttrong một thời gian dài, chạy dài lưu chuyển.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người có ái làm bạn,<br>\n\t\t\t\t\t\t\t\t\t\tThời gian dài, lưu chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tKhông vượt được lưu chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tSanh hữu vậy hay khác.<br>\n\t\t\t\t\t\t\t\t\t\tAi biết nguy hiểm này,<br>\n\t\t\t\t\t\t\t\t\t\tBiết ái tác thành khổ,<br>\n\t\t\t\t\t\t\t\t\t\tBỏ ái, không chấp trước,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo giữ chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\tBỏ gia đình xuất gia,<br>\n\t\t\t\t\t\t\t\t\tSống nếp sống như vậy.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 15",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

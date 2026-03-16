@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti94",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XCIV) (Tik. V, 5) (It. 93)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Tỷ-kheo cần phải quán sát một cách như thế nào, \n\t\t\t\t\t\t\t\tnhư thế nào, do quán sát như vậy, thức của vị ấy đối với ngoại trần không có \n\t\t\t\t\t\t\t\ttán loạn, không có tản rộng, tâm không trú trước nội trần, không chấp thủ, \n\t\t\t\t\t\t\t\tkhông bị khủng bố, sẽ không có sự sanh khởi, sự tập khởi của khổ về sanh gìa, \n\t\t\t\t\t\t\t\tchết, trong tương lai.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Tỷ-kheo đã đoạn tận,<br>\n\t\t\t\t\t\t\t\t\t\tCả bảy loại trói buộc,<br>\n\t\t\t\t\t\t\t\t\t\tÐã chấm dứt sợi dây,<br>\n\t\t\t\t\t\t\t\t\t\tVòng sanh tử luân chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tÐã đoạn tận chặn đứng,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy không tái sanh.</p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "iti94",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XCIV) (Tik. V, 5) (It. 93)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Tỷ-kheo cần phải quán sát một cách như thế nào, \n\t\t\t\t\t\t\t\tnhư thế nào, do quán sát như vậy, thức của vị ấy đối với ngoại trần không có \n\t\t\t\t\t\t\t\ttán loạn, không có tản rộng, tâm không trú trước nội trần, không chấp thủ, \n\t\t\t\t\t\t\t\tkhông bị khủng bố, sẽ không có sự sanh khởi, sự tập khởi của khổ về sanh gìa, \n\t\t\t\t\t\t\t\tchết, trong tương lai.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Tỷ-kheo đã đoạn tận,<br>\n\t\t\t\t\t\t\t\t\t\tCả bảy loại trói buộc,<br>\n\t\t\t\t\t\t\t\t\t\tÐã chấm dứt sợi dây,<br>\n\t\t\t\t\t\t\t\t\t\tVòng sanh tử luân chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tÐã đoạn tận chặn đứng,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy không tái sanh.</p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 94",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

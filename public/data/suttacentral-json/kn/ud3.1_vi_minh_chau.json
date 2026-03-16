@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud3.1",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(I) (Ud 21)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana </i>\n\t\t\t\t\t\t\t\t\ttrong khu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ, một Tỷ-kheo ngồi không xa \n\t\t\t\t\t\t\t\t\tThế Tôn, ngồi kiết già, lưng thẳng, chịu đựng sự đau đớn, kết quả của nghiệp về \n\t\t\t\t\t\t\t\t\ttrước, nhói đau, cực khổ, thống khổ, chánh niệm, tỉnh giác, không có sầu não.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>1. Tỷ-kheo bỏ mọi nghiệp,<br>\n\t\t\t\t\t\t\t\t\t\t\tTẩy sạch bụi làm trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tAn trú, không ngã sở,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông cần nói với người</em>.</font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud3.1",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(I) (Ud 21)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana </i>\n\t\t\t\t\t\t\t\t\ttrong khu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ, một Tỷ-kheo ngồi không xa \n\t\t\t\t\t\t\t\t\tThế Tôn, ngồi kiết già, lưng thẳng, chịu đựng sự đau đớn, kết quả của nghiệp về \n\t\t\t\t\t\t\t\t\ttrước, nhói đau, cực khổ, thống khổ, chánh niệm, tỉnh giác, không có sầu não.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>1. Tỷ-kheo bỏ mọi nghiệp,<br>\n\t\t\t\t\t\t\t\t\t\t\tTẩy sạch bụi làm trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tAn trú, không ngã sở,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông cần nói với người</em>.</font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 3.1",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

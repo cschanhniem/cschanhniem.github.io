@@ -300,6 +300,22 @@
       "collectionSummary": "Hiện có {{ready}}/{{total}} bài trong {{collection}} đủ cả ba lớp nội dung. Còn {{missing}} bài thiếu ít nhất một phần, chủ yếu là manual 2026.",
       "detailReady": "{{suttaId}} trong {{collection}} đã đủ bản Anh gốc, bản Việt của HT. Thích Minh Châu, và bản manual 2026.",
       "detailMissing": "{{suttaId}} trong {{collection}} chưa đủ bộ ba nội dung. Còn thiếu: {{missing}}."
+    },
+    "renderFidelity": {
+      "scopedGroupedTitle": "Bản này được tách riêng từ một block gộp",
+      "scopedGroupedBody": "{{version}} hiện lấy từ block nguồn {{sourceId}} rồi bóc phần gần nhất dành cho {{suttaId}}.",
+      "opaqueGroupedTitle": "Bản này hiện mới có ở dạng block gộp",
+      "opaqueGroupedBody": "{{version}} hiện chỉ có ở block nguồn {{sourceId}}. Trang này đang hiển thị nguyên block đó, nên chưa phải bản tách riêng hoàn chỉnh cho {{suttaId}}."
+    },
+    "sourceGaps": {
+      "heading": "Khoảng trống đã xác minh từ nguồn",
+      "verifiedSourceAbsenceTitle": "{{version}} hiện chưa có trong bản gốc đang kiểm chứng",
+      "upstreamContentGapTitle": "{{version}} hiện thiếu ở nguồn số hóa thượng nguồn",
+      "reasons": {
+        "sn36_30MinhChau": "Bản Tương Ưng Bộ Kinh đang kiểm chứng của HT. Thích Minh Châu hiện dừng ở SN 36.29. Tôi chưa tìm thấy SN 36.30 trong HTML hoặc PDF gốc đã đối chiếu.",
+        "an11MinhChau": "Ấn bản Tăng Chi Bộ Kinh tập 2 của HT. Thích Minh Châu và bản HTML Quảng Đức hiện chỉ đi đến AN 11.25. Các peyyala từ AN 11.30 trở đi không có bản gốc Minh Châu để nhập nguyên văn.",
+        "an1330English": "Nguồn English Bilara hiện không trả nội dung cho AN 1.330-332. File nhóm local an1.316-332 cũng dừng ở AN 1.329, nên ba route này chưa thể hiển thị bản Anh gốc hoàn chỉnh."
+      }
     }
   },
   "community": {

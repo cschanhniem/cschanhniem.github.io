@@ -300,6 +300,22 @@
       "collectionSummary": "{{ready}}/{{total}} suttas in {{collection}} currently have the full three-part content set. {{missing}} still miss at least one layer, mostly the 2026 manual.",
       "detailReady": "{{suttaId}} in {{collection}} already has the original English, the Thich Minh Chau Vietnamese version, and the 2026 manual.",
       "detailMissing": "{{suttaId}} in {{collection}} does not yet have the full content triad. Missing: {{missing}}."
+    },
+    "renderFidelity": {
+      "scopedGroupedTitle": "This version is sliced from a grouped source block",
+      "scopedGroupedBody": "{{version}} currently comes from source block {{sourceId}}, and this page is rendering the closest scoped portion available for {{suttaId}}.",
+      "opaqueGroupedTitle": "This version still exists only as a grouped block",
+      "opaqueGroupedBody": "{{version}} is currently available only through source block {{sourceId}}. This page is showing that whole grouped block, so it is not yet a clean single-sutta extraction for {{suttaId}}."
+    },
+    "sourceGaps": {
+      "heading": "Verified source gaps",
+      "verifiedSourceAbsenceTitle": "{{version}} is not present in the verified original source",
+      "upstreamContentGapTitle": "{{version}} is currently missing in the upstream digitized source",
+      "reasons": {
+        "sn36_30MinhChau": "The verified Thich Minh Chau Samyutta Nikaya source currently stops at SN 36.29. I have not found SN 36.30 in the checked original HTML or PDF editions.",
+        "an11MinhChau": "The verified Thich Minh Chau Anguttara Nikaya volume 2 edition and the Quang Duc HTML chapter both stop at AN 11.25. The peyyala from AN 11.30 onward do not exist there as original Minh Chau text to import.",
+        "an1330English": "The Bilara English source currently does not return content for AN 1.330-332. The grouped local file an1.316-332 also stops at AN 1.329, so those three routes still cannot render complete original English."
+      }
     }
   },
   "community": {

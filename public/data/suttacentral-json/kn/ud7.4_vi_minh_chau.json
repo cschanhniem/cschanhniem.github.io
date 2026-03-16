@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud7.4",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(IV) (Ud 75)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika.</i> Lúc bấy giờ, nhiều người ở <i>Sàvatthi </i>phần \n\t\t\t\t\t\t\t\t\tlớn đắm say quá độ về các dục (như trên III)... trong các dục. Rồi Thế Tôn vào \n\t\t\t\t\t\t\t\t\tbuổi sáng đắp y, cầm bát đi vào <i>Sàvatthi</i> để khất thực. Rồi Thế Tôn thấy \n\t\t\t\t\t\t\t\t\tcác người ấy ở <i>Sàvatthi</i>... trong các dục.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>4. Bị mù bởi các dục,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị bao phủ bởi lưới,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị ái dục bao trùm,<br>\n\t\t\t\t\t\t\t\t\t\t\tLại còn bị trói buộc,<br>\n\t\t\t\t\t\t\t\t\t\t\tBởi trói buộc phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư cá mắc miệng lưới,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ đi đến già chết,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư con bê bú sữa</em>.</font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud7.4",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(IV) (Ud 75)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana,</i>\n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika.</i> Lúc bấy giờ, nhiều người ở <i>Sàvatthi </i>phần \n\t\t\t\t\t\t\t\t\tlớn đắm say quá độ về các dục (như trên III)... trong các dục. Rồi Thế Tôn vào \n\t\t\t\t\t\t\t\t\tbuổi sáng đắp y, cầm bát đi vào <i>Sàvatthi</i> để khất thực. Rồi Thế Tôn thấy \n\t\t\t\t\t\t\t\t\tcác người ấy ở <i>Sàvatthi</i>... trong các dục.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>4. Bị mù bởi các dục,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị bao phủ bởi lưới,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị ái dục bao trùm,<br>\n\t\t\t\t\t\t\t\t\t\t\tLại còn bị trói buộc,<br>\n\t\t\t\t\t\t\t\t\t\t\tBởi trói buộc phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư cá mắc miệng lưới,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ đi đến già chết,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư con bê bú sữa</em>.</font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 7.4",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

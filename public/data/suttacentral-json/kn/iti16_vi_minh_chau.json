@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti16",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XVI) (Ek II. 6) (It. 9)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, với vị Tỷ-kheo hữu học, tâm chưa thành tựu, đang \n\t\t\t\t\t\t\t\tsống cần cầu vô thượng an ổn khỏi các triền ách, sau khi làm thành nội chi \n\t\t\t\t\t\t\t\tphần, Ta không thấy một chi phần nào khác, được nhiều lợi ích như vậy, này các \n\t\t\t\t\t\t\t\tTỷ-kheo, tức là Như lý tác ý. Này các Tỷ-kheo, vị Tỷ-kheo tác như lý tác ý, từ \n\t\t\t\t\t\t\t\tbỏ bất thiện, tu tập thiện.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Vị Tỷ kheo hữu học,<br>\n\t\t\t\t\t\t\t\t\t\tHành như lý tác ý,<br>\n\t\t\t\t\t\t\t\t\t\tKhông một pháp nào khác,<br>\n\t\t\t\t\t\t\t\t\t\tNhiều lợi ích như vậy.<br>\n\t\t\t\t\t\t\t\t\t\tÐể đạt cho bằng được,<br>\n\t\t\t\t\t\t\t\t\t\tLợi ích thật tối thượng.<br>\n\t\t\t\t\t\t\t\t\t\tVị Tỷ kheo như lý,<br>\n\t\t\t\t\t\t\t\t\t\tTinh tấn và tinh cần,<br>\n\t\t\t\t\t\t\t\t\t\tCó thể thành đạt được,<br>\n\t\t\t\t\t\t\t\t\tSư đoạn diệt khổ đau</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti16",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XVI) (Ek II. 6) (It. 9)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, với vị Tỷ-kheo hữu học, tâm chưa thành tựu, đang \n\t\t\t\t\t\t\t\tsống cần cầu vô thượng an ổn khỏi các triền ách, sau khi làm thành nội chi \n\t\t\t\t\t\t\t\tphần, Ta không thấy một chi phần nào khác, được nhiều lợi ích như vậy, này các \n\t\t\t\t\t\t\t\tTỷ-kheo, tức là Như lý tác ý. Này các Tỷ-kheo, vị Tỷ-kheo tác như lý tác ý, từ \n\t\t\t\t\t\t\t\tbỏ bất thiện, tu tập thiện.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Vị Tỷ kheo hữu học,<br>\n\t\t\t\t\t\t\t\t\t\tHành như lý tác ý,<br>\n\t\t\t\t\t\t\t\t\t\tKhông một pháp nào khác,<br>\n\t\t\t\t\t\t\t\t\t\tNhiều lợi ích như vậy.<br>\n\t\t\t\t\t\t\t\t\t\tÐể đạt cho bằng được,<br>\n\t\t\t\t\t\t\t\t\t\tLợi ích thật tối thượng.<br>\n\t\t\t\t\t\t\t\t\t\tVị Tỷ kheo như lý,<br>\n\t\t\t\t\t\t\t\t\t\tTinh tấn và tinh cần,<br>\n\t\t\t\t\t\t\t\t\t\tCó thể thành đạt được,<br>\n\t\t\t\t\t\t\t\t\tSư đoạn diệt khổ đau</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 16",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

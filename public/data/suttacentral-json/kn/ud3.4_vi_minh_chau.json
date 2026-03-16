@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud3.4",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(IV) (Ud 27)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tngôi vườn ông <i>Anàthapindika</i>. Lúc bấy giờ Tôn giả <i>Sàriputta </i>ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết già lưng thẳng, đặt niệm trước mặt. Thế \n\t\t\t\t\t\t\t\t\tTôn thấy Tôn giả <i>Sàriputta </i>ngồi không xa bao nhiêu, ngồi kiết già lưng \n\t\t\t\t\t\t\t\t\tthẳng, đặt niệm trước mặt, rồi sau khi biết ý nghĩa này, ngay trong lúc ấy, nói \n\t\t\t\t\t\t\t\t\tlên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">4. Như ngọn núi bằng đá,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông động, khéo an trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tCũng vậy vị Tỳ-kheo,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐoạn diệt được ngu si,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư ngọn núi bằng đá,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông có bị dao động.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud3.4",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(IV) (Ud 27)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tngôi vườn ông <i>Anàthapindika</i>. Lúc bấy giờ Tôn giả <i>Sàriputta </i>ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, ngồi kiết già lưng thẳng, đặt niệm trước mặt. Thế \n\t\t\t\t\t\t\t\t\tTôn thấy Tôn giả <i>Sàriputta </i>ngồi không xa bao nhiêu, ngồi kiết già lưng \n\t\t\t\t\t\t\t\t\tthẳng, đặt niệm trước mặt, rồi sau khi biết ý nghĩa này, ngay trong lúc ấy, nói \n\t\t\t\t\t\t\t\t\tlên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">4. Như ngọn núi bằng đá,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông động, khéo an trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tCũng vậy vị Tỳ-kheo,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐoạn diệt được ngu si,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư ngọn núi bằng đá,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông có bị dao động.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 3.4",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

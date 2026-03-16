@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud8.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(III) (Ud 82)</font></strong></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">(Như kinh trên, chỉ khác lời cảm hứng)</font></em></p>\n\t\t\t\t\t\t\t</blockquote>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">- Này các Tỷ-kheo, có sự không sanh, không hiện hữu, \n\t\t\t\t\t\t\t\t\tkhông bị làm, không hữu vi, này các Tỷ-kheo, nếu không có cái không sanh, không \n\t\t\t\t\t\t\t\t\thiện hữu, không bị làm, không hữu vi, thì ở đây không thể trình bày sự xuất ly \n\t\t\t\t\t\t\t\t\tkhỏi sanh, hiện hữu, bị làm, hữu vi. Vì rằng, này các Tỷ-kheo, có cái không \n\t\t\t\t\t\t\t\t\tsanh, không hiện hữu, không bị làm, không hữu vi, nên có trình bày sự xuất ly \n\t\t\t\t\t\t\t\t\tkhỏi sanh, hiện hữu, bị làm, hữu vi.</font></p>"
+  },
+  "translation": {
+    "uid": "ud8.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(III) (Ud 82)</font></strong></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">(Như kinh trên, chỉ khác lời cảm hứng)</font></em></p>\n\t\t\t\t\t\t\t</blockquote>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">- Này các Tỷ-kheo, có sự không sanh, không hiện hữu, \n\t\t\t\t\t\t\t\t\tkhông bị làm, không hữu vi, này các Tỷ-kheo, nếu không có cái không sanh, không \n\t\t\t\t\t\t\t\t\thiện hữu, không bị làm, không hữu vi, thì ở đây không thể trình bày sự xuất ly \n\t\t\t\t\t\t\t\t\tkhỏi sanh, hiện hữu, bị làm, hữu vi. Vì rằng, này các Tỷ-kheo, có cái không \n\t\t\t\t\t\t\t\t\tsanh, không hiện hữu, không bị làm, không hữu vi, nên có trình bày sự xuất ly \n\t\t\t\t\t\t\t\t\tkhỏi sanh, hiện hữu, bị làm, hữu vi.</font></p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 8.3",
@@ -358,5 +368,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti105",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(CV) (Cat. 6) (It. 109)</strong></p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có bốn sự sanh khởi này của ái, ở đây ái sanh khởi \n\t\t\t\t\t\t\t\t\tlên cho Tỷ-kheo. Thế nào là bốn? Do nhân y áo, này các Tỷ-kheo, ái sanh khởi \n\t\t\t\t\t\t\t\t\tcho Tỷ-kheo. Do nhân đồ ăn khất thực, này các Tỷ-kheo, ái khởi sanh cho \n\t\t\t\t\t\t\t\t\tTỷ-kheo. Do nhân sàng tọa, này các Tỷ-kheo, ái khởi sanh cho Tỷ-kheo. Do nhân \n\t\t\t\t\t\t\t\t\tsanh hữu, không sanh hữu, này các Tỷ-kheo, ái sanh khởi cho Tỷ-kheo. Này các \n\t\t\t\t\t\t\t\t\tTỷ-kheo, có bốn sự sanh khởi này của ái. Ở đây, ái sanh khởi lên cho Tỷ-kheo.</p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người có ái làm bạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị luân hồi dài dài,<br>\n\t\t\t\t\t\t\t\t\t\t\tNó không vượt luân hồi,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐời này qua đời khác.<br>\n\t\t\t\t\t\t\t\t\t\t\tDo biết nguy hại vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÁi tác thành ra khổ,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn có khát ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn có chấp trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị Tỷ-kheo chánh niệm<br>\n\t\t\t\t\t\t\t\t\t\tDu hành khắp đó đây</i>.</P> </blockquote>"
+  },
+  "translation": {
+    "uid": "iti105",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(CV) (Cat. 6) (It. 109)</strong></p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có bốn sự sanh khởi này của ái, ở đây ái sanh khởi \n\t\t\t\t\t\t\t\t\tlên cho Tỷ-kheo. Thế nào là bốn? Do nhân y áo, này các Tỷ-kheo, ái sanh khởi \n\t\t\t\t\t\t\t\t\tcho Tỷ-kheo. Do nhân đồ ăn khất thực, này các Tỷ-kheo, ái khởi sanh cho \n\t\t\t\t\t\t\t\t\tTỷ-kheo. Do nhân sàng tọa, này các Tỷ-kheo, ái khởi sanh cho Tỷ-kheo. Do nhân \n\t\t\t\t\t\t\t\t\tsanh hữu, không sanh hữu, này các Tỷ-kheo, ái sanh khởi cho Tỷ-kheo. Này các \n\t\t\t\t\t\t\t\t\tTỷ-kheo, có bốn sự sanh khởi này của ái. Ở đây, ái sanh khởi lên cho Tỷ-kheo.</p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Người có ái làm bạn,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị luân hồi dài dài,<br>\n\t\t\t\t\t\t\t\t\t\t\tNó không vượt luân hồi,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐời này qua đời khác.<br>\n\t\t\t\t\t\t\t\t\t\t\tDo biết nguy hại vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tÁi tác thành ra khổ,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn có khát ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn có chấp trước,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị Tỷ-kheo chánh niệm<br>\n\t\t\t\t\t\t\t\t\t\tDu hành khắp đó đây</i>.</P> </blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 105",
@@ -278,5 +288,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

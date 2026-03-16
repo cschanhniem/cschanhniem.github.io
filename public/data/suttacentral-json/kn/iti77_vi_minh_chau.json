@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti77",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXXVII) (Tik. III, 8) (It. 69)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, thân này bị hủy hoại, thức bị lụn tàn, tất cả sanh \n\t\t\t\t\t\t\t\ty là vô thường, khổ, chịu sự biến hoại.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, ý nghĩa này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Biết thân bị huỷ hoại,<br>\n\t\t\t\t\t\t\t\t\t\tCòn thức bị lụn tàn,<br>\n\t\t\t\t\t\t\t\t\t\tThấy sợ trong sanh y,<br>\n\t\t\t\t\t\t\t\t\t\tHiểu được sanh và chết.<br>\n\t\t\t\t\t\t\t\t\t\tSau khi chứng đạt được,<br>\n\t\t\t\t\t\t\t\t\t\tSự an tịnh tối thượng,<br>\n\t\t\t\t\t\t\t\t\t\tTự ngã được tu tập,<br>\n\t\t\t\t\t\t\t\t\tChỉ còn đợi thời gian.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti77",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXXVII) (Tik. III, 8) (It. 69)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, thân này bị hủy hoại, thức bị lụn tàn, tất cả sanh \n\t\t\t\t\t\t\t\ty là vô thường, khổ, chịu sự biến hoại.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, ý nghĩa này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Biết thân bị huỷ hoại,<br>\n\t\t\t\t\t\t\t\t\t\tCòn thức bị lụn tàn,<br>\n\t\t\t\t\t\t\t\t\t\tThấy sợ trong sanh y,<br>\n\t\t\t\t\t\t\t\t\t\tHiểu được sanh và chết.<br>\n\t\t\t\t\t\t\t\t\t\tSau khi chứng đạt được,<br>\n\t\t\t\t\t\t\t\t\t\tSự an tịnh tối thượng,<br>\n\t\t\t\t\t\t\t\t\t\tTự ngã được tu tập,<br>\n\t\t\t\t\t\t\t\t\tChỉ còn đợi thời gian.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 77",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

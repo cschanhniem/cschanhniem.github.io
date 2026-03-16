@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "sn35.58-59",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\">\n\t\t\t\t\t\t\t\t58-59.VI-VII. Các Tùy Miên </b>(1-2) (S.iv,32)</P>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">(Như hai kinh trên, chỉ thế vào các tùy miên).</p>\n\t\t\t\t\t\t\t<b>"
+  },
+  "translation": {
+    "uid": "sn35.58-59",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\">\n\t\t\t\t\t\t\t\t58-59.VI-VII. Các Tùy Miên </b>(1-2) (S.iv,32)</P>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">(Như hai kinh trên, chỉ thế vào các tùy miên).</p>\n\t\t\t\t\t\t\t<b>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "SN 35.59",
@@ -238,5 +248,7 @@
   "bilara_translated_text": null,
   "candidate_authors": [
     "sujato"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tuongungbo/tu4-35b.htm",
+  "external_source_name": "trungtamhotong.org"
 }

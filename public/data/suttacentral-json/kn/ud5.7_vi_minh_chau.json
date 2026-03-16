@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud5.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(VII) (Ud 58)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn giả <i>Kankharevata</i> \n\t\t\t\t\t\t\t\t\tngồi không xa Thế Tôn bao nhiêu, ngồi kiết-già, lưng thẳng, tự mình quán sát sự \n\t\t\t\t\t\t\t\t\tthanh tịnh do vượt qua được nghi ngờ. Thế Tôn thấy Tôn giả <i>Kankharevata</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa bao nhiêu, ngồi kiết-già, lưng thẳng tự mình quán sát sự thanh tịnh do \n\t\t\t\t\t\t\t\t\tvượt qua được nghi ngờ.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>7. Phàm những nghi hoặc gì,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐời này hay đời sau,<br>\n\t\t\t\t\t\t\t\t\t\t\tTự mình chưa cảm thọ,<br>\n\t\t\t\t\t\t\t\t\t\t\tHay người khác cảm thọ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười hành thiền từ bỏ,<br>\n\t\t\t\t\t\t\t\t\t\t\tHoàn toàn tất cả chúng,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhiệt tâm hành Phạm hạnh.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud5.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(VII) (Ud 58)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàthapindika</i>. Lúc bấy giờ, Tôn giả <i>Kankharevata</i> \n\t\t\t\t\t\t\t\t\tngồi không xa Thế Tôn bao nhiêu, ngồi kiết-già, lưng thẳng, tự mình quán sát sự \n\t\t\t\t\t\t\t\t\tthanh tịnh do vượt qua được nghi ngờ. Thế Tôn thấy Tôn giả <i>Kankharevata</i> ngồi \n\t\t\t\t\t\t\t\t\tkhông xa bao nhiêu, ngồi kiết-già, lưng thẳng tự mình quán sát sự thanh tịnh do \n\t\t\t\t\t\t\t\t\tvượt qua được nghi ngờ.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>7. Phàm những nghi hoặc gì,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐời này hay đời sau,<br>\n\t\t\t\t\t\t\t\t\t\t\tTự mình chưa cảm thọ,<br>\n\t\t\t\t\t\t\t\t\t\t\tHay người khác cảm thọ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười hành thiền từ bỏ,<br>\n\t\t\t\t\t\t\t\t\t\t\tHoàn toàn tất cả chúng,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhiệt tâm hành Phạm hạnh.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 5.7",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti100",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(C) (Cat. I) (It. 101)</strong></p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Ta là Bà-la-môn, người được đến yêu cầu, tay luôn \n\t\t\t\t\t\t\t\t\tluôn thanh tịnh, mang thân cuối cùng, vô thượng y sĩ chữa trị, y sĩ giải phẫu. \n\t\t\t\t\t\t\t\t\tCác Thầy thật là con của Ta từ miệng sanh, từ Pháp sanh, từ Pháp tạo thành, \n\t\t\t\t\t\t\t\t\tthừa tự Pháp, không thừa tự tài vật.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có hai loại bố thí. Bố thí tài vật và bố thí Pháp. \n\t\t\t\t\t\t\t\t\tNày các Tỷ-kheo, đây là tối thượng trong hai bố thí này, tức là bố thí Pháp. \n\t\t\t\t\t\t\t\t\tNày các Tỷ-kheo, có hai loại phân phát này, phân phát tài vật và phân phát \n\t\t\t\t\t\t\t\t\tPháp. Này các Tỷ-kheo, đây là tối thượng trong hai phân phát này, tức là phân \n\t\t\t\t\t\t\t\t\tphát Pháp.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có hai nhiêu ích này, nhiêu ích tài vật và nhiêu \n\t\t\t\t\t\t\t\t\tích Pháp. Này các Tỷ-kheo, đây là tối thượng trong hai nhiêu ích này, tức là \n\t\t\t\t\t\t\t\t\tnhiêu ích Pháp. Này các Tỷ-kheo, có hai loại tế tự này. Tế tự tài vật và tế tự \n\t\t\t\t\t\t\t\t\tPháp. Này các Tỷ-kheo, đây là tối thượng trong hai tế tự này, tức là tế tự \n\t\t\t\t\t\t\t\t\tPháp.</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ai tế tự Chánh pháp,<br>\n\t\t\t\t\t\t\t\t\t\t\tTế tự, không xan tham,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư Lai có lòng từ,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐối tất cả sinh vật,<br>\n\t\t\t\t\t\t\t\t\t\t\tBậc tối thắng như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa chư Thiên loài Người,<br>\n\t\t\t\t\t\t\t\t\t\t\tChúng sanh kính đảnh lễ,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị đã vượt qua được,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt qua dòng sanh hữu,<br>\n\t\t\t\t\t\t\t\t\t\tÐến được bờ bên kia.</i></P> </blockquote>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti100",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(C) (Cat. I) (It. 101)</strong></p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Ta là Bà-la-môn, người được đến yêu cầu, tay luôn \n\t\t\t\t\t\t\t\t\tluôn thanh tịnh, mang thân cuối cùng, vô thượng y sĩ chữa trị, y sĩ giải phẫu. \n\t\t\t\t\t\t\t\t\tCác Thầy thật là con của Ta từ miệng sanh, từ Pháp sanh, từ Pháp tạo thành, \n\t\t\t\t\t\t\t\t\tthừa tự Pháp, không thừa tự tài vật.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có hai loại bố thí. Bố thí tài vật và bố thí Pháp. \n\t\t\t\t\t\t\t\t\tNày các Tỷ-kheo, đây là tối thượng trong hai bố thí này, tức là bố thí Pháp. \n\t\t\t\t\t\t\t\t\tNày các Tỷ-kheo, có hai loại phân phát này, phân phát tài vật và phân phát \n\t\t\t\t\t\t\t\t\tPháp. Này các Tỷ-kheo, đây là tối thượng trong hai phân phát này, tức là phân \n\t\t\t\t\t\t\t\t\tphát Pháp.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có hai nhiêu ích này, nhiêu ích tài vật và nhiêu \n\t\t\t\t\t\t\t\t\tích Pháp. Này các Tỷ-kheo, đây là tối thượng trong hai nhiêu ích này, tức là \n\t\t\t\t\t\t\t\t\tnhiêu ích Pháp. Này các Tỷ-kheo, có hai loại tế tự này. Tế tự tài vật và tế tự \n\t\t\t\t\t\t\t\t\tPháp. Này các Tỷ-kheo, đây là tối thượng trong hai tế tự này, tức là tế tự \n\t\t\t\t\t\t\t\t\tPháp.</p>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ai tế tự Chánh pháp,<br>\n\t\t\t\t\t\t\t\t\t\t\tTế tự, không xan tham,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư Lai có lòng từ,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐối tất cả sinh vật,<br>\n\t\t\t\t\t\t\t\t\t\t\tBậc tối thắng như vậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa chư Thiên loài Người,<br>\n\t\t\t\t\t\t\t\t\t\t\tChúng sanh kính đảnh lễ,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị đã vượt qua được,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt qua dòng sanh hữu,<br>\n\t\t\t\t\t\t\t\t\t\tÐến được bờ bên kia.</i></P> </blockquote>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 100",
@@ -278,5 +288,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

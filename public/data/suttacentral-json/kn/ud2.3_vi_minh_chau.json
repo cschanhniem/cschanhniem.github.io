@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud2.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(III) (Ud 11)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi tại Jetavana</i> khu \n\t\t\t\t\t\t\t\t\tvườn ông <i>Anàthapindika.</i> Lúc bấy giờ một số đông đứa trẻ đang hành hạ con \n\t\t\t\t\t\t\t\t\trắn với cây gậy, giữa <i>Sàvatthi và Jetavana</i>. Thế Tôn vào buổi sáng đắp y, \n\t\t\t\t\t\t\t\t\tcầm y bát đi vào <I>Sàvatthi</I> để khất thực. Thế Tôn thấy giữa <i>Sàvatthi và \n\t\t\t\t\t\t\t\t\t\tJetavana</i> nhiều đứa trẻ đang hành hạ con rắn với cây gậy.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Thế Tôn sau khi hiểu hết ý nghĩa này, ngay lúc ấy, nói \n\t\t\t\t\t\t\t\t\tlên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">3. Ai làm hại với trượng,<br>\n\t\t\t\t\t\t\t\t\t\t\tKẻ tìm lạc cho mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười ấy sau khi chết,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông tìm được an lạc.<br>\n\t\t\t\t\t\t\t\t\t\t\tAi không hại với trượng,<br>\n\t\t\t\t\t\t\t\t\t\t\tKẻ tìm lạc cho mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐời sau tìm được lạc.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud2.3",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(III) (Ud 11)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi tại Jetavana</i> khu \n\t\t\t\t\t\t\t\t\tvườn ông <i>Anàthapindika.</i> Lúc bấy giờ một số đông đứa trẻ đang hành hạ con \n\t\t\t\t\t\t\t\t\trắn với cây gậy, giữa <i>Sàvatthi và Jetavana</i>. Thế Tôn vào buổi sáng đắp y, \n\t\t\t\t\t\t\t\t\tcầm y bát đi vào <I>Sàvatthi</I> để khất thực. Thế Tôn thấy giữa <i>Sàvatthi và \n\t\t\t\t\t\t\t\t\t\tJetavana</i> nhiều đứa trẻ đang hành hạ con rắn với cây gậy.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Thế Tôn sau khi hiểu hết ý nghĩa này, ngay lúc ấy, nói \n\t\t\t\t\t\t\t\t\tlên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">3. Ai làm hại với trượng,<br>\n\t\t\t\t\t\t\t\t\t\t\tKẻ tìm lạc cho mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tNgười ấy sau khi chết,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông tìm được an lạc.<br>\n\t\t\t\t\t\t\t\t\t\t\tAi không hại với trượng,<br>\n\t\t\t\t\t\t\t\t\t\t\tKẻ tìm lạc cho mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐời sau tìm được lạc.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 2.3",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti55",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LV) (Tik. I, 6) (It. 48)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba tầm cầu này. Thế nào là ba? Dục tầm cầu, hữu \n\t\t\t\t\t\t\t\ttầm cầu, Phạm hạnh tầm cầu. Này các Tỷ-kheo, có ba tầm cầu này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Dục và hữu tầm cầu,<br>\n\t\t\t\t\t\t\t\t\t\tCùng Phạm hạnh tầm cầu<br>\n\t\t\t\t\t\t\t\t\t\tNếu chấp trước nắm giữ<br>\n\t\t\t\t\t\t\t\t\t\tChính đây là sự thật,<br>\n\t\t\t\t\t\t\t\t\t\tNhư vậy là chất chứa,<br>\n\t\t\t\t\t\t\t\t\t\tÐủ mọi loại kiến xứ,<br>\n\t\t\t\t\t\t\t\t\t\tVới ai không ham muốn<br>\n\t\t\t\t\t\t\t\t\t\tÐối với các loại tham,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy được giải thoát,<br>\n\t\t\t\t\t\t\t\t\t\tNhờ diệt được khả ái,<br>\n\t\t\t\t\t\t\t\t\t\tTầm cầu được từ bỏ,<br>\n\t\t\t\t\t\t\t\t\t\tKiến xứ được nhổ lên,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo do diệt tận<br>\n\t\t\t\t\t\t\t\t\t\tCác loại tầm cầu ấy,<br>\n\t\t\t\t\t\t\t\t\t\tKhông còn có mong cầu,<br>\n\t\t\t\t\t\t\t\t\tKhông còn có nghi hoặc.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti55",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LV) (Tik. I, 6) (It. 48)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba tầm cầu này. Thế nào là ba? Dục tầm cầu, hữu \n\t\t\t\t\t\t\t\ttầm cầu, Phạm hạnh tầm cầu. Này các Tỷ-kheo, có ba tầm cầu này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Dục và hữu tầm cầu,<br>\n\t\t\t\t\t\t\t\t\t\tCùng Phạm hạnh tầm cầu<br>\n\t\t\t\t\t\t\t\t\t\tNếu chấp trước nắm giữ<br>\n\t\t\t\t\t\t\t\t\t\tChính đây là sự thật,<br>\n\t\t\t\t\t\t\t\t\t\tNhư vậy là chất chứa,<br>\n\t\t\t\t\t\t\t\t\t\tÐủ mọi loại kiến xứ,<br>\n\t\t\t\t\t\t\t\t\t\tVới ai không ham muốn<br>\n\t\t\t\t\t\t\t\t\t\tÐối với các loại tham,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy được giải thoát,<br>\n\t\t\t\t\t\t\t\t\t\tNhờ diệt được khả ái,<br>\n\t\t\t\t\t\t\t\t\t\tTầm cầu được từ bỏ,<br>\n\t\t\t\t\t\t\t\t\t\tKiến xứ được nhổ lên,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo do diệt tận<br>\n\t\t\t\t\t\t\t\t\t\tCác loại tầm cầu ấy,<br>\n\t\t\t\t\t\t\t\t\t\tKhông còn có mong cầu,<br>\n\t\t\t\t\t\t\t\t\tKhông còn có nghi hoặc.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 55",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

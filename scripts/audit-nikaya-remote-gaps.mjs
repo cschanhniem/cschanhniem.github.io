@@ -24,6 +24,10 @@ const SC_API_BASE = 'https://suttacentral.net/api'
 const REQUEST_TIMEOUT_MS = 15000
 const MAX_CONCURRENCY = 6
 
+function normalizeSuttaId(suttaId) {
+  return String(suttaId).toLowerCase().replace(/\s+/g, '')
+}
+
 function createSummaryBucket() {
   return {
     total: 0,
@@ -41,6 +45,20 @@ function createSummaryBucket() {
       httpError: [],
       networkError: [],
     },
+  }
+}
+
+function createCollectionBuckets() {
+  return {
+    canonical: {
+      en: createSummaryBucket(),
+      vi: createSummaryBucket(),
+    },
+    visible: {
+      en: createSummaryBucket(),
+      vi: createSummaryBucket(),
+    },
+    details: [],
   }
 }
 
@@ -72,7 +90,8 @@ function runJsonScript(scriptName) {
 function countReadableSegments(segmentMap) {
   if (!segmentMap || typeof segmentMap !== 'object') return 0
 
-  return Object.values(segmentMap).filter((value) => {
+  return Object.entries(segmentMap).filter(([key, value]) => {
+    if (!(String(key).includes(':') || key === 'text')) return false
     if (typeof value !== 'string') return false
     const normalized = value.replace(/\s+/g, ' ').trim()
     return Boolean(normalized && normalized !== '~')
@@ -194,6 +213,57 @@ function buildProbeTasks(coverageReport) {
   return tasks
 }
 
+function buildVisibleRouteGapTasks() {
+  const index = JSON.parse(fs.readFileSync(path.join(rootDir, 'public/data/suttacentral-json/nikaya_index.json'), 'utf8'))
+  const effectiveContent = JSON.parse(fs.readFileSync(path.join(rootDir, 'public/data/suttacentral-json/effective-content-availability.json'), 'utf8'))
+  const aliases = JSON.parse(fs.readFileSync(path.join(rootDir, 'public/data/suttacentral-json/canonical-aliases.json'), 'utf8'))
+
+  const hiddenCanonicalIds = new Set(
+    Object.entries(aliases).flatMap(([childId, canonicalByLang]) =>
+      Object.values(canonicalByLang || {})
+        .filter((canonicalId) => typeof canonicalId === 'string' && canonicalId.length > 0)
+        .filter((canonicalId) => normalizeSuttaId(childId) !== normalizeSuttaId(canonicalId))
+        .map((canonicalId) => normalizeSuttaId(canonicalId))
+    )
+  )
+
+  const tasks = []
+  const routeBuckets = Object.fromEntries(targetCollections.map((collection) => [collection, {
+    en: [],
+    vi: [],
+  }]))
+
+  for (const row of index) {
+    const collection = String(row.collection).toLowerCase()
+    if (!targetCollections.includes(collection)) continue
+
+    const id = normalizeSuttaId(row.id)
+    if (hiddenCanonicalIds.has(id)) continue
+
+    const langs = effectiveContent[id] || []
+    if (!langs.includes('en')) routeBuckets[collection].en.push(id)
+    if (!langs.includes('vi')) routeBuckets[collection].vi.push(id)
+  }
+
+  for (const collection of targetCollections) {
+    const coverage = coverageReport.collections[collection]
+
+    if ((coverage.canonicalBlocksMissingEn || 0) === 0) {
+      for (const id of routeBuckets[collection].en) {
+        tasks.push({ collection, id, lang: 'en', sourceKind: 'visible-route-gap' })
+      }
+    }
+
+    if ((coverage.canonicalBlocksMissingVi || 0) === 0) {
+      for (const id of routeBuckets[collection].vi) {
+        tasks.push({ collection, id, lang: 'vi', sourceKind: 'visible-route-gap' })
+      }
+    }
+  }
+
+  return tasks
+}
+
 async function probeTask(task) {
   const authorUid = getAuthorUid(task.lang)
   const bilaraUrl = `${SC_API_BASE}/bilarasuttas/${task.id}/${authorUid}?lang=${task.lang}`
@@ -258,21 +328,21 @@ async function runWithConcurrency(tasks, limit, worker) {
 }
 
 const coverageReport = runJsonScript('audit-nikaya-coverage-matrix.mjs')
-const tasks = buildProbeTasks(coverageReport)
+const tasks = [
+  ...buildProbeTasks(coverageReport).map((task) => ({ ...task, sourceKind: 'canonical-gap' })),
+  ...buildVisibleRouteGapTasks(coverageReport),
+]
 const results = await runWithConcurrency(tasks, MAX_CONCURRENCY, probeTask)
 
 const report = {
   generatedAt: new Date().toISOString(),
-  collections: Object.fromEntries(targetCollections.map((collection) => [collection, {
-    en: createSummaryBucket(),
-    vi: createSummaryBucket(),
-    details: [],
-  }])),
+  collections: Object.fromEntries(targetCollections.map((collection) => [collection, createCollectionBuckets()])),
 }
 
 for (const result of results) {
   const collectionBucket = report.collections[result.collection]
-  const langBucket = collectionBucket[result.lang]
+  const scopeBucket = result.sourceKind === 'visible-route-gap' ? collectionBucket.visible : collectionBucket.canonical
+  const langBucket = scopeBucket[result.lang]
   langBucket.total += 1
   collectionBucket.details.push(result)
 
@@ -311,30 +381,32 @@ for (const collection of targetCollections) {
   const summary = report.collections[collection]
   console.log(`\n${collection.toUpperCase()}`)
 
-  for (const lang of ['en', 'vi']) {
-    const bucket = summary[lang]
-    if (bucket.total === 0) continue
+  for (const [scopeLabel, scopeBucket] of [['canonical', summary.canonical], ['visible-route', summary.visible]]) {
+    for (const lang of ['en', 'vi']) {
+      const bucket = scopeBucket[lang]
+      if (bucket.total === 0) continue
 
-    console.log(`- ${lang.toUpperCase()} probed gaps: ${bucket.total}`)
-    console.log(`  readable: ${bucket.readable}`)
-    console.log(`  readable via Bilara: ${bucket.bilaraReadable}`)
-    console.log(`  readable via legacy API: ${bucket.legacyReadable}`)
-    console.log(`  metadata-only: ${bucket.metadataOnly}`)
-    console.log(`  not found: ${bucket.notFound}`)
-    console.log(`  http error: ${bucket.httpError}`)
-    console.log(`  network error: ${bucket.networkError}`)
+      console.log(`- ${lang.toUpperCase()} ${scopeLabel} probed gaps: ${bucket.total}`)
+      console.log(`  readable: ${bucket.readable}`)
+      console.log(`  readable via Bilara: ${bucket.bilaraReadable}`)
+      console.log(`  readable via legacy API: ${bucket.legacyReadable}`)
+      console.log(`  metadata-only: ${bucket.metadataOnly}`)
+      console.log(`  not found: ${bucket.notFound}`)
+      console.log(`  http error: ${bucket.httpError}`)
+      console.log(`  network error: ${bucket.networkError}`)
 
-    const sampleGroups = [
-      ['readable sample', bucket.samples.readable],
-      ['metadata-only sample', bucket.samples.metadataOnly],
-      ['not-found sample', bucket.samples.notFound],
-      ['http-error sample', bucket.samples.httpError],
-      ['network-error sample', bucket.samples.networkError],
-    ]
+      const sampleGroups = [
+        ['readable sample', bucket.samples.readable],
+        ['metadata-only sample', bucket.samples.metadataOnly],
+        ['not-found sample', bucket.samples.notFound],
+        ['http-error sample', bucket.samples.httpError],
+        ['network-error sample', bucket.samples.networkError],
+      ]
 
-    for (const [label, values] of sampleGroups) {
-      if (values.length > 0) {
-        console.log(`  ${label}: ${values.join(', ')}`)
+      for (const [label, values] of sampleGroups) {
+        if (values.length > 0) {
+          console.log(`  ${label}: ${values.join(', ')}`)
+        }
       }
     }
   }

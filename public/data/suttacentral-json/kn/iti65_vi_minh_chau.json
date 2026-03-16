@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti65",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXV) (Tik. II, 6) (It. 55)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba thiện hành này. Thế nào là ba? Thân thiện \n\t\t\t\t\t\t\t\thành, ngữ thiện hành, ý thiện hành. Này các Tỷ-kheo, có ba thiện hành này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Từ bỏ thân làm ác,<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ lời nói ác,<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ ý nghĩ ác,<br>\n\t\t\t\t\t\t\t\t\t\tVà bất cứ hạnh gì,<br>\n\t\t\t\t\t\t\t\t\t\tÐược gọi là hạnh ác,<br>\n\t\t\t\t\t\t\t\t\t\tKhông làm các điều ác,<br>\n\t\t\t\t\t\t\t\t\t\tLàm nhiêù những hạnh lành,<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tVới trí tuệ thù thắng,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy được sanh lên,<br>\n\t\t\t\t\t\t\t\t\tTrong cảnh giới chư Thiên</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti65",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXV) (Tik. II, 6) (It. 55)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba thiện hành này. Thế nào là ba? Thân thiện \n\t\t\t\t\t\t\t\thành, ngữ thiện hành, ý thiện hành. Này các Tỷ-kheo, có ba thiện hành này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Từ bỏ thân làm ác,<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ lời nói ác,<br>\n\t\t\t\t\t\t\t\t\t\tTừ bỏ ý nghĩ ác,<br>\n\t\t\t\t\t\t\t\t\t\tVà bất cứ hạnh gì,<br>\n\t\t\t\t\t\t\t\t\t\tÐược gọi là hạnh ác,<br>\n\t\t\t\t\t\t\t\t\t\tKhông làm các điều ác,<br>\n\t\t\t\t\t\t\t\t\t\tLàm nhiêù những hạnh lành,<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tVới trí tuệ thù thắng,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy được sanh lên,<br>\n\t\t\t\t\t\t\t\t\tTrong cảnh giới chư Thiên</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 65",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

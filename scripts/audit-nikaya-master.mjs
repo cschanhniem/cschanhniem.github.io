@@ -87,6 +87,8 @@ function runJsonScript(scriptName) {
 
 const originalsReport = runJsonScript('audit-nikaya-originals.mjs')
 const coverageReport = runJsonScript('audit-nikaya-coverage-matrix.mjs')
+const fidelityReport = runJsonScript('audit-nikaya-render-fidelity.mjs')
+const remoteReport = runJsonScript('audit-nikaya-remote-gaps.mjs')
 const visibleRouteStats = loadVisibleRouteStats()
 
 const report = {
@@ -114,6 +116,8 @@ for (const collection of targetCollections) {
     routeIds: coverage.totalRouteIds,
     canonicalBlocks: coverage.totalCanonicalBlocks,
     publicSurface: visibleRouteStats[collection],
+    fidelity: fidelityReport.collections[collection],
+    upstream: remoteReport.collections[collection],
     routeLevel: {
       enReadable: originals.en.readable,
       viReadable: originals.vi.readable,
@@ -181,6 +185,26 @@ for (const collection of targetCollections) {
   console.log(`- hidden grouped canonical ids: ${summary.publicSurface.hiddenGroupedCanonicalIds}`)
   console.log(`- visible route EN readable: ${summary.publicSurface.visibleEnReadable}/${summary.publicSurface.visibleRouteIds}`)
   console.log(`- visible route VI readable: ${summary.publicSurface.visibleViReadable}/${summary.publicSurface.visibleRouteIds}`)
+  console.log(`- visible route EN exact/scoped/opaque/missing: ${summary.fidelity.en.exact}/${summary.fidelity.en.scopedGrouped}/${summary.fidelity.en.opaqueGrouped}/${summary.fidelity.en.missing}`)
+  console.log(`- visible route VI exact/scoped/opaque/missing: ${summary.fidelity.vi.exact}/${summary.fidelity.vi.scopedGrouped}/${summary.fidelity.vi.opaqueGrouped}/${summary.fidelity.vi.missing}`)
+  if ((summary.upstream?.visible?.en?.total || 0) > 0) {
+    console.log(`- upstream EN visible gaps readable/metadata/not-found: ${summary.upstream.visible.en.readable}/${summary.upstream.visible.en.metadataOnly}/${summary.upstream.visible.en.notFound}`)
+    if ((summary.upstream.visible.en.httpError || 0) > 0) {
+      console.log(`- upstream EN visible http-error: ${summary.upstream.visible.en.httpError}`)
+    }
+    if ((summary.upstream.visible.en.networkError || 0) > 0) {
+      console.log(`- upstream EN visible network-error: ${summary.upstream.visible.en.networkError}`)
+    }
+  }
+  if ((summary.upstream?.visible?.vi?.total || 0) > 0) {
+    console.log(`- upstream VI visible gaps readable/metadata/not-found: ${summary.upstream.visible.vi.readable}/${summary.upstream.visible.vi.metadataOnly}/${summary.upstream.visible.vi.notFound}`)
+    if ((summary.upstream.visible.vi.httpError || 0) > 0) {
+      console.log(`- upstream VI visible http-error: ${summary.upstream.visible.vi.httpError}`)
+    }
+    if ((summary.upstream.visible.vi.networkError || 0) > 0) {
+      console.log(`- upstream VI visible network-error: ${summary.upstream.visible.vi.networkError}`)
+    }
+  }
   console.log(`- canonical blocks: ${summary.canonicalBlocks}`)
   console.log(`- route EN readable: ${summary.routeLevel.enReadable}/${summary.routeIds}`)
   console.log(`- route VI readable: ${summary.routeLevel.viReadable}/${summary.routeIds}`)
@@ -189,6 +213,24 @@ for (const collection of targetCollections) {
   console.log(`- canonical missing EN only: ${summary.canonicalLevel.missingEnOnly}`)
   console.log(`- canonical missing VI only: ${summary.canonicalLevel.missingViOnly}`)
   console.log(`- canonical missing both: ${summary.canonicalLevel.missingBoth}`)
+  if ((summary.upstream?.canonical?.en?.total || 0) > 0) {
+    console.log(`- upstream EN canonical gaps readable/metadata/not-found: ${summary.upstream.canonical.en.readable}/${summary.upstream.canonical.en.metadataOnly}/${summary.upstream.canonical.en.notFound}`)
+    if ((summary.upstream.canonical.en.httpError || 0) > 0) {
+      console.log(`- upstream EN canonical http-error: ${summary.upstream.canonical.en.httpError}`)
+    }
+    if ((summary.upstream.canonical.en.networkError || 0) > 0) {
+      console.log(`- upstream EN canonical network-error: ${summary.upstream.canonical.en.networkError}`)
+    }
+  }
+  if ((summary.upstream?.canonical?.vi?.total || 0) > 0) {
+    console.log(`- upstream VI canonical gaps readable/metadata/not-found: ${summary.upstream.canonical.vi.readable}/${summary.upstream.canonical.vi.metadataOnly}/${summary.upstream.canonical.vi.notFound}`)
+    if ((summary.upstream.canonical.vi.httpError || 0) > 0) {
+      console.log(`- upstream VI canonical http-error: ${summary.upstream.canonical.vi.httpError}`)
+    }
+    if ((summary.upstream.canonical.vi.networkError || 0) > 0) {
+      console.log(`- upstream VI canonical network-error: ${summary.upstream.canonical.vi.networkError}`)
+    }
+  }
   console.log(`- duplicated topology blocks: ${summary.topology.duplicatedBlocks}`)
   console.log(`- missing canonical topology blocks: ${summary.topology.missingCanonicalBlocks}`)
   console.log(`- EN fallback route ids: ${summary.topology.enFallbackRouteIds}`)
@@ -202,6 +244,20 @@ for (const collection of targetCollections) {
 
   const sampleLines = [
     ['coverage gaps', summary.canonicalLevel.coverageGapIds.slice(0, 12)],
+    ['visible EN missing', summary.fidelity.en.missingSample.slice(0, 12)],
+    ['visible VI missing', summary.fidelity.vi.missingSample.slice(0, 12)],
+    ['upstream EN visible metadata-only', summary.upstream?.visible?.en?.samples?.metadataOnly || []],
+    ['upstream VI visible metadata-only', summary.upstream?.visible?.vi?.samples?.metadataOnly || []],
+    ['upstream EN visible http-error', summary.upstream?.visible?.en?.samples?.httpError || []],
+    ['upstream VI visible http-error', summary.upstream?.visible?.vi?.samples?.httpError || []],
+    ['upstream EN visible network-error', summary.upstream?.visible?.en?.samples?.networkError || []],
+    ['upstream VI visible network-error', summary.upstream?.visible?.vi?.samples?.networkError || []],
+    ['upstream EN canonical metadata-only', summary.upstream?.canonical?.en?.samples?.metadataOnly || []],
+    ['upstream VI canonical metadata-only', summary.upstream?.canonical?.vi?.samples?.metadataOnly || []],
+    ['upstream EN canonical http-error', summary.upstream?.canonical?.en?.samples?.httpError || []],
+    ['upstream VI canonical http-error', summary.upstream?.canonical?.vi?.samples?.httpError || []],
+    ['upstream EN canonical network-error', summary.upstream?.canonical?.en?.samples?.networkError || []],
+    ['upstream VI canonical network-error', summary.upstream?.canonical?.vi?.samples?.networkError || []],
     ['duplicated blocks', summary.topology.duplicatedBlockIds.slice(0, 12)],
     ['missing canonical blocks', summary.topology.missingCanonicalBlockIds.slice(0, 12)],
   ]

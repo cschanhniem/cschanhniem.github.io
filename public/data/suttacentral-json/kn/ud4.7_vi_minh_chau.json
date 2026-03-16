@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud4.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(VII) (Ud 43)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ Tôn giả <i>Sàriputta </i>ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, kiết-già lưng thẳng, ít dục, biết đủ, viễn ly, \n\t\t\t\t\t\t\t\t\tkhông ưa hội họp, tinh cần tinh tấn, chú tâm vào tăng thượng tâm. Thế Tôn thấy \n\t\t\t\t\t\t\t\t\tTôn giả <i>Sàriputta </i>ngồi không xa bao nhiêu, kiết già lưng thẳng, ít dục, \n\t\t\t\t\t\t\t\t\tbiết đủ, viễn ly, không ưa hội họp, tinh cần tinh tấn, chú tâm vào tăng thượng \n\t\t\t\t\t\t\t\t\ttâm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn sau khi biết ý nghĩa này, ngay lúc ấy, nói \n\t\t\t\t\t\t\t\t\tlên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>7. Tâm tăng thượng ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông phóng dật, tu tập,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrên con đường chánh trí,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy không cầu muộn,<br>\n\t\t\t\t\t\t\t\t\t\t\tLuôn luôn được an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tThường nắm giữ chánh niệm.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud4.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(VII) (Ud 43)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika</i>. Lúc bấy giờ Tôn giả <i>Sàriputta </i>ngồi \n\t\t\t\t\t\t\t\t\tkhông xa Thế Tôn bao nhiêu, kiết-già lưng thẳng, ít dục, biết đủ, viễn ly, \n\t\t\t\t\t\t\t\t\tkhông ưa hội họp, tinh cần tinh tấn, chú tâm vào tăng thượng tâm. Thế Tôn thấy \n\t\t\t\t\t\t\t\t\tTôn giả <i>Sàriputta </i>ngồi không xa bao nhiêu, kiết già lưng thẳng, ít dục, \n\t\t\t\t\t\t\t\t\tbiết đủ, viễn ly, không ưa hội họp, tinh cần tinh tấn, chú tâm vào tăng thượng \n\t\t\t\t\t\t\t\t\ttâm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn sau khi biết ý nghĩa này, ngay lúc ấy, nói \n\t\t\t\t\t\t\t\t\tlên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>7. Tâm tăng thượng ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông phóng dật, tu tập,<br>\n\t\t\t\t\t\t\t\t\t\t\tTrên con đường chánh trí,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy không cầu muộn,<br>\n\t\t\t\t\t\t\t\t\t\t\tLuôn luôn được an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tThường nắm giữ chánh niệm.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 4.7",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti17",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XVII) (Ek II. 7) (It. 10)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, với vị Tỷ-kheo hữu học, tâm chưa thành tựu, đang \n\t\t\t\t\t\t\t\tsống cần cầu vô thượng an ổn khỏi các triền ách, sau khi làm thành ngoại chi \n\t\t\t\t\t\t\t\tphần, Ta không thấy một chi phần nào khác, được nhiều lợi ích như vậy, này các \n\t\t\t\t\t\t\t\tTỷ-kheo, tức là làm bạn với thiện. Này các Tỷ-kheo, vị Tỷ-kheo làm bạn với \n\t\t\t\t\t\t\t\tthiện, từ bỏ bất thiện, tu tập thiện.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Tỷ-kheo làm bạn thiện,<br>\n\t\t\t\t\t\t\t\t\t\tTôn kính và kính trọng,<br>\n\t\t\t\t\t\t\t\t\t\tLàm theo những lời nói,<br>\n\t\t\t\t\t\t\t\t\t\tCủa bạn bè thân hữu,\n\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\tTỉnh giấc và chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy sẽ tuần tự,<br>\n\t\t\t\t\t\t\t\t\t\tÐạt được sự hoại diệt,<br>\n\t\t\t\t\t\t\t\t\tTất cả mọi kiết sử.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti17",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XVII) (Ek II. 7) (It. 10)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, với vị Tỷ-kheo hữu học, tâm chưa thành tựu, đang \n\t\t\t\t\t\t\t\tsống cần cầu vô thượng an ổn khỏi các triền ách, sau khi làm thành ngoại chi \n\t\t\t\t\t\t\t\tphần, Ta không thấy một chi phần nào khác, được nhiều lợi ích như vậy, này các \n\t\t\t\t\t\t\t\tTỷ-kheo, tức là làm bạn với thiện. Này các Tỷ-kheo, vị Tỷ-kheo làm bạn với \n\t\t\t\t\t\t\t\tthiện, từ bỏ bất thiện, tu tập thiện.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Tỷ-kheo làm bạn thiện,<br>\n\t\t\t\t\t\t\t\t\t\tTôn kính và kính trọng,<br>\n\t\t\t\t\t\t\t\t\t\tLàm theo những lời nói,<br>\n\t\t\t\t\t\t\t\t\t\tCủa bạn bè thân hữu,\n\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\tTỉnh giấc và chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy sẽ tuần tự,<br>\n\t\t\t\t\t\t\t\t\t\tÐạt được sự hoại diệt,<br>\n\t\t\t\t\t\t\t\t\tTất cả mọi kiết sử.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 17",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

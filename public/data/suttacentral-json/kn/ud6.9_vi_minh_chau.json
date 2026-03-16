@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud6.9",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(IX) (Ud 72)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàathapindika</i>. Lúc bấy giờ, Thế Tôn đang ngồi giữa \n\t\t\t\t\t\t\t\t\ttrời, trong đêm tối mù mịt, với những cây đèn dầu đang chói sáng. Lúc bấy giờ, \n\t\t\t\t\t\t\t\t\tnhiều loại côn trùng có cánh tiếp tục rơi vào trong những đèn dầu ấy và gặp \n\t\t\t\t\t\t\t\t\tphải tai nạn, gặp phải hoại diệt, gặp phải tai nạn hoại diệt. Thế Tôn thấy \n\t\t\t\t\t\t\t\t\tnhiều loại côn trùng có cánh tiếp tục rơi vào...</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">9. Họ chạy gấp vượt qua,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhưng bỏ mất lối cây,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ làm cho tăng trưởng,<br>\n\t\t\t\t\t\t\t\t\t\t\tCác trói buộc mới mẻ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư các loại côn trùng,<br>\n\t\t\t\t\t\t\t\t\t\t\tRơi vào trong ánh sáng,<br>\n\t\t\t\t\t\t\t\t\t\t\tCó người sống dựa vào<br>\n\t\t\t\t\t\t\t\t\t\t\tÐiều được thấy được nghe.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud6.9",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(IX) (Ud 72)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàathapindika</i>. Lúc bấy giờ, Thế Tôn đang ngồi giữa \n\t\t\t\t\t\t\t\t\ttrời, trong đêm tối mù mịt, với những cây đèn dầu đang chói sáng. Lúc bấy giờ, \n\t\t\t\t\t\t\t\t\tnhiều loại côn trùng có cánh tiếp tục rơi vào trong những đèn dầu ấy và gặp \n\t\t\t\t\t\t\t\t\tphải tai nạn, gặp phải hoại diệt, gặp phải tai nạn hoại diệt. Thế Tôn thấy \n\t\t\t\t\t\t\t\t\tnhiều loại côn trùng có cánh tiếp tục rơi vào...</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">9. Họ chạy gấp vượt qua,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhưng bỏ mất lối cây,<br>\n\t\t\t\t\t\t\t\t\t\t\tHọ làm cho tăng trưởng,<br>\n\t\t\t\t\t\t\t\t\t\t\tCác trói buộc mới mẻ,<br>\n\t\t\t\t\t\t\t\t\t\t\tNhư các loại côn trùng,<br>\n\t\t\t\t\t\t\t\t\t\t\tRơi vào trong ánh sáng,<br>\n\t\t\t\t\t\t\t\t\t\t\tCó người sống dựa vào<br>\n\t\t\t\t\t\t\t\t\t\t\tÐiều được thấy được nghe.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 6.9",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

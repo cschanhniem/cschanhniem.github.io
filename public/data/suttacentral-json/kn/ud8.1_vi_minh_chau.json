@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud8.1",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(I) (Ud 80)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana </i>\n\t\t\t\t\t\t\t\t\tngôi vườn ông <i>Anàthapindika.</i> Lúc bấy giờ, Thế Tôn đang thuyết giảng pháp \n\t\t\t\t\t\t\t\t\tthoại liên tưởng đến Niết-bàn cho các Tỷ-kheo, khích lệ làm cho phấn khởi, làm \n\t\t\t\t\t\t\t\t\tcho hoan hỷ. Các Tỷ-kheo ấy chú tâm, tác ý, dồn tất cả tâm tư lắng nghe pháp.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">- Này các Tỷ-kheo, có xứ này, tại đây không có đất, \n\t\t\t\t\t\t\t\t\tkhông có nước, không có lửa, không có gió; không có Hư không vô biên, không có \n\t\t\t\t\t\t\t\t\tThức vô biên xứ, không có Vô sở hữu xứ, không có Phi tưởng phi phi tưởng xứ; \n\t\t\t\t\t\t\t\t\tkhông có đời này, không có đời sau, không có cả hai mặt trăng mặt trời. Do vậy, \n\t\t\t\t\t\t\t\t\tnày các Tỷ-kheo, Ta tuyên bố không có đến, không có đi, không có trú, không có \n\t\t\t\t\t\t\t\t\tdiệt, không có sanh; không có an trú, không có chuyện vận, không có sở duyên, \n\t\t\t\t\t\t\t\t\tđây là sự đoạn tận khổ đau.</font></p>"
+  },
+  "translation": {
+    "uid": "ud8.1",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(I) (Ud 80)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana </i>\n\t\t\t\t\t\t\t\t\tngôi vườn ông <i>Anàthapindika.</i> Lúc bấy giờ, Thế Tôn đang thuyết giảng pháp \n\t\t\t\t\t\t\t\t\tthoại liên tưởng đến Niết-bàn cho các Tỷ-kheo, khích lệ làm cho phấn khởi, làm \n\t\t\t\t\t\t\t\t\tcho hoan hỷ. Các Tỷ-kheo ấy chú tâm, tác ý, dồn tất cả tâm tư lắng nghe pháp.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong \n\t\t\t\t\t\t\t\t\tlúc ấy, nói lên lời cảm hứng:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">- Này các Tỷ-kheo, có xứ này, tại đây không có đất, \n\t\t\t\t\t\t\t\t\tkhông có nước, không có lửa, không có gió; không có Hư không vô biên, không có \n\t\t\t\t\t\t\t\t\tThức vô biên xứ, không có Vô sở hữu xứ, không có Phi tưởng phi phi tưởng xứ; \n\t\t\t\t\t\t\t\t\tkhông có đời này, không có đời sau, không có cả hai mặt trăng mặt trời. Do vậy, \n\t\t\t\t\t\t\t\t\tnày các Tỷ-kheo, Ta tuyên bố không có đến, không có đi, không có trú, không có \n\t\t\t\t\t\t\t\t\tdiệt, không có sanh; không có an trú, không có chuyện vận, không có sở duyên, \n\t\t\t\t\t\t\t\t\tđây là sự đoạn tận khổ đau.</font></p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 8.1",
@@ -358,5 +368,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti67",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXVII) (Tik. II, 8) (It. 56)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba trầm lặng này. Thế nào là ba? Thân trầm \n\t\t\t\t\t\t\t\tlặng, lời trầm lặng, ý trầm lặng. Này các Tỷ-kheo, có ba trầm lặng này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Thân và lời trầm lặng<br>\n\t\t\t\t\t\t\t\t\t\tVà ý cũng trầm lặng,<br>\n\t\t\t\t\t\t\t\t\t\tKhông có các lậu hoặc,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ với trầm lặng<br>\n\t\t\t\t\t\t\t\t\t\tCủa các bậc chân ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\tÐuợc tên gọi là vị<br>\n\t\t\t\t\t\t\t\t\tÐã tắm sạch điều ác</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti67",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXVII) (Tik. II, 8) (It. 56)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba trầm lặng này. Thế nào là ba? Thân trầm \n\t\t\t\t\t\t\t\tlặng, lời trầm lặng, ý trầm lặng. Này các Tỷ-kheo, có ba trầm lặng này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Thân và lời trầm lặng<br>\n\t\t\t\t\t\t\t\t\t\tVà ý cũng trầm lặng,<br>\n\t\t\t\t\t\t\t\t\t\tKhông có các lậu hoặc,<br>\n\t\t\t\t\t\t\t\t\t\tÐầy đủ với trầm lặng<br>\n\t\t\t\t\t\t\t\t\t\tCủa các bậc chân ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\tÐuợc tên gọi là vị<br>\n\t\t\t\t\t\t\t\t\tÐã tắm sạch điều ác</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 67",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp2.10",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(X) Kinh Ðứng Dậy (Sn 57)</strong></p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">331. Hãy đứng dậy, ngồi dậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới người mộng ích gì?<br>\n\t\t\t\t\t\t\t\t\t\t\tKẻ bệnh ngủ làm gì?<br>\n\t\t\t\t\t\t\t\t\t\t\tKhi mũi tên phiền lụy.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">332. Hãy đứng dậy, ngồi dậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tHãy kiên trì học tập,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐạt cho được an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐừng để cho thần chết,<br>\n\t\t\t\t\t\t\t\t\t\t\tBiết Ông là phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\t\tMê hoặc, chinh phục Ông.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">333. Chư Thiên và loài Người,<br>\n\t\t\t\t\t\t\t\t\t\t\tSống y chỉ tầm cầu,<br>\n\t\t\t\t\t\t\t\t\t\t\tHãy vượt ái dục này,<br>\n\t\t\t\t\t\t\t\t\t\t\tChớ để thời khắc qua,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhi thời khắc đã qua,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị sầu khổ địa ngụ.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">334. Phóng dật là bụi nhơ,<br>\n\t\t\t\t\t\t\t\t\t\t\tBụi do phóng dật khởi,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới minh, không phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\t\tTự mình rút mũi tên</p>\n\t\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "snp2.10",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(X) Kinh Ðứng Dậy (Sn 57)</strong></p>\n\t\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">331. Hãy đứng dậy, ngồi dậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới người mộng ích gì?<br>\n\t\t\t\t\t\t\t\t\t\t\tKẻ bệnh ngủ làm gì?<br>\n\t\t\t\t\t\t\t\t\t\t\tKhi mũi tên phiền lụy.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">332. Hãy đứng dậy, ngồi dậy,<br>\n\t\t\t\t\t\t\t\t\t\t\tHãy kiên trì học tập,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐạt cho được an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐừng để cho thần chết,<br>\n\t\t\t\t\t\t\t\t\t\t\tBiết Ông là phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\t\tMê hoặc, chinh phục Ông.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">333. Chư Thiên và loài Người,<br>\n\t\t\t\t\t\t\t\t\t\t\tSống y chỉ tầm cầu,<br>\n\t\t\t\t\t\t\t\t\t\t\tHãy vượt ái dục này,<br>\n\t\t\t\t\t\t\t\t\t\t\tChớ để thời khắc qua,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhi thời khắc đã qua,<br>\n\t\t\t\t\t\t\t\t\t\t\tBị sầu khổ địa ngụ.</p>\n\t\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">334. Phóng dật là bụi nhơ,<br>\n\t\t\t\t\t\t\t\t\t\t\tBụi do phóng dật khởi,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới minh, không phóng dật,<br>\n\t\t\t\t\t\t\t\t\t\t\tTự mình rút mũi tên</p>\n\t\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 2.10",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "mills"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

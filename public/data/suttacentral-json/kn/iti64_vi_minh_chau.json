@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti64",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXIV) (Tik. II, 5) (It. 54)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba ác hành này. Thế nào là ba? Thân ác hành, \n\t\t\t\t\t\t\t\tngữ ác hành, ý ác hành. Này các Tỷ-kheo, có ba ác hành này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Làm ác hạnh về thân,<br>\n\t\t\t\t\t\t\t\t\t\tLàm ác hạnh về lời,<br>\n\t\t\t\t\t\t\t\t\t\tLàm ác hạnh về ý,<br>\n\t\t\t\t\t\t\t\t\t\tVà bất cứ hạnh gì,<br>\n\t\t\t\t\t\t\t\t\t\tÐều được gọi hạnh ác,<br>\n\t\t\t\t\t\t\t\t\t\tKhông làm nghiệp lành nào,<br>\n\t\t\t\t\t\t\t\t\t\tLàm nhiều nghiệp không thiện,<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tVới trí tuệ hạ liệt,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy phải sanh vào<br>\n\t\t\t\t\t\t\t\t\tTrong cảnh giới địa ngục</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti64",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LXIV) (Tik. II, 5) (It. 54)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba ác hành này. Thế nào là ba? Thân ác hành, \n\t\t\t\t\t\t\t\tngữ ác hành, ý ác hành. Này các Tỷ-kheo, có ba ác hành này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Làm ác hạnh về thân,<br>\n\t\t\t\t\t\t\t\t\t\tLàm ác hạnh về lời,<br>\n\t\t\t\t\t\t\t\t\t\tLàm ác hạnh về ý,<br>\n\t\t\t\t\t\t\t\t\t\tVà bất cứ hạnh gì,<br>\n\t\t\t\t\t\t\t\t\t\tÐều được gọi hạnh ác,<br>\n\t\t\t\t\t\t\t\t\t\tKhông làm nghiệp lành nào,<br>\n\t\t\t\t\t\t\t\t\t\tLàm nhiều nghiệp không thiện,<br>\n\t\t\t\t\t\t\t\t\t\tKhi thân hoại mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tVới trí tuệ hạ liệt,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy phải sanh vào<br>\n\t\t\t\t\t\t\t\t\tTrong cảnh giới địa ngục</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 64",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

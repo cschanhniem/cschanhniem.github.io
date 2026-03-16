@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud8.2",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(II) (Ud 81)</font></strong></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">(Như kinh trên (I), chỉ khác lời cảm hứng)</font></em></p>\n\t\t\t\t\t\t\t</blockquote><blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">1. Khó thấy là vô ngã,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông dễ thấy, sự thật,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới bậc có hiểu biết,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhéo xâm nhập được ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới vị ấy thấy rõ,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐâu còn có vật gì.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud8.2",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(II) (Ud 81)</font></strong></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">(Như kinh trên (I), chỉ khác lời cảm hứng)</font></em></p>\n\t\t\t\t\t\t\t</blockquote><blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">1. Khó thấy là vô ngã,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông dễ thấy, sự thật,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới bậc có hiểu biết,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhéo xâm nhập được ái,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới vị ấy thấy rõ,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐâu còn có vật gì.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 8.2",
@@ -331,5 +341,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

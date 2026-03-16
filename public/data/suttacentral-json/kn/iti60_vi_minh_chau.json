@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti60",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LX) (Tik. II, 1) (It. 51)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba phước nghiệp sự này. Thế nào là ba? Phước \n\t\t\t\t\t\t\t\tnghiệp sự do bố thí tác thành, phước nghiệp sự do giới tác thành, và phước \n\t\t\t\t\t\t\t\tnghiệp do sự tu tập tác thành. Này các Tỷ-kheo, có ba phước nghiệp sự này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Hãy để cho người ấy,<br>\n\t\t\t\t\t\t\t\t\t\tHọc tập làm công đức,<br>\n\t\t\t\t\t\t\t\t\t\tHướng dẫn đến tương lai<br>\n\t\t\t\t\t\t\t\t\t\tÐem lại căn an lạc.<br>\n\t\t\t\t\t\t\t\t\t\tHãy tu tập bố thí,<br>\n\t\t\t\t\t\t\t\t\t\tTập sở hành an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\tVà tu tập từ tâm,<br>\n\t\t\t\t\t\t\t\t\t\tTu xong ba pháp ấy,<br>\n\t\t\t\t\t\t\t\t\t\tNhững pháp khởi lạc thọ.<br>\n\t\t\t\t\t\t\t\t\t\tBậc Hiền trí được sanh,<br>\n\t\t\t\t\t\t\t\t\t\tTại thế giới an lạc,<br>\n\t\t\t\t\t\t\t\t\tKhông phiền não hận thù</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti60",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LX) (Tik. II, 1) (It. 51)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba phước nghiệp sự này. Thế nào là ba? Phước \n\t\t\t\t\t\t\t\tnghiệp sự do bố thí tác thành, phước nghiệp sự do giới tác thành, và phước \n\t\t\t\t\t\t\t\tnghiệp do sự tu tập tác thành. Này các Tỷ-kheo, có ba phước nghiệp sự này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Hãy để cho người ấy,<br>\n\t\t\t\t\t\t\t\t\t\tHọc tập làm công đức,<br>\n\t\t\t\t\t\t\t\t\t\tHướng dẫn đến tương lai<br>\n\t\t\t\t\t\t\t\t\t\tÐem lại căn an lạc.<br>\n\t\t\t\t\t\t\t\t\t\tHãy tu tập bố thí,<br>\n\t\t\t\t\t\t\t\t\t\tTập sở hành an tịnh,<br>\n\t\t\t\t\t\t\t\t\t\tVà tu tập từ tâm,<br>\n\t\t\t\t\t\t\t\t\t\tTu xong ba pháp ấy,<br>\n\t\t\t\t\t\t\t\t\t\tNhững pháp khởi lạc thọ.<br>\n\t\t\t\t\t\t\t\t\t\tBậc Hiền trí được sanh,<br>\n\t\t\t\t\t\t\t\t\t\tTại thế giới an lạc,<br>\n\t\t\t\t\t\t\t\t\tKhông phiền não hận thù</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 60",
@@ -319,5 +329,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

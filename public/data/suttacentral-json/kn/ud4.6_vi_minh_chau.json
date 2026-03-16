@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud4.6",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(VI) (Ud 42)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika.</i> Lúc bấy giờ Tôn giả <i>Pindolabhàradvàja</i> \n\t\t\t\t\t\t\t\t\tngồi không xa Thế Tôn bao nhiêu, ngồi kiết-già lưng thẳng, sống ở rừng, đi khất \n\t\t\t\t\t\t\t\t\tthực, mặc y lượm từ đống rác, chỉ mang ba y, ít dục, biết đủ, viễn ly, không ưa \n\t\t\t\t\t\t\t\t\tthích hội họp, tinh cần tinh tấn, nói hạnh đầu đà, chú tâm vào tăng thượng tâm. \n\t\t\t\t\t\t\t\t\tThế Tôn thấy Tôn giả <i>Pindolabhàradvàja</i> ngồi không xa bao nhiêu, ngồi \n\t\t\t\t\t\t\t\t\tkiết già lưng thẳng... chú tâm vào tăng thượng tâm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn sau khi rõ biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>6. Không mắng, không gia hại,<br>\n\t\t\t\t\t\t\t\t\t\t\tChế ngự trong giới bổn,<br>\n\t\t\t\t\t\t\t\t\t\t\tTiết độ trong ăn uống,<br>\n\t\t\t\t\t\t\t\t\t\t\tNằm ngồi chỉ một mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tChú tâm vào tăng thượng,<br>\n\t\t\t\t\t\t\t\t\t\t\tChính lời chư Phật dạy.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud4.6",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><strong>(VI) (Ud 42)</strong></font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi</i>, tại <i>Jetavana</i>, \n\t\t\t\t\t\t\t\t\tkhu vườn ông <i>Anàthapindika.</i> Lúc bấy giờ Tôn giả <i>Pindolabhàradvàja</i> \n\t\t\t\t\t\t\t\t\tngồi không xa Thế Tôn bao nhiêu, ngồi kiết-già lưng thẳng, sống ở rừng, đi khất \n\t\t\t\t\t\t\t\t\tthực, mặc y lượm từ đống rác, chỉ mang ba y, ít dục, biết đủ, viễn ly, không ưa \n\t\t\t\t\t\t\t\t\tthích hội họp, tinh cần tinh tấn, nói hạnh đầu đà, chú tâm vào tăng thượng tâm. \n\t\t\t\t\t\t\t\t\tThế Tôn thấy Tôn giả <i>Pindolabhàradvàja</i> ngồi không xa bao nhiêu, ngồi \n\t\t\t\t\t\t\t\t\tkiết già lưng thẳng... chú tâm vào tăng thượng tâm.</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Rồi Thế Tôn sau khi rõ biết ý nghĩa này, ngay trong lúc \n\t\t\t\t\t\t\t\t\tấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><font face=\"Times New Roman\"><em>6. Không mắng, không gia hại,<br>\n\t\t\t\t\t\t\t\t\t\t\tChế ngự trong giới bổn,<br>\n\t\t\t\t\t\t\t\t\t\t\tTiết độ trong ăn uống,<br>\n\t\t\t\t\t\t\t\t\t\t\tNằm ngồi chỉ một mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tChú tâm vào tăng thượng,<br>\n\t\t\t\t\t\t\t\t\t\t\tChính lời chư Phật dạy.</em></font></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 4.6",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

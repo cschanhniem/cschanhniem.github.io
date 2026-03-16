@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud7.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VII) (Ud 77)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana </i>\n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàthapindika.</i> Lúc bấy giờ, Thế Tôn đang ngồi quán sát \n\t\t\t\t\t\t\t\t\tsự từ bỏ, đoạn diệt các hý luận tưởng. Rồi Thế Tôn sau khi biết sự từ bỏ, đoạn \n\t\t\t\t\t\t\t\t\tdiệt các tưởng hý luận của mình, ngay trong lúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">7. Với ai các hý luận,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn có an trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tThoát ly được liên hệ,<br>\n\t\t\t\t\t\t\t\t\t\t\tThoát ly được ảo tưởng,<br>\n\t\t\t\t\t\t\t\t\t\t\tChư Thiên và thế giới,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông thể nào rõ biết,<br>\n\t\t\t\t\t\t\t\t\t\t\tSở hành vị ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã vượt khỏi tham ái.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud7.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VII) (Ud 77)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Sàvatthi,</i> tại <i>Jetavana </i>\n\t\t\t\t\t\t\t\t\tkhu vườn của ông <i>Anàthapindika.</i> Lúc bấy giờ, Thế Tôn đang ngồi quán sát \n\t\t\t\t\t\t\t\t\tsự từ bỏ, đoạn diệt các hý luận tưởng. Rồi Thế Tôn sau khi biết sự từ bỏ, đoạn \n\t\t\t\t\t\t\t\t\tdiệt các tưởng hý luận của mình, ngay trong lúc ấy, nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">7. Với ai các hý luận,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông còn có an trú,<br>\n\t\t\t\t\t\t\t\t\t\t\tThoát ly được liên hệ,<br>\n\t\t\t\t\t\t\t\t\t\t\tThoát ly được ảo tưởng,<br>\n\t\t\t\t\t\t\t\t\t\t\tChư Thiên và thế giới,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông thể nào rõ biết,<br>\n\t\t\t\t\t\t\t\t\t\t\tSở hành vị ẩn sĩ,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã vượt khỏi tham ái.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 7.7",
@@ -279,5 +289,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt3.htm",
+  "external_source_name": "trungtamhotong.org"
 }

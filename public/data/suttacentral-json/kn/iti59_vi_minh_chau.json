@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti59",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LIX) (Tik. I, 10) (It. 50).</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thành tựu với ba pháp, này các Tỷ-kheo, vị Tỷ-kheo vượt qua được \n\t\t\t\t\t\t\t\tthế lực của Ác ma, và chói sáng như mặt trời. Thế nào là ba? Ở đây, này các \n\t\t\t\t\t\t\t\tTỷ-kheo, vị Tỷ-kheo thành tựu vô học giới uẩn, thành tựu vô học định uẩn, thành \n\t\t\t\t\t\t\t\ttựu vô học tuệ uẩn. Thành tựu với ba pháp này, này các Tỷ-kheo, vị Tỷ-kheo vượt \n\t\t\t\t\t\t\t\tqua được thế lực của Ác-ma, và chói sáng như mặt trời.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Giới, định và trí tuệ,<br>\n\t\t\t\t\t\t\t\t\t\tVới ai khéo tu tập,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy vượt qua khỏi<br>\n\t\t\t\t\t\t\t\t\t\tThế lực của Ác ma,<br>\n\t\t\t\t\t\t\t\t\t\tVà chói sáng rực sáng,,<br>\n\t\t\t\t\t\t\t\t\tNhư mặt trời chói sáng</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>\n\t\t\t\t\t\t\t<hr width=\"25%\" noshade align=\"center\">\n\t\t\t\t\t\t\t<h3 ALIGN=\"center\"><font color=\"#000080\">Phẩm II</font></h3>"
+  },
+  "translation": {
+    "uid": "iti59",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LIX) (Tik. I, 10) (It. 50).</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thành tựu với ba pháp, này các Tỷ-kheo, vị Tỷ-kheo vượt qua được \n\t\t\t\t\t\t\t\tthế lực của Ác ma, và chói sáng như mặt trời. Thế nào là ba? Ở đây, này các \n\t\t\t\t\t\t\t\tTỷ-kheo, vị Tỷ-kheo thành tựu vô học giới uẩn, thành tựu vô học định uẩn, thành \n\t\t\t\t\t\t\t\ttựu vô học tuệ uẩn. Thành tựu với ba pháp này, này các Tỷ-kheo, vị Tỷ-kheo vượt \n\t\t\t\t\t\t\t\tqua được thế lực của Ác-ma, và chói sáng như mặt trời.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Giới, định và trí tuệ,<br>\n\t\t\t\t\t\t\t\t\t\tVới ai khéo tu tập,<br>\n\t\t\t\t\t\t\t\t\t\tVị ấy vượt qua khỏi<br>\n\t\t\t\t\t\t\t\t\t\tThế lực của Ác ma,<br>\n\t\t\t\t\t\t\t\t\t\tVà chói sáng rực sáng,,<br>\n\t\t\t\t\t\t\t\t\tNhư mặt trời chói sáng</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>\n\t\t\t\t\t\t\t<hr width=\"25%\" noshade align=\"center\">\n\t\t\t\t\t\t\t<h3 ALIGN=\"center\"><font color=\"#000080\">Phẩm II</font></h3>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 59",
@@ -318,5 +328,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti20",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XX) (Ek II, 11) (It. 12)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ở đây này các Tỷ-kheo, với tâm của Ta, Ta rõ biết tâm của một người \n\t\t\t\t\t\t\t\tác ý như vậy, và nếu trong thời gian này, người này mạng chung, như vậy tương \n\t\t\t\t\t\t\t\txứng người này bị rơi vào địa ngục. Vì cớ sao? Này các Tỷ-kheo, vì tâm người ấy \n\t\t\t\t\t\t\t\tác ý. Này các Tỷ-kheo, vì nhân tâm ác ý, như vậy ở đây một số loài hữu tình su \n\t\t\t\t\t\t\t\tkhi thân hoại mạng chung bị sanh vào cõi ác, ác thú, đọa xứ, địa ngục.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Biết được tâm ác ý,<br>\n\t\t\t\t\t\t\t\t\t\tCủa hạng người ở đời,<br>\n\t\t\t\t\t\t\t\t\t\tÐức Phật giữa Tỷ-kheo,<br>\n\t\t\t\t\t\t\t\t\t\tÐã nói ý nghĩa này.<br>\n\t\t\t\t\t\t\t\t\t\tChính trong thời gian này,<br>\n\t\t\t\t\t\t\t\t\t\tNgười ấy bị mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tSẽ bị sanh địa ngục,<br>\n\t\t\t\t\t\t\t\t\t\tVì tâm nó ác độc,<br>\n\t\t\t\t\t\t\t\t\t\tTùy theo lấy những gì,<br>\n\t\t\t\t\t\t\t\t\t\tTương xứng bị rơi xuống,<br>\n\t\t\t\t\t\t\t\t\t\tNhư vậy được tương xứng,<br>\n\t\t\t\t\t\t\t\t\t\tDo nhân tâm ác ý,<br>\n\t\t\t\t\t\t\t\t\tChúng sanh đi ác thú.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">&nbsp;</p>\n\t\t\t\t\t\t\t<hr noshade width=\"25%\" align=\"center\">\n\t\t\t\t\t\t\t<h3 ALIGN=\"center\"><font color=\"#000080\">Phẩm III</font></FONT></h3>"
+  },
+  "translation": {
+    "uid": "iti20",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XX) (Ek II, 11) (It. 12)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ở đây này các Tỷ-kheo, với tâm của Ta, Ta rõ biết tâm của một người \n\t\t\t\t\t\t\t\tác ý như vậy, và nếu trong thời gian này, người này mạng chung, như vậy tương \n\t\t\t\t\t\t\t\txứng người này bị rơi vào địa ngục. Vì cớ sao? Này các Tỷ-kheo, vì tâm người ấy \n\t\t\t\t\t\t\t\tác ý. Này các Tỷ-kheo, vì nhân tâm ác ý, như vậy ở đây một số loài hữu tình su \n\t\t\t\t\t\t\t\tkhi thân hoại mạng chung bị sanh vào cõi ác, ác thú, đọa xứ, địa ngục.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Biết được tâm ác ý,<br>\n\t\t\t\t\t\t\t\t\t\tCủa hạng người ở đời,<br>\n\t\t\t\t\t\t\t\t\t\tÐức Phật giữa Tỷ-kheo,<br>\n\t\t\t\t\t\t\t\t\t\tÐã nói ý nghĩa này.<br>\n\t\t\t\t\t\t\t\t\t\tChính trong thời gian này,<br>\n\t\t\t\t\t\t\t\t\t\tNgười ấy bị mạng chung,<br>\n\t\t\t\t\t\t\t\t\t\tSẽ bị sanh địa ngục,<br>\n\t\t\t\t\t\t\t\t\t\tVì tâm nó ác độc,<br>\n\t\t\t\t\t\t\t\t\t\tTùy theo lấy những gì,<br>\n\t\t\t\t\t\t\t\t\t\tTương xứng bị rơi xuống,<br>\n\t\t\t\t\t\t\t\t\t\tNhư vậy được tương xứng,<br>\n\t\t\t\t\t\t\t\t\t\tDo nhân tâm ác ý,<br>\n\t\t\t\t\t\t\t\t\tChúng sanh đi ác thú.</i></P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">&nbsp;</p>\n\t\t\t\t\t\t\t<hr noshade width=\"25%\" align=\"center\">\n\t\t\t\t\t\t\t<h3 ALIGN=\"center\"><font color=\"#000080\">Phẩm III</font></FONT></h3>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 20",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

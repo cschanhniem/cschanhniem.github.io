@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti52",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LII) (Tik. I, 3) (It. 46)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba cảm thọ này. Thế nào là ba? Lạc thọ, khổ \n\t\t\t\t\t\t\t\tthọ, bất khổ bất lạc thọ. Này các Tỷ-kheo, có ba cảm thọ này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðịnh tĩnh và tỉnh giác,<br>\n\t\t\t\t\t\t\t\t\t\tChánh niệm đệ tử Phật,<br>\n\t\t\t\t\t\t\t\t\t\tQuán tri các cảm thọ,<br>\n\t\t\t\t\t\t\t\t\t\tVà hiện hữu các thọ.<br>\n\t\t\t\t\t\t\t\t\t\tTại đấy, tâm được diệt,<br>\n\t\t\t\t\t\t\t\t\t\tCon đường đưa đến diệt,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo nhờ diệt thọ,<br>\n\t\t\t\t\t\t\t\t\tKhông ham muốn, tịch tịnh</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti52",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(LII) (Tik. I, 3) (It. 46)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và \n\t\t\t\t\t\t\t\ttôi đã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, có ba cảm thọ này. Thế nào là ba? Lạc thọ, khổ \n\t\t\t\t\t\t\t\tthọ, bất khổ bất lạc thọ. Này các Tỷ-kheo, có ba cảm thọ này.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðịnh tĩnh và tỉnh giác,<br>\n\t\t\t\t\t\t\t\t\t\tChánh niệm đệ tử Phật,<br>\n\t\t\t\t\t\t\t\t\t\tQuán tri các cảm thọ,<br>\n\t\t\t\t\t\t\t\t\t\tVà hiện hữu các thọ.<br>\n\t\t\t\t\t\t\t\t\t\tTại đấy, tâm được diệt,<br>\n\t\t\t\t\t\t\t\t\t\tCon đường đưa đến diệt,<br>\n\t\t\t\t\t\t\t\t\t\tTỷ-kheo nhờ diệt thọ,<br>\n\t\t\t\t\t\t\t\t\tKhông ham muốn, tịch tịnh</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 52",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv2.htm",
+  "external_source_name": "trungtamhotong.org"
 }

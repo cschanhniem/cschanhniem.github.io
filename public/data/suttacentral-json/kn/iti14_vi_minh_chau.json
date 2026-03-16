@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "iti14",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XIV) (Ek II, 4) (It. 7)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi \n\t\t\t\t\t\t\t\tđã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Ta không thấy một triền cái nào khác, do bị bao \n\t\t\t\t\t\t\t\ttrùm bởi triền cái ấy, chúng sanh trong một thời gian dài, lưu chuyển. Này các \n\t\t\t\t\t\t\t\tTỷ-kheo, tức là Vô minh triền cái. Này các Tỷ-kheo, bị bao trùm bởi Vô minh \n\t\t\t\t\t\t\t\ttriền cái, chúng sanh trong một thời gian dài chạy dài, lưu chuyển.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Không có một pháp khác,<br>\n\t\t\t\t\t\t\t\t\t\tQuần sanh bị bao phủ,<br>\n\t\t\t\t\t\t\t\t\t\tNgày đêm chạy lưu chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tNhư bao phủ bởi si<br>\n\t\t\t\t\t\t\t\t\t\tVà ai đoạn diệt si,<br>\n\t\t\t\t\t\t\t\t\t\tÐâm thủng khối u ám,<br>\n\t\t\t\t\t\t\t\t\t\tHọ không lưu chuyển nữa,<br>\n\t\t\t\t\t\t\t\t\tTrong họ, nhân không còn</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
+  "translation": {
+    "uid": "iti14",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong>(XIV) (Ek II, 4) (It. 7)</strong></p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ðiều này được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi \n\t\t\t\t\t\t\t\tđã được nghe:</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Này các Tỷ-kheo, Ta không thấy một triền cái nào khác, do bị bao \n\t\t\t\t\t\t\t\ttrùm bởi triền cái ấy, chúng sanh trong một thời gian dài, lưu chuyển. Này các \n\t\t\t\t\t\t\t\tTỷ-kheo, tức là Vô minh triền cái. Này các Tỷ-kheo, bị bao trùm bởi Vô minh \n\t\t\t\t\t\t\t\ttriền cái, chúng sanh trong một thời gian dài chạy dài, lưu chuyển.</p>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Thế Tôn đã nói lên ý nghĩa này. Ở đây, điều này đã được nói đến.</p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\">Không có một pháp khác,<br>\n\t\t\t\t\t\t\t\t\t\tQuần sanh bị bao phủ,<br>\n\t\t\t\t\t\t\t\t\t\tNgày đêm chạy lưu chuyển,<br>\n\t\t\t\t\t\t\t\t\t\tNhư bao phủ bởi si<br>\n\t\t\t\t\t\t\t\t\t\tVà ai đoạn diệt si,<br>\n\t\t\t\t\t\t\t\t\t\tÐâm thủng khối u ám,<br>\n\t\t\t\t\t\t\t\t\t\tHọ không lưu chuyển nữa,<br>\n\t\t\t\t\t\t\t\t\tTrong họ, nhân không còn</i>.</P> </blockquote>\n\t\t\t\t\t\t\t<p ALIGN=\"left\">Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.</p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Iti 14",
@@ -292,5 +302,7 @@
   "candidate_authors": [
     "sujato",
     "ireland"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb14-ptnv1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

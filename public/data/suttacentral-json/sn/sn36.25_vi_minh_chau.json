@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "sn36.25",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><b>25. V. Bởi Vị Tỷ Kheo </b>(S.iv,234)</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">1) Rồi một số đông Tỷ-kheo đi đến Thế Tôn...</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">... (Kinh này giống như kinh số 23) ...</font></p>"
+  },
+  "translation": {
+    "uid": "sn36.25",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><font face=\"Times New Roman\"><b>25. V. Bởi Vị Tỷ Kheo </b>(S.iv,234)</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">1) Rồi một số đông Tỷ-kheo đi đến Thế Tôn...</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">... (Kinh này giống như kinh số 23) ...</font></p>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "SN 36.25",
@@ -267,5 +277,7 @@
   "candidate_authors": [
     "sujato",
     "bodhi"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tuongungbo/tu4-36.htm",
+  "external_source_name": "trungtamhotong.org"
 }

@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "ud1.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VII) (Ud 4)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Pàtali </i>tại <i>Ajakalàpaka</i>, \n\t\t\t\t\t\t\t\t\tchỗ ở của Dạ-xoa <i>Ajakalàpa</i>. Lúc bấy giờ Thế Tôn đang ngồi ngoài trời, \n\t\t\t\t\t\t\t\t\ttrong đêm tối đen, và trời mưa từng hột xuống. Rồi Dạ-xoa <i>Ajakalàpaka </i>muốn \n\t\t\t\t\t\t\t\t\tlàm cho Thế Tôn sợ hãi, hoảng sợ, lông tóc dựng ngược, đi đến Thế Tôn, sau khi \n\t\t\t\t\t\t\t\t\tđến, ba lần nói lên gần Thế Tôn tiếng gào thét của mình là <i>Akkulopakkulo</i>: \n\t\t\t\t\t\t\t\t\t\"Này Sa môn, có con quỷ cho Ông \". Thế Tôn sau khi hiểu biết ý nghĩa này, ngay \n\t\t\t\t\t\t\t\t\ttrong lúc ấy nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">7. Khi nào Bà-la-môn<br>\n\t\t\t\t\t\t\t\t\t\t\tÐối với pháp của mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã đạt được bờ kia,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy vượt qua được,<br>\n\t\t\t\t\t\t\t\t\t\t\tÁc quỷ yêu ma này.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
+  "translation": {
+    "uid": "ud1.7",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p><strong><font face=\"Times New Roman\">(VII) (Ud 4)</font></strong></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Như vầy tôi nghe:</font></p>\n\t\t\t\t\t\t\t<p><font face=\"Times New Roman\">Một thời Thế Tôn trú ở <i>Pàtali </i>tại <i>Ajakalàpaka</i>, \n\t\t\t\t\t\t\t\t\tchỗ ở của Dạ-xoa <i>Ajakalàpa</i>. Lúc bấy giờ Thế Tôn đang ngồi ngoài trời, \n\t\t\t\t\t\t\t\t\ttrong đêm tối đen, và trời mưa từng hột xuống. Rồi Dạ-xoa <i>Ajakalàpaka </i>muốn \n\t\t\t\t\t\t\t\t\tlàm cho Thế Tôn sợ hãi, hoảng sợ, lông tóc dựng ngược, đi đến Thế Tôn, sau khi \n\t\t\t\t\t\t\t\t\tđến, ba lần nói lên gần Thế Tôn tiếng gào thét của mình là <i>Akkulopakkulo</i>: \n\t\t\t\t\t\t\t\t\t\"Này Sa môn, có con quỷ cho Ông \". Thế Tôn sau khi hiểu biết ý nghĩa này, ngay \n\t\t\t\t\t\t\t\t\ttrong lúc ấy nói lên lời cảm hứng này:</font></p>\n\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t<p><em><font face=\"Times New Roman\">7. Khi nào Bà-la-môn<br>\n\t\t\t\t\t\t\t\t\t\t\tÐối với pháp của mình,<br>\n\t\t\t\t\t\t\t\t\t\t\tÐã đạt được bờ kia,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy vượt qua được,<br>\n\t\t\t\t\t\t\t\t\t\t\tÁc quỷ yêu ma này.</font></em></p>\n\t\t\t\t\t\t\t</blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Ud 1.7",
@@ -305,5 +315,7 @@
   "candidate_authors": [
     "sujato",
     "anandajoti"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb13-ptt1.htm",
+  "external_source_name": "trungtamhotong.org"
 }

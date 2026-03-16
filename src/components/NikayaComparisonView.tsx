@@ -8,11 +8,18 @@ import { Link2, Link2Off, Sparkles, Globe } from 'lucide-react'
 import type { NikayaLanguage, NikayaVersionType } from '@/types/nikaya'
 import { getNikayaVersionLabel } from '@/lib/nikaya-version-options'
 
+export interface NikayaRenderNotice {
+    title: string
+    body: string
+}
+
 interface NikayaComparisonViewProps {
     leftContent: string
     rightContent: string
     leftVersion: { lang: NikayaLanguage; type: NikayaVersionType }
     rightVersion: { lang: NikayaLanguage; type: NikayaVersionType }
+    leftNotice?: NikayaRenderNotice | null
+    rightNotice?: NikayaRenderNotice | null
     fontSize?: 'small' | 'medium' | 'large'
 }
 
@@ -27,6 +34,8 @@ export function NikayaComparisonView({
     rightContent,
     leftVersion,
     rightVersion,
+    leftNotice = null,
+    rightNotice = null,
     fontSize = 'medium'
 }: NikayaComparisonViewProps) {
     const [syncScroll, setSyncScroll] = useState(true)
@@ -133,6 +142,12 @@ export function NikayaComparisonView({
                         ref={leftRef}
                         className="flex-1 p-4 overflow-y-auto max-h-[70vh]"
                     >
+                        {leftNotice && (
+                            <div className="mb-4 rounded-lg border border-amber-500/25 bg-amber-500/10 p-3">
+                                <p className="text-sm font-semibold text-amber-700 dark:text-amber-300">{leftNotice.title}</p>
+                                <p className="mt-1 text-sm text-muted-foreground">{leftNotice.body}</p>
+                            </div>
+                        )}
                         <article className={proseClasses}>
                             {leftVersion.type === 'original' ? (
                                 <div dangerouslySetInnerHTML={{ __html: leftContent || '<i>Đang tải...</i>' }} />
@@ -154,6 +169,12 @@ export function NikayaComparisonView({
                         ref={rightRef}
                         className="flex-1 p-4 overflow-y-auto max-h-[70vh]"
                     >
+                        {rightNotice && (
+                            <div className="mb-4 rounded-lg border border-amber-500/25 bg-amber-500/10 p-3">
+                                <p className="text-sm font-semibold text-amber-700 dark:text-amber-300">{rightNotice.title}</p>
+                                <p className="mt-1 text-sm text-muted-foreground">{rightNotice.body}</p>
+                            </div>
+                        )}
                         <article className={proseClasses}>
                             {rightVersion.type === 'original' ? (
                                 <div dangerouslySetInnerHTML={{ __html: rightContent || '<i>Đang tải...</i>' }} />

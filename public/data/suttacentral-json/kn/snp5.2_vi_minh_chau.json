@@ -1,6 +1,16 @@
 {
-  "root_text": null,
-  "translation": null,
+  "root_text": {
+    "uid": "snp5.2",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(III) Các câu hỏi của thanh niên <i>Tissametmeyya</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 199)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Yissa:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1040. Tissa Met-tey-ya:<br>\n\t\t\t\t\t\t\t\t\t\t\tAi thỏa mãn ở đời,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới ai không dao động,<br>\n\t\t\t\t\t\t\t\t\t\t\tAi thắng tri hai biên,<br>\n\t\t\t\t\t\t\t\t\t\t\tỞ giữa, không dính líu,<br>\n\t\t\t\t\t\t\t\t\t\t\tAi Ngài gọi đại nhân,<br>\n\t\t\t\t\t\t\t\t\t\t\tỞ đời, ai vượt khỏi,<br>\n\t\t\t\t\t\t\t\t\t\t\tThêu dệt các ái nhiễm?</font></i></P></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1041. Thế Tôn liền đáp rằng:<br>\n\t\t\t\t\t\t\t\t\t\t\tHỡi này Met-tê-ya!<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa dục, sống Phạm hạnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông ái, luôn chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tTỷ-kheo lặng tính toán,<br>\n\t\t\t\t\t\t\t\t\t\t\tAn tịnh, không dao động.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1042. Ai thắng tri hai biên,<br>\n\t\t\t\t\t\t\t\t\t\t\tChặng giữa, nhờ suy tư,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông dính líu bị nhiễm,<br>\n\t\t\t\t\t\t\t\t\t\t\tTa gọi là đại nhân,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy, ở đời này,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt khỏi sự thêu dệt,<br>\n\t\t\t\t\t\t\t\t\t\t\tCác ái nhiễm tham muốn.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
+  "translation": {
+    "uid": "snp5.2",
+    "lang": "vi",
+    "author_uid": "minh_chau",
+    "text": "<p ALIGN=\"left\"><strong><font face=\"Times New Roman\">(III) Các câu hỏi của thanh niên <i>Tissametmeyya</i>\n\t\t\t\t\t\t\t\t\t\t(Sn 199)</font></strong></p>\n\t\t\t\t\t\t\t<i>\n\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Yissa:</font></p>\n\t\t\t\t\t\t\t\t<blockquote>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1040. Tissa Met-tey-ya:<br>\n\t\t\t\t\t\t\t\t\t\t\tAi thỏa mãn ở đời,<br>\n\t\t\t\t\t\t\t\t\t\t\tVới ai không dao động,<br>\n\t\t\t\t\t\t\t\t\t\t\tAi thắng tri hai biên,<br>\n\t\t\t\t\t\t\t\t\t\t\tỞ giữa, không dính líu,<br>\n\t\t\t\t\t\t\t\t\t\t\tAi Ngài gọi đại nhân,<br>\n\t\t\t\t\t\t\t\t\t\t\tỞ đời, ai vượt khỏi,<br>\n\t\t\t\t\t\t\t\t\t\t\tThêu dệt các ái nhiễm?</font></i></P></BLOCKQUOTE>\n\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">Thế Tôn:</font></p>\n\t\t\t\t\t\t\t<blockquote> <i>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1041. Thế Tôn liền đáp rằng:<br>\n\t\t\t\t\t\t\t\t\t\t\tHỡi này Met-tê-ya!<br>\n\t\t\t\t\t\t\t\t\t\t\tGiữa dục, sống Phạm hạnh,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông ái, luôn chánh niệm,<br>\n\t\t\t\t\t\t\t\t\t\t\tTỷ-kheo lặng tính toán,<br>\n\t\t\t\t\t\t\t\t\t\t\tAn tịnh, không dao động.</font></p>\n\t\t\t\t\t\t\t\t\t<p ALIGN=\"left\"><font face=\"Times New Roman\">1042. Ai thắng tri hai biên,<br>\n\t\t\t\t\t\t\t\t\t\t\tChặng giữa, nhờ suy tư,<br>\n\t\t\t\t\t\t\t\t\t\t\tKhông dính líu bị nhiễm,<br>\n\t\t\t\t\t\t\t\t\t\t\tTa gọi là đại nhân,<br>\n\t\t\t\t\t\t\t\t\t\t\tVị ấy, ở đời này,<br>\n\t\t\t\t\t\t\t\t\t\t\tVượt khỏi sự thêu dệt,<br>\n\t\t\t\t\t\t\t\t\t\t\tCác ái nhiễm tham muốn.</font></p>\n\t\t\t\t\t\t\t\t</i></blockquote>"
+  },
   "segmented": false,
   "suttaplex": {
     "acronym": "Snp 5.2",
@@ -319,5 +329,7 @@
     "sujato",
     "anandajoti",
     "mills"
-  ]
+  ],
+  "external_source_url": "https://trungtamhotong.org/NoiDung/ThuVien/Kinh/u-kinh-tieubo1/tb15-kt5.htm",
+  "external_source_name": "trungtamhotong.org"
 }
