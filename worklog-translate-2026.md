@@ -33,7 +33,7 @@ Last updated: 2026-03-21
 | DN | 34 | 34 | Complete | revision only |
 | MN | 152 | 152 | Complete | revision only |
 | SN | 3024 | 19 | Partial | doctrinal spine first |
-| AN | 8122 | 286 | Active | strict sequential continuation |
+| AN | 8122 | 295 | Active | strict sequential continuation |
 | KN | 694 | 12 | Partial | foothold clusters first |
 
 ## Active Lanes
@@ -41,9 +41,9 @@ Last updated: 2026-03-21
 ### AN
 
 - Lane type: sequential
-- Completed through: `an1.286`
-- Next missing route: `an1.287`
-- Next grouped block: `an1.287-295`
+- Completed through: `an1.295`
+- Next missing route: `an1.296`
+- Next grouped block: `an1.296-305`
 - Latest completed batch log:
   - [tasks/2026-03-20-manual-2026-an-batch-12.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-20-manual-2026-an-batch-12.md)
   - [tasks/2026-03-20-manual-2026-an-batch-13.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-20-manual-2026-an-batch-13.md)
@@ -55,6 +55,7 @@ Last updated: 2026-03-21
   - [tasks/2026-03-21-manual-2026-an-batch-19.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-21-manual-2026-an-batch-19.md)
   - [tasks/2026-03-21-manual-2026-an-batch-20.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-21-manual-2026-an-batch-20.md)
   - [tasks/2026-03-21-manual-2026-an-batch-21.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-21-manual-2026-an-batch-21.md)
+  - [tasks/2026-03-21-manual-2026-an-batch-22.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-21-manual-2026-an-batch-22.md)
 
 ### SN
 
@@ -109,6 +110,9 @@ Last updated: 2026-03-21
 - 2026-03-21
   - Completed `AN 1.278-286`
   - Coverage moved `277 -> 286`
+- 2026-03-21
+  - Completed `AN 1.287-295`
+  - Coverage moved `286 -> 295`
 
 ## Notes
 
