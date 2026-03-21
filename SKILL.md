@@ -554,6 +554,8 @@ flowchart LR
 - Do not reintroduce a forced `vendor-markdown` chunk for the KaTeX reader stack. On this repo, Rolldown can emit a broken `katex_min_exports` symbol when `katex` and `rehype-katex` are grouped too aggressively.
 - If math pages need lazy styling, keep `useKatexCSS` on the stylesheet-URL path. Avoid dynamic CSS module imports for `katex.min.css` unless you verify the emitted chunk graph in production.
 - During route QA, inspect the page chrome as well as the manuscript body. Mis-scoped i18n keys such as `t('common.exportPdf')` can surface raw keys even when the content itself is clean.
+- In `AN` peyyāla matrices, route titles must carry both the predicate and the paired qualities. Otherwise the UI can render many different child routes as if they were the same discourse.
+- When closing `AN 2.230-279`, preserve the alternation between dark and bright pairs across all ten predicates. When moving to `AN 2.280-309`, drop that pair-language and re-anchor in Vinaya procedures plus their two stated purposes.
 
 ## Review Checklist
 
