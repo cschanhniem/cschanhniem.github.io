@@ -585,6 +585,7 @@ flowchart LR
 - `AN 3.163-182` is the next clean sequential tranche. The English grouped source is exact enough to restore all twenty route bodies, and the Minh Châu grouped shell keeps the pair order. Write it as ten mirrored hell and heaven pairs. Keep the triple structure audible in every route: tự mình làm, xúi người khác làm, và tán đồng. Do not blur the positive poles into generic goodness. Contentment, kindness, and right view must stay distinct.
 - `AN 3.183-352` requires a different recovery method. The grouped English file is a compressed matrix, not a child-key bundle. Start by treating `an3.183-192` as the ten greed routes, each with one distinct operation verb and the same three samādhis. Only after finishing those ten should the lane move to the next object. The Vietnamese grouped shell is crucial here because it preserves the exact doctrinal verb ladder in good order.
 - `AN 3.193-202` are the next matrix slice and should be authored as the ten hatred routes, not as a new freeform block. Reuse the same verb ladder from `an3.183-192`, only changing the defilement from greed to hatred. This is a serial doctrinal table, so consistency of the verb sequence matters more than ornamental prose variation.
+- `AN 3.203-212` continue the same serial table with delusion. Keep the greed slice, then hatred slice, then delusion slice visibly parallel, or later agent passes will start to drift in titles and doctrinal force.
 
 ## Review Checklist
 
