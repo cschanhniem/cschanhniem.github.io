@@ -246,6 +246,7 @@ Use this branch when Nikaya detail pages show placeholder prose, raw Bilara temp
 80. `AN 1.455-464` is the ten-kasina block and should stay visibly shaped. First come earth, water, fire, and air. Then the blue, yellow, red, and white kasinas. Finally the arc opens further into space and consciousness. Preserve `biến xứ` as a technical term, and let the prose show the deepening movement from coarse support to subtle field without turning the block into vague mystical atmosphere.
 81. `AN 1.465-474` is the ten-perception block and should not be flattened. The first four perceptions strip glamour away from the world of craving. The next three form an insight ladder, impermanence, suffering, not-self. The last three turn that insight into release, giving up, fading away, cessation. Keep each route lean, but preserve the whole arc.
 82. `AN 1.475-484` is the next perception block and changes register halfway. The first five routes are short reset-perceptions. The next five are corpse contemplations and must keep their severity. Do not soften the imagery just to make it more comfortable; their job is precisely to cut attachment to bodily glamour.
+83. `AN 1.485-494` is the recollection block and needs a different register from the harsher perception clusters before it. The prose should be clear, warm, and steady without getting sentimental. These routes are meant to give the mind reliable supports, from the six classic recollections through breathing, death, body, and peace.
 
 ### Nikaya State Machine
 
