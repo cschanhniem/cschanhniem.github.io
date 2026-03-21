@@ -590,6 +590,7 @@ flowchart LR
 - `AN 3.223-232` should preserve that same signal for acrimony. Once the agent chooses a Vietnamese rendering such as `hiềm hận`, keep it stable through the full ten-route slice instead of oscillating between near-synonyms.
 - `AN 3.233-242` should apply the same discipline to disdain. Choose one clean rendering such as `khinh miệt` and hold it across the slice so the matrix remains visibly serial and auditable.
 - `AN 3.243-252` should do the same for contempt. If the agent chooses `miệt thị`, keep that choice fixed through the slice and do not blur it back into the previous disdain tranche.
+- `AN 3.253-262` should do the same for jealousy. If the agent chooses `ganh tỵ`, keep it fixed through the slice so the table still reads as one controlled doctrinal series instead of a cloud of near-synonyms.
 
 ## Review Checklist
 
