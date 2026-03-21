@@ -236,6 +236,76 @@ Bạn phải rà lại:
 - giữ hoặc làm rõ hơn doctrinal spine
 ```
 
+## Prompt 7: Resume Lane Prompt
+
+Dùng prompt này khi một agent mới phải tiếp tục đúng lane đang dang dở, không đoán mò, không nhảy block, và không để sót route.
+
+```text
+Hãy tiếp tục công việc manual 2026 trong repo này như một agent kế nhiệm có kỷ luật vận hành rất cao.
+
+Mục tiêu của bạn không chỉ là dịch thêm. Mục tiêu là tiếp tục đúng lane, đúng route kế tiếp, đúng chuẩn biên tập, và khép vòng công việc sao cho agent sau nhìn vào là đi tiếp được ngay mà không phải điều tra lại từ đầu.
+
+Trước khi viết bất cứ file dịch nào, bắt buộc làm theo thứ tự này:
+1. Đọc `worklog-translate-2026.md`.
+2. Xác định rõ:
+   - collection nào đang là lane active
+   - completed-through route là gì
+   - next missing route là gì
+   - next block là gì
+3. Đọc `AGENTS.md`, `SKILL.md`, và `docs/manual-2026-agent-prompts.md` để nắm các quy luật editorial đã được khóa trước đó.
+4. Kiểm lại các file manual liền kề quanh block sắp làm để giữ giọng văn, thuật ngữ, và kết cấu block cho nhất quán.
+5. Chỉ sau đó mới bắt đầu authoring batch kế tiếp.
+
+Quy luật không được vi phạm:
+- Không được nhảy qua route khác khi worklog đã khóa mốc kế tiếp.
+- Không được tự ý đổi collection nếu worklog chưa đổi lane.
+- Không được gọi một route là hoàn tất nếu thân bài mới chỉ là tóm ý hoặc outline.
+- Không được bỏ qua cập nhật `worklog-translate-2026.md`.
+- Không được quên thêm task log vào `tasks/YYYY-MM-DD-*.md`.
+- Không được quên cập nhật `AGENTS.md` và `SKILL.md` nếu batch vừa xong làm lộ ra một quy luật editorial mới.
+
+Chuẩn source:
+- English Sujato là khóa nghĩa và khóa cấu trúc.
+- HT. Thích Minh Châu là nguồn kiểm thuật ngữ, route structure, và truyền thống local.
+- HT. Thích Thanh Từ chỉ được dùng như chuẩn tham khảo về giọng nếu source đó hiện diện thật trong workspace hoặc source packet. Nếu không có, phải ghi rõ là thiếu nguồn.
+
+Chuẩn authoring:
+- mỗi route phải thành một bản dịch đầy đủ trọn thân bài
+- các peyyāla hay grouped shorthand phải được bung ra thành route-complete text nếu source cho phép
+- title phải đúng child route, không trôi về title block chung
+- các cluster đối xứng phải còn đọc ra được hình học doctrinal của cả block
+- tiếng Việt phải mượt khi đọc lớn, không đạo mạo giả, không chung chung, không như AI
+
+Vòng khép công việc bắt buộc sau khi viết xong batch:
+1. Tự review lại cả block theo `Prompt 4`.
+2. Thêm task log mới trong `tasks/` với:
+   - batch vừa làm
+   - source đã dùng
+   - quy luật editorial mới
+   - route kế tiếp
+3. Cập nhật `worklog-translate-2026.md` với:
+   - completed-through route mới
+   - next missing route
+   - next block
+   - coverage trước và sau
+4. Nếu phát hiện quy luật mới, nối ngắn gọn vào `AGENTS.md` và `SKILL.md`.
+5. Chạy:
+   - `node scripts/audit-nikaya-triad.mjs <collection>`
+   - `npm run lint`
+   - `npm run build`
+6. Báo cáo cuối phải nói rõ:
+   - batch nào vừa xong
+   - coverage tăng từ bao nhiêu lên bao nhiêu
+   - hiện đã hoàn tất tuần tự đến đâu
+   - route kế tiếp là gì
+   - block kế tiếp là gì
+
+Nếu gặp grouped shell hoặc source shape bất thường:
+- dừng lại để xác định đây là thiếu local, grouped-but-recoverable, hay gap thật ở upstream
+- ghi rõ quyết định đó trong task log và worklog
+- không được lấp chỗ trống bằng một đoạn diễn giải ngắn rồi gọi là xong
+```
+
 ## State Machine
 
 ```mermaid
@@ -295,13 +365,86 @@ flowchart LR
     G --> L[AGENTS.md and SKILL.md updates]
 ```
 
+## Resume Lane State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> WorklogRead
+    WorklogRead --> ActiveLaneConfirmed
+    ActiveLaneConfirmed --> NextRouteConfirmed
+    NextRouteConfirmed --> LocalRulesReloaded
+    LocalRulesReloaded --> NeighborFilesReviewed
+    NeighborFilesReviewed --> BatchDrafted
+    BatchDrafted --> FullBodyCheck
+    FullBodyCheck --> TaskLogWritten
+    TaskLogWritten --> WorklogUpdated
+    WorklogUpdated --> AuditRun
+    AuditRun --> ReportReady
+    ReportReady --> NextLaneLocked
+    WorklogRead --> ActiveLaneConfirmed: lane changed explicitly
+    NextRouteConfirmed --> WorklogRead: tracker inconsistent
+    FullBodyCheck --> BatchDrafted: summary shell detected
+    WorklogUpdated --> TaskLogWritten: missing next route or block
+    AuditRun --> BatchDrafted: coverage mismatch or structural defect
+```
+
+## Resume Lane Sequence Diagram
+
+```mermaid
+sequenceDiagram
+    participant Agent
+    participant Worklog as worklog-translate-2026.md
+    participant Rules as AGENTS.md + SKILL.md + Prompt Pack
+    participant Neighbor as Adjacent Manual Files
+    participant Batch as Current Batch Files
+    participant Task as tasks/YYYY-MM-DD-*.md
+    participant Audit as Triad + Lint + Build
+
+    Agent->>Worklog: read active lane and next route
+    Worklog-->>Agent: completed-through, next route, next block
+    Agent->>Rules: reload editorial constraints
+    Agent->>Neighbor: inspect adjacent files for voice and terminology continuity
+    Agent->>Batch: write full body translations only
+    Agent->>Task: record batch decisions and source notes
+    Agent->>Worklog: update completed-through and next route
+    Agent->>Audit: run triad audit, lint, build
+    Audit-->>Agent: coverage delta and validation result
+    Agent->>Worklog: confirm next lane lock is accurate
+```
+
+## Resume Lane Data Flow
+
+```mermaid
+flowchart LR
+    A[worklog-translate-2026.md] --> B[Active lane]
+    A --> C[Next missing route]
+    D[AGENTS.md] --> E[Editorial rules]
+    F[SKILL.md] --> E
+    G[Prompt pack] --> E
+    H[Adjacent manual files] --> I[Voice and terminology continuity]
+    B --> J[Batch selection]
+    C --> J
+    E --> K[Full body authoring]
+    I --> K
+    K --> L[src/data/nikaya-improved/vi/*.ts]
+    K --> M[tasks/YYYY-MM-DD-*.md]
+    L --> N[triad audit]
+    L --> O[lint and build]
+    M --> P[human-readable history]
+    N --> A
+    O --> A
+```
+
 ## Ghi chú vận hành
 
 - Nếu một route hiện chỉ mới có kiểu viết `mở bài + mũi kinh + bài học`, hãy coi đó là bản nháp editorial, chưa phải bản giao nộp cuối.
 - Ưu tiên sửa các route ngắn và grouped blocks cũ theo chuẩn đầy đủ mới trước khi tiếp tục kéo dài cùng một lỗi sang hàng nghìn route khác.
 - Một bản 2026 tốt có thể vẫn gọn, nhưng gọn vì kinh vốn ngắn, không phải vì agent lược bỏ thân bài.
+- Khi một agent mới tiếp quản lane, điểm vào mặc định là `worklog-translate-2026.md`, không phải audit đoán mò hay suy ngược từ số file đang có.
+- Một lane chỉ được coi là `resume-safe` khi cả bốn thứ đều khớp nhau: file batch mới, task log, worklog, và audit coverage sau batch.
 
 - Nếu user muốn agent dịch hàng loạt, dùng `Prompt 2` cộng `Prompt 4`.
 - Nếu user muốn nâng một bài rất quan trọng, dùng `Prompt 3` cộng `Prompt 4`.
 - Nếu bộ đã đủ coverage như `DN` và `MN`, ưu tiên `Prompt 6`.
+- Nếu user muốn một agent mới tiếp tục đúng phần đang dang dở mà không bỏ sót, ưu tiên `Prompt 7` cộng `Prompt 4`.
 - Nếu source `HT. Thích Thanh Từ` chưa được nạp vào workspace, phải nói rõ trong log và trong báo cáo nội bộ. Đó là thiếu nguồn, không phải chuyện có thể lờ đi.
