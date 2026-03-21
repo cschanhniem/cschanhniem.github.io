@@ -551,6 +551,7 @@ flowchart LR
 - For this repo, a content-only release normally means frontend publish only.
 - If a teaching grows large enough to create an oversized route chunk, prefer chapter-level `loadContent` loaders over eager raw markdown imports so the reader can hydrate progressively.
 - Site verification now runs on Vite 8. Keep `manualChunks` function-based in `vite.config.ts`, and if chart routes fail under production bundling, confirm `react-is` is installed for `recharts`.
+- As Nikaya manual coverage expands, the `nikaya-routes` bundle can cross Workbox's default 2 MiB precache limit. If build starts failing at the PWA step after a successful bundle, check `vite.config.ts` and raise `workbox.maximumFileSizeToCacheInBytes` deliberately instead of treating it like a content defect.
 - Do not reintroduce a forced `vendor-markdown` chunk for the KaTeX reader stack. On this repo, Rolldown can emit a broken `katex_min_exports` symbol when `katex` and `rehype-katex` are grouped too aggressively.
 - If math pages need lazy styling, keep `useKatexCSS` on the stylesheet-URL path. Avoid dynamic CSS module imports for `katex.min.css` unless you verify the emitted chunk graph in production.
 - During route QA, inspect the page chrome as well as the manuscript body. Mis-scoped i18n keys such as `t('common.exportPdf')` can surface raw keys even when the content itself is clean.
@@ -568,6 +569,7 @@ flowchart LR
 - `AN 3.1-10` is no longer peyyāla compression. Each route carries its own argument about the fool and the wise, so the translation must preserve the sharper contrasts in conduct, thought, confession, and rational response. After this tranche, continue sequentially to `AN 3.11`.
 - `AN 3.11-20` remains route-specific prose, not formula filler. Preserve the argumentative turn in each discourse: public influence, what must be remembered, who still hopes, principle as authority, the chariot-maker parable, the unfailing training, self-harm, revulsion toward heavenly rebirth as a goal, and the two shopkeeper similes. After this tranche, continue sequentially to `AN 3.21`.
 - `AN 3.21-30` needs tonal range. The first half is classificatory and comparative, while the second half lands through images that must stay sharp when read aloud. Do not sand down the metaphors. `Vết thương làm mủ`, `kim cương`, `nói như phân`, `một mắt`, and `lộn ngược` should all remain vivid. After this tranche, continue sequentially to `AN 3.31`.
+- `AN 3.31-40` must keep both warmth and gravity. `Cha mẹ như Phạm thiên` should sound reverent without sentimentality. `Diêm Vương` and the sứ giả cõi trời should remain morally severe. `Tăng Thượng` should read like a practice manual, not a slogan sheet. After this tranche, continue sequentially to `AN 3.41`.
 
 ## Review Checklist
 

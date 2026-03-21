@@ -49,6 +49,7 @@ Backend (optional):
 - For KaTeX CSS, prefer a lazy `<link rel="stylesheet">` injection from `src/hooks/useKatexCSS.ts` over `import('katex/dist/katex.min.css')`. The CSS-as-module path is fragile under the current Rolldown output.
 - `recharts@3.6.0` expects `react-is` as a peer dependency. Keep `react-is` installed explicitly or chart-heavy routes can fail only at production build time.
 - `vite-plugin-pwa@1.2.0` and `@tailwindcss/vite@4.x` currently build successfully here, but their npm peer ranges lag behind Vite 8. Re-check upstream support before assuming the warning surface is closed.
+- As `manual 2026` coverage grows, the generated `nikaya-routes` chunk can exceed Workbox's default 2 MiB precache ceiling. Keep `vite.config.ts` aligned with that reality by setting an explicit `workbox.maximumFileSizeToCacheInBytes`, or build will start failing even when TypeScript and bundling are otherwise clean.
 - `.npmrc` currently sets `legacy-peer-deps=true` so clean installs keep working while those peer ranges are behind. Remove it once upstream packages officially support Vite 8.
 
 ## Repo Map
@@ -556,3 +557,4 @@ flowchart LR
 - `AN 3.1-10` opens `Bālavagga` with ten route-level discourses on the fool. Keep the contrast with the wise explicit, preserve the shift from danger to marks, thought, fault, irrationality, and moral corruption, and do not collapse the block into generic ethical slogans. After `an3.10`, the strict sequential lane continues to `an3.11`.
 - `AN 3.11-20` turns from the fool to public influence, remembrance, hope, principle, craftsmanship, vigilance, self-harm, heavenly aspiration, and the two shopkeeper similes. Keep each route as a complete argument, especially `an3.14-16`, where doctrine, craftsmanship, and training discipline must not be flattened into motivational prose. After `an3.20`, continue strictly to `an3.21`.
 - `AN 3.21-30` mixes classification dialogues, existential similes, and training metaphors. Keep `an3.21` nuanced, because the discourse does not crown one saintly type in every respect. Then preserve the bite of the later images: open sore, diamond, dung-speech, one-eyed gain, and overturned wisdom. After `an3.30`, continue strictly to `an3.31`.
+- `AN 3.31-40` pivots through filial piety, non-self samādhi, karmic causation, the Buddha's ease, Yama's warnings, celestial observation, and three standards of accountability. Keep `an3.35-40` vivid and concrete. These are not abstract doctrinal notes. After `an3.40`, continue strictly to `an3.41`.
