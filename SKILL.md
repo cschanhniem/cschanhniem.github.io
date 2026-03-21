@@ -251,6 +251,7 @@ Use this branch when Nikaya detail pages show placeholder prose, raw Bilara temp
 85. `AN 1.505-514` is the same matched pentad structure shifted into the second jhāna. The content should not sound mechanically recycled from `AN 1.495-504`. Keep the quieter, more unified flavor of nhị thiền audible, while still marking the rise from faculty to power.
 86. `AN 1.515-524` repeats the matched pentads in the third jhāna. The editorial job is not to inflate doctrine, but to make the tonal descent audible: less bright than nhị thiền, more settled, more cool, more balanced. Preserve both axes, from faculty to power and from nhị thiền to tam thiền.
 87. `AN 1.525-534` shifts the same pentads into the fourth jhāna. The prose should be the cleanest of the four jhāna blocks: more even, more purified, less affective, and more unmistakably grounded in equanimity and clarity. Keep both transitions explicit, from faculty to power and from tam thiền to thiền thứ tư.
+88. `AN 1.535-544` leaves the jhāna ladder and enters the mettā pentads. The prose should open out: warmer, wider, less technical, but still exact. Keep both transitions explicit, from faculty to power and from fourth-jhāna purity into loving-kindness as a lived, non-hostile mode of mind.
 
 ### Nikaya State Machine
 
