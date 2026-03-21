@@ -353,6 +353,7 @@ flowchart LR
 - `AN 1.485-494` is the recollection cluster and should feel bright, usable, and foundational. `an1.485-490` are the six classical recollections, Buddha, Dhamma, Saṅgha, ethics, generosity, deities. `an1.491-494` then close with breathing, death, body, and peace. Do not let these become vague devotional blurbs. Each route should clarify how recollection shapes the heart.
 - `AN 1.495-504` advances from the five faculties to the five powers, all grounded in the first absorption. Keep `an1.495-499` and `an1.500-504` visibly paired. The second five are not duplicates. They are the matured, steadier form of the first five. Make the growth from `căn` to `lực` unmistakable in both title and prose.
 - `AN 1.505-514` repeats the same paired pentads as `AN 1.495-504`, but the ground changes from the first absorption to the second. Do not write it as a lazy copy. The prose should sound quieter, more inward, and less effortful. Preserve both transitions at once, from `căn` to `lực`, and from sơ thiền to nhị thiền.
+- `AN 1.515-524` carries the same structure into the third absorption. This block should feel cooler and more balanced than `AN 1.505-514`. Let the prose lose another layer of brightness and effort. Keep the movement from faculty to power clear, but let tam thiền read as mát, đằm, and very steady rather than merely "deeper".
 
 ```mermaid
 stateDiagram-v2

@@ -249,6 +249,7 @@ Use this branch when Nikaya detail pages show placeholder prose, raw Bilara temp
 83. `AN 1.485-494` is the recollection block and needs a different register from the harsher perception clusters before it. The prose should be clear, warm, and steady without getting sentimental. These routes are meant to give the mind reliable supports, from the six classic recollections through breathing, death, body, and peace.
 84. `AN 1.495-504` is the first-jhāna faculties-and-powers block. Treat `an1.495-499` and `an1.500-504` as two matched pentads. The key editorial job is to preserve the doctrinal ascent from `căn` to `lực`, from growing capacity to stabilized strength, without turning the ten routes into ten near-identical notes.
 85. `AN 1.505-514` is the same matched pentad structure shifted into the second jhāna. The content should not sound mechanically recycled from `AN 1.495-504`. Keep the quieter, more unified flavor of nhị thiền audible, while still marking the rise from faculty to power.
+86. `AN 1.515-524` repeats the matched pentads in the third jhāna. The editorial job is not to inflate doctrine, but to make the tonal descent audible: less bright than nhị thiền, more settled, more cool, more balanced. Preserve both axes, from faculty to power and from nhị thiền to tam thiền.
 
 ### Nikaya State Machine
 
