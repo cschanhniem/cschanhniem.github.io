@@ -588,6 +588,7 @@ flowchart LR
 - `AN 3.203-212` continue the same serial table with delusion. Keep the greed slice, then hatred slice, then delusion slice visibly parallel, or later agent passes will start to drift in titles and doctrinal force.
 - `AN 3.213-222` should keep that same serial parallelism for anger. Resist the temptation to embellish the anger slice more than the earlier ones. The correctness signal here is consistency of the table, not novelty of expression.
 - `AN 3.223-232` should preserve that same signal for acrimony. Once the agent chooses a Vietnamese rendering such as `hiềm hận`, keep it stable through the full ten-route slice instead of oscillating between near-synonyms.
+- `AN 3.233-242` should apply the same discipline to disdain. Choose one clean rendering such as `khinh miệt` and hold it across the slice so the matrix remains visibly serial and auditable.
 
 ## Review Checklist
 
