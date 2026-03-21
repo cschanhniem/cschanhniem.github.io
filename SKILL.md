@@ -560,6 +560,8 @@ flowchart LR
 - After the Vinaya peyyāla, reset the semantic map before authoring the next block. `AN 2.310-479` belongs to greed and allied defilements plus the two practices that undo them, not to monastic procedure.
 - In the greed peyyāla, a small helper for the repeated `chỉ và quán` formula is acceptable, but the ladder verbs must remain explicit in each route title. The title is what preserves the doctrinal progression on the public surface.
 - When advancing from `AN 2.310-339` to `AN 2.340+`, do not change the ladder wording unless the source forces it. The only variable should be the defilement under examination.
+- The same rule holds for `AN 2.340-369`: keep the ten ladder verbs fixed and only swap the defilement. This is how the reader perceives the canonical pattern instead of a pile of disconnected aphorisms.
+- The next tranche after `AN 2.369` should continue exactly with contempt, jealousy, and stinginess. Keep the grouped source order intact.
 
 ## Review Checklist
 
