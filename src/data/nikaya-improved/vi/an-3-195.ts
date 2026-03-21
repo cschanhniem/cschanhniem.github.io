@@ -1,0 +1,14 @@
+// Improved Vietnamese Translation - AN 3.195
+// NhậpLưu 2026 Translation
+
+import type { ImprovedTranslation } from '@/types/nikaya'
+import { buildAn3RagaPeyyalaContent } from './an-3-raga-peyyala'
+
+export const an3_195: ImprovedTranslation = {
+    suttaId: 'an3.195',
+    lang: 'vi',
+    author: 'NhậpLưu Translation Team',
+    year: '2026',
+    title: 'Kinh Biến Diệt Sân',
+    content: buildAn3RagaPeyyalaContent('Kinh Biến Diệt Sân', 'AN 3.195', 'biến diệt', 'sân'),
+}
