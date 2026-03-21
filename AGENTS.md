@@ -356,6 +356,7 @@ flowchart LR
 - `AN 1.515-524` carries the same structure into the third absorption. This block should feel cooler and more balanced than `AN 1.505-514`. Let the prose lose another layer of brightness and effort. Keep the movement from faculty to power clear, but let tam thiền read as mát, đằm, and very steady rather than merely "deeper".
 - `AN 1.525-534` carries the same paired structure into the fourth absorption. Do not merely say it is deeper again. Let it read cleaner, more even, and more purified than `AN 1.515-524`. This is the xả and purity block. The tone should be bright but almost stainless, with minimal emotional coloring.
 - `AN 1.535-544` shifts away from the jhāna-grounded clusters into the mettā block. This should not sound technical or cold after the fourth-jhāna tranche. Keep the prose wider, warmer, and more humane. The key is to preserve both axes, from faculty to power, and from purified equanimity into active non-hostility and benevolence.
+- `AN 1.545-554` mirrors the mettā pentads but shifts fully into karuṇā. Do not simply swap one Brahmavihāra label for another. Let the prose move closer to suffering, endurance, and non-abandonment. Keep the faculty to power transition explicit, and make sure compassion is not flattened into sadness, pity, or moral sentimentality.
 
 ```mermaid
 stateDiagram-v2
