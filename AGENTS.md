@@ -351,6 +351,7 @@ flowchart LR
 - `AN 1.465-474` is the ten-perception block and should keep its three-part shape. `an1.465-468` cut attachment by disillusioning perception, ugliness, death, food, and the whole world. `an1.469-471` tighten into the insight chain, impermanence, suffering in impermanence, not-self in suffering. `an1.472-474` then turn from seeing to release, giving up, fading of passion, and cessation. Do not write these as isolated inspirational fragments.
 - `AN 1.475-484` restarts with a compact insight-and-disillusion cluster, then swings hard into corpse contemplations. `an1.475-479` should stay quick and direct, impermanence, not-self, death, food, the world. `an1.480-484` must not be prettified. Skeleton, worm-eaten corpse, livid corpse, split-open corpse, and bloated corpse are meant to break glamour, not to sound tasteful.
 - `AN 1.485-494` is the recollection cluster and should feel bright, usable, and foundational. `an1.485-490` are the six classical recollections, Buddha, Dhamma, Saṅgha, ethics, generosity, deities. `an1.491-494` then close with breathing, death, body, and peace. Do not let these become vague devotional blurbs. Each route should clarify how recollection shapes the heart.
+- `AN 1.495-504` advances from the five faculties to the five powers, all grounded in the first absorption. Keep `an1.495-499` and `an1.500-504` visibly paired. The second five are not duplicates. They are the matured, steadier form of the first five. Make the growth from `căn` to `lực` unmistakable in both title and prose.
 
 ```mermaid
 stateDiagram-v2
