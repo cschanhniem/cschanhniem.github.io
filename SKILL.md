@@ -593,6 +593,7 @@ flowchart LR
 - `AN 3.253-262` should do the same for jealousy. If the agent chooses `ganh tỵ`, keep it fixed through the slice so the table still reads as one controlled doctrinal series instead of a cloud of near-synonyms.
 - `AN 3.263-272` should do the same for stinginess. If the agent chooses `xan tham`, keep that label fixed across the full slice and let the unchanged verb ladder carry the serial logic.
 - `AN 3.273-282` should do the same for deceitfulness. Prefer `giả dối`, since the grouped Minh Châu shell already points there, and keep it fixed so the transition into later `deviousness` routes can still be audited cleanly.
+- `AN 3.283-292` should do the same for deviousness. Prefer `man trá`, keep it fixed across the slice, and let the distinction from the prior `giả dối` tranche remain visible without drifting into vague moral paraphrase.
 
 ## Review Checklist
 
