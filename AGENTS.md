@@ -366,6 +366,7 @@ flowchart LR
 - `AN 1.575-615` is a major `kāyagatāsati` block. Do not trust child JSON titles here, because both the index and the child files collapse them into the parent chapter label. Recover route identity from the grouped English Bilara author endpoint plus the grouped Minh Châu `TTC` anchors.
 - In that block, `an1.576-582` are seven explicit fruits of one cultivated quality, not one vague paragraph. Keep them in order: urgency, benefit, sanctuary from the yoke, mindfulness and awareness, knowledge and vision, present-life happiness, and knowledge with liberation.
 - Also in the same block, the sub-clusters have to stay visible. `an1.586-590` are the abandonment cluster, ignorance, knowledge, conceit, underlying tendencies, fetters. `an1.591-595` are the analytic-penetration cluster. `an1.596-599` are the four fruits. `an1.600-615` are the long wisdom ladder. Do not flatten those internal shapes into generic praise of mindfulness of the body.
+- `AN 1.616-627` closes the Book of the Ones through an `amata` mirror. Keep the verbal differences sharp, enjoy, have enjoyed, lose, miss out, neglect, forget, cultivate, develop, make much of, know directly, fully understand, realize. If these are flattened into one moral slogan, the rhetorical force of the ending is lost.
 
 ```mermaid
 stateDiagram-v2
