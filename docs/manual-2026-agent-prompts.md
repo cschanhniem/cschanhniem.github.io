@@ -4,6 +4,30 @@ Bộ prompt này là chuẩn tác nghiệp cho các agent tiếp tục hoàn thi
 
 Mục tiêu không phải là chép lại, cũng không phải là phóng tác. Mục tiêu là viết ra một lớp tiếng Việt mới đủ sáng để người đọc hôm nay nắm được mũi kinh ngay, đủ đẹp để đọc lớn không gượng, và đủ chính xác để không làm lệch nghĩa gốc.
 
+## Chuẩn giao nộp bắt buộc
+
+Bản `Nhập Lưu 2026` mặc định phải là **bản dịch đầy đủ trọn bài**, không phải dàn ý bình giải, không phải bản tóm ý, và không phải một file dựng bằng các mục như `Mũi kinh`, `Điều bài kinh muốn chỉ ra`, `Bài học thực hành`.
+
+Một file đạt chuẩn phải có các tính chất sau:
+
+- thân bài dịch đi trọn từ đầu tới cuối route
+- giữ đủ đối thoại, điệp cú, danh sách, cặp đối xứng, nấc tăng cấp, và câu chốt nếu source có
+- nếu source là peyyāla hay grouped shorthand, phải phục hồi thành bản route-complete, không được thay bằng một đoạn diễn giải ngắn
+- lời dẫn hay ghi chú dịch thuật, nếu có, chỉ là phần phụ ngắn và không bao giờ được thay cho thân bài
+- phần chính phải đọc như một bản kinh Việt ngữ hoàn chỉnh, không đọc như ghi chú học bài
+
+## Hình dạng file nên hướng tới
+
+Mặc định hãy ưu tiên cấu trúc này:
+
+1. `#` nhan đề bài kinh  
+2. `##` mã số route  
+3. một lời dẫn rất ngắn nếu thật cần  
+4. toàn thân bài dịch, chia đoạn theo nhịp kinh  
+5. ghi chú dịch thuật ngắn ở cuối nếu cần
+
+Không dùng cấu trúc checklist bình giải trừ khi người dùng yêu cầu riêng một lớp chú giải.
+
 ## Trật tự nguồn
 
 1. **English gốc, ưu tiên Bhikkhu Sujato**  
@@ -52,6 +76,8 @@ Bạn không được:
 - giải thích quá tay
 - chèn triết lý ngoài văn bản
 - nói mình đã dùng Thanh Từ nếu source đó chưa hiện diện thật
+- nộp bản tóm ý hay bản bình giải thay cho bản dịch đầy đủ
+- biến thân bài thành vài heading phân tích ngắn như `Mũi kinh` hay `Bài học thực hành`
 
 Bạn phải ưu tiên:
 - trung thành với nghĩa
@@ -59,6 +85,7 @@ Bạn phải ưu tiên:
 - logic block rõ
 - nhan đề đúng mũi kinh
 - các đoạn kết có lực, không nhão
+- thân bài đầy đủ, có thể đọc liên tục như một bản kinh hoàn chỉnh
 
 Mỗi bản hoàn thành phải khiến một người đọc lớn lên thấy mượt, và một người học Pali qua English không thấy sai xương sống.
 ```
@@ -81,7 +108,7 @@ Quy trình bắt buộc:
 2. Nếu có bản HT. Thích Thanh Từ, đọc toàn block để nắm giọng và cách xoay ý.
 3. Đọc bản HT. Thích Minh Châu local để kiểm thuật ngữ, nhịp block, và vị trí doctrinal.
 4. Tóm ra “xương sống block” bằng 3 đến 7 ý trước khi viết.
-5. Viết từng file `src/data/nikaya-improved/vi/*.ts` theo đúng format hiện có trong repo.
+5. Viết từng file `src/data/nikaya-improved/vi/*.ts` thành bản dịch đầy đủ của riêng route đó, không viết kiểu abstract hay commentary outline.
 6. Đặt title đúng mũi riêng của từng child route, không dùng title block chung nếu child có nội dung riêng.
 7. Sau khi viết xong, tự rà lại cả block để xem các bài có còn đứng thành một kiến trúc coherent không.
 8. Ghi task log trong `tasks/`.
@@ -94,6 +121,8 @@ Chuẩn viết:
 - tránh khẩu hiệu
 - đọc lớn phải trôi
 - giữ rõ các cặp đối xứng, các thang cấp, các phủ định và khẳng định
+- thân bài phải đủ để người đọc dùng trực tiếp như bản kinh, không cần nhìn phần giải thích mới hiểu route nói gì
+- mọi đoạn lặp peyyāla phải được bung ra đầy đủ nếu route đó đòi hỏi, không được thay bằng một câu tóm
 
 Nếu bản HT. Thích Thanh Từ không có trong workspace, hãy nói rõ điều đó trong log và chỉ dùng English cùng nguồn local hiện có. Không được giả định.
 ```
@@ -119,16 +148,18 @@ Trước khi viết, hãy tự trả lời 5 câu:
 
 Sau đó viết bản 2026 với các tiêu chuẩn:
 - title chính xác
-- mở vào bài kinh nhanh
+- mở vào bài kinh nhanh rồi đi trọn thân bài
 - giữ mạch thực hành
 - tiếng Việt có nhạc tính nhưng không đỏm dáng
 - kết bài gọn, đằm, còn dư lực
+- thân bài dịch phải đầy đủ, không thay bằng các mục bình giải
 
 Cuối cùng tự audit:
 - có câu nào nghe như diễn giải ngoài kinh không
 - có thuật ngữ nào bị mềm quá mức không
 - có chỗ nào English nói rất thẳng mà tiếng Việt lại thành mơ hồ không
 - có chỗ nào giọng văn đẹp nhưng mất lực doctrinal không
+- có đoạn nào đang là tóm ý thay vì bản dịch thực sự không
 ```
 
 ## Prompt 4: Self-Review And Red-Team Prompt
@@ -144,6 +175,7 @@ Tìm 5 loại lỗi:
 3. mất cấu trúc block, mất đối xứng, hoặc mất cấp độ tăng giảm
 4. tiếng Việt phẳng, cứng, hoặc giống AI
 5. câu đúng nghĩa nhưng đọc lớn bị vấp
+6. file chỉ là bình giải ngắn, chưa phải bản dịch toàn thân bài
 
 Cho mỗi lỗi, nêu:
 - câu hoặc đoạn có vấn đề
@@ -165,6 +197,7 @@ Checklist bắt buộc:
 - các file manual 2026 mới nằm đúng ở `src/data/nikaya-improved/vi/`
 - export shape đúng với `ImprovedTranslation`
 - title đúng route
+- thân bài là bản dịch đầy đủ của route, không phải abstract hoặc sermon note
 - task log mới đã được thêm vào `tasks/YYYY-MM-DD-*.md`
 - `AGENTS.md` và `SKILL.md` được cập nhật nếu có quy luật editorial mới
 - đã chạy `node scripts/audit-nikaya-triad.mjs <collection>`
@@ -193,6 +226,8 @@ Bạn phải rà lại:
 - chỗ nào đang giải thích quá mức
 - chỗ nào đang còn nặng mùi dịch từng chữ
 - chỗ nào có thể học thêm từ cách giữ độ sáng và độ tĩnh của HT. Thích Thanh Từ nếu source đã có
+- chỗ nào thân bài đang bị teo thành bình giải hoặc lời dẫn
+- chỗ nào cần bung đầy đủ lại để người đọc có một bản kinh trọn vẹn
 
 Ưu tiên:
 - cắt sự thừa
@@ -208,15 +243,17 @@ stateDiagram-v2
     [*] --> SourcePacketKnown
     SourcePacketKnown --> BlockReadWhole
     BlockReadWhole --> EditorialSpineNamed
-    EditorialSpineNamed --> DraftWritten
-    DraftWritten --> SelfReview
+    EditorialSpineNamed --> FullBodyDrafted
+    FullBodyDrafted --> RepetitionExpanded
+    RepetitionExpanded --> SelfReview
     SelfReview --> DoctrinalRevision
     DoctrinalRevision --> RepoIntegrated
     RepoIntegrated --> TriadAudited
     TriadAudited --> ReadyForNextBatch
     BlockReadWhole --> SourcePacketKnown: missing Thanh Tu source declared
-    SelfReview --> DraftWritten: voice too flat
-    DoctrinalRevision --> DraftWritten: meaning drift
+    RepetitionExpanded --> FullBodyDrafted: summary detected
+    SelfReview --> FullBodyDrafted: voice too flat or body incomplete
+    DoctrinalRevision --> FullBodyDrafted: meaning drift
     TriadAudited --> RepoIntegrated: coverage mismatch
 ```
 
@@ -235,8 +272,9 @@ sequenceDiagram
     Agent->>ThanhTu: borrow clarity, cadence, and pedagogical warmth
     Agent->>MinhChau: verify terms and traditional route structure
     Agent->>Agent: define editorial spine of the block
-    Agent->>Module: write improved translation file
-    Agent->>Agent: self-review for drift and stiffness
+    Agent->>Module: draft full route-complete translation body
+    Agent->>Agent: expand peyyala and grouped shorthand into full route text
+    Agent->>Agent: self-review for drift, stiffness, and summary compression
     Agent->>Audit: verify coverage increase
 ```
 
@@ -250,13 +288,18 @@ flowchart LR
     D --> G[Editorial decisions]
     E --> G
     F --> G
-    G --> H[src/data/nikaya-improved/vi/*.ts]
-    H --> I[task log]
-    H --> J[triad audit]
-    G --> K[AGENTS.md and SKILL.md updates]
+    G --> H[full route-complete Vietnamese body]
+    H --> I[src/data/nikaya-improved/vi/*.ts]
+    I --> J[task log]
+    I --> K[triad audit]
+    G --> L[AGENTS.md and SKILL.md updates]
 ```
 
 ## Ghi chú vận hành
+
+- Nếu một route hiện chỉ mới có kiểu viết `mở bài + mũi kinh + bài học`, hãy coi đó là bản nháp editorial, chưa phải bản giao nộp cuối.
+- Ưu tiên sửa các route ngắn và grouped blocks cũ theo chuẩn đầy đủ mới trước khi tiếp tục kéo dài cùng một lỗi sang hàng nghìn route khác.
+- Một bản 2026 tốt có thể vẫn gọn, nhưng gọn vì kinh vốn ngắn, không phải vì agent lược bỏ thân bài.
 
 - Nếu user muốn agent dịch hàng loạt, dùng `Prompt 2` cộng `Prompt 4`.
 - Nếu user muốn nâng một bài rất quan trọng, dùng `Prompt 3` cộng `Prompt 4`.
