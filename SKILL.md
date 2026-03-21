@@ -587,6 +587,7 @@ flowchart LR
 - `AN 3.193-202` are the next matrix slice and should be authored as the ten hatred routes, not as a new freeform block. Reuse the same verb ladder from `an3.183-192`, only changing the defilement from greed to hatred. This is a serial doctrinal table, so consistency of the verb sequence matters more than ornamental prose variation.
 - `AN 3.203-212` continue the same serial table with delusion. Keep the greed slice, then hatred slice, then delusion slice visibly parallel, or later agent passes will start to drift in titles and doctrinal force.
 - `AN 3.213-222` should keep that same serial parallelism for anger. Resist the temptation to embellish the anger slice more than the earlier ones. The correctness signal here is consistency of the table, not novelty of expression.
+- `AN 3.223-232` should preserve that same signal for acrimony. Once the agent chooses a Vietnamese rendering such as `hiềm hận`, keep it stable through the full ten-route slice instead of oscillating between near-synonyms.
 
 ## Review Checklist
 
