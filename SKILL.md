@@ -570,6 +570,7 @@ flowchart LR
 - `AN 3.11-20` remains route-specific prose, not formula filler. Preserve the argumentative turn in each discourse: public influence, what must be remembered, who still hopes, principle as authority, the chariot-maker parable, the unfailing training, self-harm, revulsion toward heavenly rebirth as a goal, and the two shopkeeper similes. After this tranche, continue sequentially to `AN 3.21`.
 - `AN 3.21-30` needs tonal range. The first half is classificatory and comparative, while the second half lands through images that must stay sharp when read aloud. Do not sand down the metaphors. `Vết thương làm mủ`, `kim cương`, `nói như phân`, `một mắt`, and `lộn ngược` should all remain vivid. After this tranche, continue sequentially to `AN 3.31`.
 - `AN 3.31-40` must keep both warmth and gravity. `Cha mẹ như Phạm thiên` should sound reverent without sentimentality. `Diêm Vương` and the sứ giả cõi trời should remain morally severe. `Tăng Thượng` should read like a practice manual, not a slogan sheet. After this tranche, continue sequentially to `AN 3.41`.
+- `AN 3.41-51` needs restraint in a different way. The short discourses on presence, faith, reasons, useful conversation, and ethical support should stay lean, bright, and fully route-complete. Do not inflate them with commentary. But when the block opens into `Đại đạo tặc` and `Hai Bà-la-môn`, keep the analogy and the dialogue fully unfolded. Those two lose their force if reduced to doctrinal bullets. After this tranche, continue sequentially to `AN 3.52`.
 
 ## Review Checklist
 
