@@ -551,3 +551,4 @@ flowchart LR
 ## When You’re Unsure
 - Check `README.md`, `design-system.md`, and `docs/codebase-analysis.md`.
 - `AN 2.370-399` carries the same ten-step peyyāla ladder onward through contempt, jealousy, and stinginess. Keep `paḷāsa` distinct from the earlier disdain cluster, let `issā` stay as `tật đố`, and keep `macchariya` in the canonical Vietnamese register `xan tham` rather than flattening it into generic selfishness.
+- `AN 2.400-429` continues that same ladder through deceit, crookedness, and rigidity. Keep `māyā`, `sāṭheyya`, and `thambha` distinct in Vietnamese as `man trá`, `phản trắc`, and `cứng đầu`; do not collapse them into one vague field of dishonesty or stubbornness.
