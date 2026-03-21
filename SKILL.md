@@ -598,6 +598,7 @@ flowchart LR
 - `AN 3.303-312` should do the same for aggression. Prefer the grouped-shell phrase `bồng bột nông nổi`, keep it fixed across the slice, and let the route titles stay serial even if the phrase is longer than modern shorthand alternatives.
 - `AN 3.313-322` should do the same for conceit. Prefer the strict label `mạn`, keep it fixed across the slice, and protect its distinction from the following `tăng thượng mạn` tranche.
 - `AN 3.323-332` should do the same for arrogance. Prefer `tăng thượng mạn`, keep it fixed across the slice, and do not collapse it back into the previous `mạn` tranche, because the matrix is deliberately stepping through finer elevations of conceit.
+- `AN 3.333-342` should do the same for vanity. Prefer `kiêu`, keep it fixed across the slice, and preserve its distance from both `mạn` and `tăng thượng mạn`, so the conceit ladder still reads as three distinct doctrinal cuts instead of one blurred pride cluster.
 
 ## Review Checklist
 
