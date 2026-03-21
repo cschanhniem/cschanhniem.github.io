@@ -567,6 +567,7 @@ flowchart LR
 - `AN 2.430-479` is the final closure of the whole `AN 2` defilement ladder. Keep `cuồng nhiệt`, `mạn`, `quá mạn`, `kiêu căng`, and `phóng dật` as five distinct clusters. After `an2.479`, the active sequential lane moves to `AN 3.1`.
 - `AN 3.1-10` is no longer peyyāla compression. Each route carries its own argument about the fool and the wise, so the translation must preserve the sharper contrasts in conduct, thought, confession, and rational response. After this tranche, continue sequentially to `AN 3.11`.
 - `AN 3.11-20` remains route-specific prose, not formula filler. Preserve the argumentative turn in each discourse: public influence, what must be remembered, who still hopes, principle as authority, the chariot-maker parable, the unfailing training, self-harm, revulsion toward heavenly rebirth as a goal, and the two shopkeeper similes. After this tranche, continue sequentially to `AN 3.21`.
+- `AN 3.21-30` needs tonal range. The first half is classificatory and comparative, while the second half lands through images that must stay sharp when read aloud. Do not sand down the metaphors. `Vết thương làm mủ`, `kim cương`, `nói như phân`, `một mắt`, and `lộn ngược` should all remain vivid. After this tranche, continue sequentially to `AN 3.31`.
 
 ## Review Checklist
 
