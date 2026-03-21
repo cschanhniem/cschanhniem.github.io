@@ -596,6 +596,7 @@ flowchart LR
 - `AN 3.283-292` should do the same for deviousness. Prefer `man trá`, keep it fixed across the slice, and let the distinction from the prior `giả dối` tranche remain visible without drifting into vague moral paraphrase.
 - `AN 3.293-302` should do the same for obstinacy. Prefer `ngoan cố`, keep it fixed across the slice, and do not blur it into a milder psychological description, because the serial matrix depends on each object staying doctrinally distinct.
 - `AN 3.303-312` should do the same for aggression. Prefer the grouped-shell phrase `bồng bột nông nổi`, keep it fixed across the slice, and let the route titles stay serial even if the phrase is longer than modern shorthand alternatives.
+- `AN 3.313-322` should do the same for conceit. Prefer the strict label `mạn`, keep it fixed across the slice, and protect its distinction from the following `tăng thượng mạn` tranche.
 
 ## Review Checklist
 
