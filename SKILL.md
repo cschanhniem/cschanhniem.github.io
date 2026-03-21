@@ -591,6 +591,8 @@ flowchart LR
 - `AN 3.233-242` should apply the same discipline to disdain. Choose one clean rendering such as `khinh miệt` and hold it across the slice so the matrix remains visibly serial and auditable.
 - `AN 3.243-252` should do the same for contempt. If the agent chooses `miệt thị`, keep that choice fixed through the slice and do not blur it back into the previous disdain tranche.
 - `AN 3.253-262` should do the same for jealousy. If the agent chooses `ganh tỵ`, keep it fixed through the slice so the table still reads as one controlled doctrinal series instead of a cloud of near-synonyms.
+- `AN 3.263-272` should do the same for stinginess. If the agent chooses `xan tham`, keep that label fixed across the full slice and let the unchanged verb ladder carry the serial logic.
+- `AN 3.273-282` should do the same for deceitfulness. Prefer `giả dối`, since the grouped Minh Châu shell already points there, and keep it fixed so the transition into later `deviousness` routes can still be audited cleanly.
 
 ## Review Checklist
 
