@@ -600,6 +600,7 @@ flowchart LR
 - `AN 3.323-332` should do the same for arrogance. Prefer `tăng thượng mạn`, keep it fixed across the slice, and do not collapse it back into the previous `mạn` tranche, because the matrix is deliberately stepping through finer elevations of conceit.
 - `AN 3.333-342` should do the same for vanity. Prefer `kiêu`, keep it fixed across the slice, and preserve its distance from both `mạn` and `tăng thượng mạn`, so the conceit ladder still reads as three distinct doctrinal cuts instead of one blurred pride cluster.
 - `AN 3.343-352` should do the same for negligence. Prefer `phóng dật`, keep it fixed across the slice, and let the tone stay doctrinally weighty, because this tranche closes the whole `Rāgapeyyāla` matrix and must sound like the loss of heedfulness, not mere everyday clumsiness.
+- `AN 4.1-10` is a reset from peyyāla back to fully individuated discourses. Do not write it with the clipped serial rhythm of the previous matrix. `an4.1-5` especially should recover five distinct teaching shapes: recollection of what was finally understood, fall versus non-fall, damaged judgment, damaged conduct, and the four kinds of persons in relation to the stream.
 
 ## Review Checklist
 
