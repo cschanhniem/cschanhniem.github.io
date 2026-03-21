@@ -550,3 +550,4 @@ flowchart LR
 
 ## When You’re Unsure
 - Check `README.md`, `design-system.md`, and `docs/codebase-analysis.md`.
+- `AN 2.370-399` carries the same ten-step peyyāla ladder onward through contempt, jealousy, and stinginess. Keep `paḷāsa` distinct from the earlier disdain cluster, let `issā` stay as `tật đố`, and keep `macchariya` in the canonical Vietnamese register `xan tham` rather than flattening it into generic selfishness.

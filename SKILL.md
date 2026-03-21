@@ -562,6 +562,7 @@ flowchart LR
 - When advancing from `AN 2.310-339` to `AN 2.340+`, do not change the ladder wording unless the source forces it. The only variable should be the defilement under examination.
 - The same rule holds for `AN 2.340-369`: keep the ten ladder verbs fixed and only swap the defilement. This is how the reader perceives the canonical pattern instead of a pile of disconnected aphorisms.
 - The next tranche after `AN 2.369` should continue exactly with contempt, jealousy, and stinginess. Keep the grouped source order intact.
+- `AN 2.370-399` is the next continuation of that same peyyāla ladder. Treat `paḷāsa`, `issā`, and `macchariya` as three distinct clusters, not as loose synonyms. In Vietnamese, `khinh thường`, `tật đố`, and `xan tham` keep the doctrinal edge sharper than broader modern paraphrases.
 
 ## Review Checklist
 
