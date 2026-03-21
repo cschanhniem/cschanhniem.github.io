@@ -558,6 +558,8 @@ flowchart LR
 - When closing `AN 2.230-279`, preserve the alternation between dark and bright pairs across all ten predicates. When moving to `AN 2.280-309`, drop that pair-language and re-anchor in Vinaya procedures plus their two stated purposes.
 - When a peyyāla block repeats one stable rationale across many routes, as in `AN 2.280-309`, it is acceptable to centralize that rationale in a local helper so long as each route file still preserves a full route-level translation and a precise title.
 - After the Vinaya peyyāla, reset the semantic map before authoring the next block. `AN 2.310-479` belongs to greed and allied defilements plus the two practices that undo them, not to monastic procedure.
+- In the greed peyyāla, a small helper for the repeated `chỉ và quán` formula is acceptable, but the ladder verbs must remain explicit in each route title. The title is what preserves the doctrinal progression on the public surface.
+- When advancing from `AN 2.310-339` to `AN 2.340+`, do not change the ladder wording unless the source forces it. The only variable should be the defilement under examination.
 
 ## Review Checklist
 
