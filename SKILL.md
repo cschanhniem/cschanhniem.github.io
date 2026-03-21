@@ -594,6 +594,7 @@ flowchart LR
 - `AN 3.263-272` should do the same for stinginess. If the agent chooses `xan tham`, keep that label fixed across the full slice and let the unchanged verb ladder carry the serial logic.
 - `AN 3.273-282` should do the same for deceitfulness. Prefer `giả dối`, since the grouped Minh Châu shell already points there, and keep it fixed so the transition into later `deviousness` routes can still be audited cleanly.
 - `AN 3.283-292` should do the same for deviousness. Prefer `man trá`, keep it fixed across the slice, and let the distinction from the prior `giả dối` tranche remain visible without drifting into vague moral paraphrase.
+- `AN 3.293-302` should do the same for obstinacy. Prefer `ngoan cố`, keep it fixed across the slice, and do not blur it into a milder psychological description, because the serial matrix depends on each object staying doctrinally distinct.
 
 ## Review Checklist
 
