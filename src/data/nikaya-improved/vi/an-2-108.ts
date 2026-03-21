@@ -1,0 +1,25 @@
+// Improved Vietnamese Translation - AN 2.108
+// NhậpLưu 2026 Translation
+
+import type { ImprovedTranslation } from '@/types/nikaya'
+
+export const an2_108: ImprovedTranslation = {
+    suttaId: 'an2.108',
+    lang: 'vi',
+    author: 'NhậpLưu Translation Team',
+    year: '2026',
+    title: 'Kinh Hai Cách Lo Sai Khiến Lậu Hoặc Tăng Trưởng',
+    content: `
+# Kinh Hai Cách Lo Sai Khiến Lậu Hoặc Tăng Trưởng
+## AN 2.108
+
+Đức Phật dạy:
+
+"Này các Tỷ-kheo, có hai hạng người làm cho các lậu hoặc tăng trưởng.
+
+Thế nào là hai?
+
+Người lo lắng về điều không đáng phải lo, và người lại không lo lắng về điều thật sự đáng phải lo.
+
+Này các Tỷ-kheo, đó là hai hạng người làm cho các lậu hoặc tăng trưởng."`
+}
