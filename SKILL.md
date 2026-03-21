@@ -566,6 +566,7 @@ flowchart LR
 - `AN 2.400-429` extends the ladder into `māyā`, `sāṭheyya`, and `thambha`. Keep `man trá`, `phản trắc`, and `cứng đầu` separate. The block is still formulaic, but the moral texture shifts at each ten-sutta cluster, so titles need to do real doctrinal work.
 - `AN 2.430-479` is the final closure of the whole `AN 2` defilement ladder. Keep `cuồng nhiệt`, `mạn`, `quá mạn`, `kiêu căng`, and `phóng dật` as five distinct clusters. After `an2.479`, the active sequential lane moves to `AN 3.1`.
 - `AN 3.1-10` is no longer peyyāla compression. Each route carries its own argument about the fool and the wise, so the translation must preserve the sharper contrasts in conduct, thought, confession, and rational response. After this tranche, continue sequentially to `AN 3.11`.
+- `AN 3.11-20` remains route-specific prose, not formula filler. Preserve the argumentative turn in each discourse: public influence, what must be remembered, who still hopes, principle as authority, the chariot-maker parable, the unfailing training, self-harm, revulsion toward heavenly rebirth as a goal, and the two shopkeeper similes. After this tranche, continue sequentially to `AN 3.21`.
 
 ## Review Checklist
 
