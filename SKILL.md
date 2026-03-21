@@ -556,6 +556,8 @@ flowchart LR
 - During route QA, inspect the page chrome as well as the manuscript body. Mis-scoped i18n keys such as `t('common.exportPdf')` can surface raw keys even when the content itself is clean.
 - In `AN` peyyāla matrices, route titles must carry both the predicate and the paired qualities. Otherwise the UI can render many different child routes as if they were the same discourse.
 - When closing `AN 2.230-279`, preserve the alternation between dark and bright pairs across all ten predicates. When moving to `AN 2.280-309`, drop that pair-language and re-anchor in Vinaya procedures plus their two stated purposes.
+- When a peyyāla block repeats one stable rationale across many routes, as in `AN 2.280-309`, it is acceptable to centralize that rationale in a local helper so long as each route file still preserves a full route-level translation and a precise title.
+- After the Vinaya peyyāla, reset the semantic map before authoring the next block. `AN 2.310-479` belongs to greed and allied defilements plus the two practices that undo them, not to monastic procedure.
 
 ## Review Checklist
 
