@@ -367,6 +367,7 @@ flowchart LR
 - In that block, `an1.576-582` are seven explicit fruits of one cultivated quality, not one vague paragraph. Keep them in order: urgency, benefit, sanctuary from the yoke, mindfulness and awareness, knowledge and vision, present-life happiness, and knowledge with liberation.
 - Also in the same block, the sub-clusters have to stay visible. `an1.586-590` are the abandonment cluster, ignorance, knowledge, conceit, underlying tendencies, fetters. `an1.591-595` are the analytic-penetration cluster. `an1.596-599` are the four fruits. `an1.600-615` are the long wisdom ladder. Do not flatten those internal shapes into generic praise of mindfulness of the body.
 - `AN 1.616-627` closes the Book of the Ones through an `amata` mirror. Keep the verbal differences sharp, enjoy, have enjoyed, lose, miss out, neglect, forget, cultivate, develop, make much of, know directly, fully understand, realize. If these are flattened into one moral slogan, the rhetorical force of the ending is lost.
+- `AN 2.1-10` opens the Book of the Twos with a different feel. Do not force every route into two-sentence minimalism. `an2.1` and `an2.5` need full discourse bodies, while `an2.6-9` are a compact ethical cluster on bondage, shame, moral dread, and social order.
 
 ```mermaid
 stateDiagram-v2
