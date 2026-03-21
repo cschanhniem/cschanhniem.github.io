@@ -357,6 +357,7 @@ flowchart LR
 - `AN 1.525-534` carries the same paired structure into the fourth absorption. Do not merely say it is deeper again. Let it read cleaner, more even, and more purified than `AN 1.515-524`. This is the xả and purity block. The tone should be bright but almost stainless, with minimal emotional coloring.
 - `AN 1.535-544` shifts away from the jhāna-grounded clusters into the mettā block. This should not sound technical or cold after the fourth-jhāna tranche. Keep the prose wider, warmer, and more humane. The key is to preserve both axes, from faculty to power, and from purified equanimity into active non-hostility and benevolence.
 - `AN 1.545-554` mirrors the mettā pentads but shifts fully into karuṇā. Do not simply swap one Brahmavihāra label for another. Let the prose move closer to suffering, endurance, and non-abandonment. Keep the faculty to power transition explicit, and make sure compassion is not flattened into sadness, pity, or moral sentimentality.
+- `AN 1.555-564` is the muditā mirror. The prose should brighten after the karuṇā tranche, but never become bubbly, congratulatory, or thin. Keep joy tied to goodness, freedom from envy, and clarity of heart. Preserve the faculty to power transition, and let the closing route make clear that wisdom can rejoice without intoxication.
 
 ```mermaid
 stateDiagram-v2
