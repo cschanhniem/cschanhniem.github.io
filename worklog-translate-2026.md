@@ -33,17 +33,18 @@ Last updated: 2026-03-21
 | DN | 34 | 34 | Complete | revision only |
 | MN | 152 | 152 | Complete | revision only |
 | SN | 3024 | 19 | Partial | doctrinal spine first |
-| AN | 8122 | 1548 | Active | strict sequential continuation |
+| AN | 8122 | 1558 | Active | strict sequential continuation |
 | KN | 694 | 12 | Partial | foothold clusters first |
 
 ## Active Lanes
 
 ### AN
 
-- Lane type: sequential
-- Completed through: `an4.90`
-- Next missing route: `an4.91`
-- Next grouped block: `an4.91-100`
+- **Coverage**: 1558 / 8122
+- **Active Lane**: Complete sequential routing
+- Completed-through: `an4.100` (End of Vagga 10)
+- Next missing: `an4.101`
+- Next grouped block: `an4.101-110`
 - Latest completed batch log:
   - [tasks/2026-03-22-manual-2026-an-batch-116.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-22-manual-2026-an-batch-116.md)
   - [tasks/2026-03-21-manual-2026-an-batch-115.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-21-manual-2026-an-batch-115.md)
@@ -411,6 +412,8 @@ Last updated: 2026-03-21
 - 2026-03-22
   - Completed `AN 4.81-90` (Macalavagga)
   - Coverage moved `1538 -> 1548`
+  - Completed `AN 4.91-100` (Asuravagga)
+  - Coverage moved `1548 -> 1558`
 
 ## Notes
 
