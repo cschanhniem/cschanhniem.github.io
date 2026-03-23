@@ -40,12 +40,14 @@ Last updated: 2026-03-21
 
 ### AN
 
-- **Coverage**: 1558 / 8122
+- **Coverage**: 1588 / 8122
 - **Active Lane**: Complete sequential routing
-- Completed-through: `an4.100` (End of Vagga 10)
-- Next missing: `an4.101`
-- Next grouped block: `an4.101-110`
+- Completed-through: `an4.130` (End of Vagga 12)
+- Next missing: `an4.131`
+- Next grouped block: `an4.131-140`
 - Latest completed batch log:
+  - [tasks/2026-03-22-manual-2026-an-batch-120.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-22-manual-2026-an-batch-120.md)
+  - [tasks/2026-03-22-manual-2026-an-batch-119.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-22-manual-2026-an-batch-119.md)
   - [tasks/2026-03-22-manual-2026-an-batch-116.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-22-manual-2026-an-batch-116.md)
   - [tasks/2026-03-21-manual-2026-an-batch-115.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-21-manual-2026-an-batch-115.md)
   - [tasks/2026-03-20-manual-2026-an-batch-13.md](/Volumes/SSD/nhapluu/nhapluu-app/tasks/2026-03-20-manual-2026-an-batch-13.md)
@@ -414,6 +416,10 @@ Last updated: 2026-03-21
   - Coverage moved `1538 -> 1548`
   - Completed `AN 4.91-100` (Asuravagga)
   - Coverage moved `1548 -> 1558`
+  - Completed `AN 4.101-110` (Valāhakavagga)
+  - Coverage moved `1558 -> 1568`
+  - Completed `AN 4.111-120` (Kesivagga)
+  - Coverage moved `1568 -> 1578`
 
 ## Notes
 
